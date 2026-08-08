@@ -2,8 +2,11 @@
   "use strict";
 
   var LAP_DIST = 1600;
-  var RACER_NAMES = ["Numair", "Sammy", "Blaze"];
   var RACER_COLORS = ["#0277bd", "#e53935", "#43a047"];
+
+  function playerName() {
+    return (window.NumairApp && NumairApp.getNickname && NumairApp.getNickname()) || "Numair";
+  }
 
   function CarRace(canvas, opts) {
     this.canvas = canvas;
@@ -32,7 +35,7 @@
     this.racers = [
       {
         id: 0,
-        name: RACER_NAMES[0],
+        name: playerName(),
         color: RACER_COLORS[0],
         x: this.laneXs[1] - 18,
         y: this.h - 100,
@@ -49,7 +52,7 @@
       },
       {
         id: 1,
-        name: RACER_NAMES[1],
+        name: "Sammy",
         color: RACER_COLORS[1],
         x: this.laneXs[0] - 18,
         y: this.h - 150,
@@ -67,7 +70,7 @@
       },
       {
         id: 2,
-        name: RACER_NAMES[2],
+        name: "Blaze",
         color: RACER_COLORS[2],
         x: this.laneXs[2] - 18,
         y: this.h - 180,

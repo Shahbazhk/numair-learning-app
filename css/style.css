@@ -80,6 +80,20 @@ img {
   box-shadow: var(--shadow);
 }
 
+.header-tools {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.name-btn {
+  font-size: 0.9rem;
+  padding: 0.4rem 0.75rem;
+  white-space: nowrap;
+}
+
 .stars-badge {
   display: inline-flex;
   align-items: center;
@@ -91,6 +105,65 @@ img {
   font-weight: 800;
   font-size: 1.05rem;
   box-shadow: var(--shadow);
+}
+
+.name-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(20, 40, 60, 0.45);
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+}
+
+.name-dialog {
+  width: min(380px, 100%);
+  background: #fffdf8;
+  border-radius: 20px;
+  padding: 1.35rem 1.25rem 1.2rem;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.22);
+  border: 3px solid rgba(2, 136, 209, 0.2);
+}
+
+.name-dialog h2 {
+  font-family: var(--font-display);
+  margin: 0 0 0.4rem;
+  font-size: 1.45rem;
+  color: #01579b;
+}
+
+.name-dialog p {
+  margin: 0 0 0.85rem;
+  color: #455a64;
+  font-size: 0.95rem;
+}
+
+.name-label {
+  display: block;
+  font-weight: 800;
+  margin-bottom: 0.35rem;
+  font-size: 0.9rem;
+}
+
+.name-input {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 0.65rem 0.85rem;
+  border-radius: 12px;
+  border: 3px solid #4fc3f7;
+  margin-bottom: 0.9rem;
+  background: #fff;
+}
+
+.name-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .page {

@@ -35,7 +35,11 @@
         c.title,
         "<p>" + c.body + "</p>",
         "Source: " + c.source,
-        listenBtn(c.body, "en-US", "Here is a short Seerah story for Numair.")
+        listenBtn(
+          c.body,
+          "en-US",
+          "Here is a short Seerah story for " + NumairApp.getNickname() + "."
+        )
       );
     });
     html += "</div>";
@@ -69,16 +73,20 @@
           d.meaning +
           "</p>",
         "Source: " + d.source,
-        listenBtn(
-          "First, say this dua slowly: " +
-            d.transliteration +
-            ". That means: " +
-            d.meaning +
-            ". We say this when " +
-            d.occasion.toLowerCase() +
-            ".",
-          "en-US"
-        )
+        '<div class="actions">' +
+          '<button type="button" class="btn js-speak" data-lang="ar-SA" data-text="' +
+          esc(d.arabic) +
+          '">🔊 Arabic</button>' +
+          '<button type="button" class="btn js-speak" data-lang="en-US" data-text="' +
+          esc(
+            "That means: " +
+              d.meaning +
+              ". We say this when " +
+              d.occasion.toLowerCase() +
+              "."
+          ) +
+          '">🔊 Meaning</button>' +
+          "</div>"
       );
     });
     html += "</div>";

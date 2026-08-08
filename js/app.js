@@ -48,8 +48,107 @@
     return read("nickname", "Numair") || "Numair";
   }
 
+  function hasChosenName() {
+    return !!read("nameChosen", false);
+  }
+
   function setNickname(name) {
-    write("nickname", String(name || "Numair").slice(0, 20));
+    var clean = String(name || "Numair")
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 20);
+    if (!clean) clean = "Numair";
+    write("nickname", clean);
+    write("nameChosen", true);
+    applyNameToUI();
+    return clean;
+  }
+
+  function applyNameToUI() {
+    var name = getNickname();
+    var first = (name.charAt(0) || "N").toUpperCase();
+    $(".js-kid-name").text(name);
+    $(".js-kid-name-possessive").text(name + "’s");
+    $(".brand-mark").each(function () {
+      $(this).text(first);
+    });
+    if (
+      $("body").hasClass("home-page") ||
+      /\/index\.html?$/i.test(location.pathname.replace(/\\/g, "/")) ||
+      /\/numair-learning-app\/?$/i.test(location.pathname.replace(/\\/g, "/"))
+    ) {
+      document.title = name + "'s Learning World";
+    }
+  }
+
+  function showNameDialog(opts) {
+    opts = opts || {};
+    var isFirst = !!opts.firstTime;
+    var current = getNickname();
+    $("#nameDialog").remove();
+    var $dlg = $(
+      '<div id="nameDialog" class="name-overlay" role="dialog" aria-modal="true" aria-labelledby="nameDialogTitle">' +
+        '<div class="name-dialog">' +
+        "<h2 id=\"nameDialogTitle\">" +
+        (isFirst ? "What’s your name?" : "Change your name") +
+        "</h2>" +
+        "<p>" +
+        (isFirst
+          ? "Welcome! Type your name so stars and rankings are yours. Default is Numair."
+          : "You can change it anytime. Default is Numair.") +
+        "</p>" +
+        '<label class="name-label" for="nameInput">Your name</label>' +
+        '<input type="text" id="nameInput" class="name-input" maxlength="20" autocomplete="nickname" />' +
+        '<div class="name-actions">' +
+        (isFirst
+          ? '<button type="button" class="btn" id="nameKeepDefault">Keep Numair</button>'
+          : "") +
+        '<button type="button" class="btn primary" id="nameSave">Save</button>' +
+        "</div></div></div>"
+    );
+    $("body").append($dlg);
+    $("#nameInput").val(current).trigger("focus").select();
+
+    function save(val) {
+      setNickname(val);
+      $("#nameDialog").remove();
+      celebrate("Hi, " + getNickname() + "!");
+    }
+
+    $("#nameSave").on("click", function () {
+      save($("#nameInput").val());
+    });
+    $("#nameKeepDefault").on("click", function () {
+      save("Numair");
+    });
+    $("#nameInput").on("keydown", function (e) {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        save($(this).val());
+      }
+    });
+    if (!isFirst) {
+      $dlg.on("click", function (e) {
+        if (e.target === $dlg[0]) $dlg.remove();
+      });
+    }
+  }
+
+  function ensureNamePrompt() {
+    // Change-name stays on the home header; first-visit prompt can appear anywhere
+    if ($("#btnChangeName").length) {
+      $("#btnChangeName")
+        .off("click.numairName")
+        .on("click.numairName", function () {
+          showNameDialog({ firstTime: false });
+        });
+    }
+    applyNameToUI();
+    if (!hasChosenName()) {
+      setTimeout(function () {
+        showNameDialog({ firstTime: true });
+      }, 280);
+    }
   }
 
   function getProgress(activityId) {
@@ -131,20 +230,32 @@
     });
   }
 
+  var preferredByLang = {};
+
   // Prefer soft, natural, female / kid-teacher voices; avoid robotic defaults
   function scoreVoice(v, langPrefix) {
     var name = (v.name || "").toLowerCase();
     var lang = (v.lang || "").toLowerCase();
     var score = 0;
 
-    if (lang.indexOf(langPrefix) === 0) score += 30;
+    if (lang.indexOf(langPrefix) === 0) score += 80;
     else if (lang.indexOf("en") === 0 && langPrefix === "hi") score += 5;
+    else if (langPrefix === "ar" && lang.indexOf("ar") === 0) score += 80;
     else if (lang.indexOf("en") !== 0 && langPrefix === "en") score -= 40;
+    else if (langPrefix === "ar" && lang.indexOf("ar") !== 0) score -= 60;
 
     // Boost natural / neural / online voices
     if (/natural|neural|online|premium|enhanced|studio/.test(name)) score += 45;
+
+    if (langPrefix === "ar") {
+      if (/arabic|naayf|hoda|maged|salma|laith|tarik|google.*العربية|google.*arabic/.test(name))
+        score += 55;
+      if (v.localService) score += 8;
+      return score;
+    }
+
     // Gentle female / teacher-like names common on Windows/macOS/Chrome
-    if (/zira|aria|jenny|sara|sara|samantha|karen|moira|victoria|susan|hazel|emma|linda|helen|catherine|woman|female|girl/.test(name))
+    if (/zira|aria|jenny|sara|samantha|karen|moira|victoria|susan|hazel|emma|linda|helen|catherine|woman|female|girl/.test(name))
       score += 50;
     if (/google.*english|google us|google uk/.test(name)) score += 35;
     if (/microsoft.*(aria|jenny|zira|sara)/.test(name)) score += 40;
@@ -153,7 +264,6 @@
     if (/david|mark|george|daniel|alex|fred|ravi|male|guy|james|thomas/.test(name)) score -= 35;
     if (/compact|mobile|robot|dummy/.test(name)) score -= 25;
 
-    // Prefer local high-quality when available
     if (v.localService) score += 5;
 
     return score;
@@ -166,22 +276,27 @@
     var useLang = String(lang || "en-US");
     var prefix = useLang.slice(0, 2).toLowerCase();
 
-    // Remember last good voice for this session
-    if (preferredVoiceName) {
+    var remembered = preferredByLang[prefix];
+    if (remembered) {
       for (var i = 0; i < voices.length; i++) {
-        if (voices[i].name === preferredVoiceName) return voices[i];
+        if (voices[i].name === remembered && (voices[i].lang || "").toLowerCase().indexOf(prefix) === 0) {
+          return voices[i];
+        }
       }
     }
 
-    var saved = null;
-    try {
-      saved = localStorage.getItem("numairApp.kidVoice");
-    } catch (e) {}
-    if (saved) {
-      for (var s = 0; s < voices.length; s++) {
-        if (voices[s].name === saved) {
-          preferredVoiceName = saved;
-          return voices[s];
+    if (prefix === "en") {
+      var saved = null;
+      try {
+        saved = localStorage.getItem("numairApp.kidVoice");
+      } catch (e) {}
+      if (saved) {
+        for (var s = 0; s < voices.length; s++) {
+          if (voices[s].name === saved) {
+            preferredByLang.en = saved;
+            preferredVoiceName = saved;
+            return voices[s];
+          }
         }
       }
     }
@@ -197,10 +312,13 @@
     }
 
     if (best) {
-      preferredVoiceName = best.name;
-      try {
-        localStorage.setItem("numairApp.kidVoice", best.name);
-      } catch (e2) {}
+      preferredByLang[prefix] = best.name;
+      if (prefix === "en") {
+        preferredVoiceName = best.name;
+        try {
+          localStorage.setItem("numairApp.kidVoice", best.name);
+        } catch (e2) {}
+      }
     }
     return best;
   }
@@ -294,7 +412,12 @@
   }
 
   function speak(text, lang) {
-    text = kidifyText(text);
+    var useLang = lang || "en-US";
+    if (useLang === "en-IN") useLang = "en-US";
+    var isArabic = String(useLang).toLowerCase().indexOf("ar") === 0;
+
+    // Arabic duas: speak the Arabic script as-is (no English kidify)
+    text = isArabic ? String(text || "").replace(/\s+/g, " ").trim() : kidifyText(text);
     if (!text) {
       celebrate("Nothing to read on this card");
       return;
@@ -304,12 +427,9 @@
       return;
     }
 
-    var useLang = lang || "en-US";
-    if (useLang === "en-IN") useLang = "en-US";
-
     var token = ++speakToken;
     warmVoices();
-    var chunks = splitIntoChunks(text);
+    var chunks = isArabic ? [text] : splitIntoChunks(text);
 
     function doSpeak() {
       if (token !== speakToken) return;
@@ -318,7 +438,7 @@
       } catch (e) {}
 
       var voice = pickVoice(useLang);
-      var voiceLabel = voice ? voice.name.split(" - ")[0] : "kid voice";
+      var voiceLabel = voice ? voice.name.split(" - ")[0] : isArabic ? "Arabic" : "kid voice";
 
       setTimeout(function () {
         if (token !== speakToken) return;
@@ -331,10 +451,10 @@
           var chunk = chunks[idx++];
           try {
             var u = new SpeechSynthesisUtterance(chunk);
-            u.lang = useLang;
-            // Gentle classroom pace for age 6
-            u.rate = 0.78;
-            u.pitch = 1.18;
+            u.lang = isArabic ? "ar-SA" : useLang;
+            // Gentle pace; Arabic a touch slower for clarity
+            u.rate = isArabic ? 0.72 : 0.78;
+            u.pitch = isArabic ? 1.0 : 1.18;
             u.volume = 1;
             if (voice) {
               u.voice = voice;
@@ -347,11 +467,14 @@
             }
             u.onerror = function () {
               if (token !== speakToken) return;
-              celebrate("Could not speak — check volume & voice settings");
+              celebrate(
+                isArabic
+                  ? "No Arabic voice found — install Arabic TTS or try Chrome"
+                  : "Could not speak — check volume & voice settings"
+              );
             };
             u.onend = function () {
               if (token !== speakToken) return;
-              // Small gap between chunks = more natural / less robotic
               setTimeout(speakNext, 220);
             };
             window.speechSynthesis.speak(u);
@@ -444,6 +567,7 @@
     bindTabs();
     bindSpeakButtons();
     $(".js-home").attr("href", homeHref());
+    ensureNamePrompt();
     // Prime voices on first user gesture (browser requirement)
     $(document).one("click keydown touchstart", function () {
       warmVoices();
@@ -457,6 +581,9 @@
     setStars: setStars,
     getNickname: getNickname,
     setNickname: setNickname,
+    hasChosenName: hasChosenName,
+    showNameDialog: showNameDialog,
+    applyNameToUI: applyNameToUI,
     getProgress: getProgress,
     setProgress: setProgress,
     getRankings: getRankings,

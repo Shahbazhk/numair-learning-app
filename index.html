@@ -9,19 +9,22 @@
   <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
-<body>
+<body class="home-page">
   <header class="site-header">
     <a class="brand-link js-home" href="index.html">
       <span class="brand-mark" aria-hidden="true">N</span>
-      <span>Numair’s World</span>
+      <span><span class="js-kid-name-possessive">Numair’s</span> World</span>
     </a>
-    <div class="stars-badge" title="Stars earned">⭐ <span id="starCount">0</span></div>
+    <div class="header-tools">
+      <button type="button" class="btn name-btn" id="btnChangeName" title="Change your name">👤 Change name</button>
+      <div class="stars-badge" title="Stars earned">⭐ <span id="starCount">0</span></div>
+    </div>
   </header>
 
   <main class="page">
     <section class="hero">
-      <h1>Numair’s Learning World</h1>
-      <p>Learn, play, and explore — Islamic lessons, school fun for Grade 2, Qur’an practice, and games made for you!</p>
+      <h1><span class="js-kid-name-possessive">Numair’s</span> Learning World</h1>
+      <p>Hi <span class="js-kid-name">Numair</span>! Learn, play, and explore — Islamic lessons, school fun for Grade 2, Qur’an practice, and games made for you!</p>
     </section>
 
     <nav class="tile-grid" aria-label="Main sections">
@@ -36,7 +39,7 @@
       <a class="tile" href="pages/games.html"><span class="icon" aria-hidden="true">🎮</span>Games</a>
     </nav>
 
-    <p class="footer-note">For Numair · CBSE Grade 2 · Ages 6+ · Stars are saved on this device</p>
+    <p class="footer-note">For <span class="js-kid-name">Numair</span> · CBSE Grade 2 · Ages 6+ · Stars are saved on this device</p>
   </main>
 
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>

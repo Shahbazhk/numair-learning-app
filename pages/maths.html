@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Maths — Numair</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand-link js-home" href="../index.html"><span class="brand-mark">N</span><span>Home</span></a>
+    <div class="stars-badge">⭐ <span id="starCount">0</span></div>
+  </header>
+  <main class="page tabbed" id="subjectRoot">
+    <h1 class="section-title">Maths</h1>
+    <p class="section-sub">Full CBSE Grade 2 style syllabus — topics with real-life examples, tables 2–10, and quizzes.</p>
+    <div class="tabs">
+      <button type="button" class="tab-btn active" data-tab="topicsPanel">Topics</button>
+      <button type="button" class="tab-btn" data-tab="tablesPanel">Tables 2–10</button>
+      <button type="button" class="tab-btn" data-tab="playPanel">Play</button>
+    </div>
+    <div id="topicsPanel" class="panel active"><div data-role="learn"></div></div>
+    <div id="tablesPanel" class="panel"><div data-role="tables"></div></div>
+    <div id="playPanel" class="panel"><div data-role="play"></div></div>
+  </main>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/learn-play.js"></script>
+  <script>
+    NumairApp.loadJSON(NumairApp.dataHref("maths.json")).done(function (data) {
+      LearnPlay.mount("#subjectRoot", data, { activityId: "maths-quiz", lang: "en-US" });
+    });
+  </script>
+</body>
+</html>

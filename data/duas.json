@@ -1,0 +1,100 @@
+{
+  "duas": [
+    {
+      "id": "enter-home",
+      "occasion": "Entering the house",
+      "arabic": "بِسْمِ اللهِ وَلَجْنَا، وَبِسْمِ اللهِ خَرَجْنَا، وَعَلَى اللهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Bismillaahi walajnaa, wa bismillaahi kharajnaa, wa 'alallaahi Rabbinaa tawakkalnaa",
+      "meaning": "In the Name of Allah we enter, in the Name of Allah we leave, and upon our Lord we place our trust.",
+      "source": "Hisnul Muslim; Abu Dawud 5096"
+    },
+    {
+      "id": "leave-home",
+      "occasion": "Leaving the house",
+      "arabic": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+      "transliteration": "Bismillaahi, tawakkaltu 'alallaahi, wa laa hawla wa laa quwwata illaa billaah",
+      "meaning": "In the Name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.",
+      "source": "Hisnul Muslim; Abu Dawud 5095; Tirmidhi 3426"
+    },
+    {
+      "id": "enter-bathroom",
+      "occasion": "Entering the bathroom",
+      "arabic": "بِسْمِ اللهِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "transliteration": "Bismillaah. Allaahumma innee a'oodhu bika minal-khubthi wal-khabaa'ith",
+      "meaning": "In the Name of Allah. O Allah, I seek refuge with You from male and female impure spirits.",
+      "source": "Hisnul Muslim; Sahih Bukhari 142; Sahih Muslim 375"
+    },
+    {
+      "id": "leave-bathroom",
+      "occasion": "Leaving the bathroom",
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": "Ghufraanaka",
+      "meaning": "I ask You (Allah) for forgiveness.",
+      "source": "Hisnul Muslim; Abu Dawud 30; Tirmidhi 7"
+    },
+    {
+      "id": "before-eating",
+      "occasion": "Before eating",
+      "arabic": "بِسْمِ اللهِ",
+      "transliteration": "Bismillaah",
+      "meaning": "In the Name of Allah. (If forgotten at the start: Bismillaahi fee awwalihi wa aakhirihi.)",
+      "source": "Hisnul Muslim; Abu Dawud 3767; Tirmidhi 1858"
+    },
+    {
+      "id": "after-eating",
+      "occasion": "After eating",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+      "transliteration": "Alhamdu lillaahil-ladhee at'amanee haadhaa wa razaqaneehi min ghayri hawlin minnee wa laa quwwah",
+      "meaning": "All praise is for Allah Who fed me this and provided it for me without any might or power from myself.",
+      "source": "Hisnul Muslim; Abu Dawud 4023; Tirmidhi 3458"
+    },
+    {
+      "id": "after-adhan",
+      "occasion": "After the Adhan",
+      "arabic": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ آتِ مُحَمَّدًا الْوَسِيلَةَ وَالْفَضِيلَةَ وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ",
+      "transliteration": "Allaahumma Rabba haadhihid-da'watit-taammah, was-salaatil-qaa'imah, aati Muhammadanil-waseelata wal-fadeelah, wab'ath-hu maqaaman mahmoodanil-ladhee wa'adtah",
+      "meaning": "O Allah, Lord of this perfect call and established prayer, grant Muhammad ﷺ the intercession and favour, and raise him to the praised station You have promised him.",
+      "source": "Hisnul Muslim; Sahih Bukhari 614"
+    },
+    {
+      "id": "hearing-adhan",
+      "occasion": "When hearing the Adhan (reply)",
+      "arabic": "Repeat the words of the muezzin, and when he says حَيَّ عَلَى الصَّلَاةِ / حَيَّ عَلَى الْفَلَاحِ say: لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+      "transliteration": "Laa hawla wa laa quwwata illaa billaah (at Hayya 'alas-Salah / Hayya 'alal-Falah)",
+      "meaning": "Repeat the Adhan; at the Hayya calls say: there is no might nor power except with Allah. Then send salawat and make the after-Adhan dua.",
+      "source": "Hisnul Muslim; Sahih Bukhari 611; Sahih Muslim 385"
+    },
+    {
+      "id": "travelling",
+      "occasion": "When starting a journey",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+      "transliteration": "Subhaanal-ladhee sakhkhara lanaa haadhaa wa maa kunnaa lahu muqrineen, wa innaa ilaa Rabbinaa la-munqaliboon",
+      "meaning": "Glory to Him Who has subjected this to us, and we could never have it (by our efforts). Indeed, to our Lord we will return.",
+      "source": "Hisnul Muslim; Qur'an 43:13-14; Sahih Muslim 1342"
+    },
+    {
+      "id": "guest-food",
+      "occasion": "When eating at someone’s place",
+      "arabic": "اللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
+      "transliteration": "Allaahumma baarik lahum fee maa razaqtahum, waghfir lahum warhamhum",
+      "meaning": "O Allah, bless them in what You have provided them, and forgive them and have mercy on them.",
+      "source": "Hisnul Muslim; Sahih Muslim 2042"
+    },
+    {
+      "id": "before-sleep",
+      "occasion": "Before sleeping",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "Bismika Allaahumma amootu wa ahyaa",
+      "meaning": "In Your Name, O Allah, I die and I live. (Also recite Ayat al-Kursi and the last two surahs as authentically taught.)",
+      "source": "Hisnul Muslim; Sahih Bukhari 6314; Sahih Muslim 2711"
+    },
+    {
+      "id": "after-waking",
+      "occasion": "After waking up",
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "transliteration": "Alhamdu lillaahil-ladhee ahyaanaa ba'da maa amaatanaa wa ilayhin-nushoor",
+      "meaning": "All praise is for Allah Who gave us life after causing us to die (sleep), and unto Him is the resurrection.",
+      "source": "Hisnul Muslim; Sahih Bukhari 6312"
+    }
+  ]
+}

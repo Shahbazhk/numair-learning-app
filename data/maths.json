@@ -1,0 +1,652 @@
+{
+  "title": "Maths — CBSE Grade 2 Complete",
+  "tables": {
+    "title": "Multiplication Tables",
+    "subtitle": "Practice tables 2 to 10 every day. Tap a row to hear it!",
+    "from": 2,
+    "to": 10,
+    "upto": 10
+  },
+  "sections": [
+    {
+      "id": "numbers-1000",
+      "icon": "🔢",
+      "title": "Numbers up to 1000",
+      "explanation": "In Grade 2 we read, write and compare numbers up to 1000. Counting helps us in class, cricket scores and shopping.",
+      "points": [
+        "Count forward and backward by 1s, 2s, 5s and 10s",
+        "Before / after / between numbers",
+        "Compare using > < =",
+        "Order numbers smallest to biggest"
+      ],
+      "examples": [
+        {
+          "title": "Real life",
+          "problem": "Numair scored 48 runs. What comes after 48?",
+          "steps": [
+            "Count one more: 48 + 1"
+          ],
+          "answer": "49"
+        },
+        {
+          "title": "Compare",
+          "problem": "Which is greater: 267 or 276?",
+          "steps": [
+            "Hundreds same (2)",
+            "Tens: 7 > 6 so 276 is greater"
+          ],
+          "answer": "276 > 267"
+        }
+      ]
+    },
+    {
+      "id": "place-value",
+      "icon": "🏛️",
+      "title": "Place Value (Ones, Tens, Hundreds)",
+      "explanation": "Every digit has a place. The place tells its value. Expanded form writes the number as a sum.",
+      "points": [
+        "Ones = 1s",
+        "Tens = groups of 10",
+        "Hundreds = groups of 100",
+        "345 = 300 + 40 + 5"
+      ],
+      "examples": [
+        {
+          "title": "Shop example",
+          "problem": "A toy costs ₹245. Place value of 4?",
+          "steps": [
+            "2 hundreds, 4 tens, 5 ones",
+            "4 is in tens place → 40"
+          ],
+          "answer": "40"
+        },
+        {
+          "title": "Expanded",
+          "problem": "Write 708 in expanded form.",
+          "steps": [
+            "7 hundreds = 700",
+            "0 tens",
+            "8 ones"
+          ],
+          "answer": "700 + 0 + 8"
+        }
+      ]
+    },
+    {
+      "id": "addition",
+      "icon": "➕",
+      "title": "Addition (with & without carrying)",
+      "explanation": "Addition finds the total. Line up ones under ones. If ones make 10 or more, carry 1 ten.",
+      "points": [
+        "Start from ones column",
+        "Carry when sum ≥ 10",
+        "Word problems: in all / altogether / total"
+      ],
+      "examples": [
+        {
+          "title": "Pencil box",
+          "problem": "Numair has 28 stickers and gets 15 more.",
+          "steps": [
+            "Ones: 8+5=13 → write 3, carry 1",
+            "Tens: 2+1+1=4"
+          ],
+          "answer": "43 stickers"
+        },
+        {
+          "title": "Without carry",
+          "problem": "34 + 21",
+          "steps": [
+            "Ones 4+1=5",
+            "Tens 3+2=5"
+          ],
+          "answer": "55"
+        }
+      ]
+    },
+    {
+      "id": "subtraction",
+      "icon": "➖",
+      "title": "Subtraction (with & without borrowing)",
+      "explanation": "Subtraction finds how many are left or the difference. Borrow when ones are too small.",
+      "points": [
+        "Keywords: left, remain, difference, how many more",
+        "Check: difference + smaller = bigger"
+      ],
+      "examples": [
+        {
+          "title": "Ice cream",
+          "problem": "50 rupees, spends 18.",
+          "steps": [
+            "Borrow: 10-8=2 ones",
+            "Tens: 4-1=3"
+          ],
+          "answer": "₹32 left"
+        },
+        {
+          "title": "Books",
+          "problem": "There were 45 books. 12 given away.",
+          "steps": [
+            "Ones 5-2=3",
+            "Tens 4-1=3"
+          ],
+          "answer": "33 books"
+        }
+      ]
+    },
+    {
+      "id": "multiplication",
+      "icon": "✖️",
+      "title": "Multiplication & Tables",
+      "explanation": "Multiplication is repeated addition. Tables 2–10 make Maths fast and fun.",
+      "points": [
+        "4×3 = 4+4+4 = 12",
+        "Any number × 1 = same number",
+        "Any number × 0 = 0",
+        "Use tables in equal groups"
+      ],
+      "examples": [
+        {
+          "title": "Tiffin",
+          "problem": "5 tiffin boxes with 4 idlis each.",
+          "steps": [
+            "5 groups of 4 → 5×4",
+            "4+4+4+4+4=20"
+          ],
+          "answer": "20 idlis"
+        },
+        {
+          "title": "Table",
+          "problem": "What is 7 × 8?",
+          "steps": [
+            "From 7 times table"
+          ],
+          "answer": "56"
+        }
+      ]
+    },
+    {
+      "id": "division",
+      "icon": "➗",
+      "title": "Division (Equal Sharing)",
+      "explanation": "Division means sharing equally or making equal groups. Check with multiplication.",
+      "points": [
+        "12÷3=4 because 3×4=12",
+        "Cannot divide by zero",
+        "Keywords: share, equally, each"
+      ],
+      "examples": [
+        {
+          "title": "Sweets",
+          "problem": "12 sweets for 3 friends.",
+          "steps": [
+            "Share into 3 equal groups"
+          ],
+          "answer": "Each gets 4"
+        },
+        {
+          "title": "Cricket",
+          "problem": "20 balls put into packs of 5.",
+          "steps": [
+            "20÷5=4 packs"
+          ],
+          "answer": "4 packs"
+        }
+      ]
+    },
+    {
+      "id": "fractions",
+      "icon": "🍕",
+      "title": "Fractions (Half & Quarter)",
+      "explanation": "A fraction is an equal part of a whole. Half means 2 equal parts; quarter means 4 equal parts.",
+      "points": [
+        "1/2 = one half",
+        "1/4 = one quarter (one-fourth)",
+        "Parts must be equal"
+      ],
+      "examples": [
+        {
+          "title": "Roti",
+          "problem": "A roti cut into 2 equal parts. Numair eats 1 part.",
+          "steps": [
+            "One of two equal parts"
+          ],
+          "answer": "1/2"
+        },
+        {
+          "title": "Chocolate",
+          "problem": "Bar cut into 4 equal pieces. One piece is…",
+          "steps": [
+            "One of four equal parts"
+          ],
+          "answer": "1/4"
+        }
+      ]
+    },
+    {
+      "id": "shapes",
+      "icon": "📐",
+      "title": "Shapes & Patterns",
+      "explanation": "Plane shapes are flat. Count sides and corners. Patterns repeat in a rule.",
+      "points": [
+        "Triangle 3 sides",
+        "Square 4 equal sides",
+        "Rectangle opposite sides equal",
+        "Circle no corners",
+        "Patterns: colour, size, shape"
+      ],
+      "examples": [
+        {
+          "title": "Window",
+          "problem": "A window looks like a rectangle.",
+          "steps": [
+            "4 sides, opposite equal"
+          ],
+          "answer": "Rectangle"
+        },
+        {
+          "title": "Pattern",
+          "problem": "Red, blue, red, blue, ?",
+          "steps": [
+            "Repeating pattern"
+          ],
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "id": "measurement",
+      "icon": "📏",
+      "title": "Measurement (Length, Weight, Capacity)",
+      "explanation": "We measure length with cm/m, weight with g/kg, and capacity (liquids) with ml/l.",
+      "points": [
+        "100 cm = 1 metre",
+        "1000 g = 1 kg",
+        "1000 ml = 1 litre",
+        "Choose sensible units"
+      ],
+      "examples": [
+        {
+          "title": "Pencil",
+          "problem": "Is a pencil about 15 cm or 15 m?",
+          "steps": [
+            "Classroom pencil is short"
+          ],
+          "answer": "About 15 cm"
+        },
+        {
+          "title": "Milk",
+          "problem": "A milk packet is often 1 litre.",
+          "steps": [
+            "Capacity of liquid"
+          ],
+          "answer": "1 litre"
+        }
+      ]
+    },
+    {
+      "id": "money",
+      "icon": "💰",
+      "title": "Money (Rupees & Paise)",
+      "explanation": "We use rupees (₹) and paise. 100 paise = ₹1. Add and subtract money for shopping.",
+      "points": [
+        "Count notes and coins",
+        "Money left = had − spent",
+        "Make amounts in different ways"
+      ],
+      "examples": [
+        {
+          "title": "Canteen",
+          "problem": "Numair has ₹50, buys snack for ₹28.",
+          "steps": [
+            "50−28=22"
+          ],
+          "answer": "₹22 left"
+        },
+        {
+          "title": "Paise",
+          "problem": "How many paise in ₹3?",
+          "steps": [
+            "3×100"
+          ],
+          "answer": "300 paise"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "icon": "⏰",
+      "title": "Time & Calendar",
+      "explanation": "Clocks show hours and minutes. Calendars show days, weeks and months.",
+      "points": [
+        "60 minutes = 1 hour",
+        "24 hours = 1 day",
+        "7 days = 1 week",
+        "12 months = 1 year",
+        "Long hand = minutes, short hand = hours"
+      ],
+      "examples": [
+        {
+          "title": "School",
+          "problem": "School starts at 8 o clock.",
+          "steps": [
+            "Short hand on 8"
+          ],
+          "answer": "8:00"
+        },
+        {
+          "title": "Days",
+          "problem": "How many days in one week?",
+          "steps": [
+            "Mon to Sun"
+          ],
+          "answer": "7 days"
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "icon": "📊",
+      "title": "Data Handling (Pictograph)",
+      "explanation": "We collect information and show it with pictures. Each picture can stand for 1 or more things.",
+      "points": [
+        "Count carefully",
+        "Read the key (1 ⭐ = 1 child)",
+        "Compare more and less"
+      ],
+      "examples": [
+        {
+          "title": "Class fruits",
+          "problem": "🍎🍎🍎 means 3 children like apples if 1 picture = 1 child.",
+          "steps": [
+            "Count pictures"
+          ],
+          "answer": "3 children"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "mq1",
+      "type": "mcq",
+      "prompt": "What comes after 199?",
+      "choices": [
+        "198",
+        "200",
+        "190",
+        "299"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq2",
+      "type": "mcq",
+      "prompt": "In 528, the digit in tens place is",
+      "choices": [
+        "5",
+        "2",
+        "8",
+        "52"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq3",
+      "type": "mcq",
+      "prompt": "245 in expanded form is",
+      "choices": [
+        "20+45",
+        "200+40+5",
+        "200+45",
+        "2+4+5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq4",
+      "type": "mcq",
+      "prompt": "36 + 27 = ?",
+      "choices": [
+        "53",
+        "63",
+        "73",
+        "52"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq5",
+      "type": "mcq",
+      "prompt": "Numair has 40 pencils and gives 15. Left?",
+      "choices": [
+        "35",
+        "25",
+        "55",
+        "15"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq6",
+      "type": "mcq",
+      "prompt": "6 × 7 = ?",
+      "choices": [
+        "13",
+        "42",
+        "36",
+        "48"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq7",
+      "type": "mcq",
+      "prompt": "18 ÷ 3 = ?",
+      "choices": [
+        "5",
+        "6",
+        "9",
+        "15"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq8",
+      "type": "mcq",
+      "prompt": "A square has how many equal sides?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq9",
+      "type": "mcq",
+      "prompt": "100 paise = ?",
+      "choices": [
+        "₹10",
+        "₹1",
+        "₹100",
+        "₹2"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq10",
+      "type": "mcq",
+      "prompt": "Half of a roti is written as",
+      "choices": [
+        "1/4",
+        "1/2",
+        "2/1",
+        "1/3"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq11",
+      "type": "mcq",
+      "prompt": "60 minutes = ?",
+      "choices": [
+        "1 day",
+        "1 hour",
+        "1 week",
+        "1 month"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq12",
+      "type": "mcq",
+      "prompt": "Which is heavier unit?",
+      "choices": [
+        "gram",
+        "kilogram",
+        "cm",
+        "ml"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq13",
+      "type": "mcq",
+      "prompt": "9 × 5 = ?",
+      "choices": [
+        "14",
+        "45",
+        "54",
+        "40"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq14",
+      "type": "mcq",
+      "prompt": "Which is greatest?",
+      "choices": [
+        "389",
+        "398",
+        "308",
+        "839"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "mq15",
+      "type": "mcq",
+      "prompt": "25 + 0 = ?",
+      "choices": [
+        "0",
+        "25",
+        "250",
+        "52"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq16",
+      "type": "truefalse",
+      "prompt": "Any number × 0 = 0",
+      "answer": true
+    },
+    {
+      "id": "mq17",
+      "type": "truefalse",
+      "prompt": "A triangle has 4 sides",
+      "answer": false
+    },
+    {
+      "id": "mq18",
+      "type": "truefalse",
+      "prompt": "7 days make 1 week",
+      "answer": true
+    },
+    {
+      "id": "mq19",
+      "type": "mcq",
+      "prompt": "₹100 − ₹45 = ?",
+      "choices": [
+        "₹65",
+        "₹55",
+        "₹45",
+        "₹155"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq20",
+      "type": "mcq",
+      "prompt": "A circle has how many corners?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "mq21",
+      "type": "mcq",
+      "prompt": "12 ÷ 4 = ?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq22",
+      "type": "mcq",
+      "prompt": "1 metre = ? cm",
+      "choices": [
+        "10",
+        "100",
+        "1000",
+        "50"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq23",
+      "type": "mcq",
+      "prompt": "Pattern: 2, 4, 6, 8, ?",
+      "choices": [
+        "9",
+        "10",
+        "12",
+        "7"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq24",
+      "type": "mcq",
+      "prompt": "408 = ? + 8",
+      "choices": [
+        "40",
+        "400",
+        "48",
+        "480"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq25",
+      "type": "mcq",
+      "prompt": "How many months in a year?",
+      "choices": [
+        "7",
+        "10",
+        "12",
+        "24"
+      ],
+      "answer": 2
+    }
+  ]
+}

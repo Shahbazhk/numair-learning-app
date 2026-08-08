@@ -1,0 +1,491 @@
+{
+  "title": "General Knowledge — Grade 2",
+  "sections": [
+    {
+      "id": "me",
+      "icon": "🧒",
+      "title": "Myself and Good Habits",
+      "explanation": "Know your name, age, school and class. Good manners make everyone happy.",
+      "points": [
+        "Say please, thank you and sorry",
+        "Share and wait for your turn",
+        "Keep your things tidy",
+        "Respect parents, teachers and elders"
+      ],
+      "examples": [
+        {
+          "title": "Real life",
+          "problem": "Someone gives you a pencil. What do you say?",
+          "steps": [
+            "Good manners"
+          ],
+          "answer": "Thank you"
+        }
+      ]
+    },
+    {
+      "id": "calendar",
+      "icon": "📅",
+      "title": "Days, Months and Year",
+      "explanation": "There are 7 days in a week and 12 months in a year. Knowing the calendar helps planning school and holidays.",
+      "points": [
+        "Days: Sunday to Saturday",
+        "12 months: January to December",
+        "365 days in a common year",
+        "Birthday is a special day each year"
+      ],
+      "examples": [
+        {
+          "title": "Week",
+          "problem": "How many days in a week?",
+          "steps": [
+            "7"
+          ],
+          "answer": "7"
+        },
+        {
+          "title": "Year",
+          "problem": "How many months in a year?",
+          "steps": [
+            "12"
+          ],
+          "answer": "12"
+        }
+      ]
+    },
+    {
+      "id": "colours-shapes",
+      "icon": "🎨",
+      "title": "Colours and Shapes",
+      "explanation": "Name common colours and shapes you see around you every day.",
+      "points": [
+        "Colours: red, blue, green, yellow, orange, pink, black, white",
+        "Shapes: circle, square, triangle, rectangle",
+        "Traffic light: red stop, yellow wait, green go"
+      ],
+      "examples": [
+        {
+          "title": "Signal",
+          "problem": "Green light means?",
+          "steps": [
+            "Go carefully"
+          ],
+          "answer": "Go"
+        },
+        {
+          "title": "Wheel",
+          "problem": "A wheel looks like which shape?",
+          "steps": [
+            "Round"
+          ],
+          "answer": "Circle"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "icon": "🦁",
+      "title": "Animals, Birds, Fruits and Vegetables",
+      "explanation": "Nature gives us animals, birds, fruits and vegetables. Learn their names and uses.",
+      "points": [
+        "Pets: dog, cat, rabbit",
+        "Wild: lion, tiger, elephant",
+        "Birds: crow, sparrow, parrot, peacock",
+        "Fruits: mango, banana, apple, orange",
+        "Vegetables: tomato, potato, carrot, spinach"
+      ],
+      "examples": [
+        {
+          "title": "National bird",
+          "problem": "India national bird?",
+          "steps": [
+            "Peacock"
+          ],
+          "answer": "Peacock"
+        },
+        {
+          "title": "Fruit",
+          "problem": "Yellow long fruit?",
+          "steps": [
+            "Banana"
+          ],
+          "answer": "Banana"
+        }
+      ]
+    },
+    {
+      "id": "india",
+      "icon": "🇮🇳",
+      "title": "Our India (Basics)",
+      "explanation": "India is our country. We love our flag, national symbols and festivals of unity.",
+      "points": [
+        "Country: India",
+        "Capital: New Delhi",
+        "National flag: Tiranga (saffron, white, green with Ashoka Chakra)",
+        "National animal: Tiger",
+        "National flower: Lotus",
+        "National bird: Peacock"
+      ],
+      "examples": [
+        {
+          "title": "Capital",
+          "problem": "Capital of India?",
+          "steps": [
+            "New Delhi"
+          ],
+          "answer": "New Delhi"
+        },
+        {
+          "title": "Flag",
+          "problem": "How many colours in Tiranga (main bands)?",
+          "steps": [
+            "3"
+          ],
+          "answer": "Three"
+        }
+      ]
+    },
+    {
+      "id": "monuments",
+      "icon": "🕌",
+      "title": "Famous Places",
+      "explanation": "India has beautiful monuments. Knowing them is fun GK!",
+      "points": [
+        "Taj Mahal — Agra",
+        "Red Fort — Delhi",
+        "India Gate — Delhi",
+        "Gateway of India — Mumbai",
+        "Charminar — Hyderabad"
+      ],
+      "examples": [
+        {
+          "title": "Agra",
+          "problem": "Taj Mahal is in?",
+          "steps": [
+            "Agra"
+          ],
+          "answer": "Agra"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "icon": "🚀",
+      "title": "Sky and Space (Kid Level)",
+      "explanation": "The Sun gives light. Earth is our planet. Moon goes around Earth. Stars shine at night.",
+      "points": [
+        "Sun is a star that lights our day",
+        "Earth is our home planet",
+        "Moon shines at night (reflected sunlight)",
+        "Do not look directly at the Sun"
+      ],
+      "examples": [
+        {
+          "title": "Day",
+          "problem": "What gives us daytime light?",
+          "steps": [
+            "Sun"
+          ],
+          "answer": "The Sun"
+        }
+      ]
+    },
+    {
+      "id": "safety-gk",
+      "icon": "🚨",
+      "title": "Safety Numbers and Helping Hands",
+      "explanation": "Know who helps us and important emergency ideas (with a parent).",
+      "points": [
+        "Doctor helps when we are sick",
+        "Teacher helps us learn",
+        "Police keep us safe",
+        "Firefighter helps in fire",
+        "Always tell a trusted adult if you need help"
+      ],
+      "examples": [
+        {
+          "title": "Sick",
+          "problem": "Who do we visit when sick?",
+          "steps": [
+            "Doctor"
+          ],
+          "answer": "Doctor"
+        }
+      ]
+    },
+    {
+      "id": "science-gk",
+      "icon": "🌦️",
+      "title": "Weather and Environment GK",
+      "explanation": "Know simple weather words and how to care for Earth.",
+      "points": [
+        "Sunny, rainy, cloudy, windy, stormy",
+        "Plant trees; do not waste water",
+        "Say no to littering",
+        "Reuse and recycle with family help"
+      ],
+      "examples": [
+        {
+          "title": "Plant",
+          "problem": "Planting trees helps",
+          "steps": [
+            "Clean air / shade"
+          ],
+          "answer": "The environment"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "icon": "🏏",
+      "title": "Sports and Games",
+      "explanation": "Playing keeps us healthy. Know popular games in India and school.",
+      "points": [
+        "Cricket, football, hockey, badminton, kabaddi",
+        "Indoor: chess, carrom, ludo",
+        "Exercise every day",
+        "Play fair; never bully"
+      ],
+      "examples": [
+        {
+          "title": "Bat-ball",
+          "problem": "A famous bat-and-ball game in India?",
+          "steps": [
+            "Cricket"
+          ],
+          "answer": "Cricket"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "gq1",
+      "type": "mcq",
+      "prompt": "Capital of India?",
+      "choices": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq2",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "gq3",
+      "type": "mcq",
+      "prompt": "National bird of India?",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Owl"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq4",
+      "type": "mcq",
+      "prompt": "National animal of India?",
+      "choices": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Cow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq5",
+      "type": "mcq",
+      "prompt": "Taj Mahal is in",
+      "choices": [
+        "Delhi",
+        "Agra",
+        "Jaipur",
+        "Mumbai"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq6",
+      "type": "mcq",
+      "prompt": "Green traffic light means",
+      "choices": [
+        "Stop",
+        "Go",
+        "Sleep",
+        "Jump"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq7",
+      "type": "mcq",
+      "prompt": "How many months in a year?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "gq8",
+      "type": "mcq",
+      "prompt": "A wheel looks like a",
+      "choices": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Rectangle"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "gq9",
+      "type": "truefalse",
+      "prompt": "We should say thank you.",
+      "answer": true
+    },
+    {
+      "id": "gq10",
+      "type": "truefalse",
+      "prompt": "Littering is good for Earth.",
+      "answer": false
+    },
+    {
+      "id": "gq11",
+      "type": "mcq",
+      "prompt": "National flower of India?",
+      "choices": [
+        "Rose",
+        "Lotus",
+        "Sunflower",
+        "Lily"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq12",
+      "type": "mcq",
+      "prompt": "Who helps when we are sick?",
+      "choices": [
+        "Doctor",
+        "Pilot",
+        "Chef only",
+        "Driver only"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "gq13",
+      "type": "mcq",
+      "prompt": "Our planet is",
+      "choices": [
+        "Mars",
+        "Earth",
+        "Moon",
+        "Sun"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq14",
+      "type": "mcq",
+      "prompt": "Yellow long fruit:",
+      "choices": [
+        "Apple",
+        "Banana",
+        "Grapes",
+        "Orange"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq15",
+      "type": "mcq",
+      "prompt": "Tiranga has how many main colour bands?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq16",
+      "type": "mcq",
+      "prompt": "Red Fort is in",
+      "choices": [
+        "Mumbai",
+        "Delhi",
+        "Chennai",
+        "Goa"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq17",
+      "type": "mcq",
+      "prompt": "Best day for kite flying?",
+      "choices": [
+        "No air",
+        "Windy",
+        "Inside cupboard",
+        "Under water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq18",
+      "type": "mcq",
+      "prompt": "A popular Indian bat-and-ball sport:",
+      "choices": [
+        "Chess",
+        "Cricket",
+        "Swimming only",
+        "Painting"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq19",
+      "type": "mcq",
+      "prompt": "Moon is seen mainly at",
+      "choices": [
+        "Noon only",
+        "Night",
+        "Never",
+        "Underground"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "gq20",
+      "type": "mcq",
+      "prompt": "Saying please shows",
+      "choices": [
+        "Rudeness",
+        "Good manners",
+        "Anger",
+        "Lazy habit"
+      ],
+      "answer": 1
+    }
+  ]
+}

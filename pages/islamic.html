@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Islamic Education — Numair</title>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand-link js-home" href="../index.html"><span class="brand-mark">N</span><span>Home</span></a>
+    <div class="stars-badge">⭐ <span id="starCount">0</span></div>
+  </header>
+  <main class="page tabbed">
+    <h1 class="section-title">Islamic Education</h1>
+    <p class="section-sub">Seerah, duas from Hisnul Muslim, and simple Arabic — authentic sources cited.</p>
+    <div class="tabs">
+      <button type="button" class="tab-btn active" data-tab="panelSeerah">Seerah</button>
+      <button type="button" class="tab-btn" data-tab="panelDuas">Duas</button>
+      <button type="button" class="tab-btn" data-tab="panelArabic">Arabic talk</button>
+    </div>
+
+    <section id="panelSeerah" class="panel active tabbed">
+      <div class="tabs">
+        <button type="button" class="tab-btn active" data-tab="seerahLearn">Learn</button>
+        <button type="button" class="tab-btn" data-tab="seerahPlay">Play</button>
+      </div>
+      <div id="seerahLearn" class="panel active"></div>
+      <div id="seerahPlay" class="panel"></div>
+    </section>
+
+    <section id="panelDuas" class="panel tabbed">
+      <div class="tabs">
+        <button type="button" class="tab-btn active" data-tab="duasLearn">Learn</button>
+        <button type="button" class="tab-btn" data-tab="duasPlay">Play</button>
+      </div>
+      <div id="duasLearn" class="panel active"></div>
+      <div id="duasPlay" class="panel"></div>
+    </section>
+
+    <section id="panelArabic" class="panel tabbed">
+      <div class="tabs">
+        <button type="button" class="tab-btn active" data-tab="arabicLearn">Learn</button>
+        <button type="button" class="tab-btn" data-tab="arabicPlay">Play</button>
+      </div>
+      <div id="arabicLearn" class="panel active"></div>
+      <div id="arabicPlay" class="panel"></div>
+    </section>
+
+    <p class="footer-note">Duas preferred from Hisnul Muslim; Seerah from Qur’an & authentic Hadith. Ask a parent or teacher if you want to learn more.</p>
+  </main>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/islamic.js"></script>
+</body>
+</html>

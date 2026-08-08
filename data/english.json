@@ -1,0 +1,515 @@
+{
+  "title": "English — CBSE Grade 2 Complete",
+  "sections": [
+    {
+      "id": "alphabet",
+      "icon": "🔤",
+      "title": "Alphabet and Phonics",
+      "explanation": "English has 26 letters in capital and small forms. Phonics means letter sounds. Blend sounds to read words.",
+      "points": [
+        "A to Z capital and a to z small",
+        "Vowels: a e i o u",
+        "Other letters are consonants",
+        "Blend: c-a-t becomes cat"
+      ],
+      "examples": [
+        {
+          "title": "Blend",
+          "problem": "s-u-n becomes?",
+          "steps": [
+            "Say each sound, then together"
+          ],
+          "answer": "sun"
+        },
+        {
+          "title": "Vowel",
+          "problem": "Is e a vowel?",
+          "steps": [
+            "a e i o u"
+          ],
+          "answer": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "sight",
+      "icon": "👀",
+      "title": "Sight Words and Vocabulary",
+      "explanation": "Sight words appear often in books. Learn them quickly. Grow new words by reading every day.",
+      "points": [
+        "the, a, and, is, to, you, I, said",
+        "here, come, look, play, friend, school",
+        "Opposites: big/small, hot/cold, happy/sad",
+        "Rhyming: cat-hat, sun-fun"
+      ],
+      "examples": [
+        {
+          "title": "Sight",
+          "problem": "Which is a sight word: elephant, the, mountain?",
+          "steps": [
+            "High frequency word"
+          ],
+          "answer": "the"
+        },
+        {
+          "title": "Opposite",
+          "problem": "Opposite of hot?",
+          "steps": [
+            "Antonym"
+          ],
+          "answer": "cold"
+        }
+      ]
+    },
+    {
+      "id": "nouns",
+      "icon": "📦",
+      "title": "Nouns (Naming Words)",
+      "explanation": "A noun names a person, place, animal or thing. Proper nouns begin with a capital letter.",
+      "points": [
+        "Person: Numair, teacher",
+        "Place: Delhi, school, park",
+        "Animal: cat, parrot",
+        "Thing: ball, book",
+        "Proper noun: India, Monday, Numair"
+      ],
+      "examples": [
+        {
+          "title": "Pick",
+          "problem": "Which is a noun: run, school, happy?",
+          "steps": [
+            "Names a place"
+          ],
+          "answer": "school"
+        },
+        {
+          "title": "Proper",
+          "problem": "Should delhi start with a capital?",
+          "steps": [
+            "City name"
+          ],
+          "answer": "Yes, Delhi"
+        }
+      ]
+    },
+    {
+      "id": "pronouns",
+      "icon": "🔁",
+      "title": "Pronouns",
+      "explanation": "Pronouns replace nouns so we do not repeat names: I, you, he, she, it, we, they.",
+      "points": [
+        "Numair becomes he",
+        "Maya becomes she",
+        "The cat becomes it",
+        "Numair and Ali become they"
+      ],
+      "examples": [
+        {
+          "title": "Replace",
+          "problem": "Numair is kind. ___ helps others.",
+          "steps": [
+            "Boy = he"
+          ],
+          "answer": "He"
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "icon": "🏃",
+      "title": "Verbs (Action Words)",
+      "explanation": "Verbs show action or being: run, jump, eat, is, are, am.",
+      "points": [
+        "Action: play, write, sing",
+        "Being: is, am, are",
+        "He runs / They run"
+      ],
+      "examples": [
+        {
+          "title": "Action",
+          "problem": "Which is a verb: blue, jump, soft?",
+          "steps": [
+            "Action word"
+          ],
+          "answer": "jump"
+        },
+        {
+          "title": "Sentence",
+          "problem": "The birds ___ in the sky.",
+          "steps": [
+            "They fly"
+          ],
+          "answer": "fly"
+        }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "icon": "🌈",
+      "title": "Adjectives (Describing Words)",
+      "explanation": "Adjectives describe nouns: size, colour, feeling or number.",
+      "points": [
+        "big, small, red, soft, happy, kind, two",
+        "In soft pillow, soft describes pillow"
+      ],
+      "examples": [
+        {
+          "title": "Fill",
+          "problem": "The ___ mango is sweet (yellow).",
+          "steps": [
+            "Colour word"
+          ],
+          "answer": "yellow"
+        },
+        {
+          "title": "Pick",
+          "problem": "Adjective in soft pillow?",
+          "steps": [
+            "Describes pillow"
+          ],
+          "answer": "soft"
+        }
+      ]
+    },
+    {
+      "id": "articles",
+      "icon": "📰",
+      "title": "Articles: a, an, the",
+      "explanation": "Use a or an for one thing. Use an before a vowel sound. Use the for a particular thing.",
+      "points": [
+        "a book, a pen",
+        "an apple, an egg, an umbrella",
+        "the Sun, the teacher"
+      ],
+      "examples": [
+        {
+          "title": "Choose",
+          "problem": "___ elephant (a or an)",
+          "steps": [
+            "Vowel sound"
+          ],
+          "answer": "an elephant"
+        },
+        {
+          "title": "The",
+          "problem": "We say the moon because we all know it.",
+          "steps": [
+            "Particular"
+          ],
+          "answer": "the moon"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "icon": "📍",
+      "title": "Prepositions (Position Words)",
+      "explanation": "Prepositions show place: in, on, under, over, behind, between, near.",
+      "points": [
+        "The ball is under the table",
+        "The cat is on the mat",
+        "Numair stands between Ali and Omar"
+      ],
+      "examples": [
+        {
+          "title": "Bag",
+          "problem": "Book is ___ the bag (inside).",
+          "steps": [
+            "Inside"
+          ],
+          "answer": "in"
+        },
+        {
+          "title": "Tree",
+          "problem": "Bird is ___ the branch.",
+          "steps": [
+            "On"
+          ],
+          "answer": "on"
+        }
+      ]
+    },
+    {
+      "id": "sentences",
+      "icon": "📝",
+      "title": "Sentences and Punctuation",
+      "explanation": "A sentence is a complete idea. Start with a capital letter. End with a full stop, question mark or exclamation mark.",
+      "points": [
+        "Statement ends with .",
+        "Question ends with ?",
+        "Exclamation ends with !",
+        "The word I is always capital"
+      ],
+      "examples": [
+        {
+          "title": "Fix",
+          "problem": "the boy is kind",
+          "steps": [
+            "Capital + full stop"
+          ],
+          "answer": "The boy is kind."
+        },
+        {
+          "title": "Ask",
+          "problem": "What is your name",
+          "steps": [
+            "Question mark"
+          ],
+          "answer": "?"
+        }
+      ]
+    },
+    {
+      "id": "comprehension",
+      "icon": "📚",
+      "title": "Reading Comprehension",
+      "explanation": "Read a short passage carefully. Find who, what, where and why. Answer from the text.",
+      "points": [
+        "Read twice",
+        "Find key words",
+        "Answer from the passage",
+        "Learn new words from the story"
+      ],
+      "examples": [
+        {
+          "title": "Story tip",
+          "problem": "If the story says Numair plays in the park, where does he play?",
+          "steps": [
+            "From the text"
+          ],
+          "answer": "In the park"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "eq1",
+      "type": "mcq",
+      "prompt": "How many letters in the English alphabet?",
+      "choices": [
+        "24",
+        "25",
+        "26",
+        "30"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "eq2",
+      "type": "mcq",
+      "prompt": "Blend: c-a-t",
+      "choices": [
+        "cut",
+        "cot",
+        "cat",
+        "cart"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "eq3",
+      "type": "mcq",
+      "prompt": "Which is a noun?",
+      "choices": [
+        "run",
+        "happy",
+        "school",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "eq4",
+      "type": "mcq",
+      "prompt": "Which is a verb?",
+      "choices": [
+        "blue",
+        "jump",
+        "soft",
+        "table"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq5",
+      "type": "mcq",
+      "prompt": "Choose the adjective: The ___ flower.",
+      "choices": [
+        "and",
+        "pretty",
+        "run",
+        "is"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq6",
+      "type": "mcq",
+      "prompt": "___ apple",
+      "choices": [
+        "a",
+        "an",
+        "two",
+        "many"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq7",
+      "type": "mcq",
+      "prompt": "Correct sentence:",
+      "choices": [
+        "the cat runs.",
+        "The cat runs.",
+        "the Cat Runs",
+        "THE cat runs?"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq8",
+      "type": "mcq",
+      "prompt": "Opposite of big:",
+      "choices": [
+        "tall",
+        "small",
+        "loud",
+        "fast"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq9",
+      "type": "mcq",
+      "prompt": "Pronoun for Maya:",
+      "choices": [
+        "he",
+        "she",
+        "it",
+        "they"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq10",
+      "type": "mcq",
+      "prompt": "The ball is ___ the box (inside).",
+      "choices": [
+        "on",
+        "in",
+        "over",
+        "between"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq11",
+      "type": "truefalse",
+      "prompt": "Sentences start with a capital letter.",
+      "answer": true
+    },
+    {
+      "id": "eq12",
+      "type": "truefalse",
+      "prompt": "Happy is a verb.",
+      "answer": false
+    },
+    {
+      "id": "eq13",
+      "type": "mcq",
+      "prompt": "Sight word example:",
+      "choices": [
+        "encyclopedia",
+        "the",
+        "hippopotamus",
+        "microphone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq14",
+      "type": "mcq",
+      "prompt": "Rhymes with sun:",
+      "choices": [
+        "sat",
+        "fun",
+        "pen",
+        "dog"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq15",
+      "type": "mcq",
+      "prompt": "Vowels are:",
+      "choices": [
+        "a e i o u",
+        "b c d",
+        "x y only",
+        "numbers"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "eq16",
+      "type": "mcq",
+      "prompt": "End a question with",
+      "choices": [
+        ".",
+        "!",
+        "?",
+        ","
+      ],
+      "answer": 2
+    },
+    {
+      "id": "eq17",
+      "type": "mcq",
+      "prompt": "Proper noun example:",
+      "choices": [
+        "city",
+        "Delhi",
+        "boy",
+        "bag"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq18",
+      "type": "mcq",
+      "prompt": "We ___ football.",
+      "choices": [
+        "plays",
+        "play",
+        "playing",
+        "played"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq19",
+      "type": "mcq",
+      "prompt": "Use an before a",
+      "choices": [
+        "vowel sound",
+        "number only",
+        "verb only",
+        "silence"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "eq20",
+      "type": "mcq",
+      "prompt": "A describing word is called an",
+      "choices": [
+        "verb",
+        "noun",
+        "adjective",
+        "preposition"
+      ],
+      "answer": 2
+    }
+  ]
+}

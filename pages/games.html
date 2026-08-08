@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Games — Numair</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand-link js-home" href="../index.html"><span class="brand-mark">N</span><span>Home</span></a>
+    <div class="stars-badge">⭐ <span id="starCount">0</span></div>
+  </header>
+  <main class="page tabbed games-page">
+    <div class="games-top">
+      <h1 class="section-title">Games</h1>
+      <div class="tabs">
+        <button type="button" class="tab-btn active" data-tab="panelCar">Car Race</button>
+        <button type="button" class="tab-btn" data-tab="panelFootball">Football</button>
+      </div>
+    </div>
+
+    <section id="panelCar" class="panel active">
+      <div class="game-shell">
+        <div class="game-stage">
+          <canvas id="carCanvas" width="320" height="420" aria-label="Car race game"></canvas>
+        </div>
+        <aside class="game-side">
+          <div class="touch-controls compact">
+            <button type="button" class="btn" id="carLeft">◀</button>
+            <button type="button" class="btn warn" id="carGas">▲ Gas</button>
+            <button type="button" class="btn" id="carRight">▶</button>
+          </div>
+          <button type="button" class="btn primary btn-block" id="carStart">Start / Restart</button>
+          <p class="game-hint">← → steer · ↑ / Space gas · Crash = Game Over</p>
+          <div class="card rank-card">
+            <h3>Ranking</h3>
+            <ol class="rank-list" id="carRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="panelFootball" class="panel">
+      <div class="game-shell">
+        <div class="game-stage pitch-stage">
+          <canvas id="fbCanvas" width="320" height="360" aria-label="Football penalty game"></canvas>
+        </div>
+        <aside class="game-side">
+          <div class="level-pills compact">
+            <button type="button" class="btn level-btn active" data-level="easy">Easy</button>
+            <button type="button" class="btn level-btn" data-level="medium">Medium</button>
+            <button type="button" class="btn level-btn" data-level="hard">Hard</button>
+          </div>
+          <div id="goalGrid" class="goal-grid compact"></div>
+          <p id="fbScore" class="game-score">Goals: 0 / Shots: 0</p>
+          <p id="fbMsg" class="game-hint">Tap goal on canvas or buttons, then Shoot!</p>
+          <div class="actions game-actions">
+            <button type="button" class="btn primary" id="btnShoot">Shoot!</button>
+            <button type="button" class="btn" id="btnFbRestart">New</button>
+          </div>
+          <div class="card rank-card">
+            <h3>Ranking</h3>
+            <ol class="rank-list" id="fbRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
+  </main>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/games/car-race.js"></script>
+  <script src="../js/games/football.js"></script>
+  <script>
+    (function () {
+      var canvas = document.getElementById("carCanvas");
+      var game = null;
+      var best = 0;
+
+      function showCarRanks(list) {
+        var html = "";
+        (list || NumairApp.getRankings("carRace")).forEach(function (r, i) {
+          html += "<li><span>#" + (i + 1) + " " + r.name + "</span><span>" + r.score + "</span></li>";
+        });
+        $("#carRanks").html(html || "<li>No scores yet</li>");
+      }
+
+      function bindHold(id, key) {
+        var el = document.getElementById(id);
+        function down(e) {
+          e.preventDefault();
+          if (game) game.setInput(key, true);
+        }
+        function up(e) {
+          e.preventDefault();
+          if (game) game.setInput(key, false);
+        }
+        el.addEventListener("mousedown", down);
+        el.addEventListener("mouseup", up);
+        el.addEventListener("mouseleave", up);
+        el.addEventListener("touchstart", down, { passive: false });
+        el.addEventListener("touchend", up);
+      }
+
+      $("#carStart").on("click", function () {
+        if (game) game.stop();
+        game = new CarRace(canvas, {
+          onGameOver: function (score) {
+            var list = NumairApp.saveRanking("carRace", {
+              name: NumairApp.getNickname(),
+              score: score
+            });
+            showCarRanks(list);
+            if (score > best) {
+              best = score;
+              NumairApp.addStars(1, "car-best-" + score);
+            }
+            NumairApp.celebrate("Score: " + score);
+          }
+        });
+        game.start();
+      });
+
+      window.addEventListener("keydown", function (e) {
+        if (!game) return;
+        if (e.key === "ArrowLeft") game.setInput("left", true);
+        if (e.key === "ArrowRight") game.setInput("right", true);
+        if (e.key === "ArrowUp" || e.key === " ") {
+          e.preventDefault();
+          game.setInput("accel", true);
+        }
+      });
+      window.addEventListener("keyup", function (e) {
+        if (!game) return;
+        if (e.key === "ArrowLeft") game.setInput("left", false);
+        if (e.key === "ArrowRight") game.setInput("right", false);
+        if (e.key === "ArrowUp" || e.key === " ") game.setInput("accel", false);
+      });
+
+      bindHold("carLeft", "left");
+      bindHold("carRight", "right");
+      bindHold("carGas", "accel");
+      showCarRanks();
+      FootballGame.init();
+    })();
+  </script>
+</body>
+</html>

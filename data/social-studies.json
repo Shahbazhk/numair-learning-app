@@ -1,0 +1,479 @@
+{
+  "title": "Social Studies / EVS Society — CBSE Grade 2",
+  "sections": [
+    {
+      "id": "family",
+      "icon": "👨‍👩‍👧‍👦",
+      "title": "My Family",
+      "explanation": "A family lives together and cares for one another. Joint and small families both share love and duties.",
+      "points": [
+        "Parents, siblings, grandparents",
+        "Help at home with small chores",
+        "Celebrate together",
+        "Speak kindly to family members"
+      ],
+      "examples": [
+        {
+          "title": "Home",
+          "problem": "Who usually helps you get ready for school?",
+          "steps": [
+            "Parents/elders"
+          ],
+          "answer": "Parents or elders"
+        }
+      ]
+    },
+    {
+      "id": "neighbourhood",
+      "icon": "🏘️",
+      "title": "My Neighbourhood",
+      "explanation": "A neighbourhood has houses, shops, parks, school and helpers. Keep it clean and friendly.",
+      "points": [
+        "Neighbours live near us",
+        "Places: market, park, mosque/temple/church, hospital",
+        "Greet neighbours politely",
+        "Do not make loud noise late at night"
+      ],
+      "examples": [
+        {
+          "title": "Park",
+          "problem": "A place to play near home?",
+          "steps": [
+            "Park"
+          ],
+          "answer": "Park"
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "icon": "🏫",
+      "title": "Our School",
+      "explanation": "School is where we learn and make friends. Follow school rules and respect teachers.",
+      "points": [
+        "Classroom, library, playground",
+        "Teacher, principal, classmates",
+        "Be on time; wear uniform",
+        "Listen in class; complete homework"
+      ],
+      "examples": [
+        {
+          "title": "Learn",
+          "problem": "Who teaches us in class?",
+          "steps": [
+            "Teacher"
+          ],
+          "answer": "Teacher"
+        }
+      ]
+    },
+    {
+      "id": "helpers",
+      "icon": "🧑‍🚒",
+      "title": "People Who Help Us",
+      "explanation": "Community helpers make life safe and easy. Thank them and respect their work.",
+      "points": [
+        "Doctor, nurse, teacher",
+        "Police officer, firefighter",
+        "Postman, farmer, cleaners",
+        "Driver, carpenter, tailor"
+      ],
+      "examples": [
+        {
+          "title": "Fire",
+          "problem": "Who helps if there is a fire?",
+          "steps": [
+            "Firefighter"
+          ],
+          "answer": "Firefighter"
+        },
+        {
+          "title": "Letters",
+          "problem": "Who delivers letters?",
+          "steps": [
+            "Postman"
+          ],
+          "answer": "Postman / courier helper"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "icon": "🚌",
+      "title": "Transport and Communication",
+      "explanation": "Transport takes us from place to place. Communication helps us send messages.",
+      "points": [
+        "Land: bicycle, car, bus, train",
+        "Water: boat, ship",
+        "Air: aeroplane, helicopter",
+        "Communication: phone, letter, email (with parents)"
+      ],
+      "examples": [
+        {
+          "title": "School trip",
+          "problem": "Many children go to school by",
+          "steps": [
+            "Bus/car/walk"
+          ],
+          "answer": "Bus, car, or walking with adult"
+        },
+        {
+          "title": "Sky",
+          "problem": "We travel in the sky by",
+          "steps": [
+            "Aeroplane"
+          ],
+          "answer": "Aeroplane"
+        }
+      ]
+    },
+    {
+      "id": "directions",
+      "icon": "🧭",
+      "title": "Directions and Maps",
+      "explanation": "Four main directions: North, South, East, West. A simple map helps us find places.",
+      "points": [
+        "Sun rises in the East",
+        "Sun sets in the West",
+        "Map shows places with symbols",
+        "Ask an adult before exploring new places"
+      ],
+      "examples": [
+        {
+          "title": "Sunrise",
+          "problem": "Sun rises in the",
+          "steps": [
+            "East"
+          ],
+          "answer": "East"
+        }
+      ]
+    },
+    {
+      "id": "festivals",
+      "icon": "🎉",
+      "title": "Festivals and Celebrations",
+      "explanation": "Festivals bring joy and teach sharing. India has many festivals of different communities.",
+      "points": [
+        "Eid, Diwali, Christmas, Gurpurab, Pongal, Onam (examples)",
+        "Republic Day (26 Jan), Independence Day (15 Aug)",
+        "Share sweets; never burst risky fireworks alone",
+        "Respect all cultures and religions"
+      ],
+      "examples": [
+        {
+          "title": "Freedom",
+          "problem": "Independence Day is on",
+          "steps": [
+            "15 August"
+          ],
+          "answer": "15 August"
+        },
+        {
+          "title": "Respect",
+          "problem": "Should we respect others festivals?",
+          "steps": [
+            "Yes"
+          ],
+          "answer": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "india-sst",
+      "icon": "🗺️",
+      "title": "Our Country and States (Intro)",
+      "explanation": "India is a large country with many states and languages. We are all Indians.",
+      "points": [
+        "Capital: New Delhi",
+        "Many states and union territories",
+        "Many languages; Hindi and English widely used in schools",
+        "Unity in diversity"
+      ],
+      "examples": [
+        {
+          "title": "Capital",
+          "problem": "India capital city?",
+          "steps": [
+            "New Delhi"
+          ],
+          "answer": "New Delhi"
+        }
+      ]
+    },
+    {
+      "id": "rules",
+      "icon": "🚦",
+      "title": "Rules, Rights and Safety",
+      "explanation": "Rules keep us safe at home, school and on the road. Children have the right to learn, play and be safe.",
+      "points": [
+        "Road rules: walk on footpath; cross carefully",
+        "School rules: no bullying; listen to teachers",
+        "Home rules: ask before going out",
+        "Tell a trusted adult if something feels wrong"
+      ],
+      "examples": [
+        {
+          "title": "Road",
+          "problem": "We cross at the",
+          "steps": [
+            "Zebra crossing"
+          ],
+          "answer": "Zebra crossing"
+        }
+      ]
+    },
+    {
+      "id": "earth-care",
+      "icon": "🌍",
+      "title": "Caring for Our Surroundings",
+      "explanation": "We share Earth with plants and animals. Keep surroundings clean and green.",
+      "points": [
+        "Do not litter",
+        "Save water and electricity",
+        "Plant and protect trees",
+        "Be kind to animals"
+      ],
+      "examples": [
+        {
+          "title": "Bin",
+          "problem": "Where does rubbish go?",
+          "steps": [
+            "Dustbin"
+          ],
+          "answer": "Dustbin"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ss1",
+      "type": "mcq",
+      "prompt": "Who teaches us in school?",
+      "choices": [
+        "Driver",
+        "Teacher",
+        "Pilot only",
+        "Farmer only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss2",
+      "type": "mcq",
+      "prompt": "Sun rises in the",
+      "choices": [
+        "West",
+        "East",
+        "North",
+        "South"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss3",
+      "type": "mcq",
+      "prompt": "Independence Day date",
+      "choices": [
+        "26 January",
+        "15 August",
+        "2 October",
+        "1 May"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss4",
+      "type": "mcq",
+      "prompt": "Who helps in a fire?",
+      "choices": [
+        "Firefighter",
+        "Chef",
+        "Painter",
+        "Singer"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "ss5",
+      "type": "mcq",
+      "prompt": "A neighbourhood is",
+      "choices": [
+        "Only a jungle",
+        "Area near our home",
+        "Only a desert",
+        "Only sky"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss6",
+      "type": "mcq",
+      "prompt": "Capital of India",
+      "choices": [
+        "Mumbai",
+        "New Delhi",
+        "Agra",
+        "Goa"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss7",
+      "type": "truefalse",
+      "prompt": "We should respect all festivals.",
+      "answer": true
+    },
+    {
+      "id": "ss8",
+      "type": "truefalse",
+      "prompt": "Littering keeps surroundings clean.",
+      "answer": false
+    },
+    {
+      "id": "ss9",
+      "type": "mcq",
+      "prompt": "Transport in the air",
+      "choices": [
+        "Bus",
+        "Ship",
+        "Aeroplane",
+        "Bicycle"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "ss10",
+      "type": "mcq",
+      "prompt": "Postman helps with",
+      "choices": [
+        "Letters/parcels",
+        "Cooking only",
+        "Flying planes",
+        "Building dams only"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "ss11",
+      "type": "mcq",
+      "prompt": "School is a place to",
+      "choices": [
+        "Only sleep",
+        "Learn and play",
+        "Only shop",
+        "Only farm"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss12",
+      "type": "mcq",
+      "prompt": "Cross the road at",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Highway middle",
+        "Tunnel of toys"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss13",
+      "type": "mcq",
+      "prompt": "Family members should",
+      "choices": [
+        "Fight always",
+        "Care for each other",
+        "Never talk",
+        "Hide homework forever"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss14",
+      "type": "mcq",
+      "prompt": "A map helps us",
+      "choices": [
+        "Cook rice",
+        "Find places",
+        "Sleep",
+        "Paint only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss15",
+      "type": "mcq",
+      "prompt": "Doctor helps when we are",
+      "choices": [
+        "Hungry for games only",
+        "Sick",
+        "Flying",
+        "Singing only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss16",
+      "type": "mcq",
+      "prompt": "Save water means",
+      "choices": [
+        "Leave taps open",
+        "Close taps after use",
+        "Wash roads all day",
+        "Flood home"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss17",
+      "type": "mcq",
+      "prompt": "Republic Day is on",
+      "choices": [
+        "15 August",
+        "26 January",
+        "25 December",
+        "14 November"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss18",
+      "type": "mcq",
+      "prompt": "A farmer grows",
+      "choices": [
+        "Aeroplanes",
+        "Crops/food",
+        "Computers only",
+        "Cars only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss19",
+      "type": "mcq",
+      "prompt": "Unity in diversity means",
+      "choices": [
+        "Only one culture allowed",
+        "Many cultures live together",
+        "No festivals",
+        "No languages"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss20",
+      "type": "mcq",
+      "prompt": "If you need help, tell",
+      "choices": [
+        "Nobody ever",
+        "A trusted adult",
+        "A stranger online",
+        "Random noise"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "phrases": [
+    {
+      "id": "salam",
+      "arabic": "السَّلَامُ عَلَيْكُمْ",
+      "transliteration": "As-salaamu 'alaykum",
+      "english": "Peace be upon you",
+      "reply": "Wa 'alaykum as-salaam"
+    },
+    {
+      "id": "salam-reply",
+      "arabic": "وَعَلَيْكُمُ السَّلَامُ",
+      "transliteration": "Wa 'alaykum as-salaam",
+      "english": "And peace be upon you too",
+      "reply": ""
+    },
+    {
+      "id": "how-are-you",
+      "arabic": "كَيْفَ حَالُكَ؟",
+      "transliteration": "Kayfa haaluk?",
+      "english": "How are you?",
+      "reply": "Alhamdulillah"
+    },
+    {
+      "id": "alhamdulillah",
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "transliteration": "Alhamdulillah",
+      "english": "All praise is for Allah",
+      "reply": ""
+    },
+    {
+      "id": "shukran",
+      "arabic": "شُكْرًا",
+      "transliteration": "Shukran",
+      "english": "Thank you",
+      "reply": "Afwan"
+    },
+    {
+      "id": "afwan",
+      "arabic": "عَفْوًا",
+      "transliteration": "Afwan",
+      "english": "You're welcome",
+      "reply": ""
+    },
+    {
+      "id": "my-name",
+      "arabic": "اِسْمِي نُمَيْر",
+      "transliteration": "Ismee Numair",
+      "english": "My name is Numair",
+      "reply": ""
+    },
+    {
+      "id": "please",
+      "arabic": "مِنْ فَضْلِكَ",
+      "transliteration": "Min fadlik",
+      "english": "Please",
+      "reply": ""
+    },
+    {
+      "id": "yes",
+      "arabic": "نَعَمْ",
+      "transliteration": "Na'am",
+      "english": "Yes",
+      "reply": ""
+    },
+    {
+      "id": "no",
+      "arabic": "لَا",
+      "transliteration": "Laa",
+      "english": "No",
+      "reply": ""
+    }
+  ]
+}

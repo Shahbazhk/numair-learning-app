@@ -1,0 +1,530 @@
+{
+  "title": "Science / EVS — CBSE Grade 2 Complete",
+  "sections": [
+    {
+      "id": "living",
+      "icon": "🌱",
+      "title": "Living and Non-living Things",
+      "explanation": "Living things grow, need food, water and air, and can respond. Non-living things do not grow or need food. Sort objects at home and school.",
+      "points": [
+        "Living: plant, cat, bird, fish, humans",
+        "Non-living: chair, toy car, stone, pencil",
+        "Living things can reproduce"
+      ],
+      "examples": [
+        {
+          "title": "Classroom",
+          "problem": "Is a blackboard living?",
+          "steps": [
+            "It does not grow or eat"
+          ],
+          "answer": "Non-living"
+        },
+        {
+          "title": "Garden",
+          "problem": "Is a butterfly living?",
+          "steps": [
+            "It moves, eats, grows"
+          ],
+          "answer": "Living"
+        }
+      ]
+    },
+    {
+      "id": "plants",
+      "icon": "🪴",
+      "title": "Plants Around Us",
+      "explanation": "Plants are living. Roots, stem, leaves, flowers and fruits have jobs. Plants need sunlight, air, water and soil.",
+      "points": [
+        "Roots take water",
+        "Stem carries food and water",
+        "Leaves make food in sunlight",
+        "Flowers lead to fruits and seeds",
+        "Trees are tall and woody; herbs are small; climbers need support"
+      ],
+      "examples": [
+        {
+          "title": "Neem",
+          "problem": "A neem is a tree because it is tall and woody.",
+          "steps": [
+            "Tall woody plant"
+          ],
+          "answer": "Tree"
+        },
+        {
+          "title": "Needs",
+          "problem": "What happens if a plant gets no water?",
+          "steps": [
+            "It wilts"
+          ],
+          "answer": "It dries or wilts"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "icon": "🐾",
+      "title": "Animals and Their Food",
+      "explanation": "Animals move to find food. Herbivores eat plants, carnivores eat meat, omnivores eat both.",
+      "points": [
+        "Herbivore: cow, goat, rabbit, deer",
+        "Carnivore: lion, tiger, eagle",
+        "Omnivore: bear, crow, humans",
+        "Pets need food, water, love and a clean place"
+      ],
+      "examples": [
+        {
+          "title": "Zoo",
+          "problem": "A tiger eats meat. It is a…",
+          "steps": [
+            "Meat eater"
+          ],
+          "answer": "Carnivore"
+        },
+        {
+          "title": "Farm",
+          "problem": "A cow eats grass. It is a…",
+          "steps": [
+            "Plant eater"
+          ],
+          "answer": "Herbivore"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "icon": "🧍",
+      "title": "Our Body and Senses",
+      "explanation": "Our body helps us play and learn. Five senses tell us about the world. Bones support; muscles help us move.",
+      "points": [
+        "Eyes see, ears hear, nose smells, tongue tastes, skin touches",
+        "Wash hands, brush teeth, bathe, sleep well",
+        "Exercise and play keep us strong"
+      ],
+      "examples": [
+        {
+          "title": "Kitchen",
+          "problem": "You smell biryani with which organ?",
+          "steps": [
+            "Smell"
+          ],
+          "answer": "Nose"
+        },
+        {
+          "title": "Safety",
+          "problem": "Should we put things in our ears?",
+          "steps": [
+            "Ears are delicate"
+          ],
+          "answer": "No"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "icon": "🍎",
+      "title": "Food We Eat",
+      "explanation": "Food gives energy to study and play. Eat energy foods, body-building foods and protective foods. Drink clean water.",
+      "points": [
+        "Energy: rice, bread, potato",
+        "Body-building: milk, eggs, dal, meat",
+        "Protective: fruits and vegetables",
+        "Do not waste food; wash fruits before eating"
+      ],
+      "examples": [
+        {
+          "title": "Breakfast",
+          "problem": "Milk and eggs help build the body.",
+          "steps": [
+            "Body-building"
+          ],
+          "answer": "Body-building food"
+        },
+        {
+          "title": "Water",
+          "problem": "Why drink water on a hot day?",
+          "steps": [
+            "Replace sweat"
+          ],
+          "answer": "To stay hydrated"
+        }
+      ]
+    },
+    {
+      "id": "house",
+      "icon": "🏠",
+      "title": "Houses and Clothes",
+      "explanation": "Houses keep us safe from heat, cold, rain and animals. Clothes protect us and match the weather.",
+      "points": [
+        "Kutcha and pucca houses",
+        "Summer: cotton, light clothes",
+        "Winter: woollen, warm clothes",
+        "Rainy: raincoat, umbrella",
+        "School uniforms"
+      ],
+      "examples": [
+        {
+          "title": "Rain",
+          "problem": "What will Numair carry in rain?",
+          "steps": [
+            "Keep dry"
+          ],
+          "answer": "Umbrella or raincoat"
+        },
+        {
+          "title": "Heat",
+          "problem": "People wear cotton in hot weather.",
+          "steps": [
+            "Cotton is cool"
+          ],
+          "answer": "Cotton clothes"
+        }
+      ]
+    },
+    {
+      "id": "water-air",
+      "icon": "💧",
+      "title": "Water, Air and Weather",
+      "explanation": "Clean air and water keep us healthy. Weather can be sunny, rainy, windy or cloudy. Save water.",
+      "points": [
+        "Uses of water: drink, cook, bathe, clean",
+        "Sources: rain, river, well, tap",
+        "Wind is moving air",
+        "Dark clouds often mean rain"
+      ],
+      "examples": [
+        {
+          "title": "Tap",
+          "problem": "Close the tap after washing hands.",
+          "steps": [
+            "Save water"
+          ],
+          "answer": "Saving water"
+        },
+        {
+          "title": "Kite",
+          "problem": "Best weather to fly a kite?",
+          "steps": [
+            "Need wind"
+          ],
+          "answer": "Windy day"
+        }
+      ]
+    },
+    {
+      "id": "day-night",
+      "icon": "🌙",
+      "title": "Day, Night and Seasons",
+      "explanation": "The Sun gives light and heat by day. Night is dark. Seasons include summer, winter and rainy season.",
+      "points": [
+        "Day: Sun in the sky",
+        "Night: Moon and stars",
+        "Summer is hot; winter is cold; rainy season is wet"
+      ],
+      "examples": [
+        {
+          "title": "Sleep",
+          "problem": "We usually sleep at night.",
+          "steps": [
+            "Night is dark"
+          ],
+          "answer": "Night"
+        },
+        {
+          "title": "Mango",
+          "problem": "Mangoes are common in Indian summer.",
+          "steps": [
+            "Summer fruit"
+          ],
+          "answer": "Summer"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "icon": "🧱",
+      "title": "Materials Around Us",
+      "explanation": "Things are made of wood, metal, plastic, glass, rubber or cloth. Choose the right material for the job.",
+      "points": [
+        "Wood: door, pencil",
+        "Metal: spoon, coin",
+        "Plastic: bottle, toy",
+        "Glass: window (be careful)",
+        "Rubber: eraser, tyre"
+      ],
+      "examples": [
+        {
+          "title": "Window",
+          "problem": "Windows are often glass to let light in.",
+          "steps": [
+            "See-through"
+          ],
+          "answer": "Glass"
+        },
+        {
+          "title": "Spoon",
+          "problem": "Cooking spoons may be metal.",
+          "steps": [
+            "Strong material"
+          ],
+          "answer": "Metal"
+        }
+      ]
+    },
+    {
+      "id": "hygiene",
+      "icon": "🧼",
+      "title": "Health, Hygiene and Safety",
+      "explanation": "Good habits keep germs away. Follow safety rules at home, on the road and at school.",
+      "points": [
+        "Wash hands before eating",
+        "Brush teeth twice a day",
+        "Cross at zebra crossing with an adult",
+        "Do not play with fire, sharp things or medicines",
+        "Throw litter in the bin"
+      ],
+      "examples": [
+        {
+          "title": "Road",
+          "problem": "Where should we cross the road?",
+          "steps": [
+            "Use crossing"
+          ],
+          "answer": "Zebra crossing with an adult"
+        },
+        {
+          "title": "Hands",
+          "problem": "Wash hands before lunch?",
+          "steps": [
+            "Remove germs"
+          ],
+          "answer": "Yes, always"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "sq1",
+      "type": "mcq",
+      "prompt": "Which is living?",
+      "choices": [
+        "Stone",
+        "Butterfly",
+        "Cup",
+        "Ball"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq2",
+      "type": "mcq",
+      "prompt": "Plants make food mainly in",
+      "choices": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flower only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "sq3",
+      "type": "mcq",
+      "prompt": "A lion is a",
+      "choices": [
+        "Herbivore",
+        "Carnivore",
+        "Plant",
+        "Rock"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq4",
+      "type": "mcq",
+      "prompt": "We smell with our",
+      "choices": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Skin"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "sq5",
+      "type": "mcq",
+      "prompt": "Milk is mainly a",
+      "choices": [
+        "Energy food only",
+        "Body-building food",
+        "Toy",
+        "Metal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq6",
+      "type": "mcq",
+      "prompt": "In rain we use a",
+      "choices": [
+        "Woollen cap only",
+        "Umbrella",
+        "Heater",
+        "Sun hat only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq7",
+      "type": "truefalse",
+      "prompt": "Air is not needed by living things.",
+      "answer": false
+    },
+    {
+      "id": "sq8",
+      "type": "truefalse",
+      "prompt": "We should wash hands before eating.",
+      "answer": true
+    },
+    {
+      "id": "sq9",
+      "type": "mcq",
+      "prompt": "A tree is usually",
+      "choices": [
+        "A tiny herb",
+        "A tall woody plant",
+        "A stone",
+        "Plastic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq10",
+      "type": "mcq",
+      "prompt": "Protective foods are mostly",
+      "choices": [
+        "TVs",
+        "Fruits and vegetables",
+        "Metals",
+        "Bottles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq11",
+      "type": "mcq",
+      "prompt": "Bones help to",
+      "choices": [
+        "Taste food",
+        "Support the body",
+        "Make rain",
+        "Smell"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq12",
+      "type": "mcq",
+      "prompt": "Crossing the road is safest at",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing with adult",
+        "Highway centre",
+        "Behind a bus"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq13",
+      "type": "mcq",
+      "prompt": "Wind is",
+      "choices": [
+        "Still water",
+        "Moving air",
+        "Rock",
+        "Plastic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq14",
+      "type": "truefalse",
+      "prompt": "A chair is a living thing.",
+      "answer": false
+    },
+    {
+      "id": "sq15",
+      "type": "mcq",
+      "prompt": "Cotton clothes are good in",
+      "choices": [
+        "Icy weather only",
+        "Hot summer",
+        "Outer space",
+        "Under water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq16",
+      "type": "mcq",
+      "prompt": "Which animal is a herbivore?",
+      "choices": [
+        "Tiger",
+        "Cow",
+        "Lion",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq17",
+      "type": "mcq",
+      "prompt": "We see with our",
+      "choices": [
+        "Nose",
+        "Eyes",
+        "Tongue",
+        "Ears"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq18",
+      "type": "mcq",
+      "prompt": "Throw wrappers",
+      "choices": [
+        "On road",
+        "In dustbin",
+        "In river",
+        "Under desk"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq19",
+      "type": "mcq",
+      "prompt": "The Sun gives us",
+      "choices": [
+        "Plastic",
+        "Light and heat",
+        "Rupees",
+        "Books"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq20",
+      "type": "mcq",
+      "prompt": "Dark clouds often mean",
+      "choices": [
+        "Party",
+        "Rain may come",
+        "Snow always",
+        "Night only"
+      ],
+      "answer": 1
+    }
+  ]
+}

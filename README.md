@@ -1,0 +1,71 @@
+# Numair’s Learning World
+
+A bright, kid-friendly HTML + jQuery + CSS portal for **Numair** (age 6, CBSE Grade 2).
+
+## Quick start
+
+1. Open a terminal in this folder (`numair-app`).
+2. Serve with any static server (recommended — browsers block JSON on `file://`):
+
+```bash
+npx --yes serve .
+```
+
+Or with Python:
+
+```bash
+python -m http.server 8080
+```
+
+3. Open the URL shown (e.g. `http://localhost:3000`) and start from **index.html**.
+
+## Deploy
+
+Upload the entire `numair-app` folder to any static host:
+
+- Netlify / Cloudflare Pages / GitHub Pages / S3  
+- No build step required
+
+## What’s inside
+
+| Section | Features |
+|---------|----------|
+| Islamic Education | Seerah (Qur’an & Hadith cited), duas (Hisnul Muslim / authentic Hadith), Arabic phrases + quizzes |
+| Last 20 Surahs | Surahs 95–114, Arabic text, audio: Shaikh Luhaidan & Yasser Al-Dosari |
+| Maths / Science / Hindi / English | Learn + Play quizzes for Grade 2 |
+| Games | Car race (crash = game over + ranking), Football shootout (Easy/Medium/Hard + ranking) |
+
+Stars and rankings are stored in the browser (`localStorage`).
+
+## Audio & text sources
+
+- Qur’an audio streamed from [mp3quran.net](https://www.mp3quran.net/) CDNs  
+  - Luhaidan: `https://server8.mp3quran.net/lhdan/`  
+  - Yasser Al-Dosari: `https://server11.mp3quran.net/yasser/`
+- Arabic ayah text loaded into `data/surahs.json` via AlQuran Cloud API at build time
+- Duas curated primarily from **Hisnul Muslim** with classic hadith citations on each card
+- Seerah cards cite Qur’an / authentic Hadith — intended for gentle age-6 learning; consult a scholar for deeper study
+
+## Folders
+
+```
+numair-app/
+  index.html
+  css/style.css
+  js/…          # app, learn-play, islamic, surahs, games
+  data/…        # JSON lessons & surah text
+  pages/…       # section pages
+```
+
+Made with love for Numair.
+
+## School subjects (CBSE Grade 2)
+
+| Subject | Coverage highlight |
+|---------|-------------------|
+| Maths | Numbers to 1000, place value, + − × ÷, fractions 1/2 & 1/4, shapes, measurement, money, time, pictographs, tables 2–10 |
+| English | Phonics, sight words, nouns/pronouns/verbs/adjectives, articles, prepositions, sentences, comprehension |
+| Hindi | स्वर, व्यंजन, मात्रा, शब्द, वाक्य, संज्ञा, क्रिया, विलोम, पढ़ना-लिखना |
+| Science / EVS | Living things, plants, animals, body, food, house/clothes, water-air-weather, seasons, materials, hygiene/safety |
+| Social Studies | Family, neighbourhood, school, helpers, transport, directions, festivals, India basics, rules, Earth care |
+| General Knowledge | Habits, calendar, colours/shapes, nature, India symbols, monuments, sky, helpers, environment, sports |

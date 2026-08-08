@@ -65,7 +65,7 @@ Made with love for Numair.
 
 | Subject | Coverage highlight |
 |---------|-------------------|
-| Maths | Numbers to 1000, place value, + − × ÷, fractions 1/2 & 1/4, shapes, measurement, money, time, pictographs, tables 2–10 |
+| Maths | Numbers to 1000, place value, + − × ÷, fractions 1/2 & 1/4, shapes, measurement, money, time, pictographs, tables 1–10 up to ×12 |
 | English | Phonics, sight words, nouns/pronouns/verbs/adjectives, articles, prepositions, sentences, comprehension |
 | Hindi | स्वर, व्यंजन, मात्रा, शब्द, वाक्य, संज्ञा, क्रिया, विलोम, पढ़ना-लिखना |
 | Science / EVS | Living things, plants, animals, body, food, house/clothes, water-air-weather, seasons, materials, hygiene/safety |

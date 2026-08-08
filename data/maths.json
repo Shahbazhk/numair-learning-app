@@ -2,10 +2,10 @@
   "title": "Maths — CBSE Grade 2 Complete",
   "tables": {
     "title": "Multiplication Tables",
-    "subtitle": "Practice tables 2 to 10 every day. Tap a row to hear it!",
-    "from": 2,
+    "subtitle": "Practice tables 1 to 10 every day — each table goes up to ×12. Tap a row to hear it!",
+    "from": 1,
     "to": 10,
-    "upto": 10
+    "upto": 12
   },
   "sections": [
     {
@@ -137,7 +137,7 @@
       "id": "multiplication",
       "icon": "✖️",
       "title": "Multiplication & Tables",
-      "explanation": "Multiplication is repeated addition. Tables 2–10 make Maths fast and fun.",
+      "explanation": "Multiplication is repeated addition. Tables 1–10 (each up to ×12) make Maths fast and fun.",
       "points": [
         "4×3 = 4+4+4 = 12",
         "Any number × 1 = same number",

@@ -18,6 +18,8 @@
       <div class="tabs">
         <button type="button" class="tab-btn active" data-tab="panelCar">Car Race</button>
         <button type="button" class="tab-btn" data-tab="panelFootball">Football</button>
+        <button type="button" class="tab-btn" data-tab="panelMemory">Memory</button>
+        <button type="button" class="tab-btn" data-tab="panelPattern">Pattern</button>
       </div>
     </div>
 
@@ -67,11 +69,59 @@
         </aside>
       </div>
     </section>
+
+    <section id="panelMemory" class="panel">
+      <div class="game-shell brain-shell">
+        <div class="brain-stage">
+          <div id="memBoard" class="mem-board" aria-label="Memory match board"></div>
+        </div>
+        <aside class="game-side">
+          <div class="level-pills compact">
+            <button type="button" class="btn mem-level" data-level="easy">Easy</button>
+            <button type="button" class="btn mem-level active" data-level="medium">Medium</button>
+            <button type="button" class="btn mem-level" data-level="hard">Hard</button>
+          </div>
+          <p id="memMoves" class="game-score">Moves: 0</p>
+          <p id="memPairs" class="game-score">Pairs: 0 / 6</p>
+          <p id="memMsg" class="game-hint">Find matching pairs!</p>
+          <button type="button" class="btn primary btn-block" id="memRestart">New game</button>
+          <div class="card rank-card">
+            <h3>Ranking</h3>
+            <ol class="rank-list" id="memRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="panelPattern" class="panel">
+      <div class="game-shell brain-shell">
+        <div class="brain-stage">
+          <div id="seqBoard" class="seq-board" aria-label="Pattern sequence pads"></div>
+        </div>
+        <aside class="game-side">
+          <div class="level-pills compact">
+            <button type="button" class="btn seq-level" data-level="easy">Easy</button>
+            <button type="button" class="btn seq-level active" data-level="medium">Medium</button>
+            <button type="button" class="btn seq-level" data-level="hard">Hard</button>
+          </div>
+          <p id="seqRound" class="game-score">Round: 0</p>
+          <p id="seqBest" class="game-score">Best: 0</p>
+          <p id="seqMsg" class="game-hint">Watch the lights, then repeat!</p>
+          <button type="button" class="btn primary btn-block" id="seqStart">Start pattern</button>
+          <div class="card rank-card">
+            <h3>Ranking</h3>
+            <ol class="rank-list" id="seqRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
   </main>
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="../js/app.js"></script>
   <script src="../js/games/car-race.js"></script>
   <script src="../js/games/football.js"></script>
+  <script src="../js/games/memory-match.js"></script>
+  <script src="../js/games/pattern-seq.js"></script>
   <script>
     (function () {
       var canvas = document.getElementById("carCanvas");
@@ -143,6 +193,8 @@
       bindHold("carGas", "accel");
       showCarRanks();
       FootballGame.init();
+      MemoryMatch.init();
+      PatternSeq.init();
     })();
   </script>
 </body>

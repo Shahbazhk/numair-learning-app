@@ -2,6 +2,10 @@
 
 A bright, kid-friendly HTML + jQuery + CSS portal for **Numair** (age 6, CBSE Grade 2).
 
+## Live site (GitHub Pages)
+
+**https://shahbazhk.github.io/numair-learning-app/**
+
 ## Quick start
 
 1. Open a terminal in this folder (`numair-app`).
@@ -21,11 +25,9 @@ python -m http.server 8080
 
 ## Deploy
 
-Upload the entire `numair-app` folder to any static host:
+This repo is set up for **GitHub Pages** from the `main` branch (root).
 
-- Netlify / Cloudflare Pages / GitHub Pages / S3  
-- No build step required
-
+You can also upload this folder to Netlify / Cloudflare Pages / any static host — no build step required.
 ## What’s inside
 
 | Section | Features |

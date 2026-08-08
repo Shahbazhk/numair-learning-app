@@ -58,7 +58,7 @@
     NumairApp.loadJSON(NumairApp.dataHref("surahs.json")).done(function (json) {
       data = json;
       renderList();
-      selectSurah(114);
+      selectSurah(78);
     });
 
     $("#surahList").on("click", ".surah-chip", function () {

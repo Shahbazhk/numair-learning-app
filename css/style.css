@@ -666,11 +666,13 @@ img {
   transition: transform 0.45s ease;
 }
 
-.surah-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 0.55rem;
-  margin-bottom: 1rem;
+.reciter-tabs {
+  flex-wrap: wrap;
+}
+
+.reciter-tabs .reciter-btn {
+  font-size: 0.9rem;
+  padding: 0.55rem 0.9rem;
 }
 
 .surah-chip {

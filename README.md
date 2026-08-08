@@ -33,7 +33,7 @@ You can also upload this folder to Netlify / Cloudflare Pages / any static host 
 | Section | Features |
 |---------|----------|
 | Islamic Education | Seerah (Qur’an & Hadith cited), duas (Hisnul Muslim / authentic Hadith), Arabic phrases + quizzes |
-| Last 20 Surahs | Surahs 95–114, Arabic text, audio: Shaikh Luhaidan & Yasser Al-Dosari |
+| Last 20 Surahs / Juz Amma | Surahs **78–114** (full Juz Amma / Part 30), Arabic text, audio: **Shaikh Mohammad Luhaidan**, **Shaikh Saud Al-Shuraim**, **Yasser Al-Dosari** |
 | Maths / Science / Hindi / English | Learn + Play quizzes for Grade 2 |
 | Games | Car race (crash = game over + ranking), Football shootout (Easy/Medium/Hard + ranking) |
 

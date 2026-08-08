@@ -1,8 +1,8 @@
 {
   "reciters": {
     "luhaidan": {
-      "name": "Shaikh Mohammad Luhaidan",
-      "base": "https://server8.mp3quran.net/lhdan/"
+      "name": "Shaikh Muhammad Al-Luhaidan",
+      "base": "https://download.quranicaudio.com/quran/muhammad_alhaidan/"
     },
     "shuraim": {
       "name": "Shaikh Saud Al-Shuraim",

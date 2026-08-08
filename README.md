@@ -33,17 +33,17 @@ You can also upload this folder to Netlify / Cloudflare Pages / any static host 
 | Section | Features |
 |---------|----------|
 | Islamic Education | Seerah (Qur’an & Hadith cited), duas (Hisnul Muslim / authentic Hadith), Arabic phrases + quizzes |
-| Last 20 Surahs / Juz Amma | Surahs **78–114** (full Juz Amma / Part 30), Arabic text, audio: **Shaikh Mohammad Luhaidan**, **Shaikh Saud Al-Shuraim**, **Yasser Al-Dosari** |
+| Last 20 Surahs / Juz Amma | Surahs **78–114** (full Juz Amma / Part 30), Arabic text, audio: **Shaikh Muhammad Al-Luhaidan**, **Shaikh Saud Al-Shuraim**, **Yasser Al-Dosari** |
 | Maths / Science / Hindi / English | Learn + Play quizzes for Grade 2 |
-| Games | Car race (crash = game over + ranking), Football shootout (Easy/Medium/Hard + ranking) |
+| Games | Car lap race (1st/2nd/3rd), Football, Memory, Pattern, simple kids UNO |
 
 Stars and rankings are stored in the browser (`localStorage`).
 
 ## Audio & text sources
 
-- Qur’an audio streamed from [mp3quran.net](https://www.mp3quran.net/) CDNs  
-  - Luhaidan: `https://server8.mp3quran.net/lhdan/`  
-  - Yasser Al-Dosari: `https://server11.mp3quran.net/yasser/`
+- Qur’an audio:
+  - Shaikh Muhammad Al-Luhaidan via [QuranicAudio](https://quranicaudio.com): `https://download.quranicaudio.com/quran/muhammad_alhaidan/`
+  - Saud Al-Shuraim & Yasser Al-Dosari via [mp3quran.net](https://www.mp3quran.net/) CDNs
 - Arabic ayah text loaded into `data/surahs.json` via AlQuran Cloud API at build time
 - Duas curated primarily from **Hisnul Muslim** with classic hadith citations on each card
 - Seerah cards cite Qur’an / authentic Hadith — intended for gentle age-6 learning; consult a scholar for deeper study

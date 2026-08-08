@@ -20,6 +20,7 @@
         <button type="button" class="tab-btn" data-tab="panelFootball">Football</button>
         <button type="button" class="tab-btn" data-tab="panelMemory">Memory</button>
         <button type="button" class="tab-btn" data-tab="panelPattern">Pattern</button>
+        <button type="button" class="tab-btn" data-tab="panelUno">UNO</button>
       </div>
     </div>
 
@@ -34,10 +35,11 @@
             <button type="button" class="btn warn" id="carGas">▲ Gas</button>
             <button type="button" class="btn" id="carRight">▶</button>
           </div>
-          <button type="button" class="btn primary btn-block" id="carStart">Start / Restart</button>
-          <p class="game-hint">← → steer · ↑ / Space gas · Crash = Game Over</p>
+          <button type="button" class="btn primary btn-block" id="carStart">Start Lap Race</button>
+          <p class="game-hint">Finish the lap vs Sammy &amp; Blaze. 🥇🥈🥉 places shown. Crash = 3rd.</p>
+          <div id="carPodium" class="car-podium"></div>
           <div class="card rank-card">
-            <h3>Ranking</h3>
+            <h3>Best places</h3>
             <ol class="rank-list" id="carRanks"></ol>
           </div>
         </aside>
@@ -115,6 +117,35 @@
         </aside>
       </div>
     </section>
+
+    <section id="panelUno" class="panel">
+      <div class="game-shell brain-shell">
+        <div class="brain-stage uno-stage">
+          <p class="uno-bot-label"><span id="unoBotCount">Bot cards: 7</span></p>
+          <div class="uno-table">
+            <div id="unoTop" class="uno-top"></div>
+            <p id="unoColor" class="game-score">Color: -</p>
+          </div>
+          <div id="unoColorPick" class="uno-color-pick" style="display:none;">
+            <button type="button" class="uno-color-btn" data-color="red" style="background:#e53935">Red</button>
+            <button type="button" class="uno-color-btn" data-color="yellow" style="background:#fdd835;color:#333">Yellow</button>
+            <button type="button" class="uno-color-btn" data-color="green" style="background:#43a047">Green</button>
+            <button type="button" class="uno-color-btn" data-color="blue" style="background:#1e88e5">Blue</button>
+          </div>
+          <div id="unoHand" class="uno-hand" aria-label="Your UNO cards"></div>
+        </div>
+        <aside class="game-side">
+          <p id="unoMsg" class="game-hint">Match color or number!</p>
+          <button type="button" class="btn warn btn-block" id="unoDraw">Draw card</button>
+          <button type="button" class="btn primary btn-block" id="unoRestart">New UNO game</button>
+          <p class="game-hint">Kids rules: match color/number. Wild picks color. Skip &amp; +2 included. First to empty hand wins!</p>
+          <div class="card rank-card">
+            <h3>Wins</h3>
+            <ol class="rank-list" id="unoRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
   </main>
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="../js/app.js"></script>
@@ -122,18 +153,37 @@
   <script src="../js/games/football.js"></script>
   <script src="../js/games/memory-match.js"></script>
   <script src="../js/games/pattern-seq.js"></script>
+  <script src="../js/games/uno.js"></script>
   <script>
     (function () {
       var canvas = document.getElementById("carCanvas");
       var game = null;
-      var best = 0;
+
+      function placeLabel(p) {
+        return p === 1 ? "🥇 1st" : p === 2 ? "🥈 2nd" : "🥉 3rd";
+      }
 
       function showCarRanks(list) {
         var html = "";
-        (list || NumairApp.getRankings("carRace")).forEach(function (r, i) {
-          html += "<li><span>#" + (i + 1) + " " + r.name + "</span><span>" + r.score + "</span></li>";
+        (list || NumairApp.getRankings("carRacePlaces")).forEach(function (r, i) {
+          html += "<li><span>#" + (i + 1) + " " + r.name + "</span><span>" + placeLabel(r.score) + "</span></li>";
         });
-        $("#carRanks").html(html || "<li>No scores yet</li>");
+        $("#carRanks").html(html || "<li>No races yet</li>");
+      }
+
+      function showPodium(standings) {
+        var html = "<strong>Results</strong><ul class='rank-list'>";
+        standings.forEach(function (s) {
+          html +=
+            "<li><span>" +
+            placeLabel(s.place) +
+            " " +
+            s.name +
+            (s.isPlayer ? " (You)" : "") +
+            "</span></li>";
+        });
+        html += "</ul>";
+        $("#carPodium").html(html);
       }
 
       function bindHold(id, key) {
@@ -155,18 +205,33 @@
 
       $("#carStart").on("click", function () {
         if (game) game.stop();
+        $("#carPodium").empty();
         game = new CarRace(canvas, {
-          onGameOver: function (score) {
-            var list = NumairApp.saveRanking("carRace", {
+          onFinish: function (result) {
+            showPodium(result.standings);
+            var place = result.playerPlace || 3;
+            // Lower score is better place for sorting? We store place as score then sort ascending for display
+            // saveRanking sorts descending — so store inverted score: 4-place so 1st=3, 2nd=2, 3rd=1
+            var list = NumairApp.saveRanking("carRacePlaces", {
               name: NumairApp.getNickname(),
-              score: score
+              score: 4 - place
             });
-            showCarRanks(list);
-            if (score > best) {
-              best = score;
-              NumairApp.addStars(1, "car-best-" + score);
+            // re-map display uses score as inverted — convert back in showCarRanks
+            showCarRanks(
+              list.map(function (r) {
+                return { name: r.name, score: 4 - r.score };
+              })
+            );
+            if (place === 1) {
+              NumairApp.addStars(3, "car-lap-1st-" + Date.now());
+              NumairApp.celebrate("🥇 First place!");
+            } else if (place === 2) {
+              NumairApp.addStars(2, "car-lap-2nd-" + Date.now());
+              NumairApp.celebrate("🥈 Second place!");
+            } else {
+              NumairApp.addStars(1, "car-lap-3rd-" + Date.now());
+              NumairApp.celebrate("🥉 Third place!");
             }
-            NumairApp.celebrate("Score: " + score);
           }
         });
         game.start();
@@ -191,10 +256,17 @@
       bindHold("carLeft", "left");
       bindHold("carRight", "right");
       bindHold("carGas", "accel");
-      showCarRanks();
+
+      // show ranks converting stored inverted scores
+      var raw = NumairApp.getRankings("carRacePlaces").map(function (r) {
+        return { name: r.name, score: 4 - r.score };
+      });
+      showCarRanks(raw);
+
       FootballGame.init();
       MemoryMatch.init();
       PatternSeq.init();
+      UnoKids.init();
     })();
   </script>
 </body>

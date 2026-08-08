@@ -486,6 +486,82 @@ img {
   cursor: default;
 }
 
+.car-podium {
+  font-size: 0.92rem;
+}
+
+.uno-stage {
+  min-height: 280px;
+}
+
+.uno-bot-label {
+  margin: 0 0 0.4rem;
+  font-weight: 800;
+  font-family: var(--font-display);
+}
+
+.uno-table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.uno-hand {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: center;
+  max-height: 160px;
+  overflow: auto;
+}
+
+.uno-card {
+  width: 52px;
+  height: 72px;
+  border: none;
+  border-radius: 10px;
+  background: var(--c, #333);
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.95rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+  position: relative;
+}
+
+.uno-card .uno-val {
+  display: grid;
+  place-items: center;
+  height: 100%;
+}
+
+.uno-back {
+  background: linear-gradient(145deg, #b71c1c, #e53935);
+  display: grid;
+  place-items: center;
+  cursor: default;
+}
+
+.uno-color-pick {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.35rem;
+  margin: 0.5rem 0;
+}
+
+.uno-color-btn {
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 800;
+  font-family: var(--font-display);
+  padding: 0.55rem;
+  cursor: pointer;
+}
+
 .game-shell {
   display: grid;
   grid-template-columns: auto minmax(160px, 1fr);

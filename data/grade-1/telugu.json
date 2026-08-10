@@ -1,0 +1,410 @@
+{
+  "title": "Telugu — CBSE Grade 1 Complete",
+  "grade": 1,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "అచ్చులు-vowels-అ-ఆ",
+      "icon": "తె",
+      "title": "అచ్చులు (Vowels అ ఆ …)",
+      "explanation": "Telugu vowels are called అచ్చులు. We start with అ ఆ ఇ ఈ ఉ ఊ ఋ ఎ ఏ ఐ ఒ ఓ ఔ అం అః — say them aloud with actions.",
+      "points": [
+        "అ is the base open sound",
+        "ఆ is a longer ah sound",
+        "Practice writing each అచ్చు neatly",
+        "Clap once per vowel while chanting"
+      ],
+      "examples": [
+        {
+          "title": "అచ్చు",
+          "problem": "Which vowel starts the word ఆమ్ (ām — mango idea)?",
+          "steps": [
+            "Long ఆ sound"
+          ],
+          "answer": "ఆ"
+        },
+        {
+          "title": "Say",
+          "problem": "Say అ and ఆ — which is longer?",
+          "steps": [
+            "Length"
+          ],
+          "answer": "ఆ"
+        }
+      ]
+    },
+    {
+      "id": "హల్లులు-basics-consonants",
+      "icon": "📖",
+      "title": "హల్లులు Basics (Consonants)",
+      "explanation": "Consonants are హల్లులు. Begin with క ఖ గ ఘ ఙ and other familiar classroom letters.",
+      "points": [
+        "కవర్గం: క ఖ గ ఘ ఙ",
+        "Combine with అ to say క",
+        "Trace letters in sand or air",
+        "Match letter to picture cards"
+      ],
+      "examples": [
+        {
+          "title": "అక్షరం",
+          "problem": "క + అ sound is spoken as…",
+          "steps": [
+            "Base consonant"
+          ],
+          "answer": "క"
+        }
+      ]
+    },
+    {
+      "id": "ఒత్తులు-simple-joint-ideas",
+      "icon": "🗣️",
+      "title": "ఒత్తులు & Simple Joint Ideas",
+      "explanation": "Sometimes letters join. Early grades only notice simple gunintalu (vowel signs) on consonants.",
+      "points": [
+        "క + ా → కా",
+        "కి కీ కు కూ patterns",
+        "Read with finger under each letter"
+      ],
+      "examples": [
+        {
+          "title": "గుణింతం",
+          "problem": "మ్ + ా makes…",
+          "steps": [
+            "మా"
+          ],
+          "answer": "మా"
+        }
+      ]
+    },
+    {
+      "id": "సాధారణ-పదాలు-simple-words",
+      "icon": "✍️",
+      "title": "సాధారణ పదాలు (Simple Words)",
+      "explanation": "Read two- and three-letter words: అమ్మ, నాన్న, బడి, పుస్తకం ideas in friendly forms.",
+      "points": [
+        "అమ్మ (mother)",
+        "నాన్న / తండ్రి (father)",
+        "నీరు (water)",
+        "బడి (school)"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "మనం నీరు…",
+          "steps": [
+            "తాగుతాము"
+          ],
+          "answer": "తాగుతాము"
+        }
+      ]
+    },
+    {
+      "id": "నమస్కారం-myself",
+      "icon": "🌟",
+      "title": "నమస్కారం & Myself",
+      "explanation": "Greet and introduce: నమస్కారం, నా పేరు …, నేను బడికి వెళ్తాను.",
+      "points": [
+        "నమస్కారం — hello/respect",
+        "నా పేరు ___",
+        "ధన్యవాదాలు — thank you"
+      ],
+      "examples": [
+        {
+          "title": "పరిచయం",
+          "problem": "Complete: నా పేరు ____.",
+          "steps": [
+            "Say your name"
+          ],
+          "answer": "Your name"
+        }
+      ]
+    },
+    {
+      "id": "రంగులు-సంఖ్యలు-words",
+      "icon": "📚",
+      "title": "రంగులు & సంఖ్యలు Words",
+      "explanation": "Colour and number words: ఎరుపు, నీలం, పచ్చ; ఒకటి రెండు మూడు…",
+      "points": [
+        "ఎరుపు red; పచ్చ green; నీలం blue",
+        "ఒకటి to పది counting words",
+        "Point to objects and name them"
+      ],
+      "examples": [
+        {
+          "title": "రంగు",
+          "problem": "Leaf is often…",
+          "steps": [
+            "పచ్చ"
+          ],
+          "answer": "పచ్చ"
+        }
+      ]
+    },
+    {
+      "id": "చిన్న-వాక్యాలు",
+      "icon": "🔤",
+      "title": "చిన్న వాక్యాలు",
+      "explanation": "Make tiny sentences: ఇది పుస్తకం. అది బంతి. నేను చదువుతాను.",
+      "points": [
+        "ఇది / అది",
+        "Subject + action",
+        "End with full stop idea"
+      ],
+      "examples": [
+        {
+          "title": "వాక్యం",
+          "problem": "ఇది ___ (book).",
+          "steps": [
+            "పుస్తకం"
+          ],
+          "answer": "పుస్తకం"
+        }
+      ]
+    },
+    {
+      "id": "పాటలు-listening",
+      "icon": "💬",
+      "title": "పాటలు & Listening",
+      "explanation": "Listen to a short Telugu rhyme; clap and repeat lines to build ear memory.",
+      "points": [
+        "Listen twice before speaking",
+        "New words జాబితా (list)",
+        "Sing softly in class"
+      ],
+      "examples": [
+        {
+          "title": "వినికిడి",
+          "problem": "Why repeat a పాట?",
+          "steps": [
+            "Memory & clear speech"
+          ],
+          "answer": "To remember words"
+        }
+      ]
+    },
+    {
+      "id": "మర్యాద-పదాలు",
+      "icon": "🎯",
+      "title": "మర్యాద పదాలు",
+      "explanation": "Polite words: దయచేసి, క్షమించండి, ధన్యవాదాలు.",
+      "points": [
+        "దయచేసి — please",
+        "క్షమించండి — sorry",
+        "ధన్యవాదాలు — thanks"
+      ],
+      "examples": [
+        {
+          "title": "మర్యాద",
+          "problem": "After help we say…",
+          "steps": [
+            "ధన్యవాదాలు"
+          ],
+          "answer": "ధన్యవాదాలు"
+        }
+      ]
+    },
+    {
+      "id": "చిత్రం-చూసి-చెప్పడం",
+      "icon": "✨",
+      "title": "చిత్రం చూసి చెప్పడం",
+      "explanation": "Look at a picture and say 2 Telugu words or one short sentence.",
+      "points": [
+        "Name objects in Telugu",
+        "Use ఇది/అది",
+        "Smile and speak clearly"
+      ],
+      "examples": [
+        {
+          "title": "చిత్రం",
+          "problem": "Seeing a పక్షి you may say…",
+          "steps": [
+            "ఇది పక్షి"
+          ],
+          "answer": "ఇది పక్షి"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "te1x1",
+      "type": "mcq",
+      "prompt": "అచ్చులు means…",
+      "choices": [
+        "Consonants",
+        "Vowels",
+        "Numbers",
+        "Punctuation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te1x2",
+      "type": "mcq",
+      "prompt": "నమస్కారం is used to…",
+      "choices": [
+        "Greet respectfully",
+        "Count money",
+        "Measure length",
+        "Draw only"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "te1x3",
+      "type": "mcq",
+      "prompt": "అమ్మ means…",
+      "choices": [
+        "Father",
+        "Mother",
+        "School",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te1x4",
+      "type": "mcq",
+      "prompt": "కా is క with…",
+      "choices": [
+        "అ",
+        "ఆ",
+        "ఇ",
+        "ఉ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te1x5",
+      "type": "mcq",
+      "prompt": "ధన్యవాదాలు means…",
+      "choices": [
+        "Sorry",
+        "Please",
+        "Thank you",
+        "Go away"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "t1q1",
+      "type": "mcq",
+      "prompt": "Telugu vowels are called…",
+      "choices": [
+        "హల్లులు",
+        "అచ్చులు",
+        "పదాలు",
+        "వాక్యాలు"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "t1q2",
+      "type": "mcq",
+      "prompt": "Which is a Telugu vowel?",
+      "choices": [
+        "క",
+        "అ",
+        "మ్",
+        "ట"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "t1q3",
+      "type": "mcq",
+      "prompt": "క belongs to…",
+      "choices": [
+        "అచ్చులు",
+        "హల్లులు",
+        "సంఖ్యలు",
+        "రంగులు"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "t1q4",
+      "type": "mcq",
+      "prompt": "అమ్మ means…",
+      "choices": [
+        "School",
+        "Mother",
+        "Book",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "t1q5",
+      "type": "mcq",
+      "prompt": "పచ్చ refers to…",
+      "choices": [
+        "Red",
+        "Green",
+        "Black",
+        "White"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "t1q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"అచ్చులు (Vowels అ ఆ …)\" is:",
+      "choices": [
+        "అ is the base open sound",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t1q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"హల్లులు Basics (Consonants)\" is:",
+      "choices": [
+        "కవర్గం: క ఖ గ ఘ ఙ",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t1q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"ఒత్తులు & Simple Joint Ideas\" is:",
+      "choices": [
+        "క + ా → కా",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t1q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"సాధారణ పదాలు (Simple Words)\" is:",
+      "choices": [
+        "అమ్మ (mother)",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t1q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"నమస్కారం & Myself\" is:",
+      "choices": [
+        "నమస్కారం — hello/respect",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

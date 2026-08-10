@@ -1,0 +1,249 @@
+{
+  "title": "General Knowledge — CBSE Grade 8 Outline",
+  "grade": 8,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "world-wars-overview-bytes",
+      "icon": "🌍",
+      "title": "World Wars Overview Bytes",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"World Wars Overview Bytes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Causes consequences peace",
+        "Understand the main idea of \"World Wars Overview Bytes\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "climate-agreements",
+      "icon": "🇮🇳",
+      "title": "Climate Agreements",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Climate Agreements\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Paris idea",
+        "India’s efforts",
+        "Understand the main idea of \"Climate Agreements\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "financial-literacy-plus",
+      "icon": "🏆",
+      "title": "Financial Literacy Plus",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Financial Literacy Plus\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Interest",
+        "Budget",
+        "Scam alert"
+      ],
+      "examples": []
+    },
+    {
+      "id": "legal-literacy-starter",
+      "icon": "🌳",
+      "title": "Legal Literacy Starter",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Legal Literacy Starter\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Rights duties",
+        "Helplines",
+        "Understand the main idea of \"Legal Literacy Starter\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "science-frontier-gk",
+      "icon": "📅",
+      "title": "Science Frontier GK",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Science Frontier GK\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "DNA vaccines AI fairness",
+        "Understand the main idea of \"Science Frontier GK\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "sports-governance",
+      "icon": "⚽",
+      "title": "Sports Governance",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Sports Governance\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Olympics Commonwealth",
+        "Understand the main idea of \"Sports Governance\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "cultural-heritage-deep",
+      "icon": "🔬",
+      "title": "Cultural Heritage Deep",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Cultural Heritage Deep\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Classical languages arts",
+        "Understand the main idea of \"Cultural Heritage Deep\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "disaster-protocols",
+      "icon": "🎨",
+      "title": "Disaster Protocols",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Disaster Protocols\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "NDMA awareness",
+        "Understand the main idea of \"Disaster Protocols\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "career-awareness-seed",
+      "icon": "🛰️",
+      "title": "Career Awareness Seed",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Career Awareness Seed\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Skills curiosity",
+        "Understand the main idea of \"Career Awareness Seed\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "debate-current-topics-safe",
+      "icon": "🏅",
+      "title": "Debate Current Topics Safe",
+      "explanation": "In CBSE Grade 8 General Knowledge, we explore \"Debate Current Topics Safe\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Evidence respect",
+        "Understand the main idea of \"Debate Current Topics Safe\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "g8x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g8x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g8x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g8x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g8x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g8q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "World Wars Overview Bytes",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g8q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"World Wars Overview Bytes\" is:",
+      "choices": [
+        "Causes consequences peace",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g8q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Climate Agreements",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g8q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Climate Agreements\" is:",
+      "choices": [
+        "Paris idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g8q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Financial Literacy Plus",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

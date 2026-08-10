@@ -1,0 +1,249 @@
+{
+  "title": "English — CBSE Grade 6 Outline",
+  "grade": 6,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "reading-literature-informational-texts",
+      "icon": "📖",
+      "title": "Reading Literature & Informational Texts",
+      "explanation": "In CBSE Grade 6 English, we explore \"Reading Literature & Informational Texts\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Theme",
+        "Summary",
+        "Vocabulary in context"
+      ],
+      "examples": []
+    },
+    {
+      "id": "grammar-tenses-mastery",
+      "icon": "✏️",
+      "title": "Grammar: Tenses Mastery",
+      "explanation": "In CBSE Grade 6 English, we explore \"Grammar: Tenses Mastery\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "All major tenses",
+        "Consistency",
+        "Understand the main idea of \"Grammar: Tenses Mastery\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "determiners-modals-intro",
+      "icon": "🗣️",
+      "title": "Determiners & Modals Intro",
+      "explanation": "In CBSE Grade 6 English, we explore \"Determiners & Modals Intro\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "a/an/the/some",
+        "can could may",
+        "Understand the main idea of \"Determiners & Modals Intro\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "active-and-passive-voice",
+      "icon": "📝",
+      "title": "Active and Passive Voice",
+      "explanation": "In CBSE Grade 6 English, we explore \"Active and Passive Voice\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Form changes",
+        "When to use",
+        "Understand the main idea of \"Active and Passive Voice\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reported-speech-basics",
+      "icon": "📚",
+      "title": "Reported Speech Basics",
+      "explanation": "In CBSE Grade 6 English, we explore \"Reported Speech Basics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Statements",
+        "Backshift idea",
+        "Understand the main idea of \"Reported Speech Basics\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "writing-formal-letters",
+      "icon": "🔤",
+      "title": "Writing: Formal Letters",
+      "explanation": "In CBSE Grade 6 English, we explore \"Writing: Formal Letters\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Format",
+        "Tone",
+        "Understand the main idea of \"Writing: Formal Letters\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "story-and-diary-writing",
+      "icon": "💬",
+      "title": "Story and Diary Writing",
+      "explanation": "In CBSE Grade 6 English, we explore \"Story and Diary Writing\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Plot",
+        "Reflection",
+        "Understand the main idea of \"Story and Diary Writing\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "notice-and-message",
+      "icon": "✍️",
+      "title": "Notice and Message",
+      "explanation": "In CBSE Grade 6 English, we explore \"Notice and Message\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Concise facts",
+        "Layout",
+        "Understand the main idea of \"Notice and Message\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "listening-speaking",
+      "icon": "🎭",
+      "title": "Listening Speaking",
+      "explanation": "In CBSE Grade 6 English, we explore \"Listening Speaking\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Debate light",
+        "Recitation",
+        "Understand the main idea of \"Listening Speaking\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "integrated-grammar-practice",
+      "icon": "📰",
+      "title": "Integrated Grammar Practice",
+      "explanation": "In CBSE Grade 6 English, we explore \"Integrated Grammar Practice\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Editing",
+        "Omission gap fills",
+        "Understand the main idea of \"Integrated Grammar Practice\" for Grade 6"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "e6x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e6x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e6x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e6x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e6x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e6q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Reading Literature & Informational Texts",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e6q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Reading Literature & Informational Texts\" is:",
+      "choices": [
+        "Theme",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e6q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Grammar: Tenses Mastery",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e6q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Grammar: Tenses Mastery\" is:",
+      "choices": [
+        "All major tenses",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e6q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Determiners & Modals Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

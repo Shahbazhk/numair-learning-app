@@ -1,0 +1,249 @@
+{
+  "title": "English — CBSE Grade 9 Outline",
+  "grade": 9,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "literature-deep-dive",
+      "icon": "📖",
+      "title": "Literature Deep Dive",
+      "explanation": "In CBSE Grade 9 English, we explore \"Literature Deep Dive\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Characterisation",
+        "Theme conflict",
+        "Understand the main idea of \"Literature Deep Dive\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "advanced-grammar",
+      "icon": "✏️",
+      "title": "Advanced Grammar",
+      "explanation": "In CBSE Grade 9 English, we explore \"Advanced Grammar\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Clauses",
+        "Modals precision",
+        "Understand the main idea of \"Advanced Grammar\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "writing-skills-board-pattern",
+      "icon": "🗣️",
+      "title": "Writing Skills Board Pattern",
+      "explanation": "In CBSE Grade 9 English, we explore \"Writing Skills Board Pattern\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Descriptive analytical",
+        "Understand the main idea of \"Writing Skills Board Pattern\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "letter-to-editor-application",
+      "icon": "📝",
+      "title": "Letter to Editor / Application",
+      "explanation": "In CBSE Grade 9 English, we explore \"Letter to Editor / Application\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Formal register",
+        "Understand the main idea of \"Letter to Editor / Application\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "story-writing-with-twists",
+      "icon": "📚",
+      "title": "Story Writing with Twists",
+      "explanation": "In CBSE Grade 9 English, we explore \"Story Writing with Twists\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Plot structure",
+        "Understand the main idea of \"Story Writing with Twists\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reading-note-making",
+      "icon": "🔤",
+      "title": "Reading: Note Making",
+      "explanation": "In CBSE Grade 9 English, we explore \"Reading: Note Making\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Abbreviations",
+        "Summary",
+        "Understand the main idea of \"Reading: Note Making\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "listening-asl-prep",
+      "icon": "💬",
+      "title": "Listening ASL Prep",
+      "explanation": "In CBSE Grade 9 English, we explore \"Listening ASL Prep\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Comprehension oral",
+        "Understand the main idea of \"Listening ASL Prep\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "vocabulary-academic-word-list-light",
+      "icon": "✍️",
+      "title": "Vocabulary Academic Word List Light",
+      "explanation": "In CBSE Grade 9 English, we explore \"Vocabulary Academic Word List Light\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Subject words",
+        "Understand the main idea of \"Vocabulary Academic Word List Light\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "integrated-grammar",
+      "icon": "🎭",
+      "title": "Integrated Grammar",
+      "explanation": "In CBSE Grade 9 English, we explore \"Integrated Grammar\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Gap filling cloze",
+        "Understand the main idea of \"Integrated Grammar\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "speaking-seminars",
+      "icon": "📰",
+      "title": "Speaking Seminars",
+      "explanation": "In CBSE Grade 9 English, we explore \"Speaking Seminars\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Cite sources simply",
+        "Understand the main idea of \"Speaking Seminars\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "e9x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e9x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e9x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e9x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e9x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e9q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Literature Deep Dive",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e9q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Literature Deep Dive\" is:",
+      "choices": [
+        "Characterisation",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e9q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Advanced Grammar",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e9q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Advanced Grammar\" is:",
+      "choices": [
+        "Clauses",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e9q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Writing Skills Board Pattern",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

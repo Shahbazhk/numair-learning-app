@@ -1,0 +1,479 @@
+{
+  "title": "Hindi — CBSE Grade 5 Complete",
+  "grade": 5,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "व्याकरण-समेकन",
+      "icon": "🔠",
+      "title": "व्याकरण समेकन",
+      "explanation": "संज्ञा सर्वनाम विशेषण क्रिया कारक — मिश्रित अभ्यास।",
+      "points": [
+        "पहचान प्रश्न",
+        "त्रुटि सुधार",
+        "तालिका बनाएँ"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"व्याकरण समेकन\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to व्याकरण समेकन"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"व्याकरण समेकन\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "समास-परिचय",
+      "icon": "📝",
+      "title": "समास परिचय",
+      "explanation": "दो शब्दों के मेल का सरल परिचय।",
+      "points": [
+        "उदाहरण",
+        "विग्रह हल्का",
+        "याद रखने के खेल"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"समास परिचय\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to समास परिचय"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"समास परिचय\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "अलंकार-छंद-हल्का",
+      "icon": "📖",
+      "title": "अलंकार छंद हल्का",
+      "explanation": "अनुप्रास उपमा की पहचान काव्य में।",
+      "points": [
+        "उदाहरण पंक्ति",
+        "तुलना",
+        "भाषा सौंदर्य"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"अलंकार छंद हल्का\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to अलंकार छंद हल्का"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"अलंकार छंद हल्का\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "औपचारिक-पत्र",
+      "icon": "🗣️",
+      "title": "औपचारिक पत्र",
+      "explanation": "प्रधानाचार्य को आवेदन — विनयी भाषा।",
+      "points": [
+        "विषय पंक्ति",
+        "उद्देश्य",
+        "प्रार्थना वाक्य"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"औपचारिक पत्र\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to औपचारिक पत्र"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"औपचारिक पत्र\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "अनुच्छेद-व-निबंध",
+      "icon": "✍️",
+      "title": "अनुच्छेद व निबंध",
+      "explanation": "विषय विस्तार — उदाहरण और निष्कर्ष।",
+      "points": [
+        "रूपरेखा",
+        "संयोजक शब्द",
+        "पुनर्लेखन"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"अनुच्छेद व निबंध\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to अनुच्छेद व निबंध"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"अनुच्छेद व निबंध\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "अपठित-काव्यांश",
+      "icon": "📘",
+      "title": "अपठित काव्यांश",
+      "explanation": "भाव और प्रश्न — कक्षा परीक्षा शैली।",
+      "points": [
+        "कवि क्या कहना चाहता",
+        "शब्दार्थ",
+        "शीर्षक सुझाव"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"अपठित काव्यांश\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to अपठित काव्यांश"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"अपठित काव्यांश\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "मुहावरे-लोकोक्तियाँ",
+      "icon": "🌟",
+      "title": "मुहावरे लोकोक्तियाँ",
+      "explanation": "अर्थ व वाक्य प्रयोग सूची बढ़ाना।",
+      "points": [
+        "१० नए",
+        "जोड़ी मिलाएँ",
+        "कहानी में डालें"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"मुहावरे लोकोक्तियाँ\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to मुहावरे लोकोक्तियाँ"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"मुहावरे लोकोक्तियाँ\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "नाटक-अंश-वाचन",
+      "icon": "🎯",
+      "title": "नाटक अंश वाचन",
+      "explanation": "भाव सहित संवाद पढ़ना।",
+      "points": [
+        "स्वर उतार-चढ़ाव",
+        "विराम",
+        "समूह अभ्यास"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"नाटक अंश वाचन\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to नाटक अंश वाचन"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"नाटक अंश वाचन\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "रचनात्मक-लेखन",
+      "icon": "💬",
+      "title": "रचनात्मक लेखन",
+      "explanation": "डायरी यात्रावृत्तांत विज्ञापन जैसे रूप।",
+      "points": [
+        "रूप चुनें",
+        "मौलिकता",
+        "भाषा शुद्धता"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"रचनात्मक लेखन\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to रचनात्मक लेखन"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"रचनात्मक लेखन\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "परियोजना-भाषा-सर्वेक्षण",
+      "icon": "📚",
+      "title": "परियोजना: भाषा सर्वेक्षण",
+      "explanation": "घर के शब्दों की सूची — क्षेत्रीय व मानक हिंदी।",
+      "points": [
+        "तालिका",
+        "प्रस्तुति",
+        "सम्मान विविधता"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"परियोजना: भाषा सर्वेक्षण\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to परियोजना: भाषा सर्वेक्षण"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"परियोजना: भाषा सर्वेक्षण\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "h5x1",
+      "type": "mcq",
+      "prompt": "‘अ’ है एक…",
+      "choices": [
+        "व्यंजन",
+        "स्वर",
+        "विराम",
+        "संख्या"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h5x2",
+      "type": "mcq",
+      "prompt": "संज्ञा है…",
+      "choices": [
+        "दौड़ना",
+        "पुस्तक",
+        "और",
+        "धीरे"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h5x3",
+      "type": "mcq",
+      "prompt": "धन्यवाद कहना है…",
+      "choices": [
+        "शिष्टाचार",
+        "गुस्सा",
+        "शोर",
+        "खेल नहीं"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5x4",
+      "type": "mcq",
+      "prompt": "विलोम: दिन का उल्टा?",
+      "choices": [
+        "सुबह",
+        "रात",
+        "दोपहर",
+        "साल"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h5x5",
+      "type": "mcq",
+      "prompt": "क्रिया चुनें",
+      "choices": [
+        "लड़का",
+        "खाना",
+        "लाल",
+        "दिल्ली"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h5q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "व्याकरण समेकन",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"व्याकरण समेकन\" is:",
+      "choices": [
+        "पहचान प्रश्न",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "समास परिचय",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"समास परिचय\" is:",
+      "choices": [
+        "उदाहरण",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "अलंकार छंद हल्का",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"अलंकार छंद हल्का\" is:",
+      "choices": [
+        "उदाहरण पंक्ति",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "औपचारिक पत्र",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"औपचारिक पत्र\" is:",
+      "choices": [
+        "विषय पंक्ति",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "अनुच्छेद व निबंध",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h5q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"अनुच्छेद व निबंध\" is:",
+      "choices": [
+        "रूपरेखा",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

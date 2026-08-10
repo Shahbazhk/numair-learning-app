@@ -1,0 +1,249 @@
+{
+  "title": "General Knowledge — CBSE Grade 7 Outline",
+  "grade": 7,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "un-and-international-orgs",
+      "icon": "🌍",
+      "title": "UN and International Orgs",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"UN and International Orgs\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "UN WHO UNICEF roles light",
+        "Understand the main idea of \"UN and International Orgs\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "indian-freedom-icons-extended",
+      "icon": "🇮🇳",
+      "title": "Indian Freedom Icons Extended",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Indian Freedom Icons Extended\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Diverse regions leaders",
+        "Understand the main idea of \"Indian Freedom Icons Extended\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "geography-extremes-india-world",
+      "icon": "🏆",
+      "title": "Geography Extremes India/World",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Geography Extremes India/World\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Peaks deserts rains",
+        "Understand the main idea of \"Geography Extremes India/World\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "science-nobel-snapshot",
+      "icon": "🌳",
+      "title": "Science Nobel Snapshot",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Science Nobel Snapshot\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Curiosity heroes",
+        "Understand the main idea of \"Science Nobel Snapshot\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "constitution-articles-awareness",
+      "icon": "📅",
+      "title": "Constitution Articles Awareness",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Constitution Articles Awareness\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Fundamental rights feel",
+        "Understand the main idea of \"Constitution Articles Awareness\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "business-brands-ethics",
+      "icon": "⚽",
+      "title": "Business Brands Ethics",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Business Brands Ethics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Consumer sense",
+        "Understand the main idea of \"Business Brands Ethics\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "media-literacy",
+      "icon": "🔬",
+      "title": "Media Literacy",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Media Literacy\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Fake news checks",
+        "Understand the main idea of \"Media Literacy\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "space-missions-india",
+      "icon": "🎨",
+      "title": "Space Missions India",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Space Missions India\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Chandrayaan style pride facts",
+        "Understand the main idea of \"Space Missions India\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "health-pandemic-lessons",
+      "icon": "🛰️",
+      "title": "Health Pandemic Lessons",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Health Pandemic Lessons\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Hygiene vaccines science trust",
+        "Understand the main idea of \"Health Pandemic Lessons\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "club-quiz-leagues",
+      "icon": "🏅",
+      "title": "Club Quiz Leagues",
+      "explanation": "In CBSE Grade 7 General Knowledge, we explore \"Club Quiz Leagues\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Team roles",
+        "Understand the main idea of \"Club Quiz Leagues\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "g7x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g7x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g7x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g7x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g7x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g7q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "UN and International Orgs",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g7q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"UN and International Orgs\" is:",
+      "choices": [
+        "UN WHO UNICEF roles light",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g7q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Indian Freedom Icons Extended",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g7q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Indian Freedom Icons Extended\" is:",
+      "choices": [
+        "Diverse regions leaders",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g7q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Geography Extremes India/World",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

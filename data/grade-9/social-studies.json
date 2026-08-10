@@ -1,0 +1,285 @@
+{
+  "title": "Social Studies — CBSE Grade 9 Outline",
+  "grade": 9,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "french-revolution",
+      "icon": "🏠",
+      "title": "French Revolution",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"French Revolution\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Causes",
+        "Ideas liberty",
+        "Understand the main idea of \"French Revolution\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "socialism-in-europe-russian-revolution",
+      "icon": "🏫",
+      "title": "Socialism in Europe & Russian Revolution",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Socialism in Europe & Russian Revolution\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Industrial society",
+        "1917",
+        "Understand the main idea of \"Socialism in Europe & Russian Revolution\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "nazism-and-the-rise-of-hitler",
+      "icon": "🇮🇳",
+      "title": "Nazism and the Rise of Hitler",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Nazism and the Rise of Hitler\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Propaganda",
+        "World War II link",
+        "Understand the main idea of \"Nazism and the Rise of Hitler\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "forest-society-and-colonialism-pastoralists",
+      "icon": "🗺️",
+      "title": "Forest Society and Colonialism / Pastoralists",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Forest Society and Colonialism / Pastoralists\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Livelihoods",
+        "Understand the main idea of \"Forest Society and Colonialism / Pastoralists\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "peasants-and-farmers",
+      "icon": "🏛️",
+      "title": "Peasants and Farmers",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Peasants and Farmers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Agrarian change",
+        "Understand the main idea of \"Peasants and Farmers\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "india-size-location-physical-features",
+      "icon": "⚖️",
+      "title": "India — Size Location / Physical Features",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"India — Size Location / Physical Features\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Geo base",
+        "Understand the main idea of \"India — Size Location / Physical Features\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "drainage-climate-natural-vegetation",
+      "icon": "🌏",
+      "title": "Drainage / Climate / Natural Vegetation",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Drainage / Climate / Natural Vegetation\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Monsoon",
+        "Biodiversity",
+        "Understand the main idea of \"Drainage / Climate / Natural Vegetation\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "population",
+      "icon": "🚂",
+      "title": "Population",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Population\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Distribution",
+        "Literacy",
+        "Understand the main idea of \"Population\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "what-is-democracy-why-democracy",
+      "icon": "👥",
+      "title": "What is Democracy? Why Democracy?",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"What is Democracy? Why Democracy?\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Features arguments",
+        "Understand the main idea of \"What is Democracy? Why Democracy?\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "constitutional-design-electoral-politics",
+      "icon": "📜",
+      "title": "Constitutional Design / Electoral Politics",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Constitutional Design / Electoral Politics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Preamble",
+        "Elections",
+        "Understand the main idea of \"Constitutional Design / Electoral Politics\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "working-of-institutions-democratic-rights",
+      "icon": "🗳️",
+      "title": "Working of Institutions / Democratic Rights",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Working of Institutions / Democratic Rights\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Parliament courts",
+        "FR",
+        "Understand the main idea of \"Working of Institutions / Democratic Rights\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "the-story-of-village-palampur-people-as-resource",
+      "icon": "💰",
+      "title": "The Story of Village Palampur / People as Resource",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"The Story of Village Palampur / People as Resource\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Economics intro",
+        "Understand the main idea of \"The Story of Village Palampur / People as Resource\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "poverty-food-security-in-india",
+      "icon": "🌐",
+      "title": "Poverty / Food Security in India",
+      "explanation": "In CBSE Grade 9 Social Studies, we explore \"Poverty / Food Security in India\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Challenges schemes",
+        "Understand the main idea of \"Poverty / Food Security in India\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "ss9x1",
+      "type": "mcq",
+      "prompt": "India’s national capital is…",
+      "choices": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss9x2",
+      "type": "mcq",
+      "prompt": "A neighbourhood includes…",
+      "choices": [
+        "Only oceans",
+        "Homes shops people nearby",
+        "Other planets",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss9x3",
+      "type": "mcq",
+      "prompt": "Democracy values people’s…",
+      "choices": [
+        "Silence only",
+        "Participation & votes",
+        "Littering",
+        "Fear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss9x4",
+      "type": "mcq",
+      "prompt": "Maps help us find…",
+      "choices": [
+        "Locations",
+        "Recipes only",
+        "Dreams only",
+        "Nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "ss9x5",
+      "type": "mcq",
+      "prompt": "Saving water is part of…",
+      "choices": [
+        "Earth care",
+        "Wasting",
+        "Ignoring rules",
+        "Pollution"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "French Revolution",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"French Revolution\" is:",
+      "choices": [
+        "Causes",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Socialism in Europe & Russian Revolution",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Socialism in Europe & Russian Revolution\" is:",
+      "choices": [
+        "Industrial society",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Nazism and the Rise of Hitler",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

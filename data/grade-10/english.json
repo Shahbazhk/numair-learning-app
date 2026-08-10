@@ -1,0 +1,249 @@
+{
+  "title": "English — CBSE Grade 10 Outline",
+  "grade": 10,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "first-flight-footprints-style-skills",
+      "icon": "📖",
+      "title": "First Flight / Footprints Style Skills",
+      "explanation": "In CBSE Grade 10 English, we explore \"First Flight / Footprints Style Skills\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Extract based Qs",
+        "Long answers",
+        "Understand the main idea of \"First Flight / Footprints Style Skills\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "grammar-for-board-exams",
+      "icon": "✏️",
+      "title": "Grammar for Board Exams",
+      "explanation": "In CBSE Grade 10 English, we explore \"Grammar for Board Exams\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Determiners tenses",
+        "Reported speech voice",
+        "Understand the main idea of \"Grammar for Board Exams\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "writing-formal-letters-applications",
+      "icon": "🗣️",
+      "title": "Writing: Formal Letters & Applications",
+      "explanation": "In CBSE Grade 10 English, we explore \"Writing: Formal Letters & Applications\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Complaints enquiry",
+        "Understand the main idea of \"Writing: Formal Letters & Applications\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "analytical-paragraph",
+      "icon": "📝",
+      "title": "Analytical Paragraph",
+      "explanation": "In CBSE Grade 10 English, we explore \"Analytical Paragraph\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Data interpretation",
+        "Understand the main idea of \"Analytical Paragraph\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "story-diary-as-per-latest-pattern",
+      "icon": "📚",
+      "title": "Story / Diary as per Latest Pattern",
+      "explanation": "In CBSE Grade 10 English, we explore \"Story / Diary as per Latest Pattern\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Creativity + accuracy",
+        "Understand the main idea of \"Story / Diary as per Latest Pattern\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reading-discursive-factual",
+      "icon": "🔤",
+      "title": "Reading Discursive Factual",
+      "explanation": "In CBSE Grade 10 English, we explore \"Reading Discursive Factual\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Inference vocabulary",
+        "Understand the main idea of \"Reading Discursive Factual\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "poetry-explanation",
+      "icon": "💬",
+      "title": "Poetry Explanation",
+      "explanation": "In CBSE Grade 10 English, we explore \"Poetry Explanation\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Central idea devices",
+        "Understand the main idea of \"Poetry Explanation\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "error-correction-practice",
+      "icon": "✍️",
+      "title": "Error Correction Practice",
+      "explanation": "In CBSE Grade 10 English, we explore \"Error Correction Practice\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Common pitfalls",
+        "Understand the main idea of \"Error Correction Practice\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "asl-speaking-confidence",
+      "icon": "🎭",
+      "title": "ASL / Speaking Confidence",
+      "explanation": "In CBSE Grade 10 English, we explore \"ASL / Speaking Confidence\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Articulation",
+        "Listening notes",
+        "Understand the main idea of \"ASL / Speaking Confidence\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "revision-strategies",
+      "icon": "📰",
+      "title": "Revision Strategies",
+      "explanation": "In CBSE Grade 10 English, we explore \"Revision Strategies\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Timed practice",
+        "Self-edit checklist",
+        "Understand the main idea of \"Revision Strategies\" for Grade 10"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "e10x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e10x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e10x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e10x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e10x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e10q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "First Flight / Footprints Style Skills",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e10q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"First Flight / Footprints Style Skills\" is:",
+      "choices": [
+        "Extract based Qs",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e10q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Grammar for Board Exams",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e10q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Grammar for Board Exams\" is:",
+      "choices": [
+        "Determiners tenses",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e10q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Writing: Formal Letters & Applications",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "title": "Maths — CBSE Grade 6 Outline",
+  "grade": 6,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "knowing-our-numbers",
+      "icon": "🔢",
+      "title": "Knowing Our Numbers",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Knowing Our Numbers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Indian & international systems",
+        "Estimation",
+        "Large number operations"
+      ],
+      "examples": []
+    },
+    {
+      "id": "whole-numbers",
+      "icon": "➕",
+      "title": "Whole Numbers",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Whole Numbers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Number line",
+        "Properties of + and ×",
+        "Understand the main idea of \"Whole Numbers\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "playing-with-numbers",
+      "icon": "➖",
+      "title": "Playing with Numbers",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Playing with Numbers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Factors multiples",
+        "Primes composites",
+        "Divisibility tests"
+      ],
+      "examples": []
+    },
+    {
+      "id": "basic-geometrical-ideas",
+      "icon": "✖️",
+      "title": "Basic Geometrical Ideas",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Basic Geometrical Ideas\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Point line ray",
+        "Angles",
+        "Polygons intro"
+      ],
+      "examples": []
+    },
+    {
+      "id": "understanding-elementary-shapes",
+      "icon": "➗",
+      "title": "Understanding Elementary Shapes",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Understanding Elementary Shapes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Measuring angles",
+        "Triangles classification",
+        "3D shapes"
+      ],
+      "examples": []
+    },
+    {
+      "id": "integers",
+      "icon": "📐",
+      "title": "Integers",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Integers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Opposite numbers",
+        "Add/subtract integers",
+        "Number line moves"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fractions",
+      "icon": "📏",
+      "title": "Fractions",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Fractions\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Types of fractions",
+        "Compare & operate",
+        "Understand the main idea of \"Fractions\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "decimals",
+      "icon": "🧮",
+      "title": "Decimals",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Decimals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Place value",
+        "Operations",
+        "Word problems"
+      ],
+      "examples": []
+    },
+    {
+      "id": "data-handling",
+      "icon": "💰",
+      "title": "Data Handling",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Data Handling\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Pictograph bar graph",
+        "Mean idea",
+        "Understand the main idea of \"Data Handling\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "mensuration",
+      "icon": "⏰",
+      "title": "Mensuration",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Mensuration\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Perimeter",
+        "Area of rectangle/square",
+        "Understand the main idea of \"Mensuration\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "algebra-intro",
+      "icon": "📊",
+      "title": "Algebra Intro",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Algebra Intro\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Variables",
+        "Simple expressions",
+        "Patterns to rules"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ratio-and-proportion-intro",
+      "icon": "🔷",
+      "title": "Ratio and Proportion Intro",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Ratio and Proportion Intro\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Compare quantities",
+        "Unitary method",
+        "Understand the main idea of \"Ratio and Proportion Intro\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "symmetry",
+      "icon": "📈",
+      "title": "Symmetry",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Symmetry\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Line symmetry",
+        "Reflection",
+        "Understand the main idea of \"Symmetry\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "practical-geometry",
+      "icon": "🧩",
+      "title": "Practical Geometry",
+      "explanation": "In CBSE Grade 6 Maths, we explore \"Practical Geometry\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Construct angles & shapes with tools",
+        "Understand the main idea of \"Practical Geometry\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "m6x1",
+      "type": "mcq",
+      "prompt": "7 × 8 = ?",
+      "choices": [
+        "54",
+        "56",
+        "63",
+        "48"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m6x2",
+      "type": "mcq",
+      "prompt": "A square has how many equal sides?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m6x3",
+      "type": "mcq",
+      "prompt": "Perimeter of a rectangle is…",
+      "choices": [
+        "l×b",
+        "2(l+b)",
+        "l+b",
+        "l−b"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m6x4",
+      "type": "mcq",
+      "prompt": "Half of 18 is…",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "m6x5",
+      "type": "mcq",
+      "prompt": "Place value of 5 in 352 is…",
+      "choices": [
+        "5",
+        "50",
+        "500",
+        "35"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m6q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Knowing Our Numbers",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m6q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Knowing Our Numbers\" is:",
+      "choices": [
+        "Indian & international systems",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m6q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Whole Numbers",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m6q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Whole Numbers\" is:",
+      "choices": [
+        "Number line",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m6q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Playing with Numbers",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ],
+  "tables": {
+    "title": "Multiplication Tables",
+    "subtitle": "Keep fluent: tables 1 to 12 up to ×12 — useful for fractions, algebra and speed.",
+    "from": 1,
+    "to": 12,
+    "upto": 12
+  }
+}

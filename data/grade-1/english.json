@@ -1,0 +1,399 @@
+{
+  "title": "English — CBSE Grade 1 Complete",
+  "grade": 1,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "letters-and-sounds",
+      "icon": "📖",
+      "title": "Letters and Sounds",
+      "explanation": "Learn letter shapes and the sounds they usually make when reading aloud.",
+      "points": [
+        "A–Z recognition",
+        "Beginning sounds",
+        "Trace letters carefully"
+      ],
+      "examples": [
+        {
+          "title": "Sound",
+          "problem": "Ball starts with sound…",
+          "steps": [
+            "b"
+          ],
+          "answer": "/b/"
+        }
+      ]
+    },
+    {
+      "id": "simple-words-cvc",
+      "icon": "✏️",
+      "title": "Simple Words (CVC)",
+      "explanation": "Consonant-vowel-consonant words like cat, pen, sun are great early readers.",
+      "points": [
+        "Blend sounds",
+        "Short vowels",
+        "Picture matching"
+      ],
+      "examples": [
+        {
+          "title": "Blend",
+          "problem": "c-a-t makes…",
+          "steps": [
+            "Blend"
+          ],
+          "answer": "cat"
+        }
+      ]
+    },
+    {
+      "id": "sight-words",
+      "icon": "🗣️",
+      "title": "Sight Words",
+      "explanation": "Some words we recognise by sight: I, am, the, is, you, we.",
+      "points": [
+        "Flashcard practice",
+        "Find in sentences",
+        "Use in speaking"
+      ],
+      "examples": [
+        {
+          "title": "Sight",
+          "problem": "Complete: ___ am Numair.",
+          "steps": [
+            "Sight word"
+          ],
+          "answer": "I"
+        }
+      ]
+    },
+    {
+      "id": "naming-words",
+      "icon": "📝",
+      "title": "Naming Words",
+      "explanation": "Nouns name people, places and things we can talk about.",
+      "points": [
+        "Person place thing",
+        "Capital for names",
+        "Point and name"
+      ],
+      "examples": [
+        {
+          "title": "Noun",
+          "problem": "Delhi is a…",
+          "steps": [
+            "Place"
+          ],
+          "answer": "Place name"
+        }
+      ]
+    },
+    {
+      "id": "action-words",
+      "icon": "📚",
+      "title": "Action Words",
+      "explanation": "Verbs show actions: run, jump, read, eat.",
+      "points": [
+        "Act it out",
+        "Present action",
+        "Picture verbs"
+      ],
+      "examples": [
+        {
+          "title": "Verb",
+          "problem": "Birds ___ in the sky.",
+          "steps": [
+            "fly"
+          ],
+          "answer": "fly"
+        }
+      ]
+    },
+    {
+      "id": "this-that-these-those",
+      "icon": "🔤",
+      "title": "This / That / These / Those",
+      "explanation": "Pointing words help us talk about near and far things.",
+      "points": [
+        "This/these near",
+        "That/those far",
+        "Singular plural"
+      ],
+      "examples": [
+        {
+          "title": "Point",
+          "problem": "Book in hand: ___ is my book.",
+          "steps": [
+            "Near"
+          ],
+          "answer": "This"
+        }
+      ]
+    },
+    {
+      "id": "simple-sentences",
+      "icon": "💬",
+      "title": "Simple Sentences",
+      "explanation": "A sentence starts with a capital and often ends with a full stop.",
+      "points": [
+        "Capital start",
+        "Full stop",
+        "Make sense"
+      ],
+      "examples": [
+        {
+          "title": "Write",
+          "problem": "Fix: i like mangoes",
+          "steps": [
+            "Capital & stop"
+          ],
+          "answer": "I like mangoes."
+        }
+      ]
+    },
+    {
+      "id": "rhymes-and-listening",
+      "icon": "✍️",
+      "title": "Rhymes and Listening",
+      "explanation": "Rhymes build music of English and memory for young learners.",
+      "points": [
+        "Listen carefully",
+        "Clap rhythm",
+        "Guess rhyming words"
+      ],
+      "examples": [
+        {
+          "title": "Rhyme",
+          "problem": "Cat rhymes with…",
+          "steps": [
+            "hat"
+          ],
+          "answer": "hat"
+        }
+      ]
+    },
+    {
+      "id": "myself-speaking",
+      "icon": "🎭",
+      "title": "Myself — Speaking",
+      "explanation": "Introduce yourself politely: name, age, school, favourite colour.",
+      "points": [
+        "Eye contact",
+        "Clear voice",
+        "Short sentences"
+      ],
+      "examples": [
+        {
+          "title": "Speak",
+          "problem": "My name is…",
+          "steps": [
+            "Introduction"
+          ],
+          "answer": "Say your name"
+        }
+      ]
+    },
+    {
+      "id": "picture-reading",
+      "icon": "📰",
+      "title": "Picture Reading",
+      "explanation": "Talk about what you see in a picture before reading text.",
+      "points": [
+        "Who what where",
+        "New words",
+        "Full sentence answers"
+      ],
+      "examples": [
+        {
+          "title": "Pic",
+          "problem": "If you see a school bus, where might children go?",
+          "steps": [
+            "School"
+          ],
+          "answer": "To school"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e1x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e1x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e1x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e1x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e1x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e1q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Letters and Sounds",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Letters and Sounds\" is:",
+      "choices": [
+        "A–Z recognition",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Simple Words (CVC)",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Simple Words (CVC)\" is:",
+      "choices": [
+        "Blend sounds",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Sight Words",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Sight Words\" is:",
+      "choices": [
+        "Flashcard practice",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Naming Words",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Naming Words\" is:",
+      "choices": [
+        "Person place thing",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Action Words",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e1q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Action Words\" is:",
+      "choices": [
+        "Act it out",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

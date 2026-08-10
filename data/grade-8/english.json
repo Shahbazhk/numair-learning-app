@@ -1,0 +1,249 @@
+{
+  "title": "English — CBSE Grade 8 Outline",
+  "grade": 8,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "literary-devices",
+      "icon": "📖",
+      "title": "Literary Devices",
+      "explanation": "In CBSE Grade 8 English, we explore \"Literary Devices\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Metaphor simile personification",
+        "Alliteration",
+        "Understand the main idea of \"Literary Devices\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "grammar-consolidation",
+      "icon": "✏️",
+      "title": "Grammar Consolidation",
+      "explanation": "In CBSE Grade 8 English, we explore \"Grammar Consolidation\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Non-finites",
+        "Conditionals intro",
+        "Understand the main idea of \"Grammar Consolidation\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reported-speech-extended",
+      "icon": "🗣️",
+      "title": "Reported Speech Extended",
+      "explanation": "In CBSE Grade 8 English, we explore \"Reported Speech Extended\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Questions commands",
+        "Understand the main idea of \"Reported Speech Extended\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "writing-report-speech",
+      "icon": "📝",
+      "title": "Writing: Report & Speech",
+      "explanation": "In CBSE Grade 8 English, we explore \"Writing: Report & Speech\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Event reports",
+        "Speech format",
+        "Understand the main idea of \"Writing: Report & Speech\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "debate-and-argument",
+      "icon": "📚",
+      "title": "Debate and Argument",
+      "explanation": "In CBSE Grade 8 English, we explore \"Debate and Argument\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "For against",
+        "Evidence",
+        "Understand the main idea of \"Debate and Argument\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "diary-travelogue",
+      "icon": "🔤",
+      "title": "Diary Travelogue",
+      "explanation": "In CBSE Grade 8 English, we explore \"Diary Travelogue\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Descriptive detail",
+        "Understand the main idea of \"Diary Travelogue\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "unseen-poetry",
+      "icon": "💬",
+      "title": "Unseen Poetry",
+      "explanation": "In CBSE Grade 8 English, we explore \"Unseen Poetry\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Central idea",
+        "Poetic devices",
+        "Understand the main idea of \"Unseen Poetry\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "editing-transformation",
+      "icon": "✍️",
+      "title": "Editing & Transformation",
+      "explanation": "In CBSE Grade 8 English, we explore \"Editing & Transformation\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Error correction",
+        "Understand the main idea of \"Editing & Transformation\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "project-presentation-english",
+      "icon": "🎭",
+      "title": "Project Presentation English",
+      "explanation": "In CBSE Grade 8 English, we explore \"Project Presentation English\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Slides talk",
+        "Q&A",
+        "Understand the main idea of \"Project Presentation English\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "media-literacy-light",
+      "icon": "📰",
+      "title": "Media Literacy Light",
+      "explanation": "In CBSE Grade 8 English, we explore \"Media Literacy Light\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Ads bias awareness",
+        "Understand the main idea of \"Media Literacy Light\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "e8x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e8x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e8x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e8x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e8x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e8q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Literary Devices",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e8q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Literary Devices\" is:",
+      "choices": [
+        "Metaphor simile personification",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e8q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Grammar Consolidation",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e8q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Grammar Consolidation\" is:",
+      "choices": [
+        "Non-finites",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e8q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Reported Speech Extended",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

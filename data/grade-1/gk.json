@@ -1,0 +1,399 @@
+{
+  "title": "General Knowledge — CBSE Grade 1 Complete",
+  "grade": 1,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "good-habits",
+      "icon": "🌍",
+      "title": "Good Habits",
+      "explanation": "Brush, bathe, pack bag, say sorry — habits make mornings smoother.",
+      "points": [
+        "Hygiene",
+        "Greeting",
+        "Sharing toys"
+      ],
+      "examples": [
+        {
+          "title": "Habit",
+          "problem": "We brush teeth…",
+          "steps": [
+            "Twice a day idea"
+          ],
+          "answer": "Morning and night"
+        }
+      ]
+    },
+    {
+      "id": "days-and-months",
+      "icon": "🇮🇳",
+      "title": "Days and Months",
+      "explanation": "Seven days; twelve months; birthday months are special!",
+      "points": [
+        "Week order",
+        "Month names",
+        "Today yesterday tomorrow"
+      ],
+      "examples": [
+        {
+          "title": "Week",
+          "problem": "Day after Monday?",
+          "steps": [
+            "Tuesday"
+          ],
+          "answer": "Tuesday"
+        }
+      ]
+    },
+    {
+      "id": "colours-and-shapes-mix",
+      "icon": "🏆",
+      "title": "Colours and Shapes Mix",
+      "explanation": "Name colours in clothes and shapes in traffic signs.",
+      "points": [
+        "Primary colours idea",
+        "Safety sign shapes",
+        "Art time"
+      ],
+      "examples": [
+        {
+          "title": "Stop",
+          "problem": "Stop sign is often…",
+          "steps": [
+            "Octagon/red"
+          ],
+          "answer": "Red"
+        }
+      ]
+    },
+    {
+      "id": "animals-and-babies",
+      "icon": "🌳",
+      "title": "Animals and Babies",
+      "explanation": "Kid, calf, cub, joey — young ones have special names.",
+      "points": [
+        "Farm vs wild",
+        "Sounds",
+        "Care for pets"
+      ],
+      "examples": [
+        {
+          "title": "Baby",
+          "problem": "A baby cat is a…",
+          "steps": [
+            "Kitten"
+          ],
+          "answer": "Kitten"
+        }
+      ]
+    },
+    {
+      "id": "fruits-and-vegetables",
+      "icon": "📅",
+      "title": "Fruits and Vegetables",
+      "explanation": "Energy from natural foods; rainbow plate is fun.",
+      "points": [
+        "Local seasonal",
+        "Wash before eat",
+        "Try one new weekly"
+      ],
+      "examples": [
+        {
+          "title": "Citrus",
+          "problem": "Orange is rich in…",
+          "steps": [
+            "Vitamin C idea"
+          ],
+          "answer": "Vitamin C"
+        }
+      ]
+    },
+    {
+      "id": "india-flag-emblem-light",
+      "icon": "⚽",
+      "title": "India Flag & Emblem Light",
+      "explanation": "Tiranga and the Lion Capital are proud symbols.",
+      "points": [
+        "Saffron white green",
+        "Ashoka Chakra",
+        "Respect rules"
+      ],
+      "examples": [
+        {
+          "title": "Chakra",
+          "problem": "Wheel on flag is…",
+          "steps": [
+            "Ashoka Chakra"
+          ],
+          "answer": "Ashoka Chakra"
+        }
+      ]
+    },
+    {
+      "id": "sky-watch",
+      "icon": "🔬",
+      "title": "Sky Watch",
+      "explanation": "Sun gives day; moon and stars decorate night (safe viewing).",
+      "points": [
+        "Never stare at sun",
+        "Moon changes shape",
+        "Clouds bring rain"
+      ],
+      "examples": [
+        {
+          "title": "Day",
+          "problem": "We see sun mostly in…",
+          "steps": [
+            "Day"
+          ],
+          "answer": "Day"
+        }
+      ]
+    },
+    {
+      "id": "sports-we-play",
+      "icon": "🎨",
+      "title": "Sports We Play",
+      "explanation": "Running, cricket, football — play fair and hydrate.",
+      "points": [
+        "Teamwork",
+        "Warm-up",
+        "Include everyone"
+      ],
+      "examples": [
+        {
+          "title": "Bat",
+          "problem": "Cricket uses bat and…",
+          "steps": [
+            "Ball"
+          ],
+          "answer": "Ball"
+        }
+      ]
+    },
+    {
+      "id": "safety-gk",
+      "icon": "🛰️",
+      "title": "Safety GK",
+      "explanation": "Emergency: know parent phone; never go with strangers.",
+      "points": [
+        "Road look both ways",
+        "Fire: don’t hide",
+        "Tell a trusted adult"
+      ],
+      "examples": [
+        {
+          "title": "Cross",
+          "problem": "Cross at…",
+          "steps": [
+            "Zebra crossing"
+          ],
+          "answer": "Zebra crossing"
+        }
+      ]
+    },
+    {
+      "id": "our-helpers-quiz-bank",
+      "icon": "🏅",
+      "title": "Our Helpers Quiz Bank",
+      "explanation": "Match tools to helpers: stethoscope, chalk, hose, spade.",
+      "points": [
+        "Doctor teacher",
+        "Firefighter farmer",
+        "Respect all"
+      ],
+      "examples": [
+        {
+          "title": "Tool",
+          "problem": "Chalk is for a…",
+          "steps": [
+            "Teacher"
+          ],
+          "answer": "Teacher"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "g1x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g1x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g1x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g1x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g1x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g1q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Good Habits",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Good Habits\" is:",
+      "choices": [
+        "Hygiene",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Days and Months",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Days and Months\" is:",
+      "choices": [
+        "Week order",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Colours and Shapes Mix",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Colours and Shapes Mix\" is:",
+      "choices": [
+        "Primary colours idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Animals and Babies",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Animals and Babies\" is:",
+      "choices": [
+        "Farm vs wild",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Fruits and Vegetables",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g1q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Fruits and Vegetables\" is:",
+      "choices": [
+        "Local seasonal",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

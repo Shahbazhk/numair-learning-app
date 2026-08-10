@@ -1,0 +1,479 @@
+{
+  "title": "Hindi — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "वर्तनी-शुद्धि",
+      "icon": "🔠",
+      "title": "वर्तनी शुद्धि",
+      "explanation": "आम गलतियाँ सुधारें — मात्रा और संयुक्त अक्षर।",
+      "points": [
+        "श्रुतलेख",
+        "शब्द भंडार",
+        "सूची बनाएँ"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"वर्तनी शुद्धि\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to वर्तनी शुद्धि"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"वर्तनी शुद्धि\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "कारक-चिह्न",
+      "icon": "📝",
+      "title": "कारक चिह्न",
+      "explanation": "ने को से के लिए आदि — संबंध बताते हैं।",
+      "points": [
+        "उदाहरण वाक्य",
+        "प्रश्न कौन किसको",
+        "अभ्यास"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"कारक चिह्न\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to कारक चिह्न"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"कारक चिह्न\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "काल-की-पहचान",
+      "icon": "📖",
+      "title": "काल की पहचान",
+      "explanation": "वर्तमान भूत भविष्य — क्रिया रूप बदलना।",
+      "points": [
+        "समय शब्द",
+        "रूप बदलो",
+        "कहानी में काल"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"काल की पहचान\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to काल की पहचान"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"काल की पहचान\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "मुहावरे-शुरुआत",
+      "icon": "🗣️",
+      "title": "मुहावरे शुरुआत",
+      "explanation": "दिनचर्या के सरल मुहावरे अर्थ सहित।",
+      "points": [
+        "अर्थ याद",
+        "वाक्य प्रयोग",
+        "चित्र से जोड़"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"मुहावरे शुरुआत\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to मुहावरे शुरुआत"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"मुहावरे शुरुआत\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "कहानी-लेखन",
+      "icon": "✍️",
+      "title": "कहानी लेखन",
+      "explanation": "आरंभ समस्या समाधान — छोटी मौलिक कहानी।",
+      "points": [
+        "पात्र स्थान",
+        "घटना क्रम",
+        "शिक्षा वैकल्पिक"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"कहानी लेखन\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to कहानी लेखन"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"कहानी लेखन\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "निबंध-१२०-शब्द",
+      "icon": "📘",
+      "title": "निबंध (१२० शब्द)",
+      "explanation": "वृक्षारोपण स्वच्छता त्योहार जैसे विषय।",
+      "points": [
+        "भूमिका निष्कर्ष",
+        "३ बिंदु",
+        "शुद्ध विराम"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"निबंध (१२० शब्द)\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to निबंध (१२० शब्द)"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"निबंध (१२० शब्द)\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "संवाद-लेखन",
+      "icon": "🌟",
+      "title": "संवाद लेखन",
+      "explanation": "दो पात्रों की बातचीत नाटकीय लेकिन विनम्र।",
+      "points": [
+        "नाम लिखें",
+        "प्रश्न उत्तर",
+        "छोटे वाक्य"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"संवाद लेखन\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to संवाद लेखन"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"संवाद लेखन\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "पत्र-परिवार-व-मित्र",
+      "icon": "🎯",
+      "title": "पत्र: परिवार व मित्र",
+      "explanation": "औपचारिक नहीं — स्नेहपूर्ण भाषा।",
+      "points": [
+        "प्रस्थान समाप्ति",
+        "समाचार",
+        "बधाई/धन्यवाद"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"पत्र: परिवार व मित्र\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to पत्र: परिवार व मित्र"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"पत्र: परिवार व मित्र\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "काव्य-पंक्तियाँ",
+      "icon": "💬",
+      "title": "काव्य पंक्तियाँ",
+      "explanation": "छोटी कविता का भावार्थ अपने शब्दों में।",
+      "points": [
+        "केंद्रीय भाव",
+        "अलंकार हल्का",
+        "रस आनंद"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"काव्य पंक्तियाँ\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to काव्य पंक्तियाँ"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"काव्य पंक्तियाँ\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "श्रवण-एवं-मौखिक",
+      "icon": "📚",
+      "title": "श्रवण एवं मौखिक",
+      "explanation": "कक्षा में सुनाकर सार बताना।",
+      "points": [
+        "ध्यान",
+        "नोट्स",
+        "स्पष्ट उच्चारण"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"श्रवण एवं मौखिक\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to श्रवण एवं मौखिक"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"श्रवण एवं मौखिक\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "h4x1",
+      "type": "mcq",
+      "prompt": "‘अ’ है एक…",
+      "choices": [
+        "व्यंजन",
+        "स्वर",
+        "विराम",
+        "संख्या"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h4x2",
+      "type": "mcq",
+      "prompt": "संज्ञा है…",
+      "choices": [
+        "दौड़ना",
+        "पुस्तक",
+        "और",
+        "धीरे"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h4x3",
+      "type": "mcq",
+      "prompt": "धन्यवाद कहना है…",
+      "choices": [
+        "शिष्टाचार",
+        "गुस्सा",
+        "शोर",
+        "खेल नहीं"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4x4",
+      "type": "mcq",
+      "prompt": "विलोम: दिन का उल्टा?",
+      "choices": [
+        "सुबह",
+        "रात",
+        "दोपहर",
+        "साल"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h4x5",
+      "type": "mcq",
+      "prompt": "क्रिया चुनें",
+      "choices": [
+        "लड़का",
+        "खाना",
+        "लाल",
+        "दिल्ली"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "वर्तनी शुद्धि",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"वर्तनी शुद्धि\" is:",
+      "choices": [
+        "श्रुतलेख",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "कारक चिह्न",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"कारक चिह्न\" is:",
+      "choices": [
+        "उदाहरण वाक्य",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "काल की पहचान",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"काल की पहचान\" is:",
+      "choices": [
+        "समय शब्द",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "मुहावरे शुरुआत",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"मुहावरे शुरुआत\" is:",
+      "choices": [
+        "अर्थ याद",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "कहानी लेखन",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"कहानी लेखन\" is:",
+      "choices": [
+        "पात्र स्थान",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

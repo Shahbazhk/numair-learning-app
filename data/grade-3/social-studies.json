@@ -1,0 +1,479 @@
+{
+  "title": "Social Studies — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "our-community-services",
+      "icon": "🏠",
+      "title": "Our Community Services",
+      "explanation": "Post, bank, hospital, transport — public services we use.",
+      "points": [
+        "Locate on local map",
+        "Why taxes help services",
+        "Polite requests"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Our Community Services\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Our Community Services"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Our Community Services\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "means-of-livelihood",
+      "icon": "🏫",
+      "title": "Means of Livelihood",
+      "explanation": "Farming, crafts, shops and offices — people earn in many ways.",
+      "points": [
+        "Respect all work",
+        "Local products",
+        "Gender fair work idea"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Means of Livelihood\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Means of Livelihood"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Means of Livelihood\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "early-cities-travel-stories",
+      "icon": "🇮🇳",
+      "title": "Early Cities & Travel Stories",
+      "explanation": "People travelled for trade and ideas; stories connect places.",
+      "points": [
+        "Trade routes idea",
+        "Why rivers mattered",
+        "Travel then vs now"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Early Cities & Travel Stories\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Early Cities & Travel Stories"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Early Cities & Travel Stories\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "india-states-glimpse",
+      "icon": "🗺️",
+      "title": "India: States Glimpse",
+      "explanation": "India has many states and languages — unity in diversity.",
+      "points": [
+        "Capital New Delhi",
+        "Your state name",
+        "Celebrate diversity"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"India: States Glimpse\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to India: States Glimpse"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"India: States Glimpse\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "landforms-light",
+      "icon": "🏛️",
+      "title": "Landforms Light",
+      "explanation": "Mountains, plains, deserts, coasts — places look different.",
+      "points": [
+        "Himalaya idea",
+        "Plains farming",
+        "Sea shores"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Landforms Light\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Landforms Light"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Landforms Light\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "water-and-rain",
+      "icon": "⚖️",
+      "title": "Water and Rain",
+      "explanation": "Rivers, lakes and rain support life and farming.",
+      "points": [
+        "Do not pollute",
+        "Seasonal rain",
+        "Save freshwater"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Water and Rain\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Water and Rain"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Water and Rain\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "local-history-memory",
+      "icon": "🌏",
+      "title": "Local History Memory",
+      "explanation": "Old buildings, monuments and elders’ stories are living history.",
+      "points": [
+        "Ask elders",
+        "Care for monuments",
+        "Museums"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Local History Memory\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Local History Memory"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Local History Memory\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "rules-laws-fairness",
+      "icon": "🚂",
+      "title": "Rules Laws Fairness",
+      "explanation": "Rules keep games and roads fair; laws protect rights gently introduced.",
+      "points": [
+        "School rules",
+        "Road rules",
+        "Equality idea"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Rules Laws Fairness\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Rules Laws Fairness"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Rules Laws Fairness\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "icon": "👥",
+      "title": "Markets",
+      "explanation": "Buyers and sellers meet; price depends on demand and need somehow.",
+      "points": [
+        "Local haat",
+        "Expiry dates",
+        "Budget small list"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Markets\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Markets"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Markets\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "disaster-preparedness-kids",
+      "icon": "📜",
+      "title": "Disaster Preparedness Kids",
+      "explanation": "Know meeting points and emergency numbers with family.",
+      "points": [
+        "Stay calm",
+        "Adult instructions",
+        "Kit idea"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Disaster Preparedness Kids\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Disaster Preparedness Kids"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Disaster Preparedness Kids\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ss3x1",
+      "type": "mcq",
+      "prompt": "India’s national capital is…",
+      "choices": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss3x2",
+      "type": "mcq",
+      "prompt": "A neighbourhood includes…",
+      "choices": [
+        "Only oceans",
+        "Homes shops people nearby",
+        "Other planets",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss3x3",
+      "type": "mcq",
+      "prompt": "Democracy values people’s…",
+      "choices": [
+        "Silence only",
+        "Participation & votes",
+        "Littering",
+        "Fear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss3x4",
+      "type": "mcq",
+      "prompt": "Maps help us find…",
+      "choices": [
+        "Locations",
+        "Recipes only",
+        "Dreams only",
+        "Nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "ss3x5",
+      "type": "mcq",
+      "prompt": "Saving water is part of…",
+      "choices": [
+        "Earth care",
+        "Wasting",
+        "Ignoring rules",
+        "Pollution"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Our Community Services",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Our Community Services\" is:",
+      "choices": [
+        "Locate on local map",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Means of Livelihood",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Means of Livelihood\" is:",
+      "choices": [
+        "Respect all work",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Early Cities & Travel Stories",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Early Cities & Travel Stories\" is:",
+      "choices": [
+        "Trade routes idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "India: States Glimpse",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"India: States Glimpse\" is:",
+      "choices": [
+        "Capital New Delhi",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Landforms Light",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Landforms Light\" is:",
+      "choices": [
+        "Himalaya idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

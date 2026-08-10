@@ -1,0 +1,292 @@
+{
+  "title": "Maths — CBSE Grade 9 Outline",
+  "grade": 9,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "number-systems",
+      "icon": "🔢",
+      "title": "Number Systems",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Number Systems\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Irrationals",
+        "Real numbers",
+        "Decimal expansions"
+      ],
+      "examples": []
+    },
+    {
+      "id": "polynomials",
+      "icon": "➕",
+      "title": "Polynomials",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Polynomials\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Degree zeros",
+        "Factor & remainder theorems intro",
+        "Understand the main idea of \"Polynomials\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "coordinate-geometry",
+      "icon": "➖",
+      "title": "Coordinate Geometry",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Coordinate Geometry\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Cartesian plane",
+        "Plotting points",
+        "Understand the main idea of \"Coordinate Geometry\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "linear-equations-in-two-variables",
+      "icon": "✖️",
+      "title": "Linear Equations in Two Variables",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Linear Equations in Two Variables\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Solutions as lines",
+        "Graph",
+        "Understand the main idea of \"Linear Equations in Two Variables\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "introduction-to-euclid-s-geometry",
+      "icon": "➗",
+      "title": "Introduction to Euclid’s Geometry",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Introduction to Euclid’s Geometry\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Axioms postulates",
+        "History sense",
+        "Understand the main idea of \"Introduction to Euclid’s Geometry\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "lines-and-angles",
+      "icon": "📐",
+      "title": "Lines and Angles",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Lines and Angles\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Parallel lines proofs ideas",
+        "Understand the main idea of \"Lines and Angles\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "triangles",
+      "icon": "📏",
+      "title": "Triangles",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Triangles\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Congruence",
+        "Inequalities",
+        "Understand the main idea of \"Triangles\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "quadrilaterals",
+      "icon": "🧮",
+      "title": "Quadrilaterals",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Quadrilaterals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Mid-point theorem",
+        "Properties",
+        "Understand the main idea of \"Quadrilaterals\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "circles",
+      "icon": "💰",
+      "title": "Circles",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Circles\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Chords angles",
+        "Cyclic ideas",
+        "Understand the main idea of \"Circles\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "heron-s-formula",
+      "icon": "⏰",
+      "title": "Heron’s Formula",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Heron’s Formula\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Area from 3 sides",
+        "Understand the main idea of \"Heron’s Formula\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "surface-areas-and-volumes",
+      "icon": "📊",
+      "title": "Surface Areas and Volumes",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Surface Areas and Volumes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Cube cuboid cylinder cone sphere",
+        "Understand the main idea of \"Surface Areas and Volumes\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "statistics",
+      "icon": "🔷",
+      "title": "Statistics",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Statistics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Mean median mode",
+        "Presentation",
+        "Understand the main idea of \"Statistics\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "probability",
+      "icon": "📈",
+      "title": "Probability",
+      "explanation": "In CBSE Grade 9 Maths, we explore \"Probability\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Classical probability",
+        "Simple experiments",
+        "Understand the main idea of \"Probability\" for Grade 9"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "m9x1",
+      "type": "mcq",
+      "prompt": "7 × 8 = ?",
+      "choices": [
+        "54",
+        "56",
+        "63",
+        "48"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m9x2",
+      "type": "mcq",
+      "prompt": "A square has how many equal sides?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m9x3",
+      "type": "mcq",
+      "prompt": "Perimeter of a rectangle is…",
+      "choices": [
+        "l×b",
+        "2(l+b)",
+        "l+b",
+        "l−b"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m9x4",
+      "type": "mcq",
+      "prompt": "Half of 18 is…",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "m9x5",
+      "type": "mcq",
+      "prompt": "Place value of 5 in 352 is…",
+      "choices": [
+        "5",
+        "50",
+        "500",
+        "35"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m9q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Number Systems",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m9q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Number Systems\" is:",
+      "choices": [
+        "Irrationals",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m9q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Polynomials",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m9q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Polynomials\" is:",
+      "choices": [
+        "Degree zeros",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m9q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Coordinate Geometry",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ],
+  "tables": {
+    "title": "Multiplication Tables",
+    "subtitle": "Keep fluent: tables 1 to 12 up to ×12 — useful for fractions, algebra and speed.",
+    "from": 1,
+    "to": 12,
+    "upto": 12
+  }
+}

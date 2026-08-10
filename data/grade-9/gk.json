@@ -1,0 +1,249 @@
+{
+  "title": "General Knowledge — CBSE Grade 9 Outline",
+  "grade": 9,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "electoral-constitutional-gk",
+      "icon": "🌍",
+      "title": "Electoral & Constitutional GK",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Electoral & Constitutional GK\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Election Commission",
+        "Amendments feel",
+        "Understand the main idea of \"Electoral & Constitutional GK\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "global-economy-bytes",
+      "icon": "🇮🇳",
+      "title": "Global Economy Bytes",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Global Economy Bytes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "GDP HDI ideas",
+        "Understand the main idea of \"Global Economy Bytes\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "modern-history-chronology",
+      "icon": "🏆",
+      "title": "Modern History Chronology",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Modern History Chronology\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Key years precision",
+        "Understand the main idea of \"Modern History Chronology\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "physical-geography-challenge",
+      "icon": "🌳",
+      "title": "Physical Geography Challenge",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Physical Geography Challenge\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Winds currents soils",
+        "Understand the main idea of \"Physical Geography Challenge\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "science-olympiad-style-mix",
+      "icon": "📅",
+      "title": "Science Olympiad Style Mix",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Science Olympiad Style Mix\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Reasoning facts",
+        "Understand the main idea of \"Science Olympiad Style Mix\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "india-yearbook-habit",
+      "icon": "⚽",
+      "title": "India Yearbook Habit",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"India Yearbook Habit\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Schemes ministries",
+        "Understand the main idea of \"India Yearbook Habit\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "cyber-law-ethics",
+      "icon": "🔬",
+      "title": "Cyber Law Ethics",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Cyber Law Ethics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "IT Act awareness",
+        "Understand the main idea of \"Cyber Law Ethics\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "awards-reports",
+      "icon": "🎨",
+      "title": "Awards & Reports",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Awards & Reports\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Index awareness careful",
+        "Understand the main idea of \"Awards & Reports\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "sports-analytics-light",
+      "icon": "🛰️",
+      "title": "Sports Analytics Light",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Sports Analytics Light\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Records context",
+        "Understand the main idea of \"Sports Analytics Light\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "research-skills-for-gk",
+      "icon": "🏅",
+      "title": "Research Skills for GK",
+      "explanation": "In CBSE Grade 9 General Knowledge, we explore \"Research Skills for GK\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Credible sources",
+        "Understand the main idea of \"Research Skills for GK\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "g9x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g9x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g9x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g9x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g9x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g9q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Electoral & Constitutional GK",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g9q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Electoral & Constitutional GK\" is:",
+      "choices": [
+        "Election Commission",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g9q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Global Economy Bytes",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g9q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Global Economy Bytes\" is:",
+      "choices": [
+        "GDP HDI ideas",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g9q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Modern History Chronology",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

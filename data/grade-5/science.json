@@ -1,0 +1,479 @@
+{
+  "title": "Science / EVS — CBSE Grade 5 Complete",
+  "grade": 5,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "life-cycles",
+      "icon": "🌱",
+      "title": "Life Cycles",
+      "explanation": "Plants and animals pass through stages: seed to plant; egg to adult.",
+      "points": [
+        "Frog & butterfly examples",
+        "Metamorphosis word",
+        "Observe carefully"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Life Cycles\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Life Cycles"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Life Cycles\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "skeletal-muscular-care",
+      "icon": "🔬",
+      "title": "Skeletal & Muscular Care",
+      "explanation": "Bones and muscles work together; posture and calcium matter.",
+      "points": [
+        "Joints allow movement",
+        "Exercise",
+        "Balanced food"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Skeletal & Muscular Care\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Skeletal & Muscular Care"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Skeletal & Muscular Care\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "respiratory-basics",
+      "icon": "⚡",
+      "title": "Respiratory Basics",
+      "explanation": "We breathe oxygen; smoking and dusty air harm lungs.",
+      "points": [
+        "Inhale exhale",
+        "Clean air",
+        "Exercise deep breathing safely"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Respiratory Basics\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Respiratory Basics"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Respiratory Basics\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "water-precious-resource",
+      "icon": "🧪",
+      "title": "Water: Precious Resource",
+      "explanation": "Sources, scarcity and conservation — every drop counts in India.",
+      "points": [
+        "Rainwater harvesting idea",
+        "Leaky taps waste litres",
+        "Clean rivers"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Water: Precious Resource\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Water: Precious Resource"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Water: Precious Resource\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "natural-disasters-awareness",
+      "icon": "🌍",
+      "title": "Natural Disasters Awareness",
+      "explanation": "Know safety ideas for floods, earthquakes and storms without fearmongering.",
+      "points": [
+        "Listen to alerts",
+        "Emergency kit idea",
+        "Help neighbours calmly"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Natural Disasters Awareness\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Natural Disasters Awareness"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Natural Disasters Awareness\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "simple-machines",
+      "icon": "🦴",
+      "title": "Simple Machines",
+      "explanation": "Levers, wheels, inclined planes and pulleys make work easier.",
+      "points": [
+        "See tools as machines",
+        "Fulcrum idea",
+        "Safety first"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Simple Machines\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Simple Machines"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Simple Machines\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "shadows-and-light",
+      "icon": "💧",
+      "title": "Shadows and Light",
+      "explanation": "Opaque objects cast shadows; light travels in straight lines in simple demos.",
+      "points": [
+        "Transparent translucent opaque",
+        "Shadow length changes",
+        "Sun safety"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Shadows and Light\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Shadows and Light"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Shadows and Light\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "earth-moon-sun",
+      "icon": "🌬️",
+      "title": "Earth Moon Sun",
+      "explanation": "Day/night from Earth’s spin; moon shapes change across the month.",
+      "points": [
+        "Rotation",
+        "Phases of moon",
+        "No living on moon like Earth"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Earth Moon Sun\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Earth Moon Sun"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Earth Moon Sun\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "forests-and-wildlife",
+      "icon": "☀️",
+      "title": "Forests and Wildlife",
+      "explanation": "Forests protect soil, climate and animals; national parks guard biodiversity.",
+      "points": [
+        "Food chains",
+        "Do not feed wild animals",
+        "Project Tiger awareness"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Forests and Wildlife\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Forests and Wildlife"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Forests and Wildlife\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "solid-waste-sorting",
+      "icon": "🧲",
+      "title": "Solid Waste Sorting",
+      "explanation": "Separate wet and dry waste; compost kitchen scraps when possible.",
+      "points": [
+        "Bin colours idea",
+        "Plastic reduction",
+        "Compost"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Solid Waste Sorting\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Solid Waste Sorting"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Solid Waste Sorting\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s5x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s5x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s5x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s5x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s5q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Life Cycles",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Life Cycles\" is:",
+      "choices": [
+        "Frog & butterfly examples",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Skeletal & Muscular Care",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Skeletal & Muscular Care\" is:",
+      "choices": [
+        "Joints allow movement",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Respiratory Basics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Respiratory Basics\" is:",
+      "choices": [
+        "Inhale exhale",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Water: Precious Resource",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Water: Precious Resource\" is:",
+      "choices": [
+        "Rainwater harvesting idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Natural Disasters Awareness",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s5q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Natural Disasters Awareness\" is:",
+      "choices": [
+        "Listen to alerts",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

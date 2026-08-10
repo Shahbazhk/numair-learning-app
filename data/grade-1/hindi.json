@@ -1,0 +1,399 @@
+{
+  "title": "Hindi — CBSE Grade 1 Complete",
+  "grade": 1,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "स्वर-पहचान",
+      "icon": "🔠",
+      "title": "स्वर पहचान",
+      "explanation": "हिंदी के स्वर अ आ इ ई उ ऊ ए ऐ ओ औ अं अः से पढ़ना शुरू करते हैं।",
+      "points": [
+        "स्वर स्वतंत्र ध्वनियाँ हैं",
+        "चित्र देखकर बोलें",
+        "लिखने का अभ्यास धीरे-धीरे"
+      ],
+      "examples": [
+        {
+          "title": "स्वर",
+          "problem": "आ से शुरू होने वाला शब्द?",
+          "steps": [
+            "आम"
+          ],
+          "answer": "आम"
+        }
+      ]
+    },
+    {
+      "id": "व्यंजन-परिचय",
+      "icon": "📝",
+      "title": "व्यंजन परिचय",
+      "explanation": "क ख ग जैसी ध्वनियाँ व्यंजन हैं। स्वर मिलाकर शब्द बनते हैं।",
+      "points": [
+        "क वर्ग आदि क्रम से",
+        "हवा छोड़कर बोलें",
+        "जोड़कर दो अक्षर शब्द"
+      ],
+      "examples": [
+        {
+          "title": "अक्षर",
+          "problem": "क + अ = ?",
+          "steps": [
+            "क"
+          ],
+          "answer": "क"
+        }
+      ]
+    },
+    {
+      "id": "मात्राएँ-प्रारम्भ",
+      "icon": "📖",
+      "title": "मात्राएँ प्रारम्भ",
+      "explanation": "मात्रा से व्यंजन की ध्वनि बदलती है — का, कि, की जैसे रूप।",
+      "points": [
+        "आ की मात्रा ा",
+        "इ/ई मात्रा",
+        "उ/ऊ मात्रा"
+      ],
+      "examples": [
+        {
+          "title": "मात्रा",
+          "problem": "म् + आ = ?",
+          "steps": [
+            "मा"
+          ],
+          "answer": "मा"
+        }
+      ]
+    },
+    {
+      "id": "दो-और-तीन-अक्षर-शब्द",
+      "icon": "🗣️",
+      "title": "दो और तीन अक्षर शब्द",
+      "explanation": "सरल शब्द पढ़ें: कलम, पानी, घर, आम।",
+      "points": [
+        "चित्र से जोड़ें",
+        "ज़ोर से पढ़ें",
+        "वाक्य में बोलें"
+      ],
+      "examples": [
+        {
+          "title": "शब्द",
+          "problem": "पीने वाली वस्तु?",
+          "steps": [
+            "पानी"
+          ],
+          "answer": "पानी"
+        }
+      ]
+    },
+    {
+      "id": "मेरा-परिचय",
+      "icon": "✍️",
+      "title": "मेरा परिचय",
+      "explanation": "अपना नाम, उम्र और कक्षा सरल वाक्यों में बताएँ।",
+      "points": [
+        "मैं … हूँ",
+        "मेरा नाम …",
+        "नमस्ते कहना"
+      ],
+      "examples": [
+        {
+          "title": "वाक्य",
+          "problem": "नमस्ते के बाद क्या कहते हैं?",
+          "steps": [
+            "अपना नाम"
+          ],
+          "answer": "अपना नाम"
+        }
+      ]
+    },
+    {
+      "id": "संज्ञा-शुरुआत",
+      "icon": "📘",
+      "title": "संज्ञा शुरुआत",
+      "explanation": "व्यक्ति, वस्तु और जगह के नाम संज्ञा कहलाते हैं।",
+      "points": [
+        "लड़का पुस्तक दिल्ली",
+        "नाम की पहचान",
+        "चित्रों से छाँटें"
+      ],
+      "examples": [
+        {
+          "title": "संज्ञा",
+          "problem": "किताब है एक…",
+          "steps": [
+            "वस्तु"
+          ],
+          "answer": "संज्ञा"
+        }
+      ]
+    },
+    {
+      "id": "क्रिया-शुरुआत",
+      "icon": "🌟",
+      "title": "क्रिया शुरुआत",
+      "explanation": "करना, खाना, दौड़ना जैसी क्रियाओं से हम काम बताते हैं।",
+      "points": [
+        "काम के शब्द",
+        "आओ दिखाओ",
+        "आज क्या कर रहे हो"
+      ],
+      "examples": [
+        {
+          "title": "क्रिया",
+          "problem": "राम फल … है।",
+          "steps": [
+            "खा"
+          ],
+          "answer": "खा रहा"
+        }
+      ]
+    },
+    {
+      "id": "छोटी-कविता-बाल-गीत",
+      "icon": "🎯",
+      "title": "छोटी कविता / बाल गीत",
+      "explanation": "तुक वाले बाल गीत सुनकर दोहराएँ — याददाश्त और लय बढ़ती है।",
+      "points": [
+        "ताल से ताली",
+        "नये शब्द",
+        "अर्थ सरल भाषा में"
+      ],
+      "examples": [
+        {
+          "title": "लय",
+          "problem": "कविता में तुक क्यों?",
+          "steps": [
+            "सुनने में अच्छा"
+          ],
+          "answer": "लय/तुक"
+        }
+      ]
+    },
+    {
+      "id": "सदाचार-शब्द",
+      "icon": "💬",
+      "title": "सदाचार शब्द",
+      "explanation": "धन्यवाद, क्षमा कीजिए, कृपया — शिष्टाचार के शब्द।",
+      "points": [
+        "कृपया बोलें",
+        "बड़ों का आदर",
+        "माफ़ी माँगना"
+      ],
+      "examples": [
+        {
+          "title": "शिष्टाचार",
+          "problem": "मदद पर क्या कहें?",
+          "steps": [
+            "धन्यवाद"
+          ],
+          "answer": "धन्यवाद"
+        }
+      ]
+    },
+    {
+      "id": "चित्र-वर्णन",
+      "icon": "📚",
+      "title": "चित्र वर्णन",
+      "explanation": "एक चित्र देखकर दो-तीन सरल वाक्य बोलें या लिखें।",
+      "points": [
+        "कौन क्या कहाँ",
+        "रंग बताएँ",
+        "पूरा वाक्य"
+      ],
+      "examples": [
+        {
+          "title": "चित्र",
+          "problem": "बगीचे में फूल हैं — यह वाक्य क्या करता है?",
+          "steps": [
+            "वर्णन"
+          ],
+          "answer": "वर्णन"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "h1x1",
+      "type": "mcq",
+      "prompt": "‘अ’ है एक…",
+      "choices": [
+        "व्यंजन",
+        "स्वर",
+        "विराम",
+        "संख्या"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h1x2",
+      "type": "mcq",
+      "prompt": "संज्ञा है…",
+      "choices": [
+        "दौड़ना",
+        "पुस्तक",
+        "और",
+        "धीरे"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h1x3",
+      "type": "mcq",
+      "prompt": "धन्यवाद कहना है…",
+      "choices": [
+        "शिष्टाचार",
+        "गुस्सा",
+        "शोर",
+        "खेल नहीं"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1x4",
+      "type": "mcq",
+      "prompt": "विलोम: दिन का उल्टा?",
+      "choices": [
+        "सुबह",
+        "रात",
+        "दोपहर",
+        "साल"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h1x5",
+      "type": "mcq",
+      "prompt": "क्रिया चुनें",
+      "choices": [
+        "लड़का",
+        "खाना",
+        "लाल",
+        "दिल्ली"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h1q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "स्वर पहचान",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"स्वर पहचान\" is:",
+      "choices": [
+        "स्वर स्वतंत्र ध्वनियाँ हैं",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "व्यंजन परिचय",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"व्यंजन परिचय\" is:",
+      "choices": [
+        "क वर्ग आदि क्रम से",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "मात्राएँ प्रारम्भ",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"मात्राएँ प्रारम्भ\" is:",
+      "choices": [
+        "आ की मात्रा ा",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "दो और तीन अक्षर शब्द",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"दो और तीन अक्षर शब्द\" is:",
+      "choices": [
+        "चित्र से जोड़ें",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "मेरा परिचय",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h1q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"मेरा परिचय\" is:",
+      "choices": [
+        "मैं … हूँ",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

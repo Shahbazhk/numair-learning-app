@@ -1,0 +1,479 @@
+{
+  "title": "English — CBSE Grade 5 Complete",
+  "grade": 5,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "advanced-vocabulary",
+      "icon": "📖",
+      "title": "Advanced Vocabulary",
+      "explanation": "Prefixes/suffixes and synonyms/antonyms expand word power.",
+      "points": [
+        "un- re- -ful -less",
+        "Thesaurus carefully",
+        "Use in sentences"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Advanced Vocabulary\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Advanced Vocabulary"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Advanced Vocabulary\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "subject-verb-agreement",
+      "icon": "✏️",
+      "title": "Subject–Verb Agreement",
+      "explanation": "Singular subjects need singular verbs: He runs; They run.",
+      "points": [
+        "Watch for is/are",
+        "Collective nouns care",
+        "Nearby nouns trap"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Subject–Verb Agreement\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Subject–Verb Agreement"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Subject–Verb Agreement\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "perfecting-tenses",
+      "icon": "🗣️",
+      "title": "Perfecting Tenses",
+      "explanation": "Present perfect idea (have/has + V3) for experiences; revise all simple tenses.",
+      "points": [
+        "Time expressions",
+        "Irregular verbs list",
+        "Mixed practice"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Perfecting Tenses\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Perfecting Tenses"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Perfecting Tenses\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "active-voice-clarity",
+      "icon": "📝",
+      "title": "Active Voice Clarity",
+      "explanation": "Clear who does what; keep sentences direct for primary writing.",
+      "points": [
+        "Doer + action + object",
+        "Cut fluff",
+        "Strong verbs"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Active Voice Clarity\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Active Voice Clarity"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Active Voice Clarity\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "figurative-language-intro",
+      "icon": "📚",
+      "title": "Figurative Language Intro",
+      "explanation": "Simile (as/like) and simple metaphors brighten descriptions.",
+      "points": [
+        "as brave as…",
+        "Do not overdo",
+        "Picture the image"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Figurative Language Intro\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Figurative Language Intro"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Figurative Language Intro\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "reading-strategies",
+      "icon": "🔤",
+      "title": "Reading Strategies",
+      "explanation": "Skim for gist, scan for details, infer from clues.",
+      "points": [
+        "Main idea",
+        "Inference",
+        "Author’s purpose light"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Reading Strategies\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Reading Strategies"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Reading Strategies\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "report-notice-writing",
+      "icon": "💬",
+      "title": "Report & Notice Writing",
+      "explanation": "Short school notices and factual event reports with headings.",
+      "points": [
+        "Who what when where",
+        "Formal tone",
+        "Clear format"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Report & Notice Writing\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Report & Notice Writing"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Report & Notice Writing\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "essay-building",
+      "icon": "✍️",
+      "title": "Essay Building",
+      "explanation": "Plan introduction, 2–3 body points, conclusion for 150–200 words.",
+      "points": [
+        "Outline first",
+        "Linkers firstly finally",
+        "Revise"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Essay Building\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Essay Building"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Essay Building\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "dialogue-writing",
+      "icon": "🎭",
+      "title": "Dialogue Writing",
+      "explanation": "Natural conversations with correct speech punctuation.",
+      "points": [
+        "New speaker new line",
+        "Quotation marks",
+        "Keep short"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Dialogue Writing\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Dialogue Writing"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Dialogue Writing\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "listening-speaking-skills",
+      "icon": "📰",
+      "title": "Listening & Speaking Skills",
+      "explanation": "Summarise a classmate’s talk; ask polite follow-up questions.",
+      "points": [
+        "Active listening",
+        "Notes",
+        "Courteous phrases"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Listening & Speaking Skills\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Listening & Speaking Skills"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Listening & Speaking Skills\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e5x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e5x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e5x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e5x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e5x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e5q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Advanced Vocabulary",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Advanced Vocabulary\" is:",
+      "choices": [
+        "un- re- -ful -less",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Subject–Verb Agreement",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Subject–Verb Agreement\" is:",
+      "choices": [
+        "Watch for is/are",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Perfecting Tenses",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Perfecting Tenses\" is:",
+      "choices": [
+        "Time expressions",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Active Voice Clarity",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Active Voice Clarity\" is:",
+      "choices": [
+        "Doer + action + object",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Figurative Language Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e5q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Figurative Language Intro\" is:",
+      "choices": [
+        "as brave as…",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

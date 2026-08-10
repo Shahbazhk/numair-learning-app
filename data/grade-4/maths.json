@@ -1,0 +1,406 @@
+{
+  "title": "Maths — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "large-numbers",
+      "icon": "🔢",
+      "title": "Large Numbers & Indian Place Value",
+      "explanation": "Indian system uses ones, tens, hundreds, thousands, ten thousands, lakhs. Commas help reading.",
+      "points": [
+        "Read numbers in Indian system",
+        "Compare and order large numbers",
+        "Roman numerals basics (I–XX and beyond as needed)"
+      ],
+      "examples": [
+        {
+          "title": "Read",
+          "problem": "Write 45027 in words (Indian)",
+          "steps": [
+            "Forty-five thousand twenty-seven"
+          ],
+          "answer": "45027 → forty-five thousand twenty-seven"
+        }
+      ]
+    },
+    {
+      "id": "ops-4",
+      "icon": "➕",
+      "title": "Operations with Larger Numbers",
+      "explanation": "Fluent + − × ÷ with multi-digit numbers and sensible estimation.",
+      "points": [
+        "Estimate before exact answer",
+        "Multiplication by 2-digit numbers",
+        "Long division steps"
+      ],
+      "examples": [
+        {
+          "title": "Est",
+          "problem": "Estimate 48 × 21",
+          "steps": [
+            "≈50×20=1000"
+          ],
+          "answer": "About 1000"
+        }
+      ]
+    },
+    {
+      "id": "factors-multiples",
+      "icon": "➖",
+      "title": "Factors and Multiples",
+      "explanation": "Factors divide a number exactly. Multiples are products of a number with whole numbers.",
+      "points": [
+        "List factors in pairs",
+        "Common factors",
+        "Multiples never end for counting numbers"
+      ],
+      "examples": [
+        {
+          "title": "Factors",
+          "problem": "Factors of 12?",
+          "steps": [
+            "1×12, 2×6, 3×4"
+          ],
+          "answer": "1,2,3,4,6,12"
+        }
+      ]
+    },
+    {
+      "id": "fractions-4",
+      "icon": "✖️",
+      "title": "Fractions: Like and Unlike",
+      "explanation": "Like fractions share denominators. Compare, add and subtract like fractions; introduce equivalents.",
+      "points": [
+        "Numerator / denominator",
+        "Equivalent fractions",
+        "Add like fractions by adding numerators"
+      ],
+      "examples": [
+        {
+          "title": "Add",
+          "problem": "1/5 + 2/5",
+          "steps": [
+            "Same denominator"
+          ],
+          "answer": "3/5"
+        }
+      ]
+    },
+    {
+      "id": "decimals-intro",
+      "icon": "➗",
+      "title": "Decimals Introduction",
+      "explanation": "Tenths and hundredths extend place value to the right of the decimal point.",
+      "points": [
+        "0.1 is one tenth",
+        "Money uses two decimal places",
+        "Compare decimals carefully"
+      ],
+      "examples": [
+        {
+          "title": "Money",
+          "problem": "₹12.50 means 12 rupees and…",
+          "steps": [
+            "50 paise"
+          ],
+          "answer": "50 paise"
+        }
+      ]
+    },
+    {
+      "id": "geometry-4",
+      "icon": "📐",
+      "title": "Angles, Circles and Perimeter",
+      "explanation": "Angles are turns; perimeter is the boundary length around a shape.",
+      "points": [
+        "Right, acute, obtuse ideas",
+        "Radius and diameter of circle",
+        "Perimeter of rectangle = 2(l+b)"
+      ],
+      "examples": [
+        {
+          "title": "Perim",
+          "problem": "Rectangle 5 cm by 3 cm perimeter?",
+          "steps": [
+            "2(5+3)"
+          ],
+          "answer": "16 cm"
+        }
+      ]
+    },
+    {
+      "id": "area-4",
+      "icon": "📏",
+      "title": "Area of Rectangles",
+      "explanation": "Area covers the inside. Count unit squares or use length × breadth.",
+      "points": [
+        "Unit squares",
+        "Area = l × b for rectangles",
+        "Same perimeter can give different areas"
+      ],
+      "examples": [
+        {
+          "title": "Tile",
+          "problem": "4 by 3 unit square tiles cover…",
+          "steps": [
+            "4×3"
+          ],
+          "answer": "12 square units"
+        }
+      ]
+    },
+    {
+      "id": "measure-4",
+      "icon": "🧮",
+      "title": "Measurement Conversions",
+      "explanation": "Convert between common metric units for length, mass and capacity.",
+      "points": [
+        "100 cm = 1 m",
+        "1000 g = 1 kg",
+        "1000 ml = 1 L"
+      ],
+      "examples": [
+        {
+          "title": "Conv",
+          "problem": "3 m = ? cm",
+          "steps": [
+            "×100"
+          ],
+          "answer": "300 cm"
+        }
+      ]
+    },
+    {
+      "id": "data-4",
+      "icon": "💰",
+      "title": "Bar Graphs",
+      "explanation": "Bar graphs compare quantities with a clear scale on an axis.",
+      "points": [
+        "Read scale",
+        "Compare tallest/shortest bars",
+        "Create a simple bar chart from a tally"
+      ],
+      "examples": [
+        {
+          "title": "Scale",
+          "problem": "If scale is 1 cm = 5 books and bar is 4 cm, books = ?",
+          "steps": [
+            "4×5"
+          ],
+          "answer": "20"
+        }
+      ]
+    },
+    {
+      "id": "symmetry-patterns-4",
+      "icon": "⏰",
+      "title": "Symmetry and Number Patterns",
+      "explanation": "Explore reflection symmetry and growing number patterns for problem solving.",
+      "points": [
+        "Lines of symmetry",
+        "Odd/even patterns",
+        "Rules with × and +"
+      ],
+      "examples": [
+        {
+          "title": "Rule",
+          "problem": "3, 6, 12, 24… rule?",
+          "steps": [
+            "×2 each time"
+          ],
+          "answer": "Multiply by 2"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m4x1",
+      "type": "mcq",
+      "prompt": "7 × 8 = ?",
+      "choices": [
+        "54",
+        "56",
+        "63",
+        "48"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m4x2",
+      "type": "mcq",
+      "prompt": "A square has how many equal sides?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m4x3",
+      "type": "mcq",
+      "prompt": "Perimeter of a rectangle is…",
+      "choices": [
+        "l×b",
+        "2(l+b)",
+        "l+b",
+        "l−b"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m4x4",
+      "type": "mcq",
+      "prompt": "Half of 18 is…",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "m4x5",
+      "type": "mcq",
+      "prompt": "Place value of 5 in 352 is…",
+      "choices": [
+        "5",
+        "50",
+        "500",
+        "35"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Large Numbers & Indian Place Value",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Large Numbers & Indian Place Value\" is:",
+      "choices": [
+        "Read numbers in Indian system",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Operations with Larger Numbers",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Operations with Larger Numbers\" is:",
+      "choices": [
+        "Estimate before exact answer",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Factors and Multiples",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Factors and Multiples\" is:",
+      "choices": [
+        "List factors in pairs",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Fractions: Like and Unlike",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Fractions: Like and Unlike\" is:",
+      "choices": [
+        "Numerator / denominator",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Decimals Introduction",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Decimals Introduction\" is:",
+      "choices": [
+        "0.1 is one tenth",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ],
+  "tables": {
+    "title": "Multiplication Tables",
+    "subtitle": "Practice tables 1 to 12 — each table goes up to ×12.",
+    "from": 1,
+    "to": 12,
+    "upto": 12
+  }
+}

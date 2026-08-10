@@ -1,0 +1,479 @@
+{
+  "title": "English — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "phonics-revision-spelling",
+      "icon": "📖",
+      "title": "Phonics Revision & Spelling",
+      "explanation": "Blend digraphs (sh, ch, th) and practise weekly spellings.",
+      "points": [
+        "Digraphs",
+        "Silent e intro",
+        "Dictation"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Phonics Revision & Spelling\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Phonics Revision & Spelling"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Phonics Revision & Spelling\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "nouns-common-and-proper",
+      "icon": "✏️",
+      "title": "Nouns: Common and Proper",
+      "explanation": "Proper nouns need capitals; common nouns are general names.",
+      "points": [
+        "Capital rules",
+        "Collective nouns intro",
+        "Gender words light"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Nouns: Common and Proper\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Nouns: Common and Proper"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Nouns: Common and Proper\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "pronouns",
+      "icon": "🗣️",
+      "title": "Pronouns",
+      "explanation": "He, she, it, they replace nouns to avoid repetition.",
+      "points": [
+        "Subject pronouns",
+        "Match number",
+        "Clear reference"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Pronouns\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Pronouns"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Pronouns\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "verbs-and-tenses-intro",
+      "icon": "📝",
+      "title": "Verbs and Tenses Intro",
+      "explanation": "Present and past forms: play/played; is/was.",
+      "points": [
+        "Today vs yesterday",
+        "am/is/are",
+        "Simple past -ed"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Verbs and Tenses Intro\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Verbs and Tenses Intro"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Verbs and Tenses Intro\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "icon": "📚",
+      "title": "Adjectives",
+      "explanation": "Describing words make writing colourful: big, soft, brave.",
+      "points": [
+        "Size colour feeling",
+        "Order sense",
+        "Opposites"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Adjectives\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Adjectives"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Adjectives\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "articles-a-an-the",
+      "icon": "🔤",
+      "title": "Articles a/an/the",
+      "explanation": "Use a/an for one non-specific; the for specific things.",
+      "points": [
+        "an before vowel sound",
+        "the for unique",
+        "Practice sentences"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Articles a/an/the\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Articles a/an/the"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Articles a/an/the\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "prepositions",
+      "icon": "💬",
+      "title": "Prepositions",
+      "explanation": "in, on, under, behind, between show position.",
+      "points": [
+        "Classroom hunt",
+        "Picture placement",
+        "Write 5 sentences"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Prepositions\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Prepositions"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Prepositions\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "sentence-types",
+      "icon": "✍️",
+      "title": "Sentence Types",
+      "explanation": "Statements, questions and exclamations use different end marks.",
+      "points": [
+        ". ? !",
+        "Question words",
+        "Excitement mark"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Sentence Types\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Sentence Types"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Sentence Types\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "comprehension",
+      "icon": "🎭",
+      "title": "Comprehension",
+      "explanation": "Read a short paragraph and answer who/what/where/why.",
+      "points": [
+        "Main idea",
+        "Detail hunt",
+        "Vocabulary in context"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Comprehension\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Comprehension"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Comprehension\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "creative-writing-seeds",
+      "icon": "📰",
+      "title": "Creative Writing Seeds",
+      "explanation": "Write 4–6 sentences about a festival, pet or picnic.",
+      "points": [
+        "Plan then write",
+        "Check capitals",
+        "Add adjectives"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Creative Writing Seeds\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Creative Writing Seeds"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Creative Writing Seeds\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e3x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e3x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e3x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e3x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e3x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Phonics Revision & Spelling",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Phonics Revision & Spelling\" is:",
+      "choices": [
+        "Digraphs",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Nouns: Common and Proper",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Nouns: Common and Proper\" is:",
+      "choices": [
+        "Capital rules",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Pronouns",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Pronouns\" is:",
+      "choices": [
+        "Subject pronouns",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Verbs and Tenses Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Verbs and Tenses Intro\" is:",
+      "choices": [
+        "Today vs yesterday",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Adjectives",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Adjectives\" is:",
+      "choices": [
+        "Size colour feeling",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

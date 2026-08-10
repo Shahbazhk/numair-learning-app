@@ -1,0 +1,442 @@
+{
+  "title": "Maths — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "numbers-10000",
+      "icon": "🔢",
+      "title": "Numbers up to 10000",
+      "explanation": "Read, write and compare 4-digit numbers. Place value now includes thousands.",
+      "points": [
+        "Thousands-hundreds-tens-ones",
+        "Expanded form",
+        "Compare digit by digit from the left",
+        "Skip count by 50s and 100s"
+      ],
+      "examples": [
+        {
+          "title": "Compare",
+          "problem": "Which is greater: 3456 or 3546?",
+          "steps": [
+            "Thousands same; hundreds 4 < 5"
+          ],
+          "answer": "3546"
+        },
+        {
+          "title": "Expand",
+          "problem": "Expand 5027",
+          "steps": [
+            "5 thousands, 0 hundreds, 2 tens, 7 ones"
+          ],
+          "answer": "5000+20+7"
+        }
+      ]
+    },
+    {
+      "id": "add-sub-4",
+      "icon": "➕",
+      "title": "Addition & Subtraction (4-digit)",
+      "explanation": "Add and subtract large numbers column-wise with carrying and borrowing.",
+      "points": [
+        "Align place values",
+        "Carry when ≥10",
+        "Borrow when needed",
+        "Estimate first for sense-check"
+      ],
+      "examples": [
+        {
+          "title": "Add",
+          "problem": "1234 + 2567",
+          "steps": [
+            "Ones to thousands carefully"
+          ],
+          "answer": "3801"
+        },
+        {
+          "title": "Sub",
+          "problem": "5000 − 1284",
+          "steps": [
+            "Borrow across zeros"
+          ],
+          "answer": "3716"
+        }
+      ]
+    },
+    {
+      "id": "multiply-intro",
+      "icon": "➖",
+      "title": "Multiplication Basics",
+      "explanation": "Multiplication is repeated addition. Tables make products faster.",
+      "points": [
+        "a×b means a groups of b",
+        "Order can swap",
+        "Use tables daily",
+        "Word problems: each / times"
+      ],
+      "examples": [
+        {
+          "title": "Boxes",
+          "problem": "4 boxes with 6 pencils each",
+          "steps": [
+            "4×6"
+          ],
+          "answer": "24"
+        },
+        {
+          "title": "Table",
+          "problem": "7 × 8 = ?",
+          "steps": [
+            "Know table of 7"
+          ],
+          "answer": "56"
+        }
+      ]
+    },
+    {
+      "id": "divide-intro",
+      "icon": "✖️",
+      "title": "Division Basics",
+      "explanation": "Division shares equally or groups into equal sets. Relate to multiplication.",
+      "points": [
+        "÷ means equal share",
+        "Remainder when not exact",
+        "Check: quotient×divisor + remainder = dividend"
+      ],
+      "examples": [
+        {
+          "title": "Share",
+          "problem": "12 sweets among 3 children",
+          "steps": [
+            "12÷3"
+          ],
+          "answer": "4 each"
+        },
+        {
+          "title": "Remain",
+          "problem": "17 ÷ 5",
+          "steps": [
+            "3 groups of 5, remainder 2"
+          ],
+          "answer": "3 R2"
+        }
+      ]
+    },
+    {
+      "id": "fractions-half",
+      "icon": "➗",
+      "title": "Fractions: Halves and Quarters",
+      "explanation": "A fraction names equal parts of a whole. Half is 1 of 2 equal parts; quarter is 1 of 4.",
+      "points": [
+        "Equal parts matter",
+        "1/2 + 1/2 = 1",
+        "Shade shapes to show fractions"
+      ],
+      "examples": [
+        {
+          "title": "Pizza",
+          "problem": "Pizza cut into 2 equal parts: one part is…",
+          "steps": [
+            "Two equal shares"
+          ],
+          "answer": "1/2"
+        }
+      ]
+    },
+    {
+      "id": "geometry-3",
+      "icon": "📐",
+      "title": "2D and 3D Shapes",
+      "explanation": "Flat shapes (2D) and solid shapes (3D) appear all around school and home.",
+      "points": [
+        "2D: square, rectangle, circle, triangle",
+        "3D: cube, cuboid, sphere, cylinder, cone",
+        "Faces, edges, corners on solids"
+      ],
+      "examples": [
+        {
+          "title": "Ball",
+          "problem": "A football looks like a…",
+          "steps": [
+            "Round solid"
+          ],
+          "answer": "Sphere"
+        }
+      ]
+    },
+    {
+      "id": "measure-3",
+      "icon": "📏",
+      "title": "Length, Weight and Capacity",
+      "explanation": "We measure with standard units: centimetre/metre, gram/kilogram, millilitre/litre.",
+      "points": [
+        "cm and m for length",
+        "g and kg for weight",
+        "ml and L for liquids",
+        "Choose suitable units"
+      ],
+      "examples": [
+        {
+          "title": "Bottle",
+          "problem": "A water bottle often holds about…",
+          "steps": [
+            "Roughly 1 litre sense"
+          ],
+          "answer": "1 L (approx)"
+        }
+      ]
+    },
+    {
+      "id": "money-time-3",
+      "icon": "🧮",
+      "title": "Money and Time",
+      "explanation": "Rupees and paise; reading clock hours and half hours supports daily planning.",
+      "points": [
+        "Convert paise when needed",
+        "Hour and half-past",
+        "Calendar: days and months"
+      ],
+      "examples": [
+        {
+          "title": "Clock",
+          "problem": "Clock shows 3:30. It is half past…",
+          "steps": [
+            "Minute hand on 6"
+          ],
+          "answer": "3"
+        }
+      ]
+    },
+    {
+      "id": "data-3",
+      "icon": "💰",
+      "title": "Pictographs and Bar Sense",
+      "explanation": "Pictures or simple bars show data. Always read the key (what one symbol means).",
+      "points": [
+        "Read the title and key",
+        "Count symbols carefully",
+        "Answer how many more/less"
+      ],
+      "examples": [
+        {
+          "title": "Fruits",
+          "problem": "If ★ = 2 apples and you see 3 stars, apples = ?",
+          "steps": [
+            "3×2"
+          ],
+          "answer": "6"
+        }
+      ]
+    },
+    {
+      "id": "patterns-symm",
+      "icon": "⏰",
+      "title": "Patterns and Symmetry",
+      "explanation": "Continue number and shape patterns. Line symmetry mirrors halves of a shape.",
+      "points": [
+        "Find the rule",
+        "Fold test for symmetry",
+        "Nature shows many symmetries"
+      ],
+      "examples": [
+        {
+          "title": "Seq",
+          "problem": "2, 4, 6, 8, ___",
+          "steps": [
+            "Add 2 each time"
+          ],
+          "answer": "10"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "m3x1",
+      "type": "mcq",
+      "prompt": "7 × 8 = ?",
+      "choices": [
+        "54",
+        "56",
+        "63",
+        "48"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m3x2",
+      "type": "mcq",
+      "prompt": "A square has how many equal sides?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m3x3",
+      "type": "mcq",
+      "prompt": "Perimeter of a rectangle is…",
+      "choices": [
+        "l×b",
+        "2(l+b)",
+        "l+b",
+        "l−b"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m3x4",
+      "type": "mcq",
+      "prompt": "Half of 18 is…",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "m3x5",
+      "type": "mcq",
+      "prompt": "Place value of 5 in 352 is…",
+      "choices": [
+        "5",
+        "50",
+        "500",
+        "35"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Numbers up to 10000",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Numbers up to 10000\" is:",
+      "choices": [
+        "Thousands-hundreds-tens-ones",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Addition & Subtraction (4-digit)",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Addition & Subtraction (4-digit)\" is:",
+      "choices": [
+        "Align place values",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Multiplication Basics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Multiplication Basics\" is:",
+      "choices": [
+        "a×b means a groups of b",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Division Basics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Division Basics\" is:",
+      "choices": [
+        "÷ means equal share",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Fractions: Halves and Quarters",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Fractions: Halves and Quarters\" is:",
+      "choices": [
+        "Equal parts matter",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ],
+  "tables": {
+    "title": "Multiplication Tables",
+    "subtitle": "Practice tables 1 to 12 — each table goes up to ×12.",
+    "from": 1,
+    "to": 12,
+    "upto": 12
+  }
+}

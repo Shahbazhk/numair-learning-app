@@ -1,0 +1,304 @@
+{
+  "title": "Maths — CBSE Grade 8 Outline",
+  "grade": 8,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "rational-numbers",
+      "icon": "🔢",
+      "title": "Rational Numbers",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Rational Numbers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Properties",
+        "Operations on rationals",
+        "Understand the main idea of \"Rational Numbers\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "linear-equations-in-one-variable",
+      "icon": "➕",
+      "title": "Linear Equations in One Variable",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Linear Equations in One Variable\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Solve & apply",
+        "Word problems",
+        "Understand the main idea of \"Linear Equations in One Variable\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "understanding-quadrilaterals",
+      "icon": "➖",
+      "title": "Understanding Quadrilaterals",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Understanding Quadrilaterals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Parallelogram properties",
+        "Special quads",
+        "Understand the main idea of \"Understanding Quadrilaterals\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "practical-geometry",
+      "icon": "✖️",
+      "title": "Practical Geometry",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Practical Geometry\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Construct quadrilaterals",
+        "Understand the main idea of \"Practical Geometry\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "data-handling",
+      "icon": "➗",
+      "title": "Data Handling",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Data Handling\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Grouped data",
+        "Probability basics",
+        "Pie charts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "squares-and-square-roots",
+      "icon": "📐",
+      "title": "Squares and Square Roots",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Squares and Square Roots\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Perfect squares",
+        "Find square roots",
+        "Understand the main idea of \"Squares and Square Roots\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "cubes-and-cube-roots",
+      "icon": "📏",
+      "title": "Cubes and Cube Roots",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Cubes and Cube Roots\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Perfect cubes",
+        "Cube roots",
+        "Understand the main idea of \"Cubes and Cube Roots\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "comparing-quantities",
+      "icon": "🧮",
+      "title": "Comparing Quantities",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Comparing Quantities\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Compound interest intro",
+        "Discounts taxes",
+        "Understand the main idea of \"Comparing Quantities\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "algebraic-expressions-and-identities",
+      "icon": "💰",
+      "title": "Algebraic Expressions and Identities",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Algebraic Expressions and Identities\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "(a+b)² etc.",
+        "Factorisation start",
+        "Understand the main idea of \"Algebraic Expressions and Identities\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "visualising-solid-shapes",
+      "icon": "⏰",
+      "title": "Visualising Solid Shapes",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Visualising Solid Shapes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Views",
+        "Euler’s formula intro",
+        "Understand the main idea of \"Visualising Solid Shapes\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "mensuration",
+      "icon": "📊",
+      "title": "Mensuration",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Mensuration\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Surface area volume of cuboid cylinder",
+        "Understand the main idea of \"Mensuration\" for Grade 8",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "exponents-and-powers",
+      "icon": "🔷",
+      "title": "Exponents and Powers",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Exponents and Powers\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Negative exponents",
+        "Scientific notation",
+        "Understand the main idea of \"Exponents and Powers\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "direct-and-inverse-proportions",
+      "icon": "📈",
+      "title": "Direct and Inverse Proportions",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Direct and Inverse Proportions\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Tables graphs",
+        "Applications",
+        "Understand the main idea of \"Direct and Inverse Proportions\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "factorisation-introduction-to-graphs",
+      "icon": "🧩",
+      "title": "Factorisation & Introduction to Graphs",
+      "explanation": "In CBSE Grade 8 Maths, we explore \"Factorisation & Introduction to Graphs\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Factor methods",
+        "Linear graphs",
+        "Understand the main idea of \"Factorisation & Introduction to Graphs\" for Grade 8"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "m8x1",
+      "type": "mcq",
+      "prompt": "7 × 8 = ?",
+      "choices": [
+        "54",
+        "56",
+        "63",
+        "48"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m8x2",
+      "type": "mcq",
+      "prompt": "A square has how many equal sides?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m8x3",
+      "type": "mcq",
+      "prompt": "Perimeter of a rectangle is…",
+      "choices": [
+        "l×b",
+        "2(l+b)",
+        "l+b",
+        "l−b"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m8x4",
+      "type": "mcq",
+      "prompt": "Half of 18 is…",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "m8x5",
+      "type": "mcq",
+      "prompt": "Place value of 5 in 352 is…",
+      "choices": [
+        "5",
+        "50",
+        "500",
+        "35"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "m8q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Rational Numbers",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m8q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Rational Numbers\" is:",
+      "choices": [
+        "Properties",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m8q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Linear Equations in One Variable",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m8q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Linear Equations in One Variable\" is:",
+      "choices": [
+        "Solve & apply",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "m8q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Understanding Quadrilaterals",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ],
+  "tables": {
+    "title": "Multiplication Tables",
+    "subtitle": "Keep fluent: tables 1 to 12 up to ×12 — useful for fractions, algebra and speed.",
+    "from": 1,
+    "to": 12,
+    "upto": 12
+  }
+}

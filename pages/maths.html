@@ -10,14 +10,17 @@
 <body>
   <header class="site-header">
     <a class="brand-link js-home" href="../index.html"><span class="brand-mark">N</span><span>Home</span></a>
-    <div class="stars-badge">⭐ <span id="starCount">0</span></div>
+    <div class="header-tools">
+      <span class="grade-badge"><span class="js-grade-label">Grade 2</span></span>
+      <div class="stars-badge">⭐ <span id="starCount">0</span></div>
+    </div>
   </header>
   <main class="page tabbed" id="subjectRoot">
     <h1 class="section-title">Maths</h1>
-    <p class="section-sub">Full CBSE Grade 2 style syllabus — topics with real-life examples, tables 1–10 up to ×12, and quizzes.</p>
+    <p class="section-sub" id="subjectSub">CBSE maths for your grade — topics, tables, and quizzes.</p>
     <div class="tabs">
       <button type="button" class="tab-btn active" data-tab="topicsPanel">Topics</button>
-      <button type="button" class="tab-btn" data-tab="tablesPanel">Tables 1–10 (×12)</button>
+      <button type="button" class="tab-btn" data-tab="tablesPanel" id="tablesTab">Tables</button>
       <button type="button" class="tab-btn" data-tab="playPanel">Play</button>
     </div>
     <div id="topicsPanel" class="panel active"><div data-role="learn"></div></div>
@@ -28,8 +31,22 @@
   <script src="../js/app.js"></script>
   <script src="../js/learn-play.js"></script>
   <script>
-    NumairApp.loadJSON(NumairApp.dataHref("maths.json")).done(function (data) {
-      LearnPlay.mount("#subjectRoot", data, { activityId: "maths-quiz", lang: "en-US" });
+    NumairApp.loadJSON(NumairApp.subjectHref("maths.json")).done(function (data) {
+      var g = NumairApp.getGrade();
+      $("#subjectSub").text(
+        (data.title || "Maths") +
+          " · CBSE Grade " +
+          g +
+          (data.depth === "outline" ? " (topic outline + quiz)" : " (full topics + quiz)")
+      );
+      if (data.tables) {
+        var t = data.tables;
+        $("#tablesTab").text("Tables " + (t.from || 1) + "–" + (t.to || 10) + " (×" + (t.upto || 12) + ")");
+      }
+      LearnPlay.mount("#subjectRoot", data, {
+        activityId: NumairApp.gradeActivityId("maths-quiz"),
+        lang: "en-US"
+      });
     });
   </script>
 </body>

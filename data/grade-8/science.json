@@ -1,0 +1,309 @@
+{
+  "title": "Science — CBSE Grade 8 Outline",
+  "grade": 8,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "crop-production-and-management",
+      "icon": "🌱",
+      "title": "Crop Production and Management",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Crop Production and Management\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Agricultural practices",
+        "Manure fertiliser",
+        "Understand the main idea of \"Crop Production and Management\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "microorganisms",
+      "icon": "🔬",
+      "title": "Microorganisms",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Microorganisms\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Friends & foes",
+        "Food preservation",
+        "Nitrogen fixation"
+      ],
+      "examples": []
+    },
+    {
+      "id": "synthetic-fibres-and-plastics",
+      "icon": "⚡",
+      "title": "Synthetic Fibres and Plastics",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Synthetic Fibres and Plastics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Types",
+        "Responsible use",
+        "Understand the main idea of \"Synthetic Fibres and Plastics\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "materials-metals-and-non-metals",
+      "icon": "🧪",
+      "title": "Materials: Metals and Non-metals",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Materials: Metals and Non-metals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Properties",
+        "Reactions",
+        "Understand the main idea of \"Materials: Metals and Non-metals\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "coal-and-petroleum",
+      "icon": "🌍",
+      "title": "Coal and Petroleum",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Coal and Petroleum\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Fossil fuels",
+        "Conservation",
+        "Understand the main idea of \"Coal and Petroleum\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "combustion-and-flame",
+      "icon": "🦴",
+      "title": "Combustion and Flame",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Combustion and Flame\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Types of combustion",
+        "Fire control",
+        "Understand the main idea of \"Combustion and Flame\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "conservation-of-plants-and-animals",
+      "icon": "💧",
+      "title": "Conservation of Plants and Animals",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Conservation of Plants and Animals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Biodiversity",
+        "Protected areas",
+        "Understand the main idea of \"Conservation of Plants and Animals\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "cell-structure-and-functions",
+      "icon": "🌬️",
+      "title": "Cell — Structure and Functions",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Cell — Structure and Functions\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Plant vs animal cell",
+        "Organelles",
+        "Understand the main idea of \"Cell — Structure and Functions\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reproduction-in-animals",
+      "icon": "☀️",
+      "title": "Reproduction in Animals",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Reproduction in Animals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Modes",
+        "Lifecycle",
+        "Understand the main idea of \"Reproduction in Animals\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reaching-the-age-of-adolescence",
+      "icon": "🧲",
+      "title": "Reaching the Age of Adolescence",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Reaching the Age of Adolescence\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Hormones",
+        "Health & hygiene",
+        "Understand the main idea of \"Reaching the Age of Adolescence\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "force-and-pressure",
+      "icon": "🧬",
+      "title": "Force and Pressure",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Force and Pressure\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Effects of force",
+        "Pressure fluids",
+        "Understand the main idea of \"Force and Pressure\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "friction",
+      "icon": "🔭",
+      "title": "Friction",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Friction\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Factors",
+        "Increasing decreasing",
+        "Understand the main idea of \"Friction\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "sound",
+      "icon": "🌡️",
+      "title": "Sound",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Sound\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Production propagation",
+        "Human ear",
+        "Understand the main idea of \"Sound\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "chemical-effects-of-electric-current",
+      "icon": "🫀",
+      "title": "Chemical Effects of Electric Current",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Chemical Effects of Electric Current\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Electrolysis idea",
+        "LED",
+        "Understand the main idea of \"Chemical Effects of Electric Current\" for Grade 8"
+      ],
+      "examples": []
+    },
+    {
+      "id": "some-natural-phenomena-light-stars",
+      "icon": "🌿",
+      "title": "Some Natural Phenomena & Light/Stars",
+      "explanation": "In CBSE Grade 8 Science, we explore \"Some Natural Phenomena & Light/Stars\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Lightning earthquakes",
+        "Laws of reflection",
+        "Solar system"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "s8x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s8x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s8x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s8x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s8x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s8q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Crop Production and Management",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s8q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Crop Production and Management\" is:",
+      "choices": [
+        "Agricultural practices",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s8q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Microorganisms",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s8q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Microorganisms\" is:",
+      "choices": [
+        "Friends & foes",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s8q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Synthetic Fibres and Plastics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

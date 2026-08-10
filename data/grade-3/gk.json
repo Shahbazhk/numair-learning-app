@@ -1,0 +1,479 @@
+{
+  "title": "General Knowledge — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "indian-states-capitals-starter-set",
+      "icon": "🌍",
+      "title": "Indian States Capitals (Starter Set)",
+      "explanation": "Learn your state capital plus a few neighbours.",
+      "points": [
+        "Atlas game",
+        "Flashcards",
+        "5 new weekly"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Indian States Capitals (Starter Set)\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Indian States Capitals (Starter Set)"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Indian States Capitals (Starter Set)\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "national-symbols-full-set",
+      "icon": "🇮🇳",
+      "title": "National Symbols Full Set",
+      "explanation": "Animal, bird, flower, fruit, tree, anthem respect.",
+      "points": [
+        "Tiger peacock",
+        "Lotus mango",
+        "Anthem posture"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"National Symbols Full Set\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to National Symbols Full Set"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"National Symbols Full Set\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "continents-and-oceans",
+      "icon": "🏆",
+      "title": "Continents and Oceans",
+      "explanation": "Seven continents; five oceans — Earth is mostly water.",
+      "points": [
+        "Globe spin",
+        "Locate India",
+        "Ocean names"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Continents and Oceans\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Continents and Oceans"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Continents and Oceans\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "inventions-kids-love",
+      "icon": "🌳",
+      "title": "Inventions Kids Love",
+      "explanation": "Wheel, printing, telephone, bulb — curiosity built tools.",
+      "points": [
+        "Who roughly",
+        "How life changed",
+        "Inventor mindset"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Inventions Kids Love\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Inventions Kids Love"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Inventions Kids Love\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "human-body-quick-facts",
+      "icon": "📅",
+      "title": "Human Body Quick Facts",
+      "explanation": "Heart pumps; lungs breathe; brain thinks; bones support.",
+      "points": [
+        "Organs jobs",
+        "Exercise",
+        "Sleep"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Human Body Quick Facts\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Human Body Quick Facts"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Human Body Quick Facts\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "famous-indian-personalities-age-fit",
+      "icon": "⚽",
+      "title": "Famous Indian Personalities (Age-fit)",
+      "explanation": "Leaders scientists sportspersons who inspire kindness and grit.",
+      "points": [
+        "1 fact each",
+        "No rote overload",
+        "Values first"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Famous Indian Personalities (Age-fit)\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Famous Indian Personalities (Age-fit)"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Famous Indian Personalities (Age-fit)\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "festivals-across-india",
+      "icon": "🔬",
+      "title": "Festivals Across India",
+      "explanation": "Harvest and light festivals teach gratitude.",
+      "points": [
+        "Season link",
+        "Food customs",
+        "Safety"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Festivals Across India\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Festivals Across India"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Festivals Across India\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "wildlife-wonders",
+      "icon": "🎨",
+      "title": "Wildlife Wonders",
+      "explanation": "Endangered means at risk — parks protect animals.",
+      "points": [
+        "Tiger elephant",
+        "Do not buy ivory ideas",
+        "Quiet in sanctuaries"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Wildlife Wonders\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Wildlife Wonders"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Wildlife Wonders\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "sports-cups-games",
+      "icon": "🛰️",
+      "title": "Sports Cups & Games",
+      "explanation": "Olympics spirit; India’s popular sports.",
+      "points": [
+        "Fair play",
+        "Team India pride",
+        "Local games"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Sports Cups & Games\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Sports Cups & Games"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Sports Cups & Games\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "environment-badges",
+      "icon": "🏅",
+      "title": "Environment Badges",
+      "explanation": "Earn a ‘green badge’ by listing 5 eco actions at home.",
+      "points": [
+        "Segregate waste",
+        "Plant",
+        "Save power"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Environment Badges\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Environment Badges"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Environment Badges\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "g3x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g3x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g3x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g3x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g3x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Indian States Capitals (Starter Set)",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Indian States Capitals (Starter Set)\" is:",
+      "choices": [
+        "Atlas game",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "National Symbols Full Set",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"National Symbols Full Set\" is:",
+      "choices": [
+        "Tiger peacock",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Continents and Oceans",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Continents and Oceans\" is:",
+      "choices": [
+        "Globe spin",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Inventions Kids Love",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Inventions Kids Love\" is:",
+      "choices": [
+        "Who roughly",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Human Body Quick Facts",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Human Body Quick Facts\" is:",
+      "choices": [
+        "Organs jobs",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "title": "Science / EVS — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "living-and-non-living",
+      "icon": "🌱",
+      "title": "Living and Non-living",
+      "explanation": "EVS sorting: living things grow and need food/air/water; non-living do not.",
+      "points": [
+        "Growth and response",
+        "Examples all around",
+        "Plants are living too"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Living and Non-living\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Living and Non-living"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Living and Non-living\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "parts-of-a-plant",
+      "icon": "🔬",
+      "title": "Parts of a Plant",
+      "explanation": "Roots, stem, leaves, flowers and fruits each have a job.",
+      "points": [
+        "Roots absorb water",
+        "Leaves make food",
+        "Seeds grow new plants"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Parts of a Plant\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Parts of a Plant"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Parts of a Plant\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "animals-and-habitats",
+      "icon": "⚡",
+      "title": "Animals and Habitats",
+      "explanation": "Animals live where they find food, water and shelter — land, water or both.",
+      "points": [
+        "Habitat means home",
+        "Adaptations simple ideas",
+        "Food chains start gently"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Animals and Habitats\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Animals and Habitats"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Animals and Habitats\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "birds",
+      "icon": "🧪",
+      "title": "Birds",
+      "explanation": "Beaks and claws suit food and lifestyle. Birds build nests carefully.",
+      "points": [
+        "Different beaks",
+        "Flight feathers",
+        "Do not disturb nests"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Birds\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Birds"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Birds\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "our-body-systems-intro",
+      "icon": "🌍",
+      "title": "Our Body Systems Intro",
+      "explanation": "Bones support; muscles move; sense organs collect information.",
+      "points": [
+        "Skeleton support",
+        "Exercise",
+        "Rest and sleep"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Our Body Systems Intro\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Our Body Systems Intro"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Our Body Systems Intro\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "food-and-nutrition-basics",
+      "icon": "🦴",
+      "title": "Food and Nutrition Basics",
+      "explanation": "Energy foods, body-building foods and protective foods (fruits/veg).",
+      "points": [
+        "Balanced thali idea",
+        "Avoid too much junk",
+        "Clean drinking water"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Food and Nutrition Basics\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Food and Nutrition Basics"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Food and Nutrition Basics\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "water-cycle-story",
+      "icon": "💧",
+      "title": "Water Cycle Story",
+      "explanation": "Water evaporates, forms clouds, rains down and reaches rivers again.",
+      "points": [
+        "Evaporation",
+        "Condensation",
+        "Rain and collection"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Water Cycle Story\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Water Cycle Story"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Water Cycle Story\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "weather-and-climate-lightly",
+      "icon": "🌬️",
+      "title": "Weather and Climate Lightly",
+      "explanation": "Daily weather changes; climate is the longer pattern of a place.",
+      "points": [
+        "Sunny rainy windy",
+        "Clothes match weather",
+        "Farmers watch weather"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Weather and Climate Lightly\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Weather and Climate Lightly"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Weather and Climate Lightly\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "soil-and-rocks",
+      "icon": "☀️",
+      "title": "Soil and Rocks",
+      "explanation": "Soil holds plants; rocks and minerals appear in many forms around us.",
+      "points": [
+        "Soil layers idea",
+        "Hard rocks",
+        "Do not waste fertile soil"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Soil and Rocks\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Soil and Rocks"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Soil and Rocks\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "safety-first-aid-light",
+      "icon": "🧲",
+      "title": "Safety First Aid Light",
+      "explanation": "Basic first responses: cool a burn with water, clean a scrape, call adult.",
+      "points": [
+        "Adult help",
+        "Do not panic",
+        "Know emergency contacts"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Safety First Aid Light\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Safety First Aid Light"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Safety First Aid Light\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s3x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s3x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s3x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s3x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Living and Non-living",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Living and Non-living\" is:",
+      "choices": [
+        "Growth and response",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Parts of a Plant",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Parts of a Plant\" is:",
+      "choices": [
+        "Roots absorb water",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Animals and Habitats",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Animals and Habitats\" is:",
+      "choices": [
+        "Habitat means home",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Birds",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Birds\" is:",
+      "choices": [
+        "Different beaks",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Our Body Systems Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Our Body Systems Intro\" is:",
+      "choices": [
+        "Skeleton support",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

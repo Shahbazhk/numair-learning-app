@@ -1,0 +1,249 @@
+{
+  "title": "General Knowledge — CBSE Grade 10 Outline",
+  "grade": 10,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "board-ready-static-gk",
+      "icon": "🌍",
+      "title": "Board-Ready Static GK",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Board-Ready Static GK\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Polity geography economy mix",
+        "Understand the main idea of \"Board-Ready Static GK\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "contemporary-india-capsule",
+      "icon": "🇮🇳",
+      "title": "Contemporary India Capsule",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Contemporary India Capsule\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Schemes dates carefully",
+        "Understand the main idea of \"Contemporary India Capsule\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "international-relations-lite",
+      "icon": "🏆",
+      "title": "International Relations Lite",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"International Relations Lite\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Neighbours groupings",
+        "Understand the main idea of \"International Relations Lite\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "science-tech-updates-habit",
+      "icon": "🌳",
+      "title": "Science & Tech Updates Habit",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Science & Tech Updates Habit\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Weekly digest",
+        "Understand the main idea of \"Science & Tech Updates Habit\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "environment-sdgs",
+      "icon": "📅",
+      "title": "Environment & SDGs",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Environment & SDGs\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Goals links India",
+        "Understand the main idea of \"Environment & SDGs\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "economy-indicators",
+      "icon": "⚽",
+      "title": "Economy Indicators",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Economy Indicators\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Inflation unemployment ideas",
+        "Understand the main idea of \"Economy Indicators\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "legal-constitutional-cases-feel",
+      "icon": "🔬",
+      "title": "Legal & Constitutional Cases Feel",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Legal & Constitutional Cases Feel\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Rights relevance",
+        "Understand the main idea of \"Legal & Constitutional Cases Feel\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "personality-books",
+      "icon": "🎨",
+      "title": "Personality & Books",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Personality & Books\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Authors reports",
+        "Understand the main idea of \"Personality & Books\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "exam-smart-revision",
+      "icon": "🛰️",
+      "title": "Exam Smart Revision",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Exam Smart Revision\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "One-pagers",
+        "Weekly tests",
+        "Understand the main idea of \"Exam Smart Revision\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ethical-citizenship",
+      "icon": "🏅",
+      "title": "Ethical Citizenship",
+      "explanation": "In CBSE Grade 10 General Knowledge, we explore \"Ethical Citizenship\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Integrity digital citizenship",
+        "Understand the main idea of \"Ethical Citizenship\" for Grade 10",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "g10x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g10x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g10x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g10x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g10x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g10q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Board-Ready Static GK",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g10q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Board-Ready Static GK\" is:",
+      "choices": [
+        "Polity geography economy mix",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g10q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Contemporary India Capsule",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g10q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Contemporary India Capsule\" is:",
+      "choices": [
+        "Schemes dates carefully",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g10q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "International Relations Lite",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

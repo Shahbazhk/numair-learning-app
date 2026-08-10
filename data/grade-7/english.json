@@ -1,0 +1,249 @@
+{
+  "title": "English — CBSE Grade 7 Outline",
+  "grade": 7,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "prose-poetry-appreciation",
+      "icon": "📖",
+      "title": "Prose Poetry Appreciation",
+      "explanation": "In CBSE Grade 7 English, we explore \"Prose Poetry Appreciation\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Imagery",
+        "Rhyme rhythm",
+        "Understand the main idea of \"Prose Poetry Appreciation\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "clauses-intro",
+      "icon": "✏️",
+      "title": "Clauses Intro",
+      "explanation": "In CBSE Grade 7 English, we explore \"Clauses Intro\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Main subordinate",
+        "Relative who which",
+        "Understand the main idea of \"Clauses Intro\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "voice-and-narration",
+      "icon": "🗣️",
+      "title": "Voice and Narration",
+      "explanation": "In CBSE Grade 7 English, we explore \"Voice and Narration\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Practice transforms",
+        "Understand the main idea of \"Voice and Narration\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "prepositions-conjunctions-advanced",
+      "icon": "📝",
+      "title": "Prepositions & Conjunctions Advanced",
+      "explanation": "In CBSE Grade 7 English, we explore \"Prepositions & Conjunctions Advanced\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Complex joiners",
+        "Understand the main idea of \"Prepositions & Conjunctions Advanced\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "writing-articles",
+      "icon": "📚",
+      "title": "Writing Articles",
+      "explanation": "In CBSE Grade 7 English, we explore \"Writing Articles\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Headline",
+        "Opinion balanced",
+        "Understand the main idea of \"Writing Articles\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "emails-and-formal-letters",
+      "icon": "🔤",
+      "title": "Emails and Formal Letters",
+      "explanation": "In CBSE Grade 7 English, we explore \"Emails and Formal Letters\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Digital format",
+        "Politeness",
+        "Understand the main idea of \"Emails and Formal Letters\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "story-completion",
+      "icon": "💬",
+      "title": "Story Completion",
+      "explanation": "In CBSE Grade 7 English, we explore \"Story Completion\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Hints based writing",
+        "Understand the main idea of \"Story Completion\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reading-unseen-passages",
+      "icon": "✍️",
+      "title": "Reading Unseen Passages",
+      "explanation": "In CBSE Grade 7 English, we explore \"Reading Unseen Passages\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Factual discursive",
+        "Understand the main idea of \"Reading Unseen Passages\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "vocabulary-builder",
+      "icon": "🎭",
+      "title": "Vocabulary Builder",
+      "explanation": "In CBSE Grade 7 English, we explore \"Vocabulary Builder\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Idioms phrases",
+        "Understand the main idea of \"Vocabulary Builder\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "speaking-extempore-skills",
+      "icon": "📰",
+      "title": "Speaking: Extempore Skills",
+      "explanation": "In CBSE Grade 7 English, we explore \"Speaking: Extempore Skills\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "1-minute talks",
+        "Understand the main idea of \"Speaking: Extempore Skills\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "e7x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e7x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e7x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e7x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e7x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e7q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Prose Poetry Appreciation",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e7q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Prose Poetry Appreciation\" is:",
+      "choices": [
+        "Imagery",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e7q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Clauses Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e7q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Clauses Intro\" is:",
+      "choices": [
+        "Main subordinate",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e7q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Voice and Narration",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

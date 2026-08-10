@@ -1,0 +1,309 @@
+{
+  "title": "Science — CBSE Grade 7 Outline",
+  "grade": 7,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "nutrition-in-plants",
+      "icon": "🌱",
+      "title": "Nutrition in Plants",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Nutrition in Plants\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Photosynthesis",
+        "Other modes",
+        "Understand the main idea of \"Nutrition in Plants\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "nutrition-in-animals",
+      "icon": "🔬",
+      "title": "Nutrition in Animals",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Nutrition in Animals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Human digestion",
+        "Different animals",
+        "Understand the main idea of \"Nutrition in Animals\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "fibre-to-fabric-animal",
+      "icon": "⚡",
+      "title": "Fibre to Fabric (Animal)",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Fibre to Fabric (Animal)\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Wool silk",
+        "Understand the main idea of \"Fibre to Fabric (Animal)\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "heat",
+      "icon": "🧪",
+      "title": "Heat",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Heat\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Conduction convection radiation",
+        "Thermometers",
+        "Understand the main idea of \"Heat\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "acids-bases-and-salts",
+      "icon": "🌍",
+      "title": "Acids, Bases and Salts",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Acids, Bases and Salts\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Indicators",
+        "Neutralisation",
+        "Understand the main idea of \"Acids, Bases and Salts\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "physical-and-chemical-changes",
+      "icon": "🦴",
+      "title": "Physical and Chemical Changes",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Physical and Chemical Changes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Rusting crystallisation",
+        "Understand the main idea of \"Physical and Chemical Changes\" for Grade 7",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "weather-climate-and-adaptations",
+      "icon": "💧",
+      "title": "Weather, Climate and Adaptations",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Weather, Climate and Adaptations\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Climate vs weather",
+        "Polar & tropical",
+        "Understand the main idea of \"Weather, Climate and Adaptations\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "winds-storms-and-cyclones",
+      "icon": "🌬️",
+      "title": "Winds, Storms and Cyclones",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Winds, Storms and Cyclones\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Air pressure",
+        "Safety",
+        "Understand the main idea of \"Winds, Storms and Cyclones\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "soil",
+      "icon": "☀️",
+      "title": "Soil",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Soil\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Profiles",
+        "Types suitability",
+        "Understand the main idea of \"Soil\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "respiration-in-organisms",
+      "icon": "🧲",
+      "title": "Respiration in Organisms",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Respiration in Organisms\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Breathing",
+        "Aerobic idea",
+        "Understand the main idea of \"Respiration in Organisms\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "transportation-in-animals-and-plants",
+      "icon": "🧬",
+      "title": "Transportation in Animals and Plants",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Transportation in Animals and Plants\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Circulatory",
+        "Xylem phloem",
+        "Understand the main idea of \"Transportation in Animals and Plants\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "reproduction-in-plants",
+      "icon": "🔭",
+      "title": "Reproduction in Plants",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Reproduction in Plants\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Asexual sexual",
+        "Seed dispersal",
+        "Understand the main idea of \"Reproduction in Plants\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "motion-and-time",
+      "icon": "🌡️",
+      "title": "Motion and Time",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Motion and Time\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Speed",
+        "Distance-time graphs",
+        "Understand the main idea of \"Motion and Time\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "electric-current-and-its-effects",
+      "icon": "🫀",
+      "title": "Electric Current and Its Effects",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Electric Current and Its Effects\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Heating magnetic effects",
+        "Electromagnet",
+        "Understand the main idea of \"Electric Current and Its Effects\" for Grade 7"
+      ],
+      "examples": []
+    },
+    {
+      "id": "light",
+      "icon": "🌿",
+      "title": "Light",
+      "explanation": "In CBSE Grade 7 Science, we explore \"Light\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Reflection",
+        "Spherical mirrors lenses intro",
+        "Understand the main idea of \"Light\" for Grade 7"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "s7x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s7x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s7x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s7x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s7x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s7q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Nutrition in Plants",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s7q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Nutrition in Plants\" is:",
+      "choices": [
+        "Photosynthesis",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s7q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Nutrition in Animals",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s7q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Nutrition in Animals\" is:",
+      "choices": [
+        "Human digestion",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s7q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Fibre to Fabric (Animal)",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

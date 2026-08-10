@@ -1,0 +1,408 @@
+{
+  "title": "Telugu — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "గుణింతాలు-mastery",
+      "icon": "తె",
+      "title": "గుణింతాలు Mastery",
+      "explanation": "Speed and accuracy with all vowel signs on common consonants.",
+      "points": [
+        "Charts timed",
+        "Dictation",
+        "Peer check"
+      ],
+      "examples": [
+        {
+          "title": "కే",
+          "problem": "క + ే →",
+          "steps": [
+            "కే"
+          ],
+          "answer": "కే"
+        }
+      ]
+    },
+    {
+      "id": "సంయుక్తాక్షరాలు",
+      "icon": "📖",
+      "title": "సంయుక్తాక్షరాలు",
+      "explanation": "Read conjunct letters carefully in grade-level words.",
+      "points": [
+        "Slow blend",
+        "Word list",
+        "Flashcards"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"సంయుక్తాక్షరాలు\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "వాక్య-నిర్మాణం",
+      "icon": "🗣️",
+      "title": "వాక్య నిర్మాణం",
+      "explanation": "SOV comfort: subject–object–verb patterns in simple Telugu.",
+      "points": [
+        "తెలుగు order",
+        "Punctuation",
+        "5 sentences/day"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"వాక్య నిర్మాణం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "విశేషణాలు",
+      "icon": "✍️",
+      "title": "విశేషణాలు",
+      "explanation": "Describing words: పెద్ద చిన్న మంచి సుందరమైన.",
+      "points": [
+        "Add to nouns",
+        "Opposites",
+        "Picture describe"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"విశేషణాలు\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "కాలం-intro",
+      "icon": "🌟",
+      "title": "కాలం Intro",
+      "explanation": "Present/past feelings: చేస్తున్నాను / చేశాను.",
+      "points": [
+        "Time words",
+        "Transform drills",
+        "Story tense"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"కాలం Intro\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "పదబంధాలు",
+      "icon": "📚",
+      "title": "పదబంధాలు",
+      "explanation": "Useful daily phrases for school requests and friends.",
+      "points": [
+        "దయచేసి సహాయం చేయండి",
+        "నాకు అర్థం కాలేదు",
+        "మళ్లీ చెప్పండి"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"పదబంధాలు\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "కథ-చదవడం",
+      "icon": "🔤",
+      "title": "కథ చదవడం",
+      "explanation": "Short moral stories — sequence beginning–middle–end.",
+      "points": [
+        "Characters",
+        "Problem",
+        "Ending"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"కథ చదవడం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "లేఖ-రచన",
+      "icon": "💬",
+      "title": "లేఖ రచన",
+      "explanation": "Friendly letter to a friend about a festival.",
+      "points": [
+        "Address date",
+        "Body",
+        "Closing"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"లేఖ రచన\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "పద్య-భావం",
+      "icon": "🎯",
+      "title": "పద్య భావం",
+      "explanation": "Explain 2 lines of a poem in own words (Telugu + English OK).",
+      "points": [
+        "Central idea",
+        "Word meanings",
+        "Recitation"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"పద్య భావం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "వ్యతిరేక-పదాలు",
+      "icon": "✨",
+      "title": "వ్యతిరేక పదాలు",
+      "explanation": "Opposites bank: రాత్రి-పగలు, లాభం-నష్టం…",
+      "points": [
+        "Pairs list",
+        "Quiz each other",
+        "Use in sentences"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"వ్యతిరేక పదాలు\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "te3x1",
+      "type": "mcq",
+      "prompt": "అచ్చులు means…",
+      "choices": [
+        "Consonants",
+        "Vowels",
+        "Numbers",
+        "Punctuation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te3x2",
+      "type": "mcq",
+      "prompt": "నమస్కారం is used to…",
+      "choices": [
+        "Greet respectfully",
+        "Count money",
+        "Measure length",
+        "Draw only"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "te3x3",
+      "type": "mcq",
+      "prompt": "అమ్మ means…",
+      "choices": [
+        "Father",
+        "Mother",
+        "School",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te3x4",
+      "type": "mcq",
+      "prompt": "కా is క with…",
+      "choices": [
+        "అ",
+        "ఆ",
+        "ఇ",
+        "ఉ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te3x5",
+      "type": "mcq",
+      "prompt": "ధన్యవాదాలు means…",
+      "choices": [
+        "Sorry",
+        "Please",
+        "Thank you",
+        "Go away"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "t3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "గుణింతాలు Mastery",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"గుణింతాలు Mastery\" is:",
+      "choices": [
+        "Charts timed",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "సంయుక్తాక్షరాలు",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"సంయుక్తాక్షరాలు\" is:",
+      "choices": [
+        "Slow blend",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "వాక్య నిర్మాణం",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"వాక్య నిర్మాణం\" is:",
+      "choices": [
+        "తెలుగు order",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "విశేషణాలు",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"విశేషణాలు\" is:",
+      "choices": [
+        "Add to nouns",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "కాలం Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"కాలం Intro\" is:",
+      "choices": [
+        "Time words",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

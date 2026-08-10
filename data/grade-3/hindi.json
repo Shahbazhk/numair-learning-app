@@ -1,0 +1,479 @@
+{
+  "title": "Hindi — CBSE Grade 3 Complete",
+  "grade": 3,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "मात्राओं-का-अभ्यास",
+      "icon": "🔠",
+      "title": "मात्राओं का अभ्यास",
+      "explanation": "सभी मात्राओं से शब्द बनाएँ और शुद्ध उच्चारण करें।",
+      "points": [
+        "ए ऐ ओ औ",
+        "चंद्रबिंदु अनुस्वार",
+        "शुद्ध वर्तनी"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"मात्राओं का अभ्यास\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to मात्राओं का अभ्यास"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"मात्राओं का अभ्यास\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "संज्ञा-के-भेद",
+      "icon": "📝",
+      "title": "संज्ञा के भेद",
+      "explanation": "व्यक्तिवाचक जातिवाचक भाववाचक — नामों के प्रकार।",
+      "points": [
+        "उदाहरण छाँटना",
+        "वाक्य बनाएँ",
+        "भेद याद रखें"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"संज्ञा के भेद\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to संज्ञा के भेद"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"संज्ञा के भेद\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "सर्वनाम",
+      "icon": "📖",
+      "title": "सर्वनाम",
+      "explanation": "मैं तुम वह वे — संज्ञा की जगह आने वाले शब्द।",
+      "points": [
+        "पुरुष के अनुसार",
+        "एकवचन बहुवचन",
+        "दोहराव कम करें"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"सर्वनाम\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to सर्वनाम"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"सर्वनाम\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "विशेषण",
+      "icon": "🗣️",
+      "title": "विशेषण",
+      "explanation": "गुण बताने वाले शब्द: सुंदर तेज़ मीठा।",
+      "points": [
+        "रंग आकार स्वभाव",
+        "संज्ञा के पास",
+        "विलोम जोड़ें"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"विशेषण\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to विशेषण"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"विशेषण\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "क्रिया-और-काल-परिचय",
+      "icon": "✍️",
+      "title": "क्रिया और काल परिचय",
+      "explanation": "वर्तमान भूतकाल — आज और कल के काम।",
+      "points": [
+        "खाता है / खाया",
+        "समय के संकेत",
+        "वाक्य बदलो"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"क्रिया और काल परिचय\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to क्रिया और काल परिचय"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"क्रिया और काल परिचय\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "वचन-और-लिंग",
+      "icon": "📘",
+      "title": "वचन और लिंग",
+      "explanation": "एक-अनेक और पुल्लिंग-स्त्रीलिंग की पहचान।",
+      "points": [
+        "लड़का-लड़के",
+        "लड़का-लड़की",
+        "मिलान करें"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"वचन और लिंग\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to वचन और लिंग"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"वचन और लिंग\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "विलोम-और-पर्याय",
+      "icon": "🌟",
+      "title": "विलोम और पर्याय",
+      "explanation": "उल्टे और समान अर्थ वाले शब्द याद करें।",
+      "points": [
+        "दिन-रात",
+        "நீர்-पानी",
+        "खेल से याद"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"विलोम और पर्याय\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to विलोम और पर्याय"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"विलोम और पर्याय\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "अनुच्छेद-लेखन",
+      "icon": "🎯",
+      "title": "अनुच्छेद लेखन",
+      "explanation": "४–६ वाक्यों में मेरा विद्यालय / मेरा मित्र।",
+      "points": [
+        "शीर्षक",
+        "क्रम से विचार",
+        "पूर्ण विराम"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"अनुच्छेद लेखन\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to अनुच्छेद लेखन"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"अनुच्छेद लेखन\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "पत्र-लेखन-प्रारम्भ",
+      "icon": "💬",
+      "title": "पत्र लेखन प्रारम्भ",
+      "explanation": "मित्र को छोटा पत्र — शुरुआत मध्य अंत।",
+      "points": [
+        "दिनांक संबोधन",
+        "समाप्ति",
+        "शुद्ध भाषा"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"पत्र लेखन प्रारम्भ\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to पत्र लेखन प्रारम्भ"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"पत्र लेखन प्रारम्भ\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "अपठित-गद्यांश",
+      "icon": "📚",
+      "title": "अपठित गद्यांश",
+      "explanation": "छोटा पाठ पढ़कर प्रश्नों के उत्तर ढूँढें।",
+      "points": [
+        "मुख्य बात",
+        "कठिन शब्द अर्थ",
+        "अपने शब्दों में"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"अपठित गद्यांश\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to अपठित गद्यांश"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"अपठित गद्यांश\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "h3x1",
+      "type": "mcq",
+      "prompt": "‘अ’ है एक…",
+      "choices": [
+        "व्यंजन",
+        "स्वर",
+        "विराम",
+        "संख्या"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h3x2",
+      "type": "mcq",
+      "prompt": "संज्ञा है…",
+      "choices": [
+        "दौड़ना",
+        "पुस्तक",
+        "और",
+        "धीरे"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h3x3",
+      "type": "mcq",
+      "prompt": "धन्यवाद कहना है…",
+      "choices": [
+        "शिष्टाचार",
+        "गुस्सा",
+        "शोर",
+        "खेल नहीं"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3x4",
+      "type": "mcq",
+      "prompt": "विलोम: दिन का उल्टा?",
+      "choices": [
+        "सुबह",
+        "रात",
+        "दोपहर",
+        "साल"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h3x5",
+      "type": "mcq",
+      "prompt": "क्रिया चुनें",
+      "choices": [
+        "लड़का",
+        "खाना",
+        "लाल",
+        "दिल्ली"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h3q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "मात्राओं का अभ्यास",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"मात्राओं का अभ्यास\" is:",
+      "choices": [
+        "ए ऐ ओ औ",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "संज्ञा के भेद",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"संज्ञा के भेद\" is:",
+      "choices": [
+        "उदाहरण छाँटना",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "सर्वनाम",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"सर्वनाम\" is:",
+      "choices": [
+        "पुरुष के अनुसार",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "विशेषण",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"विशेषण\" is:",
+      "choices": [
+        "रंग आकार स्वभाव",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "क्रिया और काल परिचय",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h3q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"क्रिया और काल परिचय\" is:",
+      "choices": [
+        "खाता है / खाया",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

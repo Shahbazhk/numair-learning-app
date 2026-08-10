@@ -1,0 +1,249 @@
+{
+  "title": "Hindi — CBSE Grade 9 Outline",
+  "grade": 9,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "क्षितिज-कृतिका-शैली-पठन",
+      "icon": "🔠",
+      "title": "क्षितिज कृतिका शैली पठन",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"क्षितिज कृतिका शैली पठन\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "पाठ आधारित प्रश्न",
+        "\"क्षितिज कृतिका शैली पठन\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "व्याकरण-बोर्ड-पैटर्न",
+      "icon": "📝",
+      "title": "व्याकरण बोर्ड पैटर्न",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"व्याकरण बोर्ड पैटर्न\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "रचना व प्रयोग",
+        "\"व्याकरण बोर्ड पैटर्न\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "लेखन-अनुच्छेद-पत्र",
+      "icon": "📖",
+      "title": "लेखन: अनुच्छेद पत्र",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"लेखन: अनुच्छेद पत्र\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "औपचारिक अनौपचारिक",
+        "\"लेखन: अनुच्छेद पत्र\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "संदेश-विज्ञापन-डायरी",
+      "icon": "🗣️",
+      "title": "संदेश विज्ञापन डायरी",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"संदेश विज्ञापन डायरी\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "रूप एवम् भाषा",
+        "\"संदेश विज्ञापन डायरी\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "अपठित-बोध",
+      "icon": "✍️",
+      "title": "अपठित बोध",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"अपठित बोध\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "शीर्षक सार",
+        "\"अपठित बोध\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "काव्य-बोध",
+      "icon": "📘",
+      "title": "काव्य बोध",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"काव्य बोध\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "उपमा अनुप्रास",
+        "\"काव्य बोध\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "मौखिक-परीक्षा-तैयारी",
+      "icon": "🌟",
+      "title": "मौखिक परीक्षा तैयारी",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"मौखिक परीक्षा तैयारी\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "वाचन चर्चा",
+        "\"मौखिक परीक्षा तैयारी\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "शब्द-शक्ति-मुहावरे",
+      "icon": "🎯",
+      "title": "शब्द शक्ति मुहावरे",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"शब्द शक्ति मुहावरे\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "प्रयोग शुद्धता",
+        "\"शब्द शक्ति मुहावरे\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "रचनात्मक-लेखन",
+      "icon": "💬",
+      "title": "रचनात्मक लेखन",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"रचनात्मक लेखन\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "कथा पटकथा हल्का",
+        "\"रचनात्मक लेखन\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    },
+    {
+      "id": "संशोधन-रणनीति",
+      "icon": "📚",
+      "title": "संशोधन रणनीति",
+      "explanation": "In CBSE Grade 9 Hindi, we explore \"संशोधन रणनीति\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "समय प्रबंधन",
+        "\"संशोधन रणनीति\" को ध्यान से पढ़ें",
+        "उदाहरण वाक्य बनाकर समझें"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "h9x1",
+      "type": "mcq",
+      "prompt": "‘अ’ है एक…",
+      "choices": [
+        "व्यंजन",
+        "स्वर",
+        "विराम",
+        "संख्या"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h9x2",
+      "type": "mcq",
+      "prompt": "संज्ञा है…",
+      "choices": [
+        "दौड़ना",
+        "पुस्तक",
+        "और",
+        "धीरे"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h9x3",
+      "type": "mcq",
+      "prompt": "धन्यवाद कहना है…",
+      "choices": [
+        "शिष्टाचार",
+        "गुस्सा",
+        "शोर",
+        "खेल नहीं"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h9x4",
+      "type": "mcq",
+      "prompt": "विलोम: दिन का उल्टा?",
+      "choices": [
+        "सुबह",
+        "रात",
+        "दोपहर",
+        "साल"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h9x5",
+      "type": "mcq",
+      "prompt": "क्रिया चुनें",
+      "choices": [
+        "लड़का",
+        "खाना",
+        "लाल",
+        "दिल्ली"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "h9q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "क्षितिज कृतिका शैली पठन",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h9q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"क्षितिज कृतिका शैली पठन\" is:",
+      "choices": [
+        "पाठ आधारित प्रश्न",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h9q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "व्याकरण बोर्ड पैटर्न",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h9q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"व्याकरण बोर्ड पैटर्न\" is:",
+      "choices": [
+        "रचना व प्रयोग",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "h9q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "लेखन: अनुच्छेद पत्र",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

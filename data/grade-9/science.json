@@ -1,0 +1,297 @@
+{
+  "title": "Science — CBSE Grade 9 Outline",
+  "grade": 9,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "matter-in-our-surroundings",
+      "icon": "🌱",
+      "title": "Matter in Our Surroundings",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Matter in Our Surroundings\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "States",
+        "Diffusion",
+        "Evaporation"
+      ],
+      "examples": []
+    },
+    {
+      "id": "is-matter-around-us-pure",
+      "icon": "🔬",
+      "title": "Is Matter Around Us Pure?",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Is Matter Around Us Pure?\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Mixtures solutions",
+        "Separation",
+        "Understand the main idea of \"Is Matter Around Us Pure?\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "atoms-and-molecules",
+      "icon": "⚡",
+      "title": "Atoms and Molecules",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Atoms and Molecules\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Laws of chemical combination",
+        "Mole idea intro",
+        "Understand the main idea of \"Atoms and Molecules\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "structure-of-the-atom",
+      "icon": "🧪",
+      "title": "Structure of the Atom",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Structure of the Atom\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Electrons protons neutrons",
+        "Valency",
+        "Understand the main idea of \"Structure of the Atom\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "the-fundamental-unit-of-life",
+      "icon": "🌍",
+      "title": "The Fundamental Unit of Life",
+      "explanation": "In CBSE Grade 9 Science, we explore \"The Fundamental Unit of Life\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Cell organelles",
+        "Cell membrane",
+        "Understand the main idea of \"The Fundamental Unit of Life\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "tissues",
+      "icon": "🦴",
+      "title": "Tissues",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Tissues\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Plant & animal tissues",
+        "Understand the main idea of \"Tissues\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "diversity-in-living-organisms",
+      "icon": "💧",
+      "title": "Diversity in Living Organisms",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Diversity in Living Organisms\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Classification hierarchy",
+        "Understand the main idea of \"Diversity in Living Organisms\" for Grade 9",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "motion",
+      "icon": "🌬️",
+      "title": "Motion",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Motion\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Distance displacement",
+        "Graphs",
+        "Equations of motion"
+      ],
+      "examples": []
+    },
+    {
+      "id": "force-and-laws-of-motion",
+      "icon": "☀️",
+      "title": "Force and Laws of Motion",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Force and Laws of Motion\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Newton’s laws",
+        "Momentum",
+        "Understand the main idea of \"Force and Laws of Motion\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "gravitation",
+      "icon": "🧲",
+      "title": "Gravitation",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Gravitation\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Universal law",
+        "Floatation",
+        "Understand the main idea of \"Gravitation\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "work-and-energy",
+      "icon": "🧬",
+      "title": "Work and Energy",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Work and Energy\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Work power",
+        "KE PE",
+        "Conservation"
+      ],
+      "examples": []
+    },
+    {
+      "id": "sound",
+      "icon": "🔭",
+      "title": "Sound",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Sound\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Wave nature",
+        "SONAR",
+        "Understand the main idea of \"Sound\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "why-do-we-fall-ill",
+      "icon": "🌡️",
+      "title": "Why Do We Fall Ill?",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Why Do We Fall Ill?\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Health disease",
+        "Prevention",
+        "Understand the main idea of \"Why Do We Fall Ill?\" for Grade 9"
+      ],
+      "examples": []
+    },
+    {
+      "id": "natural-resources-improvement-of-food-resources",
+      "icon": "🫀",
+      "title": "Natural Resources & Improvement of Food Resources",
+      "explanation": "In CBSE Grade 9 Science, we explore \"Natural Resources & Improvement of Food Resources\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Air water soil",
+        "Crop improvement",
+        "Understand the main idea of \"Natural Resources & Improvement of Food Resources\" for Grade 9"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "s9x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s9x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s9x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s9x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s9q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Matter in Our Surroundings",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Matter in Our Surroundings\" is:",
+      "choices": [
+        "States",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Is Matter Around Us Pure?",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Is Matter Around Us Pure?\" is:",
+      "choices": [
+        "Mixtures solutions",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s9q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Atoms and Molecules",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

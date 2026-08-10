@@ -1,0 +1,249 @@
+{
+  "title": "General Knowledge — CBSE Grade 6 Outline",
+  "grade": 6,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "world-geography-quick-facts",
+      "icon": "🌍",
+      "title": "World Geography Quick Facts",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"World Geography Quick Facts\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Continents extremes",
+        "Longest rivers",
+        "Understand the main idea of \"World Geography Quick Facts\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "indian-polity-basics",
+      "icon": "🇮🇳",
+      "title": "Indian Polity Basics",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Indian Polity Basics\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Parliament",
+        "President PM roles light",
+        "Understand the main idea of \"Indian Polity Basics\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "science-gk-mix",
+      "icon": "🏆",
+      "title": "Science GK Mix",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Science GK Mix\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "SI units",
+        "Human body facts",
+        "Understand the main idea of \"Science GK Mix\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "history-timeline-bytes",
+      "icon": "🌳",
+      "title": "History Timeline Bytes",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"History Timeline Bytes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Ancient medieval modern markers",
+        "Understand the main idea of \"History Timeline Bytes\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "sports-records-events",
+      "icon": "📅",
+      "title": "Sports Records & Events",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Sports Records & Events\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Major cups",
+        "Understand the main idea of \"Sports Records & Events\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "books-culture",
+      "icon": "⚽",
+      "title": "Books & Culture",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Books & Culture\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Classical arts intro",
+        "Understand the main idea of \"Books & Culture\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "environment-treaties-light",
+      "icon": "🔬",
+      "title": "Environment Treaties Light",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Environment Treaties Light\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Why protect Earth",
+        "Understand the main idea of \"Environment Treaties Light\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "economy-everyday",
+      "icon": "🎨",
+      "title": "Economy Everyday",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Economy Everyday\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "GST idea",
+        "Banks",
+        "Understand the main idea of \"Economy Everyday\" for Grade 6"
+      ],
+      "examples": []
+    },
+    {
+      "id": "tech-innovation-india",
+      "icon": "🛰️",
+      "title": "Tech & Innovation India",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Tech & Innovation India\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Digital public goods idea",
+        "Understand the main idea of \"Tech & Innovation India\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    },
+    {
+      "id": "quiz-methods",
+      "icon": "🏅",
+      "title": "Quiz Methods",
+      "explanation": "In CBSE Grade 6 General Knowledge, we explore \"Quiz Methods\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Spaced revision",
+        "Understand the main idea of \"Quiz Methods\" for Grade 6",
+        "Use everyday examples to remember key facts"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "g6x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g6x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g6x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g6x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g6x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g6q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "World Geography Quick Facts",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g6q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"World Geography Quick Facts\" is:",
+      "choices": [
+        "Continents extremes",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g6q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Indian Polity Basics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g6q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Indian Polity Basics\" is:",
+      "choices": [
+        "Parliament",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g6q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Science GK Mix",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

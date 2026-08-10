@@ -1,0 +1,479 @@
+{
+  "title": "Social Studies — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "indian-geography-overview",
+      "icon": "🏠",
+      "title": "Indian Geography Overview",
+      "explanation": "Locate oceans around India; north mountains, south peninsula idea.",
+      "points": [
+        "Neighbours",
+        "Tropic of Cancer idea",
+        "Physical map colours"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Indian Geography Overview\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Indian Geography Overview"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Indian Geography Overview\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "climate-and-lifestyle",
+      "icon": "🏫",
+      "title": "Climate and Lifestyle",
+      "explanation": "Clothes, food and houses often match climate.",
+      "points": [
+        "Desert vs coast",
+        "Monsoon importance",
+        "Adaptations"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Climate and Lifestyle\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Climate and Lifestyle"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Climate and Lifestyle\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "agriculture-basics",
+      "icon": "🇮🇳",
+      "title": "Agriculture Basics",
+      "explanation": "Crops need soil, water and care; India grows many staples.",
+      "points": [
+        "Kharif rabi idea light",
+        "Farmers’ hard work",
+        "Food waste less"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Agriculture Basics\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Agriculture Basics"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Agriculture Basics\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "industries-light",
+      "icon": "🗺️",
+      "title": "Industries Light",
+      "explanation": "Raw materials become goods in factories; cottage industries at home scale.",
+      "points": [
+        "Examples local",
+        "Workers safety",
+        "Made in India pride"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Industries Light\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Industries Light"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Industries Light\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "transport-communication",
+      "icon": "🏛️",
+      "title": "Transport & Communication",
+      "explanation": "Roads railways airways and phones connect the nation.",
+      "points": [
+        "Choose suitable mode",
+        "Digital kindness",
+        "Address PIN"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Transport & Communication\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Transport & Communication"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Transport & Communication\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "our-history-heritage",
+      "icon": "⚖️",
+      "title": "Our History Heritage",
+      "explanation": "Forts temples churches mosques tell layered stories — respect all.",
+      "points": [
+        "ASI care idea",
+        "No vandalism",
+        "Unity"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Our History Heritage\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Our History Heritage"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Our History Heritage\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "government-around-us",
+      "icon": "🌏",
+      "title": "Government Around Us",
+      "explanation": "Local bodies help water roads schools; adults vote in democracy.",
+      "points": [
+        "Sarpanch/Mayor idea",
+        "Public property",
+        "Rights & duties kids"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Government Around Us\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Government Around Us"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Government Around Us\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "rights-in-daily-life",
+      "icon": "🚂",
+      "title": "Rights in Daily Life",
+      "explanation": "Right to education and equality — treat all genders and castes fairly.",
+      "points": [
+        "No discrimination",
+        "Include friends",
+        "Speak up to adult"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Rights in Daily Life\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Rights in Daily Life"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Rights in Daily Life\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "natural-resources",
+      "icon": "👥",
+      "title": "Natural Resources",
+      "explanation": "Soil forests minerals water — use wisely for the future.",
+      "points": [
+        "Renewable non-renewable idea",
+        "Conservation",
+        "3Rs"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Natural Resources\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Natural Resources"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Natural Resources\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "mapping-skills",
+      "icon": "📜",
+      "title": "Mapping Skills",
+      "explanation": "Scale, directions, legends on political/physical maps.",
+      "points": [
+        "NE SW",
+        "Legend",
+        "Estimate distances lightly"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Mapping Skills\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Mapping Skills"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Mapping Skills\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "ss4x1",
+      "type": "mcq",
+      "prompt": "India’s national capital is…",
+      "choices": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss4x2",
+      "type": "mcq",
+      "prompt": "A neighbourhood includes…",
+      "choices": [
+        "Only oceans",
+        "Homes shops people nearby",
+        "Other planets",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss4x3",
+      "type": "mcq",
+      "prompt": "Democracy values people’s…",
+      "choices": [
+        "Silence only",
+        "Participation & votes",
+        "Littering",
+        "Fear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "ss4x4",
+      "type": "mcq",
+      "prompt": "Maps help us find…",
+      "choices": [
+        "Locations",
+        "Recipes only",
+        "Dreams only",
+        "Nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "ss4x5",
+      "type": "mcq",
+      "prompt": "Saving water is part of…",
+      "choices": [
+        "Earth care",
+        "Wasting",
+        "Ignoring rules",
+        "Pollution"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Indian Geography Overview",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Indian Geography Overview\" is:",
+      "choices": [
+        "Neighbours",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Climate and Lifestyle",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Climate and Lifestyle\" is:",
+      "choices": [
+        "Desert vs coast",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Agriculture Basics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Agriculture Basics\" is:",
+      "choices": [
+        "Kharif rabi idea light",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Industries Light",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Industries Light\" is:",
+      "choices": [
+        "Examples local",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Transport & Communication",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Transport & Communication\" is:",
+      "choices": [
+        "Choose suitable mode",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

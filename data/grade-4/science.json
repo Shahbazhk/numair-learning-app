@@ -1,0 +1,479 @@
+{
+  "title": "Science / EVS — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "plants-reproduction-basics",
+      "icon": "🌱",
+      "title": "Plants: Reproduction Basics",
+      "explanation": "Seeds, flowers and dispersal help new plants grow in new places.",
+      "points": [
+        "Pollination simple",
+        "Seed dispersal by wind/animals",
+        "Germination needs"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Plants: Reproduction Basics\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Plants: Reproduction Basics"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Plants: Reproduction Basics\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "food-from-plants-animals",
+      "icon": "🔬",
+      "title": "Food from Plants & Animals",
+      "explanation": "Trace food back to farms, dairies and gardens.",
+      "points": [
+        "Crops",
+        "Milk eggs",
+        "Food miles idea lightly"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Food from Plants & Animals\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Food from Plants & Animals"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Food from Plants & Animals\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "digestive-journey",
+      "icon": "⚡",
+      "title": "Digestive Journey",
+      "explanation": "Food travels from mouth to stomach and beyond; chewing starts digestion.",
+      "points": [
+        "Teeth care",
+        "Fibre and water",
+        "Hygiene of food"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Digestive Journey\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Digestive Journey"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Digestive Journey\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "teeth-and-microbes",
+      "icon": "🧪",
+      "title": "Teeth and Microbes",
+      "explanation": "Useful and harmful microbes; brush to keep teeth strong.",
+      "points": [
+        "Milk & permanent teeth",
+        "Bacteria can cause cavities",
+        "Wash hands"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Teeth and Microbes\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Teeth and Microbes"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Teeth and Microbes\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "states-of-matter",
+      "icon": "🌍",
+      "title": "States of Matter",
+      "explanation": "Solids keep shape; liquids flow; gases spread. Heating/cooling can change states.",
+      "points": [
+        "Ice-water-vapour story",
+        "Examples at home",
+        "Safe experiments with adult"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"States of Matter\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to States of Matter"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"States of Matter\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "force-and-friction-light",
+      "icon": "🦴",
+      "title": "Force and Friction Light",
+      "explanation": "Pushes and pulls move objects; rough surfaces slow sliding.",
+      "points": [
+        "Push pull",
+        "Friction helps walking",
+        "Oiling reduces friction"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Force and Friction Light\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Force and Friction Light"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Force and Friction Light\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "energy-in-daily-life",
+      "icon": "💧",
+      "title": "Energy in Daily Life",
+      "explanation": "We use muscle energy, fuels and electricity carefully.",
+      "points": [
+        "Save electricity",
+        "Sunlight energy",
+        "Safe handling of sockets"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Energy in Daily Life\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Energy in Daily Life"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Energy in Daily Life\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "our-environment",
+      "icon": "🌬️",
+      "title": "Our Environment",
+      "explanation": "Reduce, reuse, recycle; protect green spaces and water.",
+      "points": [
+        "Pollution types simple",
+        "Plant trees",
+        "Say no to litter"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Our Environment\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Our Environment"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Our Environment\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "maps-and-directions-linked-to-evs",
+      "icon": "☀️",
+      "title": "Maps and Directions Linked to EVS",
+      "explanation": "Locate school and neighbourhood features using simple maps and directions.",
+      "points": [
+        "N E S W",
+        "Symbols on maps",
+        "Local landmarks"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Maps and Directions Linked to EVS\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Maps and Directions Linked to EVS"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Maps and Directions Linked to EVS\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "community-health",
+      "icon": "🧲",
+      "title": "Community Health",
+      "explanation": "Clean surroundings and vaccination awareness keep communities healthier.",
+      "points": [
+        "Sanitation",
+        "Clean water",
+        "Respect health workers"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Community Health\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Community Health"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Community Health\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s4x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s4x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s4x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s4x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Plants: Reproduction Basics",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Plants: Reproduction Basics\" is:",
+      "choices": [
+        "Pollination simple",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Food from Plants & Animals",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Food from Plants & Animals\" is:",
+      "choices": [
+        "Crops",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Digestive Journey",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Digestive Journey\" is:",
+      "choices": [
+        "Teeth care",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Teeth and Microbes",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Teeth and Microbes\" is:",
+      "choices": [
+        "Milk & permanent teeth",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "States of Matter",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"States of Matter\" is:",
+      "choices": [
+        "Ice-water-vapour story",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

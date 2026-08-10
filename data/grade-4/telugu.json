@@ -1,0 +1,408 @@
+{
+  "title": "Telugu — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "సంధి-పరిచయం",
+      "icon": "తె",
+      "title": "సంధి పరిచయం",
+      "explanation": "Two sounds meeting may change — gentle intro to సంధి with common school examples.",
+      "points": [
+        "Observe textbook examples",
+        "Do not force memorize all rules yet",
+        "Say forms aloud"
+      ],
+      "examples": [
+        {
+          "title": "గమనిక",
+          "problem": "సంధి means joining of…",
+          "steps": [
+            "Sounds/words"
+          ],
+          "answer": "Sounds"
+        }
+      ]
+    },
+    {
+      "id": "సమాసం-light",
+      "icon": "📖",
+      "title": "సమాసం Light",
+      "explanation": "Compound word ideas — see how two words pack into one meaning.",
+      "points": [
+        "Spot compounds",
+        "Expand simply",
+        "Notebook list"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"సమాసం Light\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "వ్యాకరణ-కర్త-కర్మ",
+      "icon": "🗣️",
+      "title": "వ్యాకరణ: కర్త కర్మ",
+      "explanation": "Who does the action (కర్త) and what receives it (కర్మ).",
+      "points": [
+        "Ask ఎవరు/ఏమి",
+        "Colour-code parts",
+        "Rewrite sentences"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"వ్యాకరణ: కర్త కర్మ\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "పర్యాయ-వ్యతిరేక",
+      "icon": "✍️",
+      "title": "పర్యాయ & వ్యతిరేక",
+      "explanation": "Synonyms and antonyms for richer vocabulary.",
+      "points": [
+        "10 pairs",
+        "Match games",
+        "Context use"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"పర్యాయ & వ్యతిరేక\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "వ్యాస-రచన",
+      "icon": "🌟",
+      "title": "వ్యాస రచన",
+      "explanation": "Short essay: నా పాఠశాల / ఉగాది / వర్షం.",
+      "points": [
+        "Intro 3 points close",
+        "Telugu connectors",
+        "Edit spellings"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"వ్యాస రచన\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "కథ-సంభాషణ",
+      "icon": "📚",
+      "title": "కథ & సంభాషణ",
+      "explanation": "Write dialogue between two friends planning homework.",
+      "points": [
+        "Names colon",
+        "Polite forms",
+        "Clear ending"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"కథ & సంభాషణ\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "అపఠిత-గద్యం",
+      "icon": "🔤",
+      "title": "అపఠిత గద్యం",
+      "explanation": "Unseen prose: find answers from the text, not from memory.",
+      "points": [
+        "Underline evidence",
+        "Short answers",
+        "New word meanings"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"అపఠిత గద్యం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "పద్యం-అభ్యాసం",
+      "icon": "💬",
+      "title": "పద్యం అభ్యాసం",
+      "explanation": "Memorise a short పద్యం with meaning and moral.",
+      "points": [
+        "Daily 2 lines",
+        "Explain",
+        "Class recital"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"పద్యం అభ్యాసం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "విభక్తి-ideas",
+      "icon": "🎯",
+      "title": "విభక్తి Ideas",
+      "explanation": "Case endings lightly — notice how endings mark relationships.",
+      "points": [
+        "Textbook charts",
+        "Example sentences",
+        "Teacher model"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"విభక్తి Ideas\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "మాట్లాడే-నైపుణ్యం",
+      "icon": "✨",
+      "title": "మాట్లాడే నైపుణ్యం",
+      "explanation": "1-minute talk: నా ఇష్టమైన పండుగ.",
+      "points": [
+        "Notes first",
+        "Eye contact",
+        "Thank listeners"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"మాట్లాడే నైపుణ్యం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "te4x1",
+      "type": "mcq",
+      "prompt": "అచ్చులు means…",
+      "choices": [
+        "Consonants",
+        "Vowels",
+        "Numbers",
+        "Punctuation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te4x2",
+      "type": "mcq",
+      "prompt": "నమస్కారం is used to…",
+      "choices": [
+        "Greet respectfully",
+        "Count money",
+        "Measure length",
+        "Draw only"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "te4x3",
+      "type": "mcq",
+      "prompt": "అమ్మ means…",
+      "choices": [
+        "Father",
+        "Mother",
+        "School",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te4x4",
+      "type": "mcq",
+      "prompt": "కా is క with…",
+      "choices": [
+        "అ",
+        "ఆ",
+        "ఇ",
+        "ఉ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te4x5",
+      "type": "mcq",
+      "prompt": "ధన్యవాదాలు means…",
+      "choices": [
+        "Sorry",
+        "Please",
+        "Thank you",
+        "Go away"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "t4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "సంధి పరిచయం",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"సంధి పరిచయం\" is:",
+      "choices": [
+        "Observe textbook examples",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "సమాసం Light",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"సమాసం Light\" is:",
+      "choices": [
+        "Spot compounds",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "వ్యాకరణ: కర్త కర్మ",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"వ్యాకరణ: కర్త కర్మ\" is:",
+      "choices": [
+        "Ask ఎవరు/ఏమి",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "పర్యాయ & వ్యతిరేక",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"పర్యాయ & వ్యతిరేక\" is:",
+      "choices": [
+        "10 pairs",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "వ్యాస రచన",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"వ్యాస రచన\" is:",
+      "choices": [
+        "Intro 3 points close",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

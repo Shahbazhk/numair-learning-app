@@ -1,0 +1,479 @@
+{
+  "title": "English — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "reading-fluency",
+      "icon": "📖",
+      "title": "Reading Fluency",
+      "explanation": "Read aloud with expression; notice punctuation pauses.",
+      "points": [
+        "Pace",
+        "Expression",
+        "Unknown words: sound out + context"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Reading Fluency\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Reading Fluency"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Reading Fluency\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "nouns-possessives",
+      "icon": "✏️",
+      "title": "Nouns & Possessives",
+      "explanation": "Apostrophe shows belonging: Numair’s bag.",
+      "points": [
+        "Singular possessive",
+        "Plural nouns",
+        "Concrete abstract light"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Nouns & Possessives\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Nouns & Possessives"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Nouns & Possessives\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "verb-tenses",
+      "icon": "🗣️",
+      "title": "Verb Tenses",
+      "explanation": "Present continuous (is playing) and simple past/future will.",
+      "points": [
+        "Helping verbs",
+        "Time markers",
+        "Consistency"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Verb Tenses\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Verb Tenses"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Verb Tenses\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "icon": "📝",
+      "title": "Adverbs",
+      "explanation": "Often end in -ly and tell how/when/where an action happens.",
+      "points": [
+        "How when where",
+        "Not all -ly",
+        "Modify verbs"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Adverbs\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Adverbs"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Adverbs\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "conjunctions",
+      "icon": "📚",
+      "title": "Conjunctions",
+      "explanation": "and, but, or, because join ideas smoothly.",
+      "points": [
+        "Compound sentences",
+        "Choose right linker",
+        "Avoid run-ons"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Conjunctions\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Conjunctions"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Conjunctions\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "homophones",
+      "icon": "🔤",
+      "title": "Homophones",
+      "explanation": "Same sound, different meaning/spelling: to/too/two, their/there.",
+      "points": [
+        "Context chooses spelling",
+        "Mnemonic tricks",
+        "Proofread"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Homophones\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Homophones"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Homophones\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "punctuation-toolkit",
+      "icon": "💬",
+      "title": "Punctuation Toolkit",
+      "explanation": "Commas in lists, quotation marks for speech, apostrophes.",
+      "points": [
+        "List commas",
+        "Dialogue marks",
+        "Contractions forms"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Punctuation Toolkit\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Punctuation Toolkit"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Punctuation Toolkit\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "paragraph-writing",
+      "icon": "✍️",
+      "title": "Paragraph Writing",
+      "explanation": "Topic sentence, supporting details, closing line.",
+      "points": [
+        "One idea per paragraph",
+        "Order ideas",
+        "Edit spelling"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Paragraph Writing\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Paragraph Writing"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Paragraph Writing\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "story-elements",
+      "icon": "🎭",
+      "title": "Story Elements",
+      "explanation": "Characters, setting, problem and ending.",
+      "points": [
+        "Beginning middle end",
+        "Interesting start",
+        "Moral optional"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Story Elements\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Story Elements"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Story Elements\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "letter-diary",
+      "icon": "📰",
+      "title": "Letter & Diary",
+      "explanation": "Friendly letter layout and short diary entries about your day.",
+      "points": [
+        "Date greeting",
+        "Body closing",
+        "Honest voice"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Letter & Diary\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Letter & Diary"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Letter & Diary\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "e4x1",
+      "type": "mcq",
+      "prompt": "Choose the noun: The cat sleeps.",
+      "choices": [
+        "sleeps",
+        "cat",
+        "the",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e4x2",
+      "type": "mcq",
+      "prompt": "Opposite of happy is…",
+      "choices": [
+        "glad",
+        "sad",
+        "joyful",
+        "merry"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e4x3",
+      "type": "mcq",
+      "prompt": "A sentence usually starts with a…",
+      "choices": [
+        "comma",
+        "capital letter",
+        "question only",
+        "emoji"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e4x4",
+      "type": "mcq",
+      "prompt": "She ___ to school daily.",
+      "choices": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e4x5",
+      "type": "mcq",
+      "prompt": "Which is a question word?",
+      "choices": [
+        "Because",
+        "Where",
+        "And",
+        "Very"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "e4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Reading Fluency",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Reading Fluency\" is:",
+      "choices": [
+        "Pace",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Nouns & Possessives",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Nouns & Possessives\" is:",
+      "choices": [
+        "Singular possessive",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Verb Tenses",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Verb Tenses\" is:",
+      "choices": [
+        "Helping verbs",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Adverbs",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Adverbs\" is:",
+      "choices": [
+        "How when where",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Conjunctions",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "e4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Conjunctions\" is:",
+      "choices": [
+        "Compound sentences",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

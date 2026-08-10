@@ -1,0 +1,297 @@
+{
+  "title": "Science — CBSE Grade 10 Outline",
+  "grade": 10,
+  "depth": "outline",
+  "sections": [
+    {
+      "id": "chemical-reactions-and-equations",
+      "icon": "🌱",
+      "title": "Chemical Reactions and Equations",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Chemical Reactions and Equations\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Types of reactions",
+        "Balancing",
+        "Understand the main idea of \"Chemical Reactions and Equations\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "acids-bases-and-salts",
+      "icon": "🔬",
+      "title": "Acids, Bases and Salts",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Acids, Bases and Salts\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "pH",
+        "Important compounds",
+        "Understand the main idea of \"Acids, Bases and Salts\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "metals-and-non-metals",
+      "icon": "⚡",
+      "title": "Metals and Non-metals",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Metals and Non-metals\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Properties",
+        "Extraction idea",
+        "Corrosion"
+      ],
+      "examples": []
+    },
+    {
+      "id": "carbon-and-its-compounds",
+      "icon": "🧪",
+      "title": "Carbon and Its Compounds",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Carbon and Its Compounds\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Bonding",
+        "Ethanol ethanoic acid",
+        "Soaps"
+      ],
+      "examples": []
+    },
+    {
+      "id": "periodic-classification",
+      "icon": "🌍",
+      "title": "Periodic Classification",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Periodic Classification\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Modern periodic table",
+        "Trends",
+        "Understand the main idea of \"Periodic Classification\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "life-processes",
+      "icon": "🦴",
+      "title": "Life Processes",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Life Processes\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Nutrition respiration",
+        "Transport excretion",
+        "Understand the main idea of \"Life Processes\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "control-and-coordination",
+      "icon": "💧",
+      "title": "Control and Coordination",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Control and Coordination\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Nervous system",
+        "Hormones",
+        "Understand the main idea of \"Control and Coordination\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "how-do-organisms-reproduce",
+      "icon": "🌬️",
+      "title": "How Do Organisms Reproduce?",
+      "explanation": "In CBSE Grade 10 Science, we explore \"How Do Organisms Reproduce?\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Asexual sexual",
+        "Reproductive health",
+        "Understand the main idea of \"How Do Organisms Reproduce?\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "heredity-and-evolution",
+      "icon": "☀️",
+      "title": "Heredity and Evolution",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Heredity and Evolution\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Mendel ideas",
+        "Speciation",
+        "Understand the main idea of \"Heredity and Evolution\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "light-reflection-and-refraction",
+      "icon": "🧲",
+      "title": "Light — Reflection and Refraction",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Light — Reflection and Refraction\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Mirrors lenses",
+        "Human eye",
+        "Understand the main idea of \"Light — Reflection and Refraction\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "human-eye-and-colourful-world",
+      "icon": "🧬",
+      "title": "Human Eye and Colourful World",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Human Eye and Colourful World\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Defects",
+        "Dispersion scattering",
+        "Understand the main idea of \"Human Eye and Colourful World\" for Grade 10"
+      ],
+      "examples": []
+    },
+    {
+      "id": "electricity",
+      "icon": "🔭",
+      "title": "Electricity",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Electricity\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Ohm’s law",
+        "Series parallel",
+        "Heating effect"
+      ],
+      "examples": []
+    },
+    {
+      "id": "magnetic-effects-of-electric-current",
+      "icon": "🌡️",
+      "title": "Magnetic Effects of Electric Current",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Magnetic Effects of Electric Current\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Field",
+        "Motor",
+        "EMI idea"
+      ],
+      "examples": []
+    },
+    {
+      "id": "sources-of-energy-our-environment-management",
+      "icon": "🫀",
+      "title": "Sources of Energy & Our Environment / Management",
+      "explanation": "In CBSE Grade 10 Science, we explore \"Sources of Energy & Our Environment / Management\" with clear ideas you can use in class and daily life. Read the points, try an example, then check yourself with the quiz.",
+      "points": [
+        "Conventional renewable",
+        "Ecosystems",
+        "Sustainability"
+      ],
+      "examples": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "s10x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s10x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s10x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s10x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s10x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s10q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Chemical Reactions and Equations",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s10q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Chemical Reactions and Equations\" is:",
+      "choices": [
+        "Types of reactions",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s10q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Acids, Bases and Salts",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s10q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Acids, Bases and Salts\" is:",
+      "choices": [
+        "pH",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s10q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Metals and Non-metals",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    }
+  ]
+}

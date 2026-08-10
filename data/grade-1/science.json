@@ -1,0 +1,399 @@
+{
+  "title": "Science / EVS — CBSE Grade 1 Complete",
+  "grade": 1,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "myself-and-my-body",
+      "icon": "🌱",
+      "title": "Myself and My Body",
+      "explanation": "EVS starts with me: body parts help us work, play and stay safe.",
+      "points": [
+        "Name main body parts",
+        "Five senses explore the world",
+        "Clean habits keep us healthy"
+      ],
+      "examples": [
+        {
+          "title": "Sense",
+          "problem": "We see with our…",
+          "steps": [
+            "Sight"
+          ],
+          "answer": "Eyes"
+        }
+      ]
+    },
+    {
+      "id": "my-family",
+      "icon": "🔬",
+      "title": "My Family",
+      "explanation": "Families care for each other. Members help with different jobs at home.",
+      "points": [
+        "Parents caregivers siblings",
+        "Helping at home",
+        "Love and respect"
+      ],
+      "examples": [
+        {
+          "title": "Help",
+          "problem": "Setting plates is a way to…",
+          "steps": [
+            "Family help"
+          ],
+          "answer": "Help at home"
+        }
+      ]
+    },
+    {
+      "id": "plants-near-me",
+      "icon": "⚡",
+      "title": "Plants Near Me",
+      "explanation": "Plants need soil, water, air and sunlight. Leaves, flowers and fruits look different.",
+      "points": [
+        "Big trees and small plants",
+        "Do not pluck carelessly",
+        "Plants give shade and food"
+      ],
+      "examples": [
+        {
+          "title": "Need",
+          "problem": "Plants need water and…",
+          "steps": [
+            "Sunlight"
+          ],
+          "answer": "Sunlight"
+        }
+      ]
+    },
+    {
+      "id": "animals-around-us",
+      "icon": "🧪",
+      "title": "Animals Around Us",
+      "explanation": "Pet, farm and wild animals live in different places and eat different food.",
+      "points": [
+        "Pets need care",
+        "Animals move in different ways",
+        "Be kind to animals"
+      ],
+      "examples": [
+        {
+          "title": "Pet",
+          "problem": "A common pet that barks is a…",
+          "steps": [
+            "Pet"
+          ],
+          "answer": "Dog"
+        }
+      ]
+    },
+    {
+      "id": "food-we-eat",
+      "icon": "🌍",
+      "title": "Food We Eat",
+      "explanation": "Food gives energy. Meals can include grains, vegetables, fruits and water.",
+      "points": [
+        "Eat fresh food",
+        "Wash fruits",
+        "Drink clean water"
+      ],
+      "examples": [
+        {
+          "title": "Energy",
+          "problem": "Food helps us…",
+          "steps": [
+            "Energy"
+          ],
+          "answer": "Grow and play"
+        }
+      ]
+    },
+    {
+      "id": "water-and-air",
+      "icon": "🦴",
+      "title": "Water and Air",
+      "explanation": "We need clean air and water every day. Saving water is everyone’s job.",
+      "points": [
+        "Do not waste water",
+        "Air is around us",
+        "Keep surroundings clean"
+      ],
+      "examples": [
+        {
+          "title": "Save",
+          "problem": "Turn off the tap to…",
+          "steps": [
+            "Save"
+          ],
+          "answer": "Save water"
+        }
+      ]
+    },
+    {
+      "id": "houses-and-clothes",
+      "icon": "💧",
+      "title": "Houses and Clothes",
+      "explanation": "Houses shelter us; clothes suit weather and culture.",
+      "points": [
+        "Types of houses",
+        "Cotton in summer ideas",
+        "Keep home tidy"
+      ],
+      "examples": [
+        {
+          "title": "Rain",
+          "problem": "Umbrella helps in…",
+          "steps": [
+            "Weather"
+          ],
+          "answer": "Rain"
+        }
+      ]
+    },
+    {
+      "id": "safety-and-hygiene",
+      "icon": "🌬️",
+      "title": "Safety and Hygiene",
+      "explanation": "Simple rules protect us on roads, at home and while playing.",
+      "points": [
+        "Look before crossing",
+        "Wash hands",
+        "Tell an adult if hurt"
+      ],
+      "examples": [
+        {
+          "title": "Road",
+          "problem": "Cross at the zebra…",
+          "steps": [
+            "Safety"
+          ],
+          "answer": "Crossing"
+        }
+      ]
+    },
+    {
+      "id": "seasons-we-feel",
+      "icon": "☀️",
+      "title": "Seasons We Feel",
+      "explanation": "Hot, cold and rainy seasons change what we wear and do.",
+      "points": [
+        "Summer heat",
+        "Monsoon rain",
+        "Winter sweaters"
+      ],
+      "examples": [
+        {
+          "title": "Cold",
+          "problem": "In winter we wear…",
+          "steps": [
+            "Warm clothes"
+          ],
+          "answer": "Woollens"
+        }
+      ]
+    },
+    {
+      "id": "our-neighbourhood-helpers",
+      "icon": "🧲",
+      "title": "Our Neighbourhood Helpers",
+      "explanation": "Helpers keep community life running — teacher, doctor, cleaner, driver and more.",
+      "points": [
+        "Respect all jobs",
+        "Say thank you",
+        "Helpers keep us safe and healthy"
+      ],
+      "examples": [
+        {
+          "title": "Teach",
+          "problem": "Who helps us learn at school?",
+          "steps": [
+            "Helper"
+          ],
+          "answer": "Teacher"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "s1x1",
+      "type": "mcq",
+      "prompt": "Plants mainly make food in their…",
+      "choices": [
+        "Roots",
+        "Leaves",
+        "Flowers",
+        "Fruits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s1x2",
+      "type": "mcq",
+      "prompt": "We inhale which gas more needed by body?",
+      "choices": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen only",
+        "Smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s1x3",
+      "type": "mcq",
+      "prompt": "Water boils at (approx at sea level)…",
+      "choices": [
+        "50°C",
+        "100°C",
+        "0°C",
+        "200°C"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s1x4",
+      "type": "mcq",
+      "prompt": "A push or pull is called a…",
+      "choices": [
+        "Force",
+        "Meal",
+        "Colour",
+        "Planet"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1x5",
+      "type": "mcq",
+      "prompt": "The Earth moves around the…",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Mars",
+        "Pole star only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "s1q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Myself and My Body",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Myself and My Body\" is:",
+      "choices": [
+        "Name main body parts",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "My Family",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"My Family\" is:",
+      "choices": [
+        "Parents caregivers siblings",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Plants Near Me",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Plants Near Me\" is:",
+      "choices": [
+        "Big trees and small plants",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Animals Around Us",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Animals Around Us\" is:",
+      "choices": [
+        "Pets need care",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Food We Eat",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "s1q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Food We Eat\" is:",
+      "choices": [
+        "Eat fresh food",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

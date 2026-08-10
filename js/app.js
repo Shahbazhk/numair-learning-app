@@ -52,6 +52,21 @@
     return !!read("nameChosen", false);
   }
 
+  function getGrade() {
+    var g = read("grade", 2);
+    g = parseInt(g, 10);
+    if (isNaN(g) || g < 1 || g > 10) g = 2;
+    return g;
+  }
+
+  function setGrade(n) {
+    var g = parseInt(n, 10);
+    if (isNaN(g) || g < 1 || g > 10) g = 2;
+    write("grade", g);
+    applyNameToUI();
+    return g;
+  }
+
   function setNickname(name) {
     var clean = String(name || "Numair")
       .replace(/\s+/g, " ")
@@ -64,11 +79,18 @@
     return clean;
   }
 
+  function gradeActivityId(base) {
+    return "g" + getGrade() + "-" + base;
+  }
+
   function applyNameToUI() {
     var name = getNickname();
+    var grade = getGrade();
     var first = (name.charAt(0) || "N").toUpperCase();
     $(".js-kid-name").text(name);
     $(".js-kid-name-possessive").text(name + "’s");
+    $(".js-grade").text(String(grade));
+    $(".js-grade-label").text("Grade " + grade);
     $(".brand-mark").each(function () {
       $(this).text(first);
     });
@@ -77,31 +99,51 @@
       /\/index\.html?$/i.test(location.pathname.replace(/\\/g, "/")) ||
       /\/numair-learning-app\/?$/i.test(location.pathname.replace(/\\/g, "/"))
     ) {
-      document.title = name + "'s Learning World";
+      document.title = name + "'s Learning World · Grade " + grade;
     }
+  }
+
+  function gradeSelectHtml(selected) {
+    var html = '<select id="gradeSelect" class="grade-select" aria-label="CBSE Grade">';
+    for (var i = 1; i <= 10; i++) {
+      html +=
+        '<option value="' +
+        i +
+        '"' +
+        (i === selected ? " selected" : "") +
+        ">Grade " +
+        i +
+        (i === 2 ? " (default)" : "") +
+        "</option>";
+    }
+    html += "</select>";
+    return html;
   }
 
   function showNameDialog(opts) {
     opts = opts || {};
     var isFirst = !!opts.firstTime;
     var current = getNickname();
+    var currentGrade = getGrade();
     $("#nameDialog").remove();
     var $dlg = $(
       '<div id="nameDialog" class="name-overlay" role="dialog" aria-modal="true" aria-labelledby="nameDialogTitle">' +
         '<div class="name-dialog">' +
         "<h2 id=\"nameDialogTitle\">" +
-        (isFirst ? "What’s your name?" : "Change your name") +
+        (isFirst ? "What’s your name &amp; grade?" : "Change name / grade") +
         "</h2>" +
         "<p>" +
         (isFirst
-          ? "Welcome! Type your name so stars and rankings are yours. Default is Numair."
-          : "You can change it anytime. Default is Numair.") +
+          ? "Welcome! Pick your name and CBSE grade. Defaults are Numair and Grade 2."
+          : "Update your name or CBSE grade anytime.") +
         "</p>" +
         '<label class="name-label" for="nameInput">Your name</label>' +
         '<input type="text" id="nameInput" class="name-input" maxlength="20" autocomplete="nickname" />' +
+        '<label class="name-label" for="gradeSelect">CBSE grade</label>' +
+        gradeSelectHtml(currentGrade) +
         '<div class="name-actions">' +
         (isFirst
-          ? '<button type="button" class="btn" id="nameKeepDefault">Keep Numair</button>'
+          ? '<button type="button" class="btn" id="nameKeepDefault">Keep Numair · Grade 2</button>'
           : "") +
         '<button type="button" class="btn primary" id="nameSave">Save</button>' +
         "</div></div></div>"
@@ -109,22 +151,24 @@
     $("body").append($dlg);
     $("#nameInput").val(current).trigger("focus").select();
 
-    function save(val) {
+    function save(val, gradeVal) {
+      setGrade(gradeVal);
       setNickname(val);
       $("#nameDialog").remove();
-      celebrate("Hi, " + getNickname() + "!");
+      celebrate("Hi, " + getNickname() + "! Grade " + getGrade());
+      if (typeof opts.onSaved === "function") opts.onSaved();
     }
 
     $("#nameSave").on("click", function () {
-      save($("#nameInput").val());
+      save($("#nameInput").val(), $("#gradeSelect").val());
     });
     $("#nameKeepDefault").on("click", function () {
-      save("Numair");
+      save("Numair", 2);
     });
     $("#nameInput").on("keydown", function (e) {
       if (e.key === "Enter") {
         e.preventDefault();
-        save($(this).val());
+        save($(this).val(), $("#gradeSelect").val());
       }
     });
     if (!isFirst) {
@@ -135,12 +179,19 @@
   }
 
   function ensureNamePrompt() {
-    // Change-name stays on the home header; first-visit prompt can appear anywhere
     if ($("#btnChangeName").length) {
       $("#btnChangeName")
         .off("click.numairName")
         .on("click.numairName", function () {
-          showNameDialog({ firstTime: false });
+          showNameDialog({
+            firstTime: false,
+            onSaved: function () {
+              // If user is on a subject page, reload so new grade content loads
+              if (location.pathname.replace(/\\/g, "/").indexOf("/pages/") !== -1) {
+                location.reload();
+              }
+            }
+          });
         });
     }
     applyNameToUI();
@@ -562,6 +613,10 @@
     return "data/" + file;
   }
 
+  function subjectHref(file) {
+    return dataHref("grade-" + getGrade() + "/" + file);
+  }
+
   $(function () {
     refreshStarBadge();
     bindTabs();
@@ -581,6 +636,9 @@
     setStars: setStars,
     getNickname: getNickname,
     setNickname: setNickname,
+    getGrade: getGrade,
+    setGrade: setGrade,
+    gradeActivityId: gradeActivityId,
     hasChosenName: hasChosenName,
     showNameDialog: showNameDialog,
     applyNameToUI: applyNameToUI,
@@ -595,6 +653,7 @@
     escapeAttr: escapeAttr,
     refreshStarBadge: refreshStarBadge,
     dataHref: dataHref,
+    subjectHref: subjectHref,
     homeHref: homeHref
   };
 })(window, jQuery);

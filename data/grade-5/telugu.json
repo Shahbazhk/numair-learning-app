@@ -1,0 +1,408 @@
+{
+  "title": "Telugu — CBSE Grade 5 Complete",
+  "grade": 5,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "సంధి-విధాలు-overview",
+      "icon": "తె",
+      "title": "సంధి విధాలు (Overview)",
+      "explanation": "Meet major సంధి types with kid-friendly examples — pattern spotting over rote dumps.",
+      "points": [
+        "స్వర సంధి idea",
+        "హల్లు సంధి idea",
+        "Collect 5 examples"
+      ],
+      "examples": [
+        {
+          "title": "ఉదా",
+          "problem": "Why learn సంధి?",
+          "steps": [
+            "Smooth joining of sounds"
+          ],
+          "answer": "Clear fluent speech"
+        }
+      ]
+    },
+    {
+      "id": "సమాస-రకాలు-light",
+      "icon": "📖",
+      "title": "సమాస రకాలు Light",
+      "explanation": "Name a few समास kinds seen in class readings.",
+      "points": [
+        "Identify",
+        "Expand",
+        "Avoid over-labelling"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"సమాస రకాలు Light\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "అలంకారాలు-intro",
+      "icon": "🗣️",
+      "title": "అలంకారాలు Intro",
+      "explanation": "Simile-like beauty in Telugu poetry — ఉపమా feel.",
+      "points": [
+        "Compare gently",
+        "Find in poem",
+        "Own one line"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"అలంకారాలు Intro\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "వ్యాకరణ-సమీకరణం",
+      "icon": "✍️",
+      "title": "వ్యాకరణ సమీకరణం",
+      "explanation": "Revision web: sandhi, gender, number, tense markers.",
+      "points": [
+        "Error correction",
+        "Transformation",
+        "Peer quiz"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"వ్యాకరణ సమీకరణం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "వ్యాసం-150-పదాలు",
+      "icon": "🌟",
+      "title": "వ్యాసం 150 పదాలు",
+      "explanation": "Plan → draft → edit for school essay topics.",
+      "points": [
+        "Outline",
+        "Facts/examples",
+        "Conclusion"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"వ్యాసం 150 పదాలు\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "ఉపన్యాస-లేఖ",
+      "icon": "📚",
+      "title": "ఉపన్యాస లేఖ",
+      "explanation": "Formal note/application style for class needs.",
+      "points": [
+        "Respectful opening",
+        "Purpose",
+        "Closing"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"ఉపన్యాస లేఖ\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "అపఠిత-పద్యం",
+      "icon": "🔤",
+      "title": "అపఠిత పద్యం",
+      "explanation": "Unseen poem: central idea + two textual questions.",
+      "points": [
+        "Imagery",
+        "Tone",
+        "Vocabulary"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"అపఠిత పద్యం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "నాటక-పఠనం",
+      "icon": "💬",
+      "title": "నాటక పఠనం",
+      "explanation": "Read a playlet with expression.",
+      "points": [
+        "Character voice",
+        "Pause",
+        "Team practice"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"నాటక పఠనం\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "పదసంపద-project",
+      "icon": "🎯",
+      "title": "పదసంపద Project",
+      "explanation": "Collect 20 village/city Telugu words vs school Telugu.",
+      "points": [
+        "Respect dialects",
+        "Table",
+        "Present"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"పదసంపద Project\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    },
+    {
+      "id": "పరీక్ష-సాధన",
+      "icon": "✨",
+      "title": "పరీక్ష సాధన",
+      "explanation": "Timed reading + short writing every weekend.",
+      "points": [
+        "Clock practice",
+        "Self checklist",
+        "Revise mistakes"
+      ],
+      "examples": [
+        {
+          "title": "పదం",
+          "problem": "\"పరీక్ష సాధన\" లో ఒక సాధారణ పదం ఏమిటి?",
+          "steps": [
+            "పాఠం చదవండి",
+            "ఉదాహరణ పదం గుర్తుంచుకోండి"
+          ],
+          "answer": "సాధనతో నేర్చుకుందాం"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "te5x1",
+      "type": "mcq",
+      "prompt": "అచ్చులు means…",
+      "choices": [
+        "Consonants",
+        "Vowels",
+        "Numbers",
+        "Punctuation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te5x2",
+      "type": "mcq",
+      "prompt": "నమస్కారం is used to…",
+      "choices": [
+        "Greet respectfully",
+        "Count money",
+        "Measure length",
+        "Draw only"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "te5x3",
+      "type": "mcq",
+      "prompt": "అమ్మ means…",
+      "choices": [
+        "Father",
+        "Mother",
+        "School",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te5x4",
+      "type": "mcq",
+      "prompt": "కా is క with…",
+      "choices": [
+        "అ",
+        "ఆ",
+        "ఇ",
+        "ఉ"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "te5x5",
+      "type": "mcq",
+      "prompt": "ధన్యవాదాలు means…",
+      "choices": [
+        "Sorry",
+        "Please",
+        "Thank you",
+        "Go away"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "t5q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "సంధి విధాలు (Overview)",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"సంధి విధాలు (Overview)\" is:",
+      "choices": [
+        "స్వర సంధి idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "సమాస రకాలు Light",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"సమాస రకాలు Light\" is:",
+      "choices": [
+        "Identify",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "అలంకారాలు Intro",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"అలంకారాలు Intro\" is:",
+      "choices": [
+        "Compare gently",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "వ్యాకరణ సమీకరణం",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"వ్యాకరణ సమీకరణం\" is:",
+      "choices": [
+        "Error correction",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "వ్యాసం 150 పదాలు",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "t5q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"వ్యాసం 150 పదాలు\" is:",
+      "choices": [
+        "Outline",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

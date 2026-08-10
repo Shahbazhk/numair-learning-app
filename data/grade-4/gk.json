@@ -1,0 +1,479 @@
+{
+  "title": "General Knowledge — CBSE Grade 4 Complete",
+  "grade": 4,
+  "depth": "deep",
+  "sections": [
+    {
+      "id": "world-neighbouring-countries",
+      "icon": "🌍",
+      "title": "World: Neighbouring Countries",
+      "explanation": "Pakistan Nepal Bhutan Bangladesh China Myanmar Sri Lanka Maldives ideas.",
+      "points": [
+        "Map borders",
+        "Peace",
+        "Trade culture"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"World: Neighbouring Countries\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to World: Neighbouring Countries"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"World: Neighbouring Countries\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "indian-rivers-mountains",
+      "icon": "🇮🇳",
+      "title": "Indian Rivers & Mountains",
+      "explanation": "Ganga Yamuna Godavari; Himalaya Western Ghats fame.",
+      "points": [
+        "Source mouth idea",
+        "Clean rivers",
+        "Map labelling"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Indian Rivers & Mountains\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Indian Rivers & Mountains"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Indian Rivers & Mountains\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "monuments-trail",
+      "icon": "🏆",
+      "title": "Monuments Trail",
+      "explanation": "Taj Red Fort Qutub Charminar — art + history tourism.",
+      "points": [
+        "Location state",
+        "Builder era light",
+        "No litter"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Monuments Trail\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Monuments Trail"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Monuments Trail\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "science-in-daily-life-gk",
+      "icon": "🌳",
+      "title": "Science in Daily Life GK",
+      "explanation": "Why ice melts, why we sweat, magnets on fridge.",
+      "points": [
+        "Observe",
+        "Ask why",
+        "Safe trials"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Science in Daily Life GK\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Science in Daily Life GK"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Science in Daily Life GK\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "books-and-authors-kids",
+      "icon": "📅",
+      "title": "Books and Authors (Kids)",
+      "explanation": "Meet a few classic children’s authors/poets.",
+      "points": [
+        "Library visit",
+        "Favourite book talk",
+        "Respect books"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Books and Authors (Kids)\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Books and Authors (Kids)"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Books and Authors (Kids)\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "currency-and-emblems",
+      "icon": "⚽",
+      "title": "Currency and Emblems",
+      "explanation": "₹ symbol; reserve bank idea lightly; coins eras.",
+      "points": [
+        "Money care",
+        "Counterfeit alert with adult",
+        "Saving"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Currency and Emblems\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Currency and Emblems"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Currency and Emblems\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "space-basics",
+      "icon": "🔬",
+      "title": "Space Basics",
+      "explanation": "ISRO pride; planets order mnemonic fun.",
+      "points": [
+        "Solar system",
+        "Moon landing history light",
+        "Dream big"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Space Basics\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Space Basics"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Space Basics\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "first-aid-gk",
+      "icon": "🎨",
+      "title": "First Aid GK",
+      "explanation": "Nosebleed, minor cut, burn cooling — call adult always.",
+      "points": [
+        "Clean water",
+        "No panic",
+        "Emergency numbers"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"First Aid GK\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to First Aid GK"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"First Aid GK\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "computer-awareness-start",
+      "icon": "🛰️",
+      "title": "Computer Awareness Start",
+      "explanation": "Monitor keyboard mouse; kind online behaviour.",
+      "points": [
+        "Password privacy",
+        "Time limits",
+        "Ask before download"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Computer Awareness Start\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Computer Awareness Start"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Computer Awareness Start\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    },
+    {
+      "id": "current-affairs-junior",
+      "icon": "🏅",
+      "title": "Current Affairs Junior",
+      "explanation": "Weekly: one national & one sports headline discussed at home.",
+      "points": [
+        "Child-safe news",
+        "Ask questions",
+        "Map the place"
+      ],
+      "examples": [
+        {
+          "title": "Think",
+          "problem": "Give one real-life example of \"Current Affairs Junior\".",
+          "steps": [
+            "Link the idea to home, school or nature"
+          ],
+          "answer": "Something you can observe related to Current Affairs Junior"
+        },
+        {
+          "title": "Remember",
+          "problem": "What is one key point from \"Current Affairs Junior\"?",
+          "steps": [
+            "Re-read the points list"
+          ],
+          "answer": "The first point in the lesson"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "g4x1",
+      "type": "mcq",
+      "prompt": "How many days in a week?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "g4x2",
+      "type": "mcq",
+      "prompt": "National bird of India is…",
+      "choices": [
+        "Crow",
+        "Peacock",
+        "Sparrow",
+        "Eagle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g4x3",
+      "type": "mcq",
+      "prompt": "We should cross roads at a…",
+      "choices": [
+        "Anywhere",
+        "Zebra crossing",
+        "Tunnel only",
+        "Blind bend"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g4x4",
+      "type": "mcq",
+      "prompt": "Olympics promote…",
+      "choices": [
+        "Cheating",
+        "Fair play",
+        "Litter",
+        "Hate"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g4x5",
+      "type": "mcq",
+      "prompt": "Turning off unused lights helps…",
+      "choices": [
+        "Waste power",
+        "Save electricity",
+        "Break bulbs",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "g4q1",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "World: Neighbouring Countries",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q1b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"World: Neighbouring Countries\" is:",
+      "choices": [
+        "Map borders",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q2",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Indian Rivers & Mountains",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q2b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Indian Rivers & Mountains\" is:",
+      "choices": [
+        "Source mouth idea",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q3",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Monuments Trail",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q3b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Monuments Trail\" is:",
+      "choices": [
+        "Location state",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q4",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Science in Daily Life GK",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q4b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Science in Daily Life GK\" is:",
+      "choices": [
+        "Observe",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q5",
+      "type": "mcq",
+      "prompt": "Which topic are we learning?",
+      "choices": [
+        "Books and Authors (Kids)",
+        "Random games only",
+        "Ignoring books",
+        "Sleeping in class"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "g4q5b",
+      "type": "mcq",
+      "prompt": "A useful idea from \"Books and Authors (Kids)\" is:",
+      "choices": [
+        "Library visit",
+        "Never ask questions",
+        "Skip revision",
+        "Copy without understanding"
+      ],
+      "answer": 0
+    }
+  ]
+}

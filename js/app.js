@@ -587,17 +587,19 @@
       var target = $btn.data("tab");
       if (!target) return;
       var $tabsRow = $btn.closest(".tabs");
-      // Prefer immediate parent when it owns the panels (nested Learn/Play tabs);
-      // otherwise use the closest .tabbed (e.g. Games header wraps the tabs).
+      // Games: tabs live in .games-top, panels are siblings under .tabbed
+      // Subjects: tabs + panels share the same parent
       var $wrap = $tabsRow.parent();
       if (!$wrap.children("#" + target).length) {
         $wrap = $btn.closest(".tabbed");
       }
-      if (!$wrap.length || !$wrap.children("#" + target).length) return;
+      var $panel = $wrap.children("#" + target);
+      if (!$panel.length) $panel = $wrap.find("#" + target).first();
+      if (!$wrap.length || !$panel.length) return;
       $tabsRow.find(".tab-btn").removeClass("active");
       $btn.addClass("active");
       $wrap.children(".panel").removeClass("active");
-      $wrap.children("#" + target).addClass("active");
+      $panel.addClass("active");
     });
   }
 

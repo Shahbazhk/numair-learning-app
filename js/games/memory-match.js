@@ -8,6 +8,7 @@
   var moves = 0;
   var matched = 0;
   var startedAt = 0;
+  var bound = false;
 
   function levelPairs(level) {
     if (level === "easy") return 4;
@@ -41,7 +42,7 @@
     renderRanks(list);
     $("#memMsg").text("Great memory! Score " + score + " in " + secs + "s");
     NumairApp.celebrate("Memory win! ★");
-    NumairApp.addStars(2, "memory-" + pairCount + "-" + score);
+    NumairApp.addStars(2, "memory-" + pairCount + "-" + Date.now());
   }
 
   function renderRanks(list) {
@@ -53,6 +54,7 @@
   }
 
   function start(level) {
+    if (!$("#memBoard").length) return;
     pairCount = levelPairs(level || "medium");
     first = null;
     lock = false;
@@ -61,6 +63,7 @@
     startedAt = Date.now();
     var picks = shuffle(EMOJIS).slice(0, pairCount);
     var deck = shuffle(picks.concat(picks));
+    var cols = pairCount <= 4 ? 4 : 4;
     var html = "";
     deck.forEach(function (emoji, i) {
       html +=
@@ -69,15 +72,16 @@
         '" data-v="' +
         emoji +
         '" aria-label="Memory card">' +
-        '<span class="mem-back">?</span>' +
-        '<span class="mem-front" aria-hidden="true">' +
+        '<span class="mem-face mem-back">?</span>' +
+        '<span class="mem-face mem-front">' +
         emoji +
         "</span></button>";
     });
     $("#memBoard")
-      .css("--mem-cols", pairCount <= 4 ? 4 : 4)
+      .attr("data-cols", cols)
+      .css("grid-template-columns", "repeat(" + cols + ", minmax(0, 1fr))")
       .html(html);
-    $("#memMsg").text("Find the matching pairs!");
+    $("#memMsg").text("Tap a card — find matching pairs!");
     updateHud();
   }
 
@@ -90,8 +94,8 @@
     }
     moves++;
     updateHud();
-    var a = first.data("v");
-    var b = $card.data("v");
+    var a = String(first.attr("data-v"));
+    var b = String($card.attr("data-v"));
     if (a === b) {
       first.addClass("matched");
       $card.addClass("matched");
@@ -113,19 +117,31 @@
   }
 
   function init() {
+    if (!$("#memBoard").length) return;
     renderRanks();
     start("medium");
-    $(".mem-level").on("click", function () {
+    if (bound) return;
+    bound = true;
+    $(document).on("click", ".mem-level", function () {
       $(".mem-level").removeClass("active");
       $(this).addClass("active");
       start($(this).data("level"));
     });
-    $("#memRestart").on("click", function () {
+    $(document).on("click", "#memRestart", function () {
       var lvl = $(".mem-level.active").data("level") || "medium";
       start(lvl);
     });
-    $("#memBoard").on("click", ".mem-card", function () {
+    $(document).on("click", "#memBoard .mem-card", function () {
       flip($(this));
+    });
+    // When Memory tab opens, ensure board is filled (display:none can confuse some browsers)
+    $(document).on("click", '.tab-btn[data-tab="panelMemory"]', function () {
+      setTimeout(function () {
+        if (!$("#memBoard .mem-card").length) {
+          var lvl = $(".mem-level.active").data("level") || "medium";
+          start(lvl);
+        }
+      }, 50);
     });
   }
 

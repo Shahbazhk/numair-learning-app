@@ -19,6 +19,7 @@
         <button type="button" class="tab-btn active" data-tab="panelCar">Car Race</button>
         <button type="button" class="tab-btn" data-tab="panelFootball">Football</button>
         <button type="button" class="tab-btn" data-tab="panelMemory">Memory</button>
+        <button type="button" class="tab-btn" data-tab="panelBounce">Red Ball</button>
         <button type="button" class="tab-btn" data-tab="panelPattern">Pattern</button>
         <button type="button" class="tab-btn" data-tab="panelUno">UNO</button>
       </div>
@@ -76,6 +77,7 @@
       <div class="game-shell brain-shell">
         <div class="brain-stage">
           <div id="memBoard" class="mem-board" aria-label="Memory match board"></div>
+          <p class="game-hint mem-empty-hint" id="memEmptyHint">Loading cards… Tap New game if you see none.</p>
         </div>
         <aside class="game-side">
           <div class="level-pills compact">
@@ -90,6 +92,27 @@
           <div class="card rank-card">
             <h3>Ranking</h3>
             <ol class="rank-list" id="memRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="panelBounce" class="panel">
+      <div class="game-shell">
+        <div class="game-stage">
+          <canvas id="bounceCanvas" width="320" height="420" aria-label="Red ball bounce game"></canvas>
+        </div>
+        <aside class="game-side">
+          <div class="touch-controls compact">
+            <button type="button" class="btn" id="bounceLeft">◀</button>
+            <button type="button" class="btn" id="bounceRight">▶</button>
+          </div>
+          <button type="button" class="btn primary btn-block" id="bounceStart">Start bounce</button>
+          <p id="bounceScore" class="game-score">Score: 0</p>
+          <p class="game-hint">Move the paddle. Keep the red ball bouncing! 3 lives.</p>
+          <div class="card rank-card">
+            <h3>Ranking</h3>
+            <ol class="rank-list" id="bounceRanks"></ol>
           </div>
         </aside>
       </div>
@@ -152,12 +175,24 @@
   <script src="../js/games/car-race.js"></script>
   <script src="../js/games/football.js"></script>
   <script src="../js/games/memory-match.js"></script>
+  <script src="../js/games/bounce-ball.js"></script>
   <script src="../js/games/pattern-seq.js"></script>
   <script src="../js/games/uno.js"></script>
   <script>
     (function () {
+      function safeInit(name, fn) {
+        try {
+          fn();
+        } catch (err) {
+          console.error(name + " failed", err);
+          if (window.NumairApp) NumairApp.celebrate(name + " needs a refresh");
+        }
+      }
+
       var canvas = document.getElementById("carCanvas");
       var game = null;
+      var bounce = null;
+      var bounceCanvas = document.getElementById("bounceCanvas");
 
       function placeLabel(p) {
         return p === 1 ? "🥇 1st" : p === 2 ? "🥈 2nd" : "🥉 3rd";
@@ -186,15 +221,24 @@
         $("#carPodium").html(html);
       }
 
-      function bindHold(id, key) {
+      function showBounceRanks(list) {
+        var html = "";
+        (list || NumairApp.getRankings("bounceBall")).forEach(function (r, i) {
+          html += "<li><span>#" + (i + 1) + " " + r.name + "</span><span>" + r.score + "</span></li>";
+        });
+        $("#bounceRanks").html(html || "<li>No scores yet</li>");
+      }
+
+      function bindHold(id, setter) {
         var el = document.getElementById(id);
+        if (!el) return;
         function down(e) {
           e.preventDefault();
-          if (game) game.setInput(key, true);
+          setter(true);
         }
         function up(e) {
           e.preventDefault();
-          if (game) game.setInput(key, false);
+          setter(false);
         }
         el.addEventListener("mousedown", down);
         el.addEventListener("mouseup", up);
@@ -210,13 +254,10 @@
           onFinish: function (result) {
             showPodium(result.standings);
             var place = result.playerPlace || 3;
-            // Lower score is better place for sorting? We store place as score then sort ascending for display
-            // saveRanking sorts descending — so store inverted score: 4-place so 1st=3, 2nd=2, 3rd=1
             var list = NumairApp.saveRanking("carRacePlaces", {
               name: NumairApp.getNickname(),
               score: 4 - place
             });
-            // re-map display uses score as inverted — convert back in showCarRanks
             showCarRanks(
               list.map(function (r) {
                 return { name: r.name, score: 4 - r.score };
@@ -237,36 +278,98 @@
         game.start();
       });
 
+      $("#bounceStart").on("click", function () {
+        if (bounce) bounce.stop();
+        bounce = new BounceBall(bounceCanvas, {
+          onGameOver: function (score) {
+            $("#bounceScore").text("Score: " + score);
+            var list = NumairApp.saveRanking("bounceBall", {
+              name: NumairApp.getNickname(),
+              score: score
+            });
+            showBounceRanks(list);
+            if (score >= 80) NumairApp.addStars(2, "bounce-" + score + "-" + Date.now());
+            else if (score >= 30) NumairApp.addStars(1, "bounce-" + score + "-" + Date.now());
+            NumairApp.celebrate("Bounce score: " + score);
+          }
+        });
+        bounce.start();
+        $("#bounceScore").text("Score: 0");
+      });
+
       window.addEventListener("keydown", function (e) {
-        if (!game) return;
-        if (e.key === "ArrowLeft") game.setInput("left", true);
-        if (e.key === "ArrowRight") game.setInput("right", true);
-        if (e.key === "ArrowUp" || e.key === " ") {
-          e.preventDefault();
-          game.setInput("accel", true);
+        if (game) {
+          if (e.key === "ArrowLeft") game.setInput("left", true);
+          if (e.key === "ArrowRight") game.setInput("right", true);
+          if (e.key === "ArrowUp" || e.key === " ") {
+            e.preventDefault();
+            game.setInput("accel", true);
+          }
+        }
+        if (bounce && bounce.running) {
+          if (e.key === "ArrowLeft") bounce.setInput("left", true);
+          if (e.key === "ArrowRight") bounce.setInput("right", true);
         }
       });
       window.addEventListener("keyup", function (e) {
-        if (!game) return;
-        if (e.key === "ArrowLeft") game.setInput("left", false);
-        if (e.key === "ArrowRight") game.setInput("right", false);
-        if (e.key === "ArrowUp" || e.key === " ") game.setInput("accel", false);
+        if (game) {
+          if (e.key === "ArrowLeft") game.setInput("left", false);
+          if (e.key === "ArrowRight") game.setInput("right", false);
+          if (e.key === "ArrowUp" || e.key === " ") game.setInput("accel", false);
+        }
+        if (bounce) {
+          if (e.key === "ArrowLeft") bounce.setInput("left", false);
+          if (e.key === "ArrowRight") bounce.setInput("right", false);
+        }
       });
 
-      bindHold("carLeft", "left");
-      bindHold("carRight", "right");
-      bindHold("carGas", "accel");
+      bindHold("carLeft", function (d) {
+        if (game) game.setInput("left", d);
+      });
+      bindHold("carRight", function (d) {
+        if (game) game.setInput("right", d);
+      });
+      bindHold("carGas", function (d) {
+        if (game) game.setInput("accel", d);
+      });
+      bindHold("bounceLeft", function (d) {
+        if (bounce) bounce.setInput("left", d);
+      });
+      bindHold("bounceRight", function (d) {
+        if (bounce) bounce.setInput("right", d);
+      });
 
-      // show ranks converting stored inverted scores
       var raw = NumairApp.getRankings("carRacePlaces").map(function (r) {
         return { name: r.name, score: 4 - r.score };
       });
       showCarRanks(raw);
+      showBounceRanks();
 
-      FootballGame.init();
-      MemoryMatch.init();
-      PatternSeq.init();
-      UnoKids.init();
+      if (bounceCanvas) {
+        bounce = new BounceBall(bounceCanvas, {});
+        bounce.drawIdle();
+      }
+
+      safeInit("Football", function () {
+        FootballGame.init();
+      });
+      safeInit("Memory", function () {
+        MemoryMatch.init();
+        if ($("#memBoard .mem-card").length) $("#memEmptyHint").hide();
+      });
+      safeInit("Pattern", function () {
+        PatternSeq.init();
+      });
+      safeInit("UNO", function () {
+        UnoKids.init();
+      });
+
+      $('.tab-btn[data-tab="panelMemory"]').on("click", function () {
+        setTimeout(function () {
+          if (!$("#memBoard .mem-card").length) MemoryMatch.start($(".mem-level.active").data("level") || "medium");
+          if ($("#memBoard .mem-card").length) $("#memEmptyHint").hide();
+        }, 30);
+      });
     })();
   </script>
 </body>

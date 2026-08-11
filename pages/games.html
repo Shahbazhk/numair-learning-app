@@ -20,6 +20,7 @@
         <button type="button" class="tab-btn" data-tab="panelFootball">Football</button>
         <button type="button" class="tab-btn" data-tab="panelMemory">Memory</button>
         <button type="button" class="tab-btn" data-tab="panelBounce">Red Ball</button>
+        <button type="button" class="tab-btn" data-tab="panelBouncing">Bouncing Ball</button>
         <button type="button" class="tab-btn" data-tab="panelPattern">Pattern</button>
         <button type="button" class="tab-btn" data-tab="panelUno">UNO</button>
       </div>
@@ -100,19 +101,41 @@
     <section id="panelBounce" class="panel">
       <div class="game-shell">
         <div class="game-stage">
-          <canvas id="bounceCanvas" width="320" height="420" aria-label="Red ball bounce game"></canvas>
+          <canvas id="bounceCanvas" width="320" height="420" aria-label="Red ball paddle game"></canvas>
         </div>
         <aside class="game-side">
           <div class="touch-controls compact">
             <button type="button" class="btn" id="bounceLeft">◀</button>
             <button type="button" class="btn" id="bounceRight">▶</button>
           </div>
-          <button type="button" class="btn primary btn-block" id="bounceStart">Start bounce</button>
+          <button type="button" class="btn primary btn-block" id="bounceStart">Start Red Ball</button>
           <p id="bounceScore" class="game-score">Score: 0</p>
           <p class="game-hint">Move the paddle. Keep the red ball bouncing! 3 lives.</p>
           <div class="card rank-card">
             <h3>Ranking</h3>
             <ol class="rank-list" id="bounceRanks"></ol>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section id="panelBouncing" class="panel">
+      <div class="game-shell">
+        <div class="game-stage">
+          <canvas id="bouncingCanvas" width="320" height="420" aria-label="Bouncing Ball adventure"></canvas>
+        </div>
+        <aside class="game-side">
+          <div class="touch-controls compact">
+            <button type="button" class="btn" id="bbLeft">◀</button>
+            <button type="button" class="btn warn" id="bbJump">▲ Bounce</button>
+            <button type="button" class="btn" id="bbRight">▶</button>
+          </div>
+          <button type="button" class="btn primary btn-block" id="bbStart">Start Bouncing Ball</button>
+          <p id="bbScore" class="game-score">Score: 0 · 🪙 0 · 💎 0</p>
+          <p class="game-hint">Steer over bumpy land. Grab coins &amp; diamonds. Avoid pits and water — one fall = game over!</p>
+          <div class="card rank-card">
+            <h3>Ranking</h3>
+            <ol class="rank-list" id="bbRanks"></ol>
           </div>
         </aside>
       </div>
@@ -176,6 +199,7 @@
   <script src="../js/games/football.js"></script>
   <script src="../js/games/memory-match.js"></script>
   <script src="../js/games/bounce-ball.js"></script>
+  <script src="../js/games/bouncing-ball.js"></script>
   <script src="../js/games/pattern-seq.js"></script>
   <script src="../js/games/uno.js"></script>
   <script>
@@ -193,6 +217,13 @@
       var game = null;
       var bounce = null;
       var bounceCanvas = document.getElementById("bounceCanvas");
+      var bb = null;
+      var bbCanvas = document.getElementById("bouncingCanvas");
+
+      function activePanelId() {
+        var $p = $(".games-page > .panel.active");
+        return $p.length ? $p.attr("id") : "";
+      }
 
       function placeLabel(p) {
         return p === 1 ? "🥇 1st" : p === 2 ? "🥈 2nd" : "🥉 3rd";
@@ -227,6 +258,14 @@
           html += "<li><span>#" + (i + 1) + " " + r.name + "</span><span>" + r.score + "</span></li>";
         });
         $("#bounceRanks").html(html || "<li>No scores yet</li>");
+      }
+
+      function showBbRanks(list) {
+        var html = "";
+        (list || NumairApp.getRankings("bouncingBall")).forEach(function (r, i) {
+          html += "<li><span>#" + (i + 1) + " " + r.name + "</span><span>" + r.score + "</span></li>";
+        });
+        $("#bbRanks").html(html || "<li>No scores yet</li>");
       }
 
       function bindHold(id, setter) {
@@ -297,8 +336,40 @@
         $("#bounceScore").text("Score: 0");
       });
 
+      $("#bbStart").on("click", function () {
+        if (bb) bb.stop();
+        bb = new BouncingBallGame(bbCanvas, {
+          onGameOver: function (result) {
+            $("#bbScore").text(
+              "Score: " + result.score + " · 🪙 " + result.coins + " · 💎 " + result.diamonds
+            );
+            var list = NumairApp.saveRanking("bouncingBall", {
+              name: NumairApp.getNickname(),
+              score: result.score
+            });
+            showBbRanks(list);
+            if (result.score >= 120) NumairApp.addStars(2, "bb-" + result.score + "-" + Date.now());
+            else if (result.score >= 40) NumairApp.addStars(1, "bb-" + result.score + "-" + Date.now());
+            var tip = result.reason === "water" ? "Splash!" : "Pit fall!";
+            NumairApp.celebrate(tip + " Score " + result.score);
+          }
+        });
+        bb.start();
+        $("#bbScore").text("Score: 0 · 🪙 0 · 💎 0");
+      });
+
+      // Live score while playing Bouncing Ball
+      setInterval(function () {
+        if (bb && bb.running) {
+          $("#bbScore").text(
+            "Score: " + bb.score + " · 🪙 " + bb.coins + " · 💎 " + bb.diamonds
+          );
+        }
+      }, 400);
+
       window.addEventListener("keydown", function (e) {
-        if (game) {
+        var panel = activePanelId();
+        if (panel === "panelCar" && game) {
           if (e.key === "ArrowLeft") game.setInput("left", true);
           if (e.key === "ArrowRight") game.setInput("right", true);
           if (e.key === "ArrowUp" || e.key === " ") {
@@ -306,9 +377,17 @@
             game.setInput("accel", true);
           }
         }
-        if (bounce && bounce.running) {
+        if (panel === "panelBounce" && bounce && bounce.running) {
           if (e.key === "ArrowLeft") bounce.setInput("left", true);
           if (e.key === "ArrowRight") bounce.setInput("right", true);
+        }
+        if (panel === "panelBouncing" && bb && bb.running) {
+          if (e.key === "ArrowLeft") bb.setInput("left", true);
+          if (e.key === "ArrowRight") bb.setInput("right", true);
+          if (e.key === "ArrowUp" || e.key === " ") {
+            e.preventDefault();
+            bb.setInput("jump", true);
+          }
         }
       });
       window.addEventListener("keyup", function (e) {
@@ -320,6 +399,11 @@
         if (bounce) {
           if (e.key === "ArrowLeft") bounce.setInput("left", false);
           if (e.key === "ArrowRight") bounce.setInput("right", false);
+        }
+        if (bb) {
+          if (e.key === "ArrowLeft") bb.setInput("left", false);
+          if (e.key === "ArrowRight") bb.setInput("right", false);
+          if (e.key === "ArrowUp" || e.key === " ") bb.setInput("jump", false);
         }
       });
 
@@ -338,16 +422,30 @@
       bindHold("bounceRight", function (d) {
         if (bounce) bounce.setInput("right", d);
       });
+      bindHold("bbLeft", function (d) {
+        if (bb) bb.setInput("left", d);
+      });
+      bindHold("bbRight", function (d) {
+        if (bb) bb.setInput("right", d);
+      });
+      bindHold("bbJump", function (d) {
+        if (bb) bb.setInput("jump", d);
+      });
 
       var raw = NumairApp.getRankings("carRacePlaces").map(function (r) {
         return { name: r.name, score: 4 - r.score };
       });
       showCarRanks(raw);
       showBounceRanks();
+      showBbRanks();
 
       if (bounceCanvas) {
         bounce = new BounceBall(bounceCanvas, {});
         bounce.drawIdle();
+      }
+      if (bbCanvas) {
+        bb = new BouncingBallGame(bbCanvas, {});
+        bb.drawIdle();
       }
 
       safeInit("Football", function () {

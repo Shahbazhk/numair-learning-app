@@ -38,6 +38,7 @@
     this.pickups = [];
     this.genCursor = 0;
     this._jumpLatch = false;
+    this._boostCool = 0;
     this.seedTerrain(28);
   };
 
@@ -190,15 +191,25 @@
     if (b.vx > speed) b.vx = speed;
     if (b.vx < -2.5) b.vx = -2.5;
 
-    // Jump / higher bounce when on ground
-    if (this.keys.jump && b.onGround && !this._jumpLatch) {
-      b.vy = -9.2;
+    if (this._boostCool > 0) this._boostCool--;
+
+    // Up / Bounce: always give a boost (air or land) — kid-friendly
+    if (this.keys.jump && !this._jumpLatch && this._boostCool <= 0) {
+      if (b.onGround || b.vy >= -1) {
+        // Strong bounce off ground / near apex
+        b.vy = -9.8;
+      } else {
+        // Extra lift while falling or rising
+        b.vy = Math.min(b.vy, -2) - 5.5;
+      }
+      if (b.vy < -11.5) b.vy = -11.5;
       b.onGround = false;
       this._jumpLatch = true;
+      this._boostCool = 14; // short cooldown so spam still works but controlled
     }
     if (!this.keys.jump) this._jumpLatch = false;
 
-    b.vy += 0.38; // gravity
+    b.vy += 0.36; // gravity
     if (b.vy > 12) b.vy = 12;
 
     b.x += b.vx;
@@ -216,13 +227,17 @@
       if (feet >= g.top + 6) this.gameOver("water");
     } else {
       // Land / slope bounce
-      if (feet >= g.top && b.vy >= 0 && b.y < g.top + 24) {
+      if (feet >= g.top && b.vy >= 0 && b.y < g.top + 28) {
         b.y = g.top - b.r;
-        // Bounce!
-        var bounce = Math.min(-5.5, -Math.abs(b.vy) * 0.72 - 1.2);
-        if (this.keys.jump) bounce -= 1.5;
+        // Auto bounce; hold Up for a super bounce
+        var bounce = -Math.abs(b.vy) * 0.78 - 2.2;
+        if (this.keys.jump) bounce -= 3.2;
+        if (bounce > -5.2) bounce = -5.2;
+        if (bounce < -11) bounce = -11;
         b.vy = bounce;
         b.onGround = true;
+        // Allow an immediate Up press after landing
+        this._jumpLatch = false;
       } else {
         b.onGround = false;
       }

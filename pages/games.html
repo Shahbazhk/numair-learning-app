@@ -132,7 +132,7 @@
           </div>
           <button type="button" class="btn primary btn-block" id="bbStart">Start Bouncing Ball</button>
           <p id="bbScore" class="game-score">Score: 0 · 🪙 0 · 💎 0</p>
-          <p class="game-hint">Steer over bumpy land. Grab coins &amp; diamonds. Avoid pits and water — one fall = game over!</p>
+          <p class="game-hint">◀ ▶ steer · ▲ / Space / Bounce for extra lift anytime. Grab 🪙 coins &amp; 💎 diamonds. Pits &amp; water = game over!</p>
           <div class="card rank-card">
             <h3>Ranking</h3>
             <ol class="rank-list" id="bbRanks"></ol>
@@ -369,10 +369,11 @@
 
       window.addEventListener("keydown", function (e) {
         var panel = activePanelId();
+        var up = e.key === "ArrowUp" || e.key === " " || e.key === "w" || e.key === "W";
         if (panel === "panelCar" && game) {
           if (e.key === "ArrowLeft") game.setInput("left", true);
           if (e.key === "ArrowRight") game.setInput("right", true);
-          if (e.key === "ArrowUp" || e.key === " ") {
+          if (up) {
             e.preventDefault();
             game.setInput("accel", true);
           }
@@ -381,20 +382,22 @@
           if (e.key === "ArrowLeft") bounce.setInput("left", true);
           if (e.key === "ArrowRight") bounce.setInput("right", true);
         }
-        if (panel === "panelBouncing" && bb && bb.running) {
+        // Accept keys whenever Bouncing Ball is running (even if tab focus is fuzzy)
+        if (bb && bb.running && (panel === "panelBouncing" || panel === "")) {
           if (e.key === "ArrowLeft") bb.setInput("left", true);
           if (e.key === "ArrowRight") bb.setInput("right", true);
-          if (e.key === "ArrowUp" || e.key === " ") {
+          if (up) {
             e.preventDefault();
             bb.setInput("jump", true);
           }
         }
       });
       window.addEventListener("keyup", function (e) {
+        var up = e.key === "ArrowUp" || e.key === " " || e.key === "w" || e.key === "W";
         if (game) {
           if (e.key === "ArrowLeft") game.setInput("left", false);
           if (e.key === "ArrowRight") game.setInput("right", false);
-          if (e.key === "ArrowUp" || e.key === " ") game.setInput("accel", false);
+          if (up) game.setInput("accel", false);
         }
         if (bounce) {
           if (e.key === "ArrowLeft") bounce.setInput("left", false);
@@ -403,7 +406,7 @@
         if (bb) {
           if (e.key === "ArrowLeft") bb.setInput("left", false);
           if (e.key === "ArrowRight") bb.setInput("right", false);
-          if (e.key === "ArrowUp" || e.key === " ") bb.setInput("jump", false);
+          if (up) bb.setInput("jump", false);
         }
       });
 

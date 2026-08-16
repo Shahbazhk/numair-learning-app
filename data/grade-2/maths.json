@@ -1,5 +1,7 @@
 {
   "title": "Maths — CBSE Grade 2 Complete",
+  "grade": 2,
+  "depth": "deep",
   "tables": {
     "title": "Multiplication Tables",
     "subtitle": "Practice tables 1 to 10 every day — each table goes up to ×12. Tap a row to hear it!",
@@ -12,30 +14,43 @@
       "id": "numbers-1000",
       "icon": "🔢",
       "title": "Numbers up to 1000",
-      "explanation": "In Grade 2 we read, write and compare numbers up to 1000. Counting helps us in class, cricket scores and shopping.",
+      "explanation": "In Grade 2 we read, write and compare numbers up to 1000. Numbers help us count cricket scores, bus seats and festival sweets. We find which number comes before, after or between two numbers. We also put numbers in order from smallest to biggest, just like lining up friends by height on Sports Day.",
       "points": [
-        "Count forward and backward by 1s, 2s, 5s and 10s",
-        "Before / after / between numbers",
-        "Compare using > < =",
-        "Order numbers smallest to biggest"
+        "Count forward and backward by 1s",
+        "Find before, after and between numbers",
+        "Compare using symbols > < =",
+        "Order numbers from smallest to biggest",
+        "Read three-digit numbers in words and numerals"
       ],
       "examples": [
         {
-          "title": "Real life",
+          "title": "Cricket score",
           "problem": "Numair scored 48 runs. What comes after 48?",
           "steps": [
-            "Count one more: 48 + 1"
+            "Add one more run: 48 + 1",
+            "Say the next counting number"
           ],
           "answer": "49"
         },
         {
-          "title": "Compare",
+          "title": "Market compare",
           "problem": "Which is greater: 267 or 276?",
           "steps": [
-            "Hundreds same (2)",
-            "Tens: 7 > 6 so 276 is greater"
+            "Hundreds are the same (2)",
+            "Look at tens: 7 is greater than 6",
+            "So 276 is greater than 267"
           ],
           "answer": "276 > 267"
+        },
+        {
+          "title": "Between numbers",
+          "problem": "What number is between 199 and 201?",
+          "steps": [
+            "Count after 199",
+            "The next number is 200",
+            "Then comes 201"
+          ],
+          "answer": "200"
         }
       ]
     },
@@ -43,32 +58,132 @@
       "id": "place-value",
       "icon": "🏛️",
       "title": "Place Value (Ones, Tens, Hundreds)",
-      "explanation": "Every digit has a place. The place tells its value. Expanded form writes the number as a sum.",
+      "explanation": "Every digit sits in a special place that gives it value. Ones are single units, tens are groups of ten, and hundreds are groups of one hundred. Expanded form shows a number as a sum of these values. Shopkeepers use place value when they write prices on boards at the sabzi mandi.",
       "points": [
-        "Ones = 1s",
-        "Tens = groups of 10",
-        "Hundreds = groups of 100",
-        "345 = 300 + 40 + 5"
+        "Ones place = value of 1s",
+        "Tens place = groups of 10",
+        "Hundreds place = groups of 100",
+        "345 = 300 + 40 + 5 in expanded form",
+        "A zero can hold a place, like in 708"
       ],
       "examples": [
         {
-          "title": "Shop example",
-          "problem": "A toy costs ₹245. Place value of 4?",
+          "title": "Toy shop",
+          "problem": "A toy costs ₹245. What is the place value of 4?",
           "steps": [
-            "2 hundreds, 4 tens, 5 ones",
-            "4 is in tens place → 40"
+            "Write 245 as 2 hundreds, 4 tens, 5 ones",
+            "4 is in the tens place",
+            "4 tens = 40"
           ],
           "answer": "40"
         },
         {
-          "title": "Expanded",
+          "title": "Expanded form",
           "problem": "Write 708 in expanded form.",
           "steps": [
             "7 hundreds = 700",
-            "0 tens",
-            "8 ones"
+            "0 tens = 0",
+            "8 ones = 8"
           ],
           "answer": "700 + 0 + 8"
+        },
+        {
+          "title": "School bus",
+          "problem": "In 563, which digit is in the hundreds place?",
+          "steps": [
+            "Look from the left for three-digit numbers",
+            "Hundreds digit is 5"
+          ],
+          "answer": "5"
+        }
+      ]
+    },
+    {
+      "id": "odd-even",
+      "icon": "🔵",
+      "title": "Odd and Even Numbers",
+      "explanation": "Even numbers can be shared equally into two groups with nothing left over. Odd numbers leave one friend without a pair. Looking at the ones digit is a quick trick: 0, 2, 4, 6 or 8 means even; 1, 3, 5, 7 or 9 means odd. You can sort chalk sticks or tiffin spoons into pairs to check.",
+      "points": [
+        "Even numbers end with 0, 2, 4, 6 or 8",
+        "Odd numbers end with 1, 3, 5, 7 or 9",
+        "Even numbers make equal pairs with no leftover",
+        "Odd + odd = even; even + even = even",
+        "Odd + even = odd"
+      ],
+      "examples": [
+        {
+          "title": "Tiffin spoons",
+          "problem": "Numair has 7 spoons. Is 7 odd or even?",
+          "steps": [
+            "Try pairing: 3 pairs and 1 left",
+            "Ones digit is 7",
+            "7 is odd"
+          ],
+          "answer": "Odd"
+        },
+        {
+          "title": "Cricket balls",
+          "problem": "Is 24 an even number?",
+          "steps": [
+            "Ones digit is 4",
+            "4 means even",
+            "24 can make 12 pairs"
+          ],
+          "answer": "Yes, even"
+        },
+        {
+          "title": "Festival laddoos",
+          "problem": "Which of these is odd: 16, 21, 30?",
+          "steps": [
+            "16 ends with 6 → even",
+            "30 ends with 0 → even",
+            "21 ends with 1 → odd"
+          ],
+          "answer": "21"
+        }
+      ]
+    },
+    {
+      "id": "skip-counting",
+      "icon": "🦘",
+      "title": "Skip Counting by 2s, 5s and 10s",
+      "explanation": "Skip counting means jumping forward by the same number each time. Counting by 2s is like hopping on both feet. Counting by 5s matches the 5-rupee coins in your pocket. Counting by 10s is useful for bundles of notebooks or cricket overs. Skip counting also builds strong multiplication tables.",
+      "points": [
+        "By 2s: 2, 4, 6, 8, 10…",
+        "By 5s: 5, 10, 15, 20, 25…",
+        "By 10s: 10, 20, 30, 40…",
+        "Skip counting helps with money and time",
+        "It links to the 2, 5 and 10 times tables"
+      ],
+      "examples": [
+        {
+          "title": "School shoes",
+          "problem": "Skip count by 2s from 2 to find the next three numbers after 8.",
+          "steps": [
+            "Start after 8",
+            "Add 2 → 10",
+            "Add 2 → 12",
+            "Add 2 → 14"
+          ],
+          "answer": "10, 12, 14"
+        },
+        {
+          "title": "Five-rupee coins",
+          "problem": "Skip count by 5s: 5, 10, 15, ?",
+          "steps": [
+            "Pattern adds 5 each time",
+            "15 + 5 = 20"
+          ],
+          "answer": "20"
+        },
+        {
+          "title": "Notebook bundles",
+          "problem": "Count by 10s: how many after three jumps starting at 10?",
+          "steps": [
+            "10, 20, 30",
+            "Three jumps land on 30"
+          ],
+          "answer": "30"
         }
       ]
     },
@@ -76,30 +191,41 @@
       "id": "addition",
       "icon": "➕",
       "title": "Addition (with & without carrying)",
-      "explanation": "Addition finds the total. Line up ones under ones. If ones make 10 or more, carry 1 ten.",
+      "explanation": "Addition finds the total when groups join together. Always line up ones under ones and tens under tens. If the ones add up to 10 or more, carry 1 ten to the tens column. Word clues like altogether, in all and total tell you to add — useful when packing festival sweets or counting children on the school bus.",
       "points": [
-        "Start from ones column",
-        "Carry when sum ≥ 10",
-        "Word problems: in all / altogether / total"
+        "Start adding from the ones column",
+        "Carry 1 ten when ones sum is 10 or more",
+        "Keywords: in all, altogether, total, sum",
+        "Adding zero does not change a number",
+        "Change the order: 12 + 5 = 5 + 12"
       ],
       "examples": [
         {
-          "title": "Pencil box",
-          "problem": "Numair has 28 stickers and gets 15 more.",
+          "title": "Sticker collection",
+          "problem": "Numair has 28 stickers and gets 15 more. How many now?",
           "steps": [
-            "Ones: 8+5=13 → write 3, carry 1",
-            "Tens: 2+1+1=4"
+            "Ones: 8 + 5 = 13 → write 3, carry 1",
+            "Tens: 2 + 1 + 1 (carry) = 4"
           ],
           "answer": "43 stickers"
         },
         {
           "title": "Without carry",
-          "problem": "34 + 21",
+          "problem": "34 + 21 = ?",
           "steps": [
-            "Ones 4+1=5",
-            "Tens 3+2=5"
+            "Ones: 4 + 1 = 5",
+            "Tens: 3 + 2 = 5"
           ],
           "answer": "55"
+        },
+        {
+          "title": "Monsoon umbrellas",
+          "problem": "The class has 46 umbrellas and 9 more arrive. Total?",
+          "steps": [
+            "Ones: 6 + 9 = 15 → write 5, carry 1",
+            "Tens: 4 + 1 = 5"
+          ],
+          "answer": "55 umbrellas"
         }
       ]
     },
@@ -107,29 +233,43 @@
       "id": "subtraction",
       "icon": "➖",
       "title": "Subtraction (with & without borrowing)",
-      "explanation": "Subtraction finds how many are left or the difference. Borrow when ones are too small.",
+      "explanation": "Subtraction finds how many are left or how much more one number is than another. Line up the places carefully. If ones are too small, borrow 1 ten and turn it into 10 ones. Words like left, remain, difference and how many more signal subtraction — think of ice cream money after a treat at the fair.",
       "points": [
         "Keywords: left, remain, difference, how many more",
-        "Check: difference + smaller = bigger"
+        "Borrow when ones digit is too small",
+        "Check: difference + smaller number = bigger number",
+        "Subtracting zero leaves the number unchanged",
+        "Start from ones, then tens, then hundreds"
       ],
       "examples": [
         {
-          "title": "Ice cream",
-          "problem": "50 rupees, spends 18.",
+          "title": "Ice cream money",
+          "problem": "Numair has ₹50 and spends ₹18. How much is left?",
           "steps": [
-            "Borrow: 10-8=2 ones",
-            "Tens: 4-1=3"
+            "Ones: cannot do 0 − 8, so borrow",
+            "Ones become 10 − 8 = 2",
+            "Tens: 4 − 1 = 3"
           ],
           "answer": "₹32 left"
         },
         {
-          "title": "Books",
-          "problem": "There were 45 books. 12 given away.",
+          "title": "Library books",
+          "problem": "There were 45 books. 12 were given away. How many remain?",
           "steps": [
-            "Ones 5-2=3",
-            "Tens 4-1=3"
+            "Ones: 5 − 2 = 3",
+            "Tens: 4 − 1 = 3"
           ],
           "answer": "33 books"
+        },
+        {
+          "title": "Cricket wickets",
+          "problem": "How many more is 72 than 48?",
+          "steps": [
+            "Find the difference: 72 − 48",
+            "Ones: borrow → 12 − 8 = 4",
+            "Tens: 6 − 4 = 2"
+          ],
+          "answer": "24 more"
         }
       ]
     },
@@ -137,30 +277,42 @@
       "id": "multiplication",
       "icon": "✖️",
       "title": "Multiplication & Tables",
-      "explanation": "Multiplication is repeated addition. Tables 1–10 (each up to ×12) make Maths fast and fun.",
+      "explanation": "Multiplication is a fast way to do repeated addition. Equal groups of idlis in tiffin boxes or rows of chairs in assembly can be written with the × sign. Learning tables from 1 to 10 (each up to ×12) makes shopping and sharing quicker. Remember: any number times 1 stays the same, and any number times 0 is 0.",
       "points": [
-        "4×3 = 4+4+4 = 12",
-        "Any number × 1 = same number",
+        "4 × 3 means 4 + 4 + 4 = 12",
+        "Any number × 1 = the same number",
         "Any number × 0 = 0",
-        "Use tables in equal groups"
+        "Practise tables 1–10 up to ×12",
+        "Arrays and equal groups show multiplication"
       ],
       "examples": [
         {
-          "title": "Tiffin",
-          "problem": "5 tiffin boxes with 4 idlis each.",
+          "title": "Tiffin idlis",
+          "problem": "5 tiffin boxes with 4 idlis each. How many idlis?",
           "steps": [
-            "5 groups of 4 → 5×4",
-            "4+4+4+4+4=20"
+            "5 equal groups of 4",
+            "Write 5 × 4",
+            "4 + 4 + 4 + 4 + 4 = 20"
           ],
           "answer": "20 idlis"
         },
         {
-          "title": "Table",
+          "title": "Times table",
           "problem": "What is 7 × 8?",
           "steps": [
-            "From 7 times table"
+            "Use the 7 times table",
+            "7 × 8 = 56"
           ],
           "answer": "56"
+        },
+        {
+          "title": "Festival diyas",
+          "problem": "6 rows of diyas with 9 in each row. Total diyas?",
+          "steps": [
+            "Equal rows mean multiply",
+            "6 × 9 = 54"
+          ],
+          "answer": "54 diyas"
         }
       ]
     },
@@ -168,28 +320,96 @@
       "id": "division",
       "icon": "➗",
       "title": "Division (Equal Sharing)",
-      "explanation": "Division means sharing equally or making equal groups. Check with multiplication.",
+      "explanation": "Division means sharing fairly or making equal groups. If 12 sweets go to 3 friends, each friend gets the same number. You can check division with multiplication: if 12 ÷ 3 = 4, then 3 × 4 must equal 12. Never divide by zero. Sharing cricket balls into kits or laddoos into plates uses division every day.",
       "points": [
-        "12÷3=4 because 3×4=12",
-        "Cannot divide by zero",
-        "Keywords: share, equally, each"
+        "12 ÷ 3 = 4 because 3 × 4 = 12",
+        "Keywords: share, equally, each, groups of",
+        "Check answers by multiplying",
+        "You cannot divide by zero",
+        "Division undoes multiplication"
       ],
       "examples": [
         {
-          "title": "Sweets",
-          "problem": "12 sweets for 3 friends.",
+          "title": "Sharing sweets",
+          "problem": "12 sweets for 3 friends. How many each?",
           "steps": [
-            "Share into 3 equal groups"
+            "Share into 3 equal groups",
+            "12 ÷ 3 = 4",
+            "Check: 3 × 4 = 12"
           ],
           "answer": "Each gets 4"
         },
         {
-          "title": "Cricket",
-          "problem": "20 balls put into packs of 5.",
+          "title": "Cricket packs",
+          "problem": "20 balls put into packs of 5. How many packs?",
           "steps": [
-            "20÷5=4 packs"
+            "Make groups of 5",
+            "20 ÷ 5 = 4"
           ],
           "answer": "4 packs"
+        },
+        {
+          "title": "Bus seats",
+          "problem": "24 children sit 6 per bench. How many benches?",
+          "steps": [
+            "Equal groups of 6",
+            "24 ÷ 6 = 4"
+          ],
+          "answer": "4 benches"
+        }
+      ]
+    },
+    {
+      "id": "word-problems",
+      "icon": "📝",
+      "title": "Word Problems & Estimation",
+      "explanation": "Word problems tell a short story with numbers. First read carefully and underline what is asked. Decide whether to add, subtract, multiply or divide using clue words. Estimation means finding a sensible near answer — round to the nearest ten at the market before you pay. Always write the answer with the correct unit, like rupees, children or metres.",
+      "points": [
+        "Read the story twice before choosing an operation",
+        "Add for total / altogether; subtract for left / difference",
+        "Multiply for equal groups; divide for equal sharing",
+        "Write a number sentence, then solve",
+        "Label the answer with a unit",
+        "Estimate by rounding to the nearest ten"
+      ],
+      "examples": [
+        {
+          "title": "School picnic",
+          "problem": "A class packs 8 fruit boxes with 6 oranges in each. How many oranges in all?",
+          "steps": [
+            "Equal groups → multiply",
+            "8 × 6 = 48",
+            "Unit: oranges"
+          ],
+          "answer": "48 oranges"
+        },
+        {
+          "title": "Monsoon puddles",
+          "problem": "There were 35 frogs. 17 hopped away. How many stayed?",
+          "steps": [
+            "Left behind → subtract",
+            "35 − 17 = 18"
+          ],
+          "answer": "18 frogs"
+        },
+        {
+          "title": "Festival sharing",
+          "problem": "36 ladoos shared equally among 9 children. How many each?",
+          "steps": [
+            "Equal sharing → divide",
+            "36 ÷ 9 = 4"
+          ],
+          "answer": "4 ladoos each"
+        },
+        {
+          "title": "Near ten",
+          "problem": "Estimate 28 + 31 by rounding each to the nearest ten.",
+          "steps": [
+            "28 is near 30",
+            "31 is near 30",
+            "30 + 30 = 60"
+          ],
+          "answer": "About 60"
         }
       ]
     },
@@ -197,89 +417,210 @@
       "id": "fractions",
       "icon": "🍕",
       "title": "Fractions (Half & Quarter)",
-      "explanation": "A fraction is an equal part of a whole. Half means 2 equal parts; quarter means 4 equal parts.",
+      "explanation": "A fraction names an equal part of a whole. Half means the whole is cut into 2 equal parts and we take 1. Quarter means 4 equal parts and we take 1. Parts must be equal — like sharing a roti fairly at dinner. Uneven pieces are not true halves or quarters.",
       "points": [
-        "1/2 = one half",
-        "1/4 = one quarter (one-fourth)",
-        "Parts must be equal"
+        "1/2 means one half of a whole",
+        "1/4 means one quarter (one-fourth)",
+        "Fraction parts must be equal in size",
+        "Two halves make one whole",
+        "Four quarters make one whole"
       ],
       "examples": [
         {
-          "title": "Roti",
-          "problem": "A roti cut into 2 equal parts. Numair eats 1 part.",
+          "title": "Roti share",
+          "problem": "A roti is cut into 2 equal parts. Numair eats 1 part. What fraction?",
           "steps": [
-            "One of two equal parts"
+            "Two equal parts make halves",
+            "One part eaten → 1/2"
           ],
           "answer": "1/2"
         },
         {
-          "title": "Chocolate",
-          "problem": "Bar cut into 4 equal pieces. One piece is…",
+          "title": "Chocolate bar",
+          "problem": "A bar is cut into 4 equal pieces. One piece is…",
           "steps": [
-            "One of four equal parts"
+            "Four equal parts",
+            "One piece → 1/4"
           ],
           "answer": "1/4"
+        },
+        {
+          "title": "Fair share check",
+          "problem": "A sandwich is torn into two pieces, one big and one small. Is that half?",
+          "steps": [
+            "Halves must be equal",
+            "These pieces are unequal"
+          ],
+          "answer": "No, not a true half"
         }
       ]
     },
     {
-      "id": "shapes",
-      "icon": "📐",
-      "title": "Shapes & Patterns",
-      "explanation": "Plane shapes are flat. Count sides and corners. Patterns repeat in a rule.",
+      "id": "shapes-2d-3d",
+      "icon": "📦",
+      "title": "2D and 3D Shapes",
+      "explanation": "Flat shapes on paper are 2D shapes — they have length and breadth but no thickness. Solid objects you can hold are 3D shapes — they take up space. A window looks like a rectangle (2D), while a cricket ball is a sphere (3D). Counting sides, corners, faces and edges helps us name each shape.",
       "points": [
-        "Triangle 3 sides",
-        "Square 4 equal sides",
-        "Rectangle opposite sides equal",
-        "Circle no corners",
-        "Patterns: colour, size, shape"
+        "2D: triangle (3 sides), square, rectangle, circle",
+        "Square has 4 equal sides; rectangle has opposite sides equal",
+        "Circle has no corners",
+        "3D: cube, cuboid, sphere, cylinder, cone",
+        "A dice is a cube; a football is a sphere"
       ],
       "examples": [
         {
-          "title": "Window",
-          "problem": "A window looks like a rectangle.",
+          "title": "Classroom window",
+          "problem": "A window looks like which 2D shape?",
           "steps": [
-            "4 sides, opposite equal"
+            "Four sides, opposite sides equal",
+            "Usually a rectangle"
           ],
           "answer": "Rectangle"
         },
         {
-          "title": "Pattern",
+          "title": "Tiffin box",
+          "problem": "Is a closed tiffin box 2D or 3D?",
+          "steps": [
+            "You can hold it; it has thickness",
+            "It is a solid → 3D"
+          ],
+          "answer": "3D (cuboid)"
+        },
+        {
+          "title": "Ball vs circle",
+          "problem": "A drawn circle on the board is 2D. What 3D shape is a cricket ball?",
+          "steps": [
+            "A ball is round in all directions",
+            "It is a sphere"
+          ],
+          "answer": "Sphere"
+        }
+      ]
+    },
+    {
+      "id": "perimeter",
+      "icon": "🟫",
+      "title": "Perimeter Intro (Around a Shape)",
+      "explanation": "Perimeter is the distance all the way around a flat shape. Imagine walking along the fence of a rectangular garden or the border of a school playground. For a rectangle, add length + breadth + length + breadth, or use 2 × (length + breadth). Always use the same unit, like metres of rope.",
+      "points": [
+        "Perimeter = total length of the boundary",
+        "Rectangle: add all four sides",
+        "Or use 2 × (length + breadth)",
+        "Square: 4 × side length",
+        "Units stay the same (cm or m)"
+      ],
+      "examples": [
+        {
+          "title": "Garden fence",
+          "problem": "A rectangular garden is 8 m long and 5 m wide. Find the perimeter.",
+          "steps": [
+            "Add all sides: 8 + 5 + 8 + 5",
+            "Or 2 × (8 + 5) = 2 × 13",
+            "Perimeter = 26 m"
+          ],
+          "answer": "26 m"
+        },
+        {
+          "title": "Square mat",
+          "problem": "A square mat has each side 6 cm. Perimeter?",
+          "steps": [
+            "Square has 4 equal sides",
+            "4 × 6 = 24"
+          ],
+          "answer": "24 cm"
+        },
+        {
+          "title": "Picture frame",
+          "problem": "A frame is 10 cm by 4 cm. Rope needed to go around once?",
+          "steps": [
+            "Perimeter of rectangle",
+            "2 × (10 + 4) = 28 cm"
+          ],
+          "answer": "28 cm of rope"
+        }
+      ]
+    },
+    {
+      "id": "patterns",
+      "icon": "🔁",
+      "title": "Patterns (Numbers & Shapes)",
+      "explanation": "A pattern follows a repeating rule you can discover. Colour patterns, shape patterns and number patterns all use a steady jump or order. Rangoli designs at Diwali and marching bands at Republic Day show patterns. Once you find the rule, you can predict what comes next.",
+      "points": [
+        "Look for what repeats: colour, size or shape",
+        "Number patterns often add or subtract the same amount",
+        "Skip counting makes number patterns",
+        "Draw the next term before writing it",
+        "Check your rule works for every step"
+      ],
+      "examples": [
+        {
+          "title": "Colour beads",
           "problem": "Red, blue, red, blue, ?",
           "steps": [
-            "Repeating pattern"
+            "The pair red-blue repeats",
+            "After blue comes red"
           ],
           "answer": "Red"
+        },
+        {
+          "title": "Even jump",
+          "problem": "Pattern: 2, 4, 6, 8, ?",
+          "steps": [
+            "Each number adds 2",
+            "8 + 2 = 10"
+          ],
+          "answer": "10"
+        },
+        {
+          "title": "Shape train",
+          "problem": "△ ○ △ ○ △ ?",
+          "steps": [
+            "Triangle then circle repeats",
+            "After triangle comes circle"
+          ],
+          "answer": "○ (circle)"
         }
       ]
     },
     {
       "id": "measurement",
       "icon": "📏",
-      "title": "Measurement (Length, Weight, Capacity)",
-      "explanation": "We measure length with cm/m, weight with g/kg, and capacity (liquids) with ml/l.",
+      "title": "Measurement (Length, Weight, Capacity & Time)",
+      "explanation": "We measure length with centimetres and metres, weight with grams and kilograms, and liquids with millilitres and litres. Clocks show hours and minutes for school bells and cricket overs. Calendars show days, weeks and months for festivals and holidays. Choosing a sensible unit stops silly answers, like measuring a pencil in kilometres!",
       "points": [
-        "100 cm = 1 metre",
-        "1000 g = 1 kg",
-        "1000 ml = 1 litre",
-        "Choose sensible units"
+        "100 cm = 1 metre; 1000 g = 1 kg; 1000 ml = 1 litre",
+        "60 minutes = 1 hour; 7 days = 1 week; 12 months = 1 year",
+        "Short hand shows hours; long hand shows minutes",
+        "Choose units that fit the object",
+        "Compare heavier/lighter and longer/shorter"
       ],
       "examples": [
         {
-          "title": "Pencil",
+          "title": "Pencil length",
           "problem": "Is a pencil about 15 cm or 15 m?",
           "steps": [
-            "Classroom pencil is short"
+            "A classroom pencil is short",
+            "Metres are for longer things like rooms"
           ],
           "answer": "About 15 cm"
         },
         {
-          "title": "Milk",
-          "problem": "A milk packet is often 1 litre.",
+          "title": "Milk packet",
+          "problem": "A milk packet is often which capacity?",
           "steps": [
-            "Capacity of liquid"
+            "Milk is a liquid",
+            "Common packet size is 1 litre"
           ],
           "answer": "1 litre"
+        },
+        {
+          "title": "School start",
+          "problem": "School starts at 8 o'clock. Where is the short hand?",
+          "steps": [
+            "Short hand shows the hour",
+            "It points near 8"
+          ],
+          "answer": "On (or near) 8"
         }
       ]
     },
@@ -287,80 +628,84 @@
       "id": "money",
       "icon": "💰",
       "title": "Money (Rupees & Paise)",
-      "explanation": "We use rupees (₹) and paise. 100 paise = ₹1. Add and subtract money for shopping.",
+      "explanation": "In India we use rupees (₹) and paise. One hundred paise make one rupee. At the canteen or market we add prices and subtract what we spend to find money left. We can make the same amount with different notes and coins. Counting carefully stops mistakes when buying snacks after school.",
       "points": [
-        "Count notes and coins",
-        "Money left = had − spent",
-        "Make amounts in different ways"
+        "100 paise = ₹1",
+        "Money left = money had − money spent",
+        "Add prices to find the total bill",
+        "Count notes and coins carefully",
+        "Same amount can be made in different ways"
       ],
       "examples": [
         {
-          "title": "Canteen",
-          "problem": "Numair has ₹50, buys snack for ₹28.",
+          "title": "Canteen snack",
+          "problem": "Numair has ₹50 and buys a snack for ₹28. How much is left?",
           "steps": [
-            "50−28=22"
+            "Subtract spending from money had",
+            "50 − 28 = 22"
           ],
           "answer": "₹22 left"
         },
         {
-          "title": "Paise",
-          "problem": "How many paise in ₹3?",
+          "title": "Paise convert",
+          "problem": "How many paise are in ₹3?",
           "steps": [
-            "3×100"
+            "1 rupee = 100 paise",
+            "3 × 100 = 300"
           ],
           "answer": "300 paise"
-        }
-      ]
-    },
-    {
-      "id": "time",
-      "icon": "⏰",
-      "title": "Time & Calendar",
-      "explanation": "Clocks show hours and minutes. Calendars show days, weeks and months.",
-      "points": [
-        "60 minutes = 1 hour",
-        "24 hours = 1 day",
-        "7 days = 1 week",
-        "12 months = 1 year",
-        "Long hand = minutes, short hand = hours"
-      ],
-      "examples": [
-        {
-          "title": "School",
-          "problem": "School starts at 8 o clock.",
-          "steps": [
-            "Short hand on 8"
-          ],
-          "answer": "8:00"
         },
         {
-          "title": "Days",
-          "problem": "How many days in one week?",
+          "title": "Market total",
+          "problem": "A pencil costs ₹7 and an eraser ₹5. Total?",
           "steps": [
-            "Mon to Sun"
+            "Add the prices",
+            "7 + 5 = 12"
           ],
-          "answer": "7 days"
+          "answer": "₹12"
         }
       ]
     },
     {
       "id": "data",
       "icon": "📊",
-      "title": "Data Handling (Pictograph)",
-      "explanation": "We collect information and show it with pictures. Each picture can stand for 1 or more things.",
+      "title": "Data Handling (Pictographs)",
+      "explanation": "Data is information we collect, like favourite fruits in class. A pictograph shows data with pictures. Always read the key — sometimes one picture means one child, sometimes it means two or five. Comparing picture rows tells you which choice is most or least popular after a monsoon picnic vote.",
       "points": [
-        "Count carefully",
-        "Read the key (1 ⭐ = 1 child)",
-        "Compare more and less"
+        "Collect and count carefully",
+        "Read the key (e.g. 1 ⭐ = 1 child)",
+        "Compare which row has more or less",
+        "Title the pictograph so others understand",
+        "One picture can stand for more than one thing"
       ],
       "examples": [
         {
-          "title": "Class fruits",
-          "problem": "🍎🍎🍎 means 3 children like apples if 1 picture = 1 child.",
+          "title": "Fruit vote",
+          "problem": "If 1 apple picture = 1 child, 🍎🍎🍎 means how many children like apples?",
           "steps": [
-            "Count pictures"
+            "Count the pictures",
+            "Three pictures → three children"
           ],
           "answer": "3 children"
+        },
+        {
+          "title": "Key of two",
+          "problem": "Key: 1 ⚽ = 2 children. Row shows ⚽⚽⚽. How many children?",
+          "steps": [
+            "Three footballs",
+            "Each stands for 2",
+            "3 × 2 = 6"
+          ],
+          "answer": "6 children"
+        },
+        {
+          "title": "Most popular",
+          "problem": "Mango 🥭🥭🥭🥭, Banana 🍌🍌. Which fruit is liked more?",
+          "steps": [
+            "Compare picture counts",
+            "4 mangoes > 2 bananas"
+          ],
+          "answer": "Mango"
         }
       ]
     }
@@ -381,7 +726,7 @@
     {
       "id": "mq2",
       "type": "mcq",
-      "prompt": "In 528, the digit in tens place is",
+      "prompt": "In 528, the digit in the tens place is",
       "choices": [
         "5",
         "2",
@@ -395,10 +740,10 @@
       "type": "mcq",
       "prompt": "245 in expanded form is",
       "choices": [
-        "20+45",
-        "200+40+5",
-        "200+45",
-        "2+4+5"
+        "20 + 45",
+        "200 + 40 + 5",
+        "200 + 45",
+        "2 + 4 + 5"
       ],
       "answer": 1
     },
@@ -417,7 +762,7 @@
     {
       "id": "mq5",
       "type": "mcq",
-      "prompt": "Numair has 40 pencils and gives 15. Left?",
+      "prompt": "Numair has 40 pencils and gives away 15. How many are left?",
       "choices": [
         "35",
         "25",
@@ -501,12 +846,12 @@
     {
       "id": "mq12",
       "type": "mcq",
-      "prompt": "Which is heavier unit?",
+      "prompt": "Which is a heavier unit?",
       "choices": [
         "gram",
         "kilogram",
-        "cm",
-        "ml"
+        "centimetre",
+        "millilitre"
       ],
       "answer": 1
     },
@@ -525,7 +870,7 @@
     {
       "id": "mq14",
       "type": "mcq",
-      "prompt": "Which is greatest?",
+      "prompt": "Which number is the greatest?",
       "choices": [
         "389",
         "398",
@@ -548,21 +893,39 @@
     },
     {
       "id": "mq16",
-      "type": "truefalse",
-      "prompt": "Any number × 0 = 0",
-      "answer": true
+      "type": "mcq",
+      "prompt": "Which number is odd?",
+      "choices": [
+        "14",
+        "22",
+        "31",
+        "48"
+      ],
+      "answer": 2
     },
     {
       "id": "mq17",
-      "type": "truefalse",
-      "prompt": "A triangle has 4 sides",
-      "answer": false
+      "type": "mcq",
+      "prompt": "Skip count by 5s: 10, 15, 20, ?",
+      "choices": [
+        "21",
+        "25",
+        "30",
+        "24"
+      ],
+      "answer": 1
     },
     {
       "id": "mq18",
-      "type": "truefalse",
-      "prompt": "7 days make 1 week",
-      "answer": true
+      "type": "mcq",
+      "prompt": "Estimate 29 + 31 by rounding to nearest ten. About?",
+      "choices": [
+        "40",
+        "60",
+        "100",
+        "20"
+      ],
+      "answer": 1
     },
     {
       "id": "mq19",
@@ -639,7 +1002,7 @@
     {
       "id": "mq25",
       "type": "mcq",
-      "prompt": "How many months in a year?",
+      "prompt": "How many months are in a year?",
       "choices": [
         "7",
         "10",
@@ -647,8 +1010,114 @@
         "24"
       ],
       "answer": 2
+    },
+    {
+      "id": "mq26",
+      "type": "mcq",
+      "prompt": "A cricket ball is which kind of shape?",
+      "choices": [
+        "2D circle only",
+        "3D sphere",
+        "Cube",
+        "Triangle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq27",
+      "type": "mcq",
+      "prompt": "Rectangle garden 6 m by 4 m. Perimeter?",
+      "choices": [
+        "10 m",
+        "20 m",
+        "24 m",
+        "16 m"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq28",
+      "type": "mcq",
+      "prompt": "8 boxes with 5 idlis each. Total idlis?",
+      "choices": [
+        "13",
+        "40",
+        "35",
+        "45"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq29",
+      "type": "mcq",
+      "prompt": "Which number is even?",
+      "choices": [
+        "17",
+        "23",
+        "36",
+        "41"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "mq30",
+      "type": "mcq",
+      "prompt": "Skip count by 10s: 20, 30, 40, ?",
+      "choices": [
+        "41",
+        "45",
+        "50",
+        "60"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "mq31",
+      "type": "mcq",
+      "prompt": "Pictograph key: 1 star = 2 children. Three stars mean",
+      "choices": [
+        "3 children",
+        "5 children",
+        "6 children",
+        "2 children"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "mq32",
+      "type": "mcq",
+      "prompt": "36 ladoos shared by 9 children. Each gets?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "mq33",
+      "type": "mcq",
+      "prompt": "Any number × 0 equals",
+      "choices": [
+        "the number",
+        "1",
+        "0",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "mq34",
+      "type": "mcq",
+      "prompt": "A square mat side 5 cm. Perimeter?",
+      "choices": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "answer": 2
     }
-  ],
-  "grade": 2,
-  "depth": "deep"
+  ]
 }

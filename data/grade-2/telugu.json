@@ -4,397 +4,575 @@
   "depth": "deep",
   "sections": [
     {
-      "id": "అచ్చులు-సమీక్ష-vowel-review",
+      "id": "achchulu",
       "icon": "తె",
-      "title": "అచ్చులు సమీక్ష (Vowel Review)",
-      "explanation": "Grade 2 revises all అచ్చులు fluently — reading order and quick writing.",
+      "title": "అచ్చులు (Vowels)",
+      "explanation": "అచ్చులు అనేవి స్వతంత్రంగా పలికే ధ్వనులు. Grade 2లో అన్ని అచ్చులు క్రమంగా చదవడం, వ్రాయడం మరియు చిన్న పదాల్లో గుర్తించడం అవసరం. ప్రతి రోజు అచ్చుల పట్టికను గట్టిగా చదవండి.",
       "points": [
-        "అ ఆ ఇ ఈ ఉ ఊ ఋ ౠ ఎ ఏ ఐ ఒ ఓ ఔ అం అః",
-        "Long vs short pairs",
-        "Dictation of vowels"
+        "అ ఆ ఇ ఈ ఉ ఊ — చిన్న / పెద్ద జోడీలు (short / long pairs)",
+        "ఋ ౠ ఎ ఏ ఐ ఒ ఓ ఔ",
+        "అం (anusvara) అః (visarga) కూడా అచ్చు కుటుంబం",
+        "ఉదా: ఆ → ఆవు, ఈ → ఈగ, ఉ → ఉడుత"
       ],
       "examples": [
         {
           "title": "జోడి",
-          "problem": "ఇ and ఈ differ by…",
+          "problem": "ఇ and ఈ differ how? (ఇ మరియు ఈ తేడా?)",
           "steps": [
-            "Length of sound"
+            "ఇ short sound, ఈ long sound",
+            "నోరు ఎక్కువసేపు తెరిచి ఈ పలకండి"
           ],
-          "answer": "Sound length"
+          "answer": "Sound length (ధ్వని నిడివి)"
+        },
+        {
+          "title": "గుర్తించు",
+          "problem": "ఆవు starts with which vowel?",
+          "steps": [
+            "ఆ + వు",
+            "ఆ అచ్చు"
+          ],
+          "answer": "ఆ"
         }
       ]
     },
     {
-      "id": "హల్లులు-వర్గాలు",
+      "id": "hallulu",
       "icon": "📖",
-      "title": "హల్లులు వర్గాలు",
-      "explanation": "Organise consonants in vargas: క చ ట త ప … and practise clear pronunciation.",
+      "title": "హల్లులు (Consonants)",
+      "explanation": "హల్లులు అచ్చు సహాయంతో పలుకుతాయి. వర్గాలుగా (క చ ట త ప) నేర్చుకుంటే గుర్తుండటం సులభం. తరగతిలో స్పష్టంగా ఉచ్చరించి రోజుకు కొన్ని హల్లులు వ్రాయండి.",
       "points": [
-        "5 vargas + avargulu ideas",
-        " aspirated vs unaspirated lightly",
-        "Daily 5-minute reading"
+        "క ఖ గ ఘ ఙ · చ ఛ జ ఝ ఞ",
+        "ట ఠ డ ఢ ణ · త థ ద ధ న",
+        "ప ఫ బ భ మ · య ర ల వ · శ ష స హ ళ క్ష ఱ",
+        "హల్లు + అచ్చు = పదం (మ + ఆ = మా)"
       ],
       "examples": [
         {
           "title": "వర్గం",
-          "problem": "చ ఛ జ ఝ ఞ belong to which group idea?",
+          "problem": "చ ఛ జ ఝ ఞ belong to which idea?",
           "steps": [
-            "చవర్గం"
+            "చ-వర్గం consonants",
+            "Same mouth place roughly"
           ],
-          "answer": "చ-varga"
+          "answer": "చ-వర్గం"
+        },
+        {
+          "title": "గుర్తు",
+          "problem": "మ is vowel or consonant?",
+          "steps": [
+            "Needs vowel help to speak fully",
+            "హల్లు"
+          ],
+          "answer": "హల్లు (consonant)"
         }
       ]
     },
     {
-      "id": "గుణింతాలు-vowel-signs",
+      "id": "guninthalu",
       "icon": "🗣️",
       "title": "గుణింతాలు (Vowel Signs)",
-      "explanation": "Attach vowel signs to consonants: కా కి కీ కు కూ కె కే కై కొ కో కౌ.",
+      "explanation": "గుణింతం అంటే హల్లుకు అచ్చు గుర్తు కలపడం. ఒకే హల్లుతో కా కి కీ కు కూ కె కే కై కొ కో కౌ లాగా కొత్త ధ్వనులు వస్తాయి. చార్ట్ చదవడం రోజువారీ అలవాటు చేసుకోండి.",
       "points": [
-        "Same base consonant, new melody",
-        "Read gunintha charts aloud",
-        "Write 10 combinations daily"
+        "ా = ఆ sound · ి = ఇ · ీ = ఈ",
+        "ు = ఉ · ూ = ఊ · ె/ే = ఎ/ఏ",
+        "ై ఐ · ొ/ో = ఒ/ఓ · ౌ ఔ",
+        "ఉదా: పాలు, పిల్లి, పూలు, పేరు"
       ],
       "examples": [
         {
           "title": "గుణింతం",
           "problem": "క + ి → ?",
           "steps": [
+            "ి sign with క",
             "కి"
           ],
           "answer": "కి"
-        }
-      ]
-    },
-    {
-      "id": "ఒత్తు-letters",
-      "icon": "✍️",
-      "title": "ఒత్తు Letters",
-      "explanation": "Ottulu mark consonant clusters in child-friendly words (start simple).",
-      "points": [
-        "Spot ottu marks in textbooks",
-        "Slow blending",
-        "Ask teacher for tricky clusters"
-      ],
-      "examples": [
-        {
-          "title": "చదవడం",
-          "problem": "Why read slowly with ఒత్తు?",
-          "steps": [
-            "Blend sounds"
-          ],
-          "answer": "To blend clearly"
-        }
-      ]
-    },
-    {
-      "id": "పదాలు-ఇల్లు-బడి-ఆట",
-      "icon": "🌟",
-      "title": "పదాలు: ఇల్లు బడి ఆట",
-      "explanation": "Theme words for home, school and play in Telugu script.",
-      "points": [
-        "ఇల్లు — house",
-        "బడి / పాఠశాల — school",
-        "ఆట — game",
-        "స్నేహితుడు — friend"
-      ],
-      "examples": [
+        },
         {
           "title": "పదం",
-          "problem": "We learn at…",
+          "problem": "పాలు — which long vowel idea?",
           "steps": [
-            "బడి"
+            "పా has ా (ఆ)",
+            "Milk word పాలు"
           ],
-          "answer": "బడి"
+          "answer": "ా (ఆ)"
         }
       ]
     },
     {
-      "id": "లింగం-వచనం-light",
-      "icon": "📚",
-      "title": "లింగం & వచనం Light",
-      "explanation": "Notice masculine/feminine and singular/plural word ideas in examples.",
+      "id": "ottu",
+      "icon": "✍️",
+      "title": "ఒత్తు (Consonant Clusters)",
+      "explanation": "ఒత్తు అనేది రెండు హల్లులు కలిసి వచ్చే గుర్తు. మొదట సులభ పదాల్లో గుర్తించండి — నెమ్మదిగా కలిపి చదవండి. ఉపాధ్యాయుని సహాయం తీసుకోండి.",
       "points": [
-        "బాలుడు / బాలిక",
-        "పుస్తకం / పుస్తకాలు",
-        "Match pictures to forms"
+        "Textbookలో ఒత్తు గుర్తులను గీతతో గుర్తించండి",
+        "Slow blending: first letter then cluster",
+        "సాధారణ ఉదా: అమ్మ, నాన్న, పక్షి (light)",
+        "కష్టమైనవి ఉపాధ్యాయునితో సరిచూడండి"
+      ],
+      "examples": [
+        {
+          "title": "చూడు",
+          "problem": "అమ్మ has a special join mark idea called?",
+          "steps": [
+            "mm cluster feel",
+            "ఒత్తు related"
+          ],
+          "answer": "ఒత్తు"
+        },
+        {
+          "title": "చదువు",
+          "problem": "How to read a cluster word?",
+          "steps": [
+            "Slowly sound parts",
+            "Then say together"
+          ],
+          "answer": "Slow blend then full word"
+        }
+      ]
+    },
+    {
+      "id": "kutumbam-padalu",
+      "icon": "👨‍👩‍👧‍👦",
+      "title": "సాధారణ పదాలు — కుటుంబం",
+      "explanation": "ఇంటి వారిని తెలుగులో పిలవడం నేర్చుకోండి. English glossతో గుర్తుంచుకోండి. రోజూ కుటుంబ సభ్యులకు తెలుగులో నమస్కారం చెప్పండి.",
+      "points": [
+        "అమ్మ (mother) · నాన్న / తండ్రి (father)",
+        "అన్న / అక్క · తమ్ముడు / చెల్లి (siblings)",
+        "తాత / అమ్మమ్మ · నాయనమ్మ (grandparents — local words vary)",
+        "మేనమామ / మేనత్త — extended family light"
+      ],
+      "examples": [
+        {
+          "title": "అర్థం",
+          "problem": "అమ్మ means?",
+          "steps": [
+            "Mother at home"
+          ],
+          "answer": "Mother"
+        },
+        {
+          "title": "వాక్యం",
+          "problem": "Say: My father is good — simple Telugu idea",
+          "steps": [
+            "నా నాన్న మంచివారు / నా తండ్రి మంచివాడు"
+          ],
+          "answer": "నా నాన్న మంచివారు"
+        }
+      ]
+    },
+    {
+      "id": "paathashaala-rangulu",
+      "icon": "🏫",
+      "title": "పాఠశాల మరియు రంగులు",
+      "explanation": "స్కూల్ వస్తువులు మరియు రంగుల పేర్లు రోజువారీ తెలుగులో ఉపయోగిస్తాం. క్లాస్‌లో వస్తువులను చూపి పేరు చెప్పే ఆట ఆడండి.",
+      "points": [
+        "పాఠశాల (school) · గురువు / ఉపాధ్యాయుడు (teacher)",
+        "పుస్తకం (book) · పెన్సిల్ · బల్ల (desk/board idea)",
+        "రంగులు: ఎరుపు (red) · నీలం (blue) · ఆకుపచ్చ (green)",
+        "పసుపు (yellow) · నలుపు (black) · తెలుపు (white)"
+      ],
+      "examples": [
+        {
+          "title": "రంగు",
+          "problem": "ఎరుపు means?",
+          "steps": [
+            "Like tomato / flag saffron-red idea for kids: red"
+          ],
+          "answer": "Red"
+        },
+        {
+          "title": "స్కూల్",
+          "problem": "పుస్తకం means?",
+          "steps": [
+            "We read it in class"
+          ],
+          "answer": "Book"
+        }
+      ]
+    },
+    {
+      "id": "chinna-vakyalu",
+      "icon": "💬",
+      "title": "చిన్న వాక్యాలు (Simple Sentences)",
+      "explanation": "పదాలు కలిపి పూర్తి అర్థం ఉన్న వాక్యం చెప్పండి. Subject + action సులభ నిర్మాణం. ఇంటి మరియు స్కూల్ దృశ్యాలపై 3–5 వాక్యాలు రోజూ చెప్పండి.",
+      "points": [
+        "నేను పాఠశాలకు వెళ్తాను. (I go to school.)",
+        "ఇది నా పుస్తకం. (This is my book.)",
+        "ఆమె పాలు తాగుతుంది. (She drinks milk.)",
+        "వాక్యం చివర full stop / పూర్ణవిరామం గుర్తు"
+      ],
+      "examples": [
+        {
+          "title": "చెప్పు",
+          "problem": "I am reading — simple Telugu?",
+          "steps": [
+            "నేను చదువుతున్నాను"
+          ],
+          "answer": "నేను చదువుతున్నాను"
+        },
+        {
+          "title": "ఎంచు",
+          "problem": "Which is a full sentence?",
+          "steps": [
+            "పుస్తకం alone is a word",
+            "ఇది పుస్తకం. is a sentence"
+          ],
+          "answer": "ఇది పుస్తకం."
+        }
+      ]
+    },
+    {
+      "id": "lingam-vachanam",
+      "icon": "1️⃣",
+      "title": "లింగం మరియు వచనం (Gender & Number)",
+      "explanation": "లింగం: పురుష / స్త్రీ భావన పదాల్లో. వచనం: ఒకటి (ఏకవచనం) లేదా ఎక్కువ (బహువచనం). Grade 2లో సులభ ఉదాహరణలు చాలు.",
+      "points": [
+        "పురుష ఉదా: బాలుడు (boy) · స్త్రీ: బాలిక (girl)",
+        "ఏకవచనం: పుస్తకం · బహువచనం: పుస్తకాలు",
+        "ఒక పిల్లి / రెండు పిల్లులు — count carefully",
+        "Respect forms vary by region — learn school words first"
       ],
       "examples": [
         {
           "title": "వచనం",
-          "problem": "One book పుస్తకం; many books…",
+          "problem": "పుస్తకాలు — singular or plural?",
           "steps": [
-            "పుస్తకాలు"
+            "ాలు ending often many",
+            "Plural"
           ],
-          "answer": "పుస్తకాలు"
+          "answer": "బహువచనం (plural)"
+        },
+        {
+          "title": "లింగం",
+          "problem": "బాలిక refers to?",
+          "steps": [
+            "Girl student idea"
+          ],
+          "answer": "Girl (స్త్రీ)"
         }
       ]
     },
     {
-      "id": "సాధారణ-వ్యాకరణం",
-      "icon": "🔤",
-      "title": "సాధారణ వ్యాకరణం",
-      "explanation": "Naming words and action words in Telugu sentences.",
+      "id": "chadivi-artham",
+      "icon": "📘",
+      "title": "చదివి అర్థం (Read & Understand)",
+      "explanation": "చిన్న పాఠ్యం రెండుసార్లు చదివి ప్రశ్నలకు జవాబు చెప్పండి: ఎవరు? ఎక్కడ? ఏమి జరిగింది? పండుగ, స్కూల్, మార్కెట్ కథలు సులభం.",
       "points": [
-        "నామవాచకం idea",
-        "క్రియ idea",
-        "Make 5 short sentences"
+        "Characters (పాత్రలు) గుర్తించండి",
+        "Place: ఇల్లు, పాఠశాల, బజారు",
+        "Main action ఏమిటి అని చెప్పండి",
+        "Lesson: kindness, honesty, sharing"
       ],
       "examples": [
+        {
+          "title": "కథ",
+          "problem": "రాము ఆకలితో ఉన్న కుక్కకు అన్నం పెట్టాడు. రాము ఎలా?",
+          "steps": [
+            "He helped a hungry dog",
+            "Kind / దయగలవాడు"
+          ],
+          "answer": "Kind (దయగలవాడు)"
+        },
+        {
+          "title": "ఎక్కడ",
+          "problem": "సీత బజారు నుండి పళ్లు తెచ్చింది. Place?",
+          "steps": [
+            "Fruits from market"
+          ],
+          "answer": "బజారు (market)"
+        }
+      ]
+    },
+    {
+      "id": "rachana",
+      "icon": "✏️",
+      "title": "రచన (Simple Writing)",
+      "explanation": "స్పష్ట అక్షరాలు, సరైన గుణింతాలు, చిన్న వాక్యాలు — ఇవే Grade 2 రచన. 3–4 వాక్యాల్లో నా ఇల్లు / నా పాఠశాల రాయండి. ఉపాధ్యాయుడు సరిదిద్దిన పదాలను మళ్లీ సాధన చేయండి.",
+      "points": [
+        "Straight lines · equal spacing between letters",
+        "Do not skip gunintham marks",
+        "Topic ideas: నా అమ్మ, నా స్నేహితుడు, నా స్కూల్",
+        "End sentences with full stop"
+      ],
+      "examples": [
+        {
+          "title": "అంశం",
+          "problem": "Write one line: My school is big — Telugu idea",
+          "steps": [
+            "నా పాఠశాల పెద్దది."
+          ],
+          "answer": "నా పాఠశాల పెద్దది."
+        },
+        {
+          "title": "సరిచూడు",
+          "problem": "Why rewrite corrected words?",
+          "steps": [
+            "To remember correct spelling and signs"
+          ],
+          "answer": "To fix mistakes permanently"
+        }
+      ]
+    },
+    {
+      "id": "maryada-padalu",
+      "icon": "🙏",
+      "title": "మర్యాద పదాలు (Polite Words)",
+      "explanation": "మంచి మాటలు అందరినీ సంతోషపెడతాయి. ఇంట్లో, స్కూల్లో, అతిథుల దగ్గర మర్యాద పదాలు వాడండి.",
+      "points": [
+        "నమస్కారం (hello/respect greeting)",
+        "ధన్యవాదాలు (thank you)",
+        "క్షమించండి (sorry)",
+        "దయచేసి (please)"
+      ],
+      "examples": [
+        {
+          "title": "స్కూల్",
+          "problem": "Teacher gave a pencil. What do you say?",
+          "steps": [
+            "Show thanks"
+          ],
+          "answer": "ధన్యవాదాలు"
+        },
+        {
+          "title": "ఇల్లు",
+          "problem": "You bump into someone. Say?",
+          "steps": [
+            "Apologise"
+          ],
+          "answer": "క్షమించండి"
+        }
+      ]
+    },
+    {
+      "id": "dinacharya-padalu",
+      "icon": "🌅",
+      "title": "రోజువారీ పదాలు (Daily Life Words)",
+      "explanation": "ఇంటి, ఆహారం, ప్రయాణం — రోజూ వాడే పదాలు. English glossతో జాబితా తయారుచేసి flashcardsలా సాధన చేయండి.",
+      "points": [
+        "నీరు (water) · అన్నం (rice/food) · పాలు (milk)",
+        "ఇల్లు (house) · తలుపు (door) · కిటికీ (window)",
+        "బస్సు (bus) · రైలు (train) · రోడ్డు (road)",
+        "ఆట (play) · నిద్ర (sleep) · చదువు (study)"
+      ],
+      "examples": [
+        {
+          "title": "అర్థం",
+          "problem": "నీరు means?",
+          "steps": [
+            "We drink it"
+          ],
+          "answer": "Water"
+        },
         {
           "title": "వాక్యం",
-          "problem": "రాము బడికి వెళ్తాడు — action is…",
+          "problem": "I drink milk — Telugu?",
           "steps": [
-            "వెళ్తాడు"
+            "నేను పాలు తాగుతాను"
           ],
-          "answer": "వెళ్తాడు"
+          "answer": "నేను పాలు తాగుతాను"
         }
       ]
     },
     {
-      "id": "చదువు-అర్థం",
-      "icon": "💬",
-      "title": "చదువు & అర్థం",
-      "explanation": "Read a 3–4 line paragraph and answer who/what questions in Telugu or English.",
+      "id": "panduga-yatara",
+      "icon": "🎉",
+      "title": "పండుగలు మరియు ప్రయాణం",
+      "explanation": "పండుగలు మరియు యాత్రల గురించి చిన్న తెలుగు మాటలు నేర్చుకోండి. కుటుంబంతో సంబరాలు, ట్రైన్ ప్రయాణం — ఇవి real-life vocabulary.",
       "points": [
-        "Finger tracking",
-        "Underline new words",
-        "Answer in full sentences when possible"
+        "పండుగ (festival) · సంతోషం (happiness)",
+        "దీపాలు / వివిధ పండుగల వెలుగులు — celebrate safely",
+        "ప్రయాణం (travel) · టిక్కెట్టు · స్టేషన్",
+        "సురక్షితంగా ప్రయాణించండి · eldersతో ఉండండి"
       ],
       "examples": [
         {
-          "title": "ప్రశ్న",
-          "problem": "If title is నా ఇల్లు, topic is…",
+          "title": "పదం",
+          "problem": "పండుగ means?",
           "steps": [
-            "Home"
+            "Happy celebration day"
           ],
-          "answer": "Home / ఇల్లు"
-        }
-      ]
-    },
-    {
-      "id": "పద్యం-లాలి",
-      "icon": "🎯",
-      "title": "పద్యం / లాలి",
-      "explanation": "Enjoy a short పద్యం — feel rhythm; explain meaning in simple words.",
-      "points": [
-        "Rhythm clapping",
-        "Moral in one line",
-        "New vocabulary list"
-      ],
-      "examples": [
+          "answer": "Festival"
+        },
         {
-          "title": "భావం",
-          "problem": "Why learn పద్యం?",
+          "title": "ప్రయాణం",
+          "problem": "Train travel word in Telugu?",
           "steps": [
-            "Language + joy"
+            "రైలు ప్రయాణం"
           ],
-          "answer": "Joyful language practice"
-        }
-      ]
-    },
-    {
-      "id": "వ్రాత-సాధన",
-      "icon": "✨",
-      "title": "వ్రాత సాధన",
-      "explanation": "Neat four-line writing: letters on lines, even spacing, daily diary one sentence.",
-      "points": [
-        "Correct grip",
-        "Even letter size",
-        "One diary line: ఈరోజు…"
-      ],
-      "examples": [
-        {
-          "title": "డైరీ",
-          "problem": "Start with…",
-          "steps": [
-            "ఈరోజు"
-          ],
-          "answer": "ఈరోజు"
+          "answer": "రైలు ప్రయాణం"
         }
       ]
     }
   ],
   "questions": [
     {
-      "id": "te2x1",
-      "type": "mcq",
-      "prompt": "అచ్చులు means…",
-      "choices": [
-        "Consonants",
-        "Vowels",
-        "Numbers",
-        "Punctuation"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "te2x2",
-      "type": "mcq",
-      "prompt": "నమస్కారం is used to…",
-      "choices": [
-        "Greet respectfully",
-        "Count money",
-        "Measure length",
-        "Draw only"
-      ],
-      "answer": 0
-    },
-    {
-      "id": "te2x3",
-      "type": "mcq",
-      "prompt": "అమ్మ means…",
-      "choices": [
-        "Father",
-        "Mother",
-        "School",
-        "Water"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "te2x4",
-      "type": "mcq",
-      "prompt": "కా is క with…",
-      "choices": [
-        "అ",
-        "ఆ",
-        "ఇ",
-        "ఉ"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "te2x5",
-      "type": "mcq",
-      "prompt": "ధన్యవాదాలు means…",
-      "choices": [
-        "Sorry",
-        "Please",
-        "Thank you",
-        "Go away"
-      ],
-      "answer": 2
-    },
-    {
-      "id": "t2q1",
+      "id": "t2-q1",
       "type": "mcq",
       "prompt": "ఆ is a…",
-      "choices": [
-        "Short vowel only",
-        "Long vowel",
-        "Consonant",
-        "Number"
-      ],
+      "choices": ["అచ్చు (vowel)", "హల్లు only", "Number", "English letter"],
+      "answer": 0
+    },
+    {
+      "id": "t2-q2",
+      "type": "mcq",
+      "prompt": "మ is a…",
+      "choices": ["అచ్చు", "హల్లు (consonant)", "Full stop", "Colour"],
       "answer": 1
     },
     {
-      "id": "t2q2",
+      "id": "t2-q3",
       "type": "mcq",
-      "prompt": "కా shows క with which vowel idea?",
-      "choices": [
-        "అ",
-        "ఆ",
-        "ఇ",
-        "ఉ"
-      ],
+      "prompt": "క + ి = ?",
+      "choices": ["కా", "కి", "కు", "కే"],
       "answer": 1
     },
     {
-      "id": "t2q3",
+      "id": "t2-q4",
       "type": "mcq",
-      "prompt": "ఇల్లు means…",
-      "choices": [
-        "Tree",
-        "House",
-        "River",
-        "Sky"
-      ],
+      "prompt": "అమ్మ means?",
+      "choices": ["Father", "Mother", "School", "Bus"],
       "answer": 1
     },
     {
-      "id": "t2q1b",
+      "id": "t2-q5",
       "type": "mcq",
-      "prompt": "A useful idea from \"అచ్చులు సమీక్ష (Vowel Review)\" is:",
-      "choices": [
-        "అ ఆ ఇ ఈ ఉ ఊ ఋ ౠ ఎ ఏ ఐ ఒ ఓ ఔ అం అః",
-        "Never ask questions",
-        "Skip revision",
-        "Copy without understanding"
-      ],
+      "prompt": "ఎరుపు means?",
+      "choices": ["Blue", "Red", "Green", "Black"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q6",
+      "type": "mcq",
+      "prompt": "పుస్తకం means?",
+      "choices": ["Pencil", "Book", "Door", "Milk"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q7",
+      "type": "mcq",
+      "prompt": "పుస్తకాలు is…",
+      "choices": ["Singular", "Plural", "A vowel", "A colour"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q8",
+      "type": "mcq",
+      "prompt": "Teacher gave help. Say?",
+      "choices": ["క్షమించండి only always", "ధన్యవాదాలు", "వెళ్లిపో", "నిశ్శబ్దం"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q9",
+      "type": "mcq",
+      "prompt": "నీరు means?",
+      "choices": ["Fire", "Water", "Stone", "Sky"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q10",
+      "type": "mcq",
+      "prompt": "బాలిక refers to a…",
+      "choices": ["Boy", "Girl", "Bus", "Tree"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q11",
+      "type": "mcq",
+      "prompt": "ఇ and ఈ mainly differ by…",
+      "choices": ["Colour", "Sound length", "Country", "Number of eyes"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q12",
+      "type": "mcq",
+      "prompt": "క్షమించండి means?",
+      "choices": ["Thank you", "Sorry", "Please sit forever", "Run"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q13",
+      "type": "mcq",
+      "prompt": "Which is a full sentence?",
+      "choices": ["పుస్తకం", "ఇది పుస్తకం.", "ా", "క"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q14",
+      "type": "mcq",
+      "prompt": "పండుగ means?",
+      "choices": ["Homework", "Festival", "Rain only", "Pencil"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q15",
+      "type": "mcq",
+      "prompt": "Cluster mark idea in words like అమ్మ is called…",
+      "choices": ["అచ్చు only", "ఒత్తు", "English comma", "Number"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q16",
+      "type": "mcq",
+      "prompt": "నేను పాలు తాగుతాను means roughly…",
+      "choices": ["I drink milk", "I eat stone", "I fly", "I sleep outside only"],
       "answer": 0
     },
     {
-      "id": "t2q2b",
+      "id": "t2-q17",
       "type": "mcq",
-      "prompt": "A useful idea from \"హల్లులు వర్గాలు\" is:",
-      "choices": [
-        "5 vargas + avargulu ideas",
-        "Never ask questions",
-        "Skip revision",
-        "Copy without understanding"
-      ],
+      "prompt": "దయచేసి means?",
+      "choices": ["Sorry", "Please", "Angry", "Jump"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q18",
+      "type": "mcq",
+      "prompt": "పాఠశాల means?",
+      "choices": ["Market", "School", "Ocean", "Mountain"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q19",
+      "type": "mcq",
+      "prompt": "చ ఛ జ ఝ ఞ group idea?",
+      "choices": ["అచ్చులు only", "చ-వర్గం", "Months", "Planets"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q20",
+      "type": "mcq",
+      "prompt": "రాము helped a hungry dog. He is…",
+      "choices": ["Cruel", "Kind", "Lazy only", "Silent forever"],
+      "answer": 1
+    },
+    {
+      "id": "t2-q21",
+      "type": "mcq",
+      "prompt": "పసుపు means?",
+      "choices": ["Yellow", "Blue", "Black", "Pink only"],
       "answer": 0
     },
     {
-      "id": "t2q3b",
+      "id": "t2-q22",
       "type": "mcq",
-      "prompt": "A useful idea from \"గుణింతాలు (Vowel Signs)\" is:",
-      "choices": [
-        "Same base consonant, new melody",
-        "Never ask questions",
-        "Skip revision",
-        "Copy without understanding"
-      ],
+      "prompt": "నా పాఠశాల పెద్దది. means?",
+      "choices": ["My school is big", "My bus is red", "My milk is hot", "My door is closed only"],
       "answer": 0
     },
     {
-      "id": "t2q4",
+      "id": "t2-q23",
       "type": "mcq",
-      "prompt": "Which topic are we learning?",
-      "choices": [
-        "ఒత్తు Letters",
-        "Random games only",
-        "Ignoring books",
-        "Sleeping in class"
-      ],
+      "prompt": "నమస్కారం is used for…",
+      "choices": ["Greeting with respect", "Saying goodbye to food only", "Maths sums", "Colouring only"],
       "answer": 0
     },
     {
-      "id": "t2q4b",
+      "id": "t2-q24",
       "type": "mcq",
-      "prompt": "A useful idea from \"ఒత్తు Letters\" is:",
-      "choices": [
-        "Spot ottu marks in textbooks",
-        "Never ask questions",
-        "Skip revision",
-        "Copy without understanding"
-      ],
-      "answer": 0
-    },
-    {
-      "id": "t2q5",
-      "type": "mcq",
-      "prompt": "Which topic are we learning?",
-      "choices": [
-        "పదాలు: ఇల్లు బడి ఆట",
-        "Random games only",
-        "Ignoring books",
-        "Sleeping in class"
-      ],
-      "answer": 0
-    },
-    {
-      "id": "t2q5b",
-      "type": "mcq",
-      "prompt": "A useful idea from \"పదాలు: ఇల్లు బడి ఆట\" is:",
-      "choices": [
-        "ఇల్లు — house",
-        "Never ask questions",
-        "Skip revision",
-        "Copy without understanding"
-      ],
-      "answer": 0
+      "prompt": "ా gunintham gives which vowel sound?",
+      "choices": ["ఇ", "ఆ", "ఉ", "ఎ"],
+      "answer": 1
     }
   ]
 }

@@ -1,25 +1,36 @@
 {
   "title": "Social Studies / EVS Society — CBSE Grade 2",
+  "grade": 2,
+  "depth": "deep",
   "sections": [
     {
       "id": "family",
       "icon": "👨‍👩‍👧‍👦",
       "title": "My Family",
-      "explanation": "A family lives together and cares for one another. Joint and small families both share love and duties.",
+      "explanation": "A family lives together and cares for one another. Some families are small; some are joint with grandparents and uncles. Love, sharing chores and speaking kindly keep a family happy. Indian homes often celebrate festivals together.",
       "points": [
-        "Parents, siblings, grandparents",
-        "Help at home with small chores",
-        "Celebrate together",
-        "Speak kindly to family members"
+        "Parents, siblings and grandparents are family",
+        "Help with small chores: packing bag, watering plants",
+        "Celebrate birthdays and festivals together",
+        "Listen to elders and share your day at dinner"
       ],
       "examples": [
         {
-          "title": "Home",
-          "problem": "Who usually helps you get ready for school?",
+          "title": "Morning",
+          "problem": "Who often helps you get ready for school?",
           "steps": [
-            "Parents/elders"
+            "Parents or elders at home",
+            "They care for us"
           ],
           "answer": "Parents or elders"
+        },
+        {
+          "title": "Duty",
+          "problem": "Name one small chore a Grade 2 child can do.",
+          "steps": [
+            "Keep toys tidy or fill water bottle"
+          ],
+          "answer": "Tidy toys / fill bottle"
         }
       ]
     },
@@ -27,21 +38,29 @@
       "id": "neighbourhood",
       "icon": "🏘️",
       "title": "My Neighbourhood",
-      "explanation": "A neighbourhood has houses, shops, parks, school and helpers. Keep it clean and friendly.",
+      "explanation": "A neighbourhood is the area around our home. It has houses, shops, parks, places of worship and helpful people. Keeping lanes clean and greeting neighbours politely makes the area friendly and safe.",
       "points": [
-        "Neighbours live near us",
-        "Places: market, park, mosque/temple/church, hospital",
-        "Greet neighbours politely",
-        "Do not make loud noise late at night"
+        "Neighbours live near us — be friendly",
+        "Places: market, park, temple/mosque/church/gurdwara, clinic",
+        "Do not litter; use dustbins",
+        "Avoid loud noise late at night"
       ],
       "examples": [
         {
-          "title": "Park",
-          "problem": "A place to play near home?",
+          "title": "Play",
+          "problem": "A safe open place to play near many homes?",
           "steps": [
-            "Park"
+            "Park or playground"
           ],
           "answer": "Park"
+        },
+        {
+          "title": "Help",
+          "problem": "If a neighbour is elderly, how can you help lightly?",
+          "steps": [
+            "Carry a light bag or greet and ask if they need help"
+          ],
+          "answer": "Offer polite help"
         }
       ]
     },
@@ -49,21 +68,29 @@
       "id": "school",
       "icon": "🏫",
       "title": "Our School",
-      "explanation": "School is where we learn and make friends. Follow school rules and respect teachers.",
+      "explanation": "School is where we learn reading, writing, maths and good habits. We make friends and respect teachers. Being on time, wearing neat uniform and listening in class are important Grade 2 duties.",
       "points": [
-        "Classroom, library, playground",
-        "Teacher, principal, classmates",
-        "Be on time; wear uniform",
-        "Listen in class; complete homework"
+        "Classroom, library, playground, assembly ground",
+        "Teacher, principal, classmates, peon/helpers",
+        "Be on time; complete homework",
+        "Share and wait for your turn in games"
       ],
       "examples": [
         {
           "title": "Learn",
-          "problem": "Who teaches us in class?",
+          "problem": "Who teaches lessons in class?",
           "steps": [
             "Teacher"
           ],
           "answer": "Teacher"
+        },
+        {
+          "title": "Place",
+          "problem": "Where do we borrow storybooks in school?",
+          "steps": [
+            "Library"
+          ],
+          "answer": "Library"
         }
       ]
     },
@@ -71,411 +98,501 @@
       "id": "helpers",
       "icon": "🧑‍🚒",
       "title": "People Who Help Us",
-      "explanation": "Community helpers make life safe and easy. Thank them and respect their work.",
+      "explanation": "Community helpers keep our life safe and comfortable. Doctors treat us, teachers teach us, farmers grow food and cleaners keep streets tidy. We should thank them and never mock their work.",
       "points": [
         "Doctor, nurse, teacher",
         "Police officer, firefighter",
-        "Postman, farmer, cleaners",
-        "Driver, carpenter, tailor"
+        "Postman/courier, farmer, sanitation workers",
+        "Driver, tailor, carpenter, shopkeeper"
       ],
       "examples": [
         {
-          "title": "Fire",
-          "problem": "Who helps if there is a fire?",
+          "title": "Health",
+          "problem": "Who checks us when we are sick?",
           "steps": [
-            "Firefighter"
+            "Doctor or nurse"
           ],
-          "answer": "Firefighter"
+          "answer": "Doctor"
         },
         {
-          "title": "Letters",
-          "problem": "Who delivers letters?",
+          "title": "Food",
+          "problem": "Who grows grains and vegetables for us?",
           "steps": [
-            "Postman"
+            "Farmer"
           ],
-          "answer": "Postman / courier helper"
+          "answer": "Farmer"
         }
       ]
     },
     {
-      "id": "transport",
-      "icon": "🚌",
-      "title": "Transport and Communication",
-      "explanation": "Transport takes us from place to place. Communication helps us send messages.",
+      "id": "village-city",
+      "icon": "🌾",
+      "title": "Village and City",
+      "explanation": "Villages often have open fields, fewer tall buildings and many farmers. Cities have more vehicles, tall buildings, markets and offices. Both need clean water, schools and caring people. Many Indian families have roots in both.",
       "points": [
-        "Land: bicycle, car, bus, train",
-        "Water: boat, ship",
-        "Air: aeroplane, helicopter",
-        "Communication: phone, letter, email (with parents)"
+        "Village: farms, quieter roads, closer nature",
+        "City: buses, metros, big markets, apartments",
+        "Both need helpers, schools and hospitals",
+        "Respect people wherever they live"
       ],
       "examples": [
         {
-          "title": "School trip",
-          "problem": "Many children go to school by",
+          "title": "Compare",
+          "problem": "Where do you often see large farms?",
           "steps": [
-            "Bus/car/walk"
+            "Village areas"
           ],
-          "answer": "Bus, car, or walking with adult"
+          "answer": "Village"
         },
         {
-          "title": "Sky",
-          "problem": "We travel in the sky by",
+          "title": "City life",
+          "problem": "Which is more common in a big city?",
           "steps": [
-            "Aeroplane"
+            "Many buses and tall buildings"
           ],
-          "answer": "Aeroplane"
+          "answer": "Busy traffic and tall buildings"
         }
       ]
     },
     {
-      "id": "directions",
-      "icon": "🧭",
-      "title": "Directions and Maps",
-      "explanation": "Four main directions: North, South, East, West. A simple map helps us find places.",
+      "id": "occupations",
+      "icon": "💼",
+      "title": "Occupations (Jobs People Do)",
+      "explanation": "An occupation is the work people do to earn a living and help society. Different jobs need different skills. When we grow up we may choose work we love while helping others.",
       "points": [
-        "Sun rises in the East",
-        "Sun sets in the West",
-        "Map shows places with symbols",
-        "Ask an adult before exploring new places"
+        "Teacher teaches; doctor treats patients",
+        "Pilot flies planes; chef cooks food",
+        "Potter makes pots; weaver makes cloth",
+        "All honest work deserves respect"
       ],
       "examples": [
         {
-          "title": "Sunrise",
-          "problem": "Sun rises in the",
+          "title": "Match",
+          "problem": "Who stitches clothes?",
           "steps": [
-            "East"
+            "Tailor"
           ],
-          "answer": "East"
+          "answer": "Tailor"
+        },
+        {
+          "title": "Market",
+          "problem": "Who sells vegetables in the sabzi mandi?",
+          "steps": [
+            "Vegetable seller / vendor"
+          ],
+          "answer": "Vegetable seller"
         }
       ]
     },
     {
-      "id": "festivals",
-      "icon": "🎉",
-      "title": "Festivals and Celebrations",
-      "explanation": "Festivals bring joy and teach sharing. India has many festivals of different communities.",
+      "id": "our-earth",
+      "icon": "🌍",
+      "title": "Our Earth — Land and Water",
+      "explanation": "Earth is our home. It has land (soil, mountains, plains) and water (rivers, lakes, seas). We must not waste water or dirty rivers. Plants, animals and people share this planet.",
       "points": [
-        "Eid, Diwali, Christmas, Gurpurab, Pongal, Onam (examples)",
-        "Republic Day (26 Jan), Independence Day (15 Aug)",
-        "Share sweets; never burst risky fireworks alone",
-        "Respect all cultures and religions"
+        "Land: hills, plains, deserts, forests (simple names)",
+        "Water: river, pond, lake, sea, rain",
+        "Save water: close taps; do not waste",
+        "Do not throw plastic into drains or rivers"
       ],
       "examples": [
         {
-          "title": "Freedom",
-          "problem": "Independence Day is on",
+          "title": "Water",
+          "problem": "Ganga is an example of a…",
+          "steps": [
+            "A long flowing water body",
+            "River"
+          ],
+          "answer": "River"
+        },
+        {
+          "title": "Care",
+          "problem": "What should you do after washing hands?",
+          "steps": [
+            "Close the tap tightly"
+          ],
+          "answer": "Turn off the tap"
+        }
+      ]
+    },
+    {
+      "id": "national-symbols",
+      "icon": "🇮🇳",
+      "title": "India — National Symbols (Intro)",
+      "explanation": "National symbols help us feel proud of India. Grade 2 children learn a few famous ones: the Tiranga (flag), the tiger, the peacock and the lotus. We respect the flag and sing the national anthem with attention.",
+      "points": [
+        "National flag: Tiranga — saffron, white, green with Ashoka Chakra",
+        "National animal: Tiger",
+        "National bird: Peacock",
+        "National flower: Lotus (light intro)"
+      ],
+      "examples": [
+        {
+          "title": "Flag",
+          "problem": "How many colours are in the Tiranga stripes?",
+          "steps": [
+            "Saffron, white, green — three bands",
+            "Chakra is navy blue"
+          ],
+          "answer": "Three main stripes"
+        },
+        {
+          "title": "Animal",
+          "problem": "National animal of India?",
+          "steps": [
+            "Tiger"
+          ],
+          "answer": "Tiger"
+        }
+      ]
+    },
+    {
+      "id": "republic-independence",
+      "icon": "🏛️",
+      "title": "Independence Day & Republic Day",
+      "explanation": "Independence Day (15 August) celebrates freedom from British rule. Republic Day (26 January) celebrates our Constitution — the big book of rules for the country. Schools hold flag hoisting and marches. We remember brave leaders and stay united.",
+      "points": [
+        "15 August — Independence Day",
+        "26 January — Republic Day",
+        "Flag hoisting, patriotic songs, respect silence",
+        "Meaning for kids: freedom, fairness and togetherness"
+      ],
+      "examples": [
+        {
+          "title": "Date",
+          "problem": "When is Independence Day?",
           "steps": [
             "15 August"
           ],
           "answer": "15 August"
         },
         {
-          "title": "Respect",
-          "problem": "Should we respect others festivals?",
+          "title": "Republic",
+          "problem": "Republic Day date?",
           "steps": [
-            "Yes"
+            "26 January"
           ],
-          "answer": "Yes"
+          "answer": "26 January"
         }
       ]
     },
     {
-      "id": "india-sst",
-      "icon": "🗺️",
-      "title": "Our Country and States (Intro)",
-      "explanation": "India is a large country with many states and languages. We are all Indians.",
-      "points": [
-        "Capital: New Delhi",
-        "Many states and union territories",
-        "Many languages; Hindi and English widely used in schools",
-        "Unity in diversity"
-      ],
-      "examples": [
-        {
-          "title": "Capital",
-          "problem": "India capital city?",
-          "steps": [
-            "New Delhi"
-          ],
-          "answer": "New Delhi"
-        }
-      ]
-    },
-    {
-      "id": "rules",
+      "id": "traffic-rules",
       "icon": "🚦",
-      "title": "Rules, Rights and Safety",
-      "explanation": "Rules keep us safe at home, school and on the road. Children have the right to learn, play and be safe.",
+      "title": "Traffic Rules (Deeper)",
+      "explanation": "Roads are busy in Indian cities and towns. Traffic rules keep us safe. Always use the zebra crossing with an adult, look both ways and never play on the road. Learn signal colours and simple road signs.",
       "points": [
-        "Road rules: walk on footpath; cross carefully",
-        "School rules: no bullying; listen to teachers",
-        "Home rules: ask before going out",
-        "Tell a trusted adult if something feels wrong"
+        "Red = stop · Yellow = wait · Green = go carefully",
+        "Use footpath; hold an adult’s hand",
+        "Zebra crossing for walking across",
+        "Wear helmet on two-wheelers; seat belt in cars when available"
       ],
       "examples": [
         {
-          "title": "Road",
-          "problem": "We cross at the",
+          "title": "Signal",
+          "problem": "Red light means?",
           "steps": [
-            "Zebra crossing"
+            "Stop and wait"
+          ],
+          "answer": "Stop"
+        },
+        {
+          "title": "Crossing",
+          "problem": "Where should pedestrians cross a busy road?",
+          "steps": [
+            "Zebra crossing / with adult"
           ],
           "answer": "Zebra crossing"
         }
       ]
     },
     {
-      "id": "earth-care",
-      "icon": "🌍",
-      "title": "Caring for Our Surroundings",
-      "explanation": "We share Earth with plants and animals. Keep surroundings clean and green.",
+      "id": "public-places",
+      "icon": "🏥",
+      "title": "Public Places",
+      "explanation": "Public places are shared by everyone. Parks, post offices, hospitals, railway stations and libraries help the community. We keep them clean, speak softly and follow queue rules.",
       "points": [
-        "Do not litter",
-        "Save water and electricity",
-        "Plant and protect trees",
-        "Be kind to animals"
+        "Park: play safely; do not pluck plants",
+        "Post office: send letters and parcels",
+        "Hospital: place for treatment — stay quiet and kind",
+        "Station/bus stand: stay with elders; do not wander"
       ],
       "examples": [
         {
-          "title": "Bin",
-          "problem": "Where does rubbish go?",
+          "title": "Mail",
+          "problem": "Where do we go to post a letter?",
           "steps": [
-            "Dustbin"
+            "Post office"
           ],
-          "answer": "Dustbin"
+          "answer": "Post office"
+        },
+        {
+          "title": "Health",
+          "problem": "Where do sick people get medical care?",
+          "steps": [
+            "Hospital or clinic"
+          ],
+          "answer": "Hospital"
+        }
+      ]
+    },
+    {
+      "id": "festivals-travel",
+      "icon": "🚂",
+      "title": "Festivals and Travel",
+      "explanation": "India celebrates many festivals with lights, sweets and family visits. Travel by bus, train or car needs planning and safety. Carry water, stay with adults and be polite to fellow passengers.",
+      "points": [
+        "Festivals bring joy — share sweets; avoid waste and firecrackers harm",
+        "Greet relatives; help decorate safely",
+        "Travel: ticket, seat, no running near tracks",
+        "Thank drivers and helpers on the journey"
+      ],
+      "examples": [
+        {
+          "title": "Safety",
+          "problem": "On a railway platform you should…",
+          "steps": [
+            "Stay with elders; stand behind the yellow line"
+          ],
+          "answer": "Stay with adults / behind safety line"
+        },
+        {
+          "title": "Festival",
+          "problem": "Why do families gather on festival days?",
+          "steps": [
+            "To share joy, food and traditions"
+          ],
+          "answer": "To celebrate together"
+        }
+      ]
+    },
+    {
+      "id": "rules-citizenship",
+      "icon": "🤝",
+      "title": "Good Citizen Habits",
+      "explanation": "A good citizen follows rules, helps others and cares for public property. Even Grade 2 children can queue patiently, speak truth and keep surroundings clean. Small good acts make India stronger.",
+      "points": [
+        "Stand in queue; do not push",
+        "Tell the truth; return lost things",
+        "Save electricity and water at home",
+        "Respect the national flag and anthem"
+      ],
+      "examples": [
+        {
+          "title": "Queue",
+          "problem": "At the school drinking water tap you should…",
+          "steps": [
+            "Wait for your turn"
+          ],
+          "answer": "Wait in queue"
+        },
+        {
+          "title": "Lost item",
+          "problem": "You find a classmate’s eraser. What do you do?",
+          "steps": [
+            "Return it or give to teacher"
+          ],
+          "answer": "Return it"
         }
       ]
     }
   ],
   "questions": [
     {
-      "id": "ss1",
+      "id": "ss2-q1",
       "type": "mcq",
-      "prompt": "Who teaches us in school?",
-      "choices": [
-        "Driver",
-        "Teacher",
-        "Pilot only",
-        "Farmer only"
-      ],
+      "prompt": "Who usually teaches you in class?",
+      "choices": ["Pilot", "Teacher", "Driver", "Farmer"],
       "answer": 1
     },
     {
-      "id": "ss2",
+      "id": "ss2-q2",
       "type": "mcq",
-      "prompt": "Sun rises in the",
-      "choices": [
-        "West",
-        "East",
-        "North",
-        "South"
-      ],
+      "prompt": "A place to play near homes is often a…",
+      "choices": ["Hospital OT", "Park", "Airport runway", "Ocean trench"],
       "answer": 1
     },
     {
-      "id": "ss3",
+      "id": "ss2-q3",
       "type": "mcq",
-      "prompt": "Independence Day date",
-      "choices": [
-        "26 January",
-        "15 August",
-        "2 October",
-        "1 May"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "ss4",
-      "type": "mcq",
-      "prompt": "Who helps in a fire?",
-      "choices": [
-        "Firefighter",
-        "Chef",
-        "Painter",
-        "Singer"
-      ],
+      "prompt": "Who grows our food grains?",
+      "choices": ["Farmer", "Pilot", "Astronaut only", "Painter only"],
       "answer": 0
     },
     {
-      "id": "ss5",
+      "id": "ss2-q4",
       "type": "mcq",
-      "prompt": "A neighbourhood is",
-      "choices": [
-        "Only a jungle",
-        "Area near our home",
-        "Only a desert",
-        "Only sky"
-      ],
+      "prompt": "Large farms are more common in a…",
+      "choices": ["Busy metro station only", "Village", "Aeroplane cabin", "Undersea tunnel"],
       "answer": 1
     },
     {
-      "id": "ss6",
+      "id": "ss2-q5",
       "type": "mcq",
-      "prompt": "Capital of India",
-      "choices": [
-        "Mumbai",
-        "New Delhi",
-        "Agra",
-        "Goa"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "ss7",
-      "type": "truefalse",
-      "prompt": "We should respect all festivals.",
-      "answer": true
-    },
-    {
-      "id": "ss8",
-      "type": "truefalse",
-      "prompt": "Littering keeps surroundings clean.",
-      "answer": false
-    },
-    {
-      "id": "ss9",
-      "type": "mcq",
-      "prompt": "Transport in the air",
-      "choices": [
-        "Bus",
-        "Ship",
-        "Aeroplane",
-        "Bicycle"
-      ],
-      "answer": 2
-    },
-    {
-      "id": "ss10",
-      "type": "mcq",
-      "prompt": "Postman helps with",
-      "choices": [
-        "Letters/parcels",
-        "Cooking only",
-        "Flying planes",
-        "Building dams only"
-      ],
+      "prompt": "Who stitches clothes?",
+      "choices": ["Tailor", "Firefighter", "Postman only", "Swimmer"],
       "answer": 0
     },
     {
-      "id": "ss11",
+      "id": "ss2-q6",
       "type": "mcq",
-      "prompt": "School is a place to",
-      "choices": [
-        "Only sleep",
-        "Learn and play",
-        "Only shop",
-        "Only farm"
-      ],
+      "prompt": "The Ganga is a famous…",
+      "choices": ["Desert", "River", "Planet", "Fruit"],
       "answer": 1
     },
     {
-      "id": "ss12",
+      "id": "ss2-q7",
       "type": "mcq",
-      "prompt": "Cross the road at",
-      "choices": [
-        "Anywhere",
-        "Zebra crossing",
-        "Highway middle",
-        "Tunnel of toys"
-      ],
+      "prompt": "National animal of India?",
+      "choices": ["Lion only always", "Tiger", "Penguin", "Kangaroo"],
       "answer": 1
     },
     {
-      "id": "ss13",
+      "id": "ss2-q8",
       "type": "mcq",
-      "prompt": "Family members should",
-      "choices": [
-        "Fight always",
-        "Care for each other",
-        "Never talk",
-        "Hide homework forever"
-      ],
+      "prompt": "Independence Day is on…",
+      "choices": ["26 January", "15 August", "25 December", "1 April"],
       "answer": 1
     },
     {
-      "id": "ss14",
+      "id": "ss2-q9",
       "type": "mcq",
-      "prompt": "A map helps us",
-      "choices": [
-        "Cook rice",
-        "Find places",
-        "Sleep",
-        "Paint only"
-      ],
+      "prompt": "Republic Day is on…",
+      "choices": ["15 August", "26 January", "2 October", "14 November"],
       "answer": 1
     },
     {
-      "id": "ss15",
+      "id": "ss2-q10",
       "type": "mcq",
-      "prompt": "Doctor helps when we are",
-      "choices": [
-        "Hungry for games only",
-        "Sick",
-        "Flying",
-        "Singing only"
-      ],
+      "prompt": "Red traffic light means…",
+      "choices": ["Go fast", "Stop", "Dance", "Sleep"],
       "answer": 1
     },
     {
-      "id": "ss16",
+      "id": "ss2-q11",
       "type": "mcq",
-      "prompt": "Save water means",
-      "choices": [
-        "Leave taps open",
-        "Close taps after use",
-        "Wash roads all day",
-        "Flood home"
-      ],
+      "prompt": "Where should you cross a busy road?",
+      "choices": ["Anywhere randomly", "Zebra crossing", "On railway tracks", "In the middle of a highway run"],
       "answer": 1
     },
     {
-      "id": "ss17",
+      "id": "ss2-q12",
       "type": "mcq",
-      "prompt": "Republic Day is on",
-      "choices": [
-        "15 August",
-        "26 January",
-        "25 December",
-        "14 November"
-      ],
+      "prompt": "Where do we post letters?",
+      "choices": ["Post office", "Playground only", "Kitchen sink", "Cloud"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q13",
+      "type": "mcq",
+      "prompt": "Sick people go to a…",
+      "choices": ["Hospital", "Toy shop only", "Cinema only", "Desert"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q14",
+      "type": "mcq",
+      "prompt": "National bird of India?",
+      "choices": ["Crow only", "Peacock", "Ostrich", "Penguin"],
       "answer": 1
     },
     {
-      "id": "ss18",
+      "id": "ss2-q15",
       "type": "mcq",
-      "prompt": "A farmer grows",
-      "choices": [
-        "Aeroplanes",
-        "Crops/food",
-        "Computers only",
-        "Cars only"
-      ],
+      "prompt": "Who treats sick people?",
+      "choices": ["Doctor", "Bus conductor only", "Painter", "Cricketer only"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q16",
+      "type": "mcq",
+      "prompt": "After washing hands you should…",
+      "choices": ["Leave tap open", "Turn off the tap", "Flood the floor", "Throw soap away always"],
       "answer": 1
     },
     {
-      "id": "ss19",
+      "id": "ss2-q17",
       "type": "mcq",
-      "prompt": "Unity in diversity means",
-      "choices": [
-        "Only one culture allowed",
-        "Many cultures live together",
-        "No festivals",
-        "No languages"
-      ],
+      "prompt": "How many main coloured stripes does the Tiranga have?",
+      "choices": ["Two", "Three", "Five", "Ten"],
       "answer": 1
     },
     {
-      "id": "ss20",
+      "id": "ss2-q18",
       "type": "mcq",
-      "prompt": "If you need help, tell",
-      "choices": [
-        "Nobody ever",
-        "A trusted adult",
-        "A stranger online",
-        "Random noise"
-      ],
+      "prompt": "At a water tap in school you should…",
+      "choices": ["Push others", "Wait in queue", "Block everyone", "Shout loudly"],
       "answer": 1
+    },
+    {
+      "id": "ss2-q19",
+      "type": "mcq",
+      "prompt": "A city often has more…",
+      "choices": ["Only silent farms", "Tall buildings and busy traffic", "Only camel deserts forever", "No schools"],
+      "answer": 1
+    },
+    {
+      "id": "ss2-q20",
+      "type": "mcq",
+      "prompt": "On a railway platform you should…",
+      "choices": ["Run alone near the edge", "Stay with adults", "Play cricket on tracks", "Ignore elders"],
+      "answer": 1
+    },
+    {
+      "id": "ss2-q21",
+      "type": "mcq",
+      "prompt": "National flower (intro) of India?",
+      "choices": ["Lotus", "Cactus flower only", "Sunflower of another country only", "Plastic rose"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q22",
+      "type": "mcq",
+      "prompt": "Who delivers letters traditionally?",
+      "choices": ["Postman", "Astronaut only", "Deep-sea diver only", "Chef only"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q23",
+      "type": "mcq",
+      "prompt": "Green traffic light means…",
+      "choices": ["Stop forever", "Go carefully", "Sleep", "Turn off engine always"],
+      "answer": 1
+    },
+    {
+      "id": "ss2-q24",
+      "type": "mcq",
+      "prompt": "You find a friend’s pencil. You should…",
+      "choices": ["Hide it", "Return it", "Break it", "Throw it"],
+      "answer": 1
+    },
+    {
+      "id": "ss2-q25",
+      "type": "mcq",
+      "prompt": "Why do we respect community helpers?",
+      "choices": ["Their work helps everyone", "They are invisible", "Work does not matter", "Only rich jobs matter"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q26",
+      "type": "mcq",
+      "prompt": "Plastic in rivers is…",
+      "choices": ["Good for fish", "Harmful — we should not litter", "A national symbol", "Food for plants"],
+      "answer": 1
+    },
+    {
+      "id": "ss2-q27",
+      "type": "mcq",
+      "prompt": "School library is for…",
+      "choices": ["Borrowing and reading books", "Cooking dinner", "Parking trucks only", "Flying planes"],
+      "answer": 0
+    },
+    {
+      "id": "ss2-q28",
+      "type": "mcq",
+      "prompt": "Independence Day reminds us of…",
+      "choices": ["Freedom of our country", "Only cricket scores", "Buying toys only", "Ignoring the flag"],
+      "answer": 0
     }
-  ],
-  "grade": 2,
-  "depth": "deep"
+  ]
 }

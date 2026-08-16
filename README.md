@@ -38,6 +38,7 @@ You can also upload this folder to Netlify / Cloudflare Pages / any static host 
 | Juz Amma | Surahs **78–114**, reciters Luhaidan / Shuraim / Dosari |
 | School subjects | Maths, English, Hindi, **Telugu**, Science/EVS, Social Studies, GK — content loads from `data/grade-{N}/` |
 | Depth | **Grades 1–5:** richer Learn + Play · **Grades 6–10:** NCERT-aligned topic outlines + quizzes |
+| Grade 2 focus | Deep CBSE topics with real-world Indian examples (Maths 16, English/Science 14, Hindi/Telugu/SS/GK 13 sections each) |
 | Games | Car lap race, Football, Memory, Pattern, kids UNO |
 
 Stars and rankings are stored in the browser (`localStorage`). Quiz stars are keyed by grade.

@@ -1,38 +1,318 @@
 {
   "title": "General Knowledge — Grade 2",
+  "grade": 2,
+  "depth": "deep",
   "sections": [
     {
-      "id": "me",
+      "id": "me-habits",
       "icon": "🧒",
       "title": "Myself and Good Habits",
-      "explanation": "Know your name, age, school and class. Good manners make everyone happy.",
+      "explanation": "Know your name, age, class and school. Good habits and manners make home and school happier. Saying please, thank you and sorry is a superpower for Grade 2 kids in India.",
       "points": [
         "Say please, thank you and sorry",
-        "Share and wait for your turn",
-        "Keep your things tidy",
+        "Share toys; wait for your turn",
+        "Keep bag and shoes tidy",
         "Respect parents, teachers and elders"
       ],
       "examples": [
         {
-          "title": "Real life",
-          "problem": "Someone gives you a pencil. What do you say?",
+          "title": "Manners",
+          "problem": "Someone lends you a pencil. What do you say?",
           "steps": [
-            "Good manners"
+            "Show gratitude"
           ],
           "answer": "Thank you"
+        },
+        {
+          "title": "Home",
+          "problem": "You bump into your sibling. What do you say?",
+          "steps": [
+            "Apologise"
+          ],
+          "answer": "Sorry"
         }
       ]
     },
     {
-      "id": "calendar",
+      "id": "india-basics",
+      "icon": "🇮🇳",
+      "title": "Our India (Basics)",
+      "explanation": "India is our country. New Delhi is the capital. We have many languages, foods and festivals. Knowing a few facts about India builds pride and curiosity for Grade 2 learners.",
+      "points": [
+        "Country name: India",
+        "Capital: New Delhi",
+        "Many states and languages",
+        "Tricolour flag: Tiranga"
+      ],
+      "examples": [
+        {
+          "title": "Capital",
+          "problem": "Capital of India?",
+          "steps": [
+            "New Delhi"
+          ],
+          "answer": "New Delhi"
+        },
+        {
+          "title": "Flag",
+          "problem": "Our national flag is also called?",
+          "steps": [
+            "Tiranga"
+          ],
+          "answer": "Tiranga"
+        }
+      ]
+    },
+    {
+      "id": "national-symbols-gk",
+      "icon": "🦚",
+      "title": "National Symbols",
+      "explanation": "National symbols are special signs of India. Learn the flag, animal, bird, flower and fruit at kid level. Respect the flag during assembly and never let it touch the ground carelessly.",
+      "points": [
+        "Flag: Tiranga with Ashoka Chakra",
+        "Animal: Tiger · Bird: Peacock",
+        "Flower: Lotus · Fruit: Mango",
+        "Anthem: Jana Gana Mana — stand quietly"
+      ],
+      "examples": [
+        {
+          "title": "Bird",
+          "problem": "National bird of India?",
+          "steps": [
+            "Peacock"
+          ],
+          "answer": "Peacock"
+        },
+        {
+          "title": "Fruit",
+          "problem": "National fruit of India?",
+          "steps": [
+            "Mango"
+          ],
+          "answer": "Mango"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "icon": "🐘",
+      "title": "Animals Around Us",
+      "explanation": "Animals live on land, in water and in the air. Pets need care; wild animals need safe forests. Indian children may see cows, dogs, sparrows, elephants in stories and sometimes peacocks in parks.",
+      "points": [
+        "Pets: dog, cat, fish — feed and be gentle",
+        "Farm: cow, goat, hen",
+        "Wild: tiger, elephant, lion (in reserves)",
+        "Do not tease animals; ask adults before touching"
+      ],
+      "examples": [
+        {
+          "title": "Home",
+          "problem": "A common pet that barks?",
+          "steps": [
+            "Dog"
+          ],
+          "answer": "Dog"
+        },
+        {
+          "title": "Wild",
+          "problem": "Tiger mostly lives in…",
+          "steps": [
+            "Forests / wildlife reserves"
+          ],
+          "answer": "Forest"
+        }
+      ]
+    },
+    {
+      "id": "famous-indians",
+      "icon": "⭐",
+      "title": "Famous Indians (Kid Level)",
+      "explanation": "Some Indians are remembered for helping people and our country. Mahatma Gandhi taught truth and non-violence. Teachers and doctors are everyday heroes. We can be helpful in small ways too.",
+      "points": [
+        "Mahatma Gandhi — truth, peace, simplicity",
+        "Teachers — help us learn every day",
+        "Doctors and nurses — keep us healthy",
+        "Freedom fighters and helpers — be brave and kind"
+      ],
+      "examples": [
+        {
+          "title": "Gandhi",
+          "problem": "Gandhi is remembered for teaching…",
+          "steps": [
+            "Truth and non-violence (peace)"
+          ],
+          "answer": "Peace / non-violence"
+        },
+        {
+          "title": "Heroes",
+          "problem": "Who helps when you are sick at a clinic?",
+          "steps": [
+            "Doctor or nurse"
+          ],
+          "answer": "Doctor"
+        }
+      ]
+    },
+    {
+      "id": "inventions-kids",
+      "icon": "💡",
+      "title": "Inventions Kids Use",
+      "explanation": "Inventions are useful new things people created. The telephone helps us talk to faraway family. Computers and tablets help learn and play carefully. Use screens with adult rules and take eye breaks.",
+      "points": [
+        "Telephone / mobile — talk and message with elders’ help",
+        "Bulb — light at night",
+        "Computer / tablet — learning and drawing apps",
+        "Bicycle — healthy outdoor travel nearby"
+      ],
+      "examples": [
+        {
+          "title": "Talk",
+          "problem": "Which invention helps you talk to grandparents in another city?",
+          "steps": [
+            "Telephone or mobile phone"
+          ],
+          "answer": "Telephone / phone"
+        },
+        {
+          "title": "Light",
+          "problem": "What lights a dark room at night?",
+          "steps": [
+            "Electric bulb / lamp"
+          ],
+          "answer": "Bulb / lamp"
+        }
+      ]
+    },
+    {
+      "id": "continents-oceans",
+      "icon": "🌐",
+      "title": "Continents and Oceans (Very Light)",
+      "explanation": "Earth has big land parts called continents and big water parts called oceans. India is in Asia. Knowing the words continent and ocean is enough at Grade 2 — maps can come later with fun.",
+      "points": [
+        "Continent = very large land area",
+        "Ocean = very large salt water area",
+        "India is in the continent of Asia",
+        "We live on planet Earth"
+      ],
+      "examples": [
+        {
+          "title": "Home continent",
+          "problem": "India is in which continent?",
+          "steps": [
+            "Asia"
+          ],
+          "answer": "Asia"
+        },
+        {
+          "title": "Word",
+          "problem": "A huge water body on Earth is called an…",
+          "steps": [
+            "Ocean"
+          ],
+          "answer": "Ocean"
+        }
+      ]
+    },
+    {
+      "id": "healthy-food",
+      "icon": "🥗",
+      "title": "Healthy Food vs Junk Food",
+      "explanation": "Healthy food gives energy to play and study. Fruits, vegetables, milk, dal and roti are friends. Junk food like too many chips and sweets is only for rare treats — not every day.",
+      "points": [
+        "Healthy: fruits, veggies, milk, nuts (if allowed), dal-rice",
+        "Drink enough water",
+        "Junk: too many candies, chips, fizzy drinks",
+        "Wash hands before eating"
+      ],
+      "examples": [
+        {
+          "title": "Choose",
+          "problem": "Better everyday snack: apple or only candy?",
+          "steps": [
+            "Apple is healthier"
+          ],
+          "answer": "Apple"
+        },
+        {
+          "title": "Drink",
+          "problem": "Best everyday drink for kids?",
+          "steps": [
+            "Water / milk (as advised at home)"
+          ],
+          "answer": "Water / milk"
+        }
+      ]
+    },
+    {
+      "id": "books-reading",
+      "icon": "📚",
+      "title": "Books and Reading",
+      "explanation": "Books are treasures. Reading stories improves language and imagination. Visit the school library, handle books gently and read a little every day with family.",
+      "points": [
+        "Storybooks, picture books, school textbooks",
+        "Library — borrow and return on time",
+        "Do not tear pages; keep books dry",
+        "Reading aloud with parents is fun"
+      ],
+      "examples": [
+        {
+          "title": "Care",
+          "problem": "How should you treat a library book?",
+          "steps": [
+            "Gently; return on time"
+          ],
+          "answer": "Handle with care"
+        },
+        {
+          "title": "Habit",
+          "problem": "Why read every day?",
+          "steps": [
+            "Learn new words and enjoy stories"
+          ],
+          "answer": "To learn and enjoy"
+        }
+      ]
+    },
+    {
+      "id": "computer-parts",
+      "icon": "💻",
+      "title": "Computer Parts (Kid Level)",
+      "explanation": "A computer is a machine that helps us learn and create. Main parts kids can name: monitor (screen), keyboard, mouse and CPU box. Use computers with adult permission and clean dry hands.",
+      "points": [
+        "Monitor — screen you look at",
+        "Keyboard — keys for typing letters",
+        "Mouse — pointer mover (or touchpad)",
+        "CPU — the main box that ‘thinks’ (simple idea)"
+      ],
+      "examples": [
+        {
+          "title": "Type",
+          "problem": "Which part has letter keys?",
+          "steps": [
+            "Keyboard"
+          ],
+          "answer": "Keyboard"
+        },
+        {
+          "title": "See",
+          "problem": "Which part shows pictures and words?",
+          "steps": [
+            "Monitor / screen"
+          ],
+          "answer": "Monitor"
+        }
+      ]
+    },
+    {
+      "id": "calendar-time",
       "icon": "📅",
-      "title": "Days, Months and Year",
-      "explanation": "There are 7 days in a week and 12 months in a year. Knowing the calendar helps planning school and holidays.",
+      "title": "Days, Months and Time",
+      "explanation": "There are 7 days in a week and 12 months in a year. Knowing today, yesterday and tomorrow helps school planning. Birthdays and festivals are marked on calendars.",
       "points": [
         "Days: Sunday to Saturday",
         "12 months: January to December",
-        "365 days in a common year",
-        "Birthday is a special day each year"
+        "About 365 days in a year",
+        "Morning, afternoon, evening, night"
       ],
       "examples": [
         {
@@ -54,440 +334,262 @@
       ]
     },
     {
-      "id": "colours-shapes",
+      "id": "colours-senses",
       "icon": "🎨",
-      "title": "Colours and Shapes",
-      "explanation": "Name common colours and shapes you see around you every day.",
+      "title": "Colours, Shapes and Senses",
+      "explanation": "We learn about the world with five senses and by naming colours and shapes. Traffic lights use colours for safety. Shapes appear in wheels, doors and roti!",
       "points": [
-        "Colours: red, blue, green, yellow, orange, pink, black, white",
+        "Colours: red, blue, green, yellow, orange, black, white",
         "Shapes: circle, square, triangle, rectangle",
+        "Senses: see, hear, smell, taste, touch",
         "Traffic light: red stop, yellow wait, green go"
       ],
       "examples": [
         {
-          "title": "Signal",
-          "problem": "Green light means?",
-          "steps": [
-            "Go carefully"
-          ],
-          "answer": "Go"
-        },
-        {
-          "title": "Wheel",
+          "title": "Shape",
           "problem": "A wheel looks like which shape?",
           "steps": [
-            "Round"
+            "Circle"
           ],
           "answer": "Circle"
-        }
-      ]
-    },
-    {
-      "id": "nature",
-      "icon": "🦁",
-      "title": "Animals, Birds, Fruits and Vegetables",
-      "explanation": "Nature gives us animals, birds, fruits and vegetables. Learn their names and uses.",
-      "points": [
-        "Pets: dog, cat, rabbit",
-        "Wild: lion, tiger, elephant",
-        "Birds: crow, sparrow, parrot, peacock",
-        "Fruits: mango, banana, apple, orange",
-        "Vegetables: tomato, potato, carrot, spinach"
-      ],
-      "examples": [
-        {
-          "title": "National bird",
-          "problem": "India national bird?",
-          "steps": [
-            "Peacock"
-          ],
-          "answer": "Peacock"
         },
         {
-          "title": "Fruit",
-          "problem": "Yellow long fruit?",
+          "title": "Sense",
+          "problem": "Which sense do you use for a school bell?",
           "steps": [
-            "Banana"
+            "Hearing"
           ],
-          "answer": "Banana"
+          "answer": "Hearing"
         }
       ]
     },
     {
-      "id": "india",
-      "icon": "🇮🇳",
-      "title": "Our India (Basics)",
-      "explanation": "India is our country. We love our flag, national symbols and festivals of unity.",
+      "id": "plants-seasons-light",
+      "icon": "🌿",
+      "title": "Plants, Weather and Seasons (Light)",
+      "explanation": "Plants need water, air and sunlight. Weather can be sunny, rainy or windy. India has different seasons — summer can be hot; monsoon brings rain. Dress and play safely for the weather.",
       "points": [
-        "Country: India",
-        "Capital: New Delhi",
-        "National flag: Tiranga (saffron, white, green with Ashoka Chakra)",
-        "National animal: Tiger",
-        "National flower: Lotus",
-        "National bird: Peacock"
+        "Plants: root, stem, leaf, flower (simple)",
+        "Do not pluck plants in public parks",
+        "Carry umbrella in rain; drink water in summer",
+        "Never play in thunderstorms outdoors"
       ],
       "examples": [
         {
-          "title": "Capital",
-          "problem": "Capital of India?",
+          "title": "Need",
+          "problem": "What do plants need to grow?",
           "steps": [
-            "New Delhi"
+            "Water, air, sunlight"
           ],
-          "answer": "New Delhi"
+          "answer": "Water, air, sunlight"
         },
         {
-          "title": "Flag",
-          "problem": "How many colours in Tiranga (main bands)?",
+          "title": "Rain",
+          "problem": "What do you carry on a rainy school day?",
           "steps": [
-            "3"
+            "Umbrella or raincoat"
           ],
-          "answer": "Three"
-        }
-      ]
-    },
-    {
-      "id": "monuments",
-      "icon": "🕌",
-      "title": "Famous Places",
-      "explanation": "India has beautiful monuments. Knowing them is fun GK!",
-      "points": [
-        "Taj Mahal — Agra",
-        "Red Fort — Delhi",
-        "India Gate — Delhi",
-        "Gateway of India — Mumbai",
-        "Charminar — Hyderabad"
-      ],
-      "examples": [
-        {
-          "title": "Agra",
-          "problem": "Taj Mahal is in?",
-          "steps": [
-            "Agra"
-          ],
-          "answer": "Agra"
-        }
-      ]
-    },
-    {
-      "id": "space",
-      "icon": "🚀",
-      "title": "Sky and Space (Kid Level)",
-      "explanation": "The Sun gives light. Earth is our planet. Moon goes around Earth. Stars shine at night.",
-      "points": [
-        "Sun is a star that lights our day",
-        "Earth is our home planet",
-        "Moon shines at night (reflected sunlight)",
-        "Do not look directly at the Sun"
-      ],
-      "examples": [
-        {
-          "title": "Day",
-          "problem": "What gives us daytime light?",
-          "steps": [
-            "Sun"
-          ],
-          "answer": "The Sun"
-        }
-      ]
-    },
-    {
-      "id": "safety-gk",
-      "icon": "🚨",
-      "title": "Safety Numbers and Helping Hands",
-      "explanation": "Know who helps us and important emergency ideas (with a parent).",
-      "points": [
-        "Doctor helps when we are sick",
-        "Teacher helps us learn",
-        "Police keep us safe",
-        "Firefighter helps in fire",
-        "Always tell a trusted adult if you need help"
-      ],
-      "examples": [
-        {
-          "title": "Sick",
-          "problem": "Who do we visit when sick?",
-          "steps": [
-            "Doctor"
-          ],
-          "answer": "Doctor"
-        }
-      ]
-    },
-    {
-      "id": "science-gk",
-      "icon": "🌦️",
-      "title": "Weather and Environment GK",
-      "explanation": "Know simple weather words and how to care for Earth.",
-      "points": [
-        "Sunny, rainy, cloudy, windy, stormy",
-        "Plant trees; do not waste water",
-        "Say no to littering",
-        "Reuse and recycle with family help"
-      ],
-      "examples": [
-        {
-          "title": "Plant",
-          "problem": "Planting trees helps",
-          "steps": [
-            "Clean air / shade"
-          ],
-          "answer": "The environment"
-        }
-      ]
-    },
-    {
-      "id": "sports",
-      "icon": "🏏",
-      "title": "Sports and Games",
-      "explanation": "Playing keeps us healthy. Know popular games in India and school.",
-      "points": [
-        "Cricket, football, hockey, badminton, kabaddi",
-        "Indoor: chess, carrom, ludo",
-        "Exercise every day",
-        "Play fair; never bully"
-      ],
-      "examples": [
-        {
-          "title": "Bat-ball",
-          "problem": "A famous bat-and-ball game in India?",
-          "steps": [
-            "Cricket"
-          ],
-          "answer": "Cricket"
+          "answer": "Umbrella / raincoat"
         }
       ]
     }
   ],
   "questions": [
     {
-      "id": "gq1",
+      "id": "gk2-q1",
       "type": "mcq",
       "prompt": "Capital of India?",
-      "choices": [
-        "Mumbai",
-        "New Delhi",
-        "Kolkata",
-        "Chennai"
-      ],
+      "choices": ["Mumbai", "New Delhi", "Chennai", "Kolkata"],
       "answer": 1
     },
     {
-      "id": "gq2",
-      "type": "mcq",
-      "prompt": "How many days in a week?",
-      "choices": [
-        "5",
-        "6",
-        "7",
-        "10"
-      ],
-      "answer": 2
-    },
-    {
-      "id": "gq3",
+      "id": "gk2-q2",
       "type": "mcq",
       "prompt": "National bird of India?",
-      "choices": [
-        "Crow",
-        "Peacock",
-        "Sparrow",
-        "Owl"
-      ],
+      "choices": ["Crow", "Peacock", "Sparrow only", "Penguin"],
       "answer": 1
     },
     {
-      "id": "gq4",
+      "id": "gk2-q3",
       "type": "mcq",
       "prompt": "National animal of India?",
-      "choices": [
-        "Lion",
-        "Tiger",
-        "Elephant",
-        "Cow"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "gq5",
-      "type": "mcq",
-      "prompt": "Taj Mahal is in",
-      "choices": [
-        "Delhi",
-        "Agra",
-        "Jaipur",
-        "Mumbai"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "gq6",
-      "type": "mcq",
-      "prompt": "Green traffic light means",
-      "choices": [
-        "Stop",
-        "Go",
-        "Sleep",
-        "Jump"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "gq7",
-      "type": "mcq",
-      "prompt": "How many months in a year?",
-      "choices": [
-        "10",
-        "11",
-        "12",
-        "7"
-      ],
-      "answer": 2
-    },
-    {
-      "id": "gq8",
-      "type": "mcq",
-      "prompt": "A wheel looks like a",
-      "choices": [
-        "Square",
-        "Triangle",
-        "Circle",
-        "Rectangle"
-      ],
-      "answer": 2
-    },
-    {
-      "id": "gq9",
-      "type": "truefalse",
-      "prompt": "We should say thank you.",
-      "answer": true
-    },
-    {
-      "id": "gq10",
-      "type": "truefalse",
-      "prompt": "Littering is good for Earth.",
-      "answer": false
-    },
-    {
-      "id": "gq11",
-      "type": "mcq",
-      "prompt": "National flower of India?",
-      "choices": [
-        "Rose",
-        "Lotus",
-        "Sunflower",
-        "Lily"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "gq12",
-      "type": "mcq",
-      "prompt": "Who helps when we are sick?",
-      "choices": [
-        "Doctor",
-        "Pilot",
-        "Chef only",
-        "Driver only"
-      ],
+      "choices": ["Tiger", "Kangaroo", "Penguin", "Polar bear"],
       "answer": 0
     },
     {
-      "id": "gq13",
+      "id": "gk2-q4",
       "type": "mcq",
-      "prompt": "Our planet is",
-      "choices": [
-        "Mars",
-        "Earth",
-        "Moon",
-        "Sun"
-      ],
+      "prompt": "National fruit of India?",
+      "choices": ["Apple only", "Mango", "Pineapple only", "Kiwi only"],
       "answer": 1
     },
     {
-      "id": "gq14",
+      "id": "gk2-q5",
       "type": "mcq",
-      "prompt": "Yellow long fruit:",
-      "choices": [
-        "Apple",
-        "Banana",
-        "Grapes",
-        "Orange"
-      ],
+      "prompt": "National flower of India?",
+      "choices": ["Lotus", "Cactus", "Plastic flower", "Rose of another country only"],
+      "answer": 0
+    },
+    {
+      "id": "gk2-q6",
+      "type": "mcq",
+      "prompt": "India is in which continent?",
+      "choices": ["Asia", "Antarctica only", "Australia as a whole country only", "Moon"],
+      "answer": 0
+    },
+    {
+      "id": "gk2-q7",
+      "type": "mcq",
+      "prompt": "A huge water body is called an…",
+      "choices": ["Continent", "Ocean", "Pencil", "Classroom"],
       "answer": 1
     },
     {
-      "id": "gq15",
+      "id": "gk2-q8",
       "type": "mcq",
-      "prompt": "Tiranga has how many main colour bands?",
-      "choices": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
+      "prompt": "Mahatma Gandhi taught…",
+      "choices": ["Violence always", "Truth and non-violence", "Skipping school", "Littering"],
       "answer": 1
     },
     {
-      "id": "gq16",
+      "id": "gk2-q9",
       "type": "mcq",
-      "prompt": "Red Fort is in",
-      "choices": [
-        "Mumbai",
-        "Delhi",
-        "Chennai",
-        "Goa"
-      ],
+      "prompt": "Which is healthier every day?",
+      "choices": ["Only candy", "Fruit like apple", "Only chips", "Only fizzy drink"],
       "answer": 1
     },
     {
-      "id": "gq17",
+      "id": "gk2-q10",
       "type": "mcq",
-      "prompt": "Best day for kite flying?",
-      "choices": [
-        "No air",
-        "Windy",
-        "Inside cupboard",
-        "Under water"
-      ],
+      "prompt": "Which computer part has letter keys?",
+      "choices": ["Monitor", "Keyboard", "Mouse pad only", "Speaker only"],
       "answer": 1
     },
     {
-      "id": "gq18",
+      "id": "gk2-q11",
       "type": "mcq",
-      "prompt": "A popular Indian bat-and-ball sport:",
-      "choices": [
-        "Chess",
-        "Cricket",
-        "Swimming only",
-        "Painting"
-      ],
+      "prompt": "How many days in a week?",
+      "choices": ["5", "7", "10", "12"],
       "answer": 1
     },
     {
-      "id": "gq19",
+      "id": "gk2-q12",
       "type": "mcq",
-      "prompt": "Moon is seen mainly at",
-      "choices": [
-        "Noon only",
-        "Night",
-        "Never",
-        "Underground"
-      ],
+      "prompt": "How many months in a year?",
+      "choices": ["7", "10", "12", "30"],
+      "answer": 2
+    },
+    {
+      "id": "gk2-q13",
+      "type": "mcq",
+      "prompt": "Someone gives you help. You say…",
+      "choices": ["Nothing", "Thank you", "Go away", "Give more angrily"],
       "answer": 1
     },
     {
-      "id": "gq20",
+      "id": "gk2-q14",
       "type": "mcq",
-      "prompt": "Saying please shows",
-      "choices": [
-        "Rudeness",
-        "Good manners",
-        "Anger",
-        "Lazy habit"
-      ],
+      "prompt": "A wheel is shaped like a…",
+      "choices": ["Triangle", "Circle", "Square only", "Star only"],
       "answer": 1
+    },
+    {
+      "id": "gk2-q15",
+      "type": "mcq",
+      "prompt": "Which invention helps you talk to far family?",
+      "choices": ["Stone", "Telephone / phone", "Eraser", "Chalk only"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q16",
+      "type": "mcq",
+      "prompt": "What shows pictures on a computer?",
+      "choices": ["Keyboard", "Monitor", "Mouse cable only", "Chair"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q17",
+      "type": "mcq",
+      "prompt": "Plants need…",
+      "choices": ["Only plastic", "Water, air and sunlight", "Only junk food", "No water ever"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q18",
+      "type": "mcq",
+      "prompt": "Green traffic light means…",
+      "choices": ["Stop", "Go carefully", "Sleep", "Jump on road"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q19",
+      "type": "mcq",
+      "prompt": "Our national flag is called…",
+      "choices": ["Tiranga", "Blue book", "Yellow ribbon only", "Black flag"],
+      "answer": 0
+    },
+    {
+      "id": "gk2-q20",
+      "type": "mcq",
+      "prompt": "A common pet that barks is a…",
+      "choices": ["Fish", "Dog", "Butterfly", "Sparrow only"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q21",
+      "type": "mcq",
+      "prompt": "Who helps sick people?",
+      "choices": ["Doctor", "Only cricket players", "Only painters", "Only pilots always"],
+      "answer": 0
+    },
+    {
+      "id": "gk2-q22",
+      "type": "mcq",
+      "prompt": "Library books should be…",
+      "choices": ["Torn for fun", "Handled gently and returned", "Thrown in rain", "Hidden forever"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q23",
+      "type": "mcq",
+      "prompt": "Best everyday drink?",
+      "choices": ["Only soda", "Water", "Only energy drinks", "Seawater"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q24",
+      "type": "mcq",
+      "prompt": "We hear a school bell with which sense?",
+      "choices": ["Taste", "Hearing", "Smell only", "Touch only"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q25",
+      "type": "mcq",
+      "prompt": "On a rainy day carry…",
+      "choices": ["Umbrella or raincoat", "Only ice cream", "Open fire", "Nothing ever"],
+      "answer": 0
+    },
+    {
+      "id": "gk2-q26",
+      "type": "mcq",
+      "prompt": "Too many chips every day is…",
+      "choices": ["Best healthy plan", "Mostly junk — limit it", "A national symbol", "Plant food"],
+      "answer": 1
+    },
+    {
+      "id": "gk2-q27",
+      "type": "mcq",
+      "prompt": "Earth is our…",
+      "choices": ["Planet home", "Only a cartoon", "A pencil brand", "A shoe"],
+      "answer": 0
+    },
+    {
+      "id": "gk2-q28",
+      "type": "mcq",
+      "prompt": "Before eating you should…",
+      "choices": ["Wash hands", "Never wash", "Run on the road", "Shout at elders"],
+      "answer": 0
     }
-  ],
-  "grade": 2,
-  "depth": "deep"
+  ]
 }

@@ -1,32 +1,47 @@
 {
   "title": "Science / EVS — CBSE Grade 2 Complete",
+  "grade": 2,
+  "depth": "deep",
   "sections": [
     {
       "id": "living",
       "icon": "🌱",
       "title": "Living and Non-living Things",
-      "explanation": "Living things grow, need food, water and air, and can respond. Non-living things do not grow or need food. Sort objects at home and school.",
+      "explanation": "Living things grow, need food, water and air, and can respond to the world around them. Non-living things do not grow or eat. Plants, animals and people are living; chairs, stones and toys are non-living. Sorting objects in your classroom and garden helps you practise this idea every day.",
       "points": [
-        "Living: plant, cat, bird, fish, humans",
-        "Non-living: chair, toy car, stone, pencil",
-        "Living things can reproduce"
+        "Living things grow and need food, water and air",
+        "Living things can reproduce (make more of their kind)",
+        "Non-living things do not grow or need food",
+        "Examples living: plant, cat, bird, fish, humans",
+        "Examples non-living: chair, toy car, stone, pencil"
       ],
       "examples": [
         {
-          "title": "Classroom",
+          "title": "Classroom board",
           "problem": "Is a blackboard living?",
           "steps": [
-            "It does not grow or eat"
+            "It does not grow or eat",
+            "It does not need air"
           ],
           "answer": "Non-living"
         },
         {
-          "title": "Garden",
+          "title": "Garden visitor",
           "problem": "Is a butterfly living?",
           "steps": [
-            "It moves, eats, grows"
+            "It moves and feeds",
+            "It grows and can lay eggs"
           ],
           "answer": "Living"
+        },
+        {
+          "title": "Monsoon puddle",
+          "problem": "Is rainwater living or non-living?",
+          "steps": [
+            "Water does not grow by itself as a living being",
+            "It is non-living matter"
+          ],
+          "answer": "Non-living"
         }
       ]
     },
@@ -34,30 +49,41 @@
       "id": "plants",
       "icon": "🪴",
       "title": "Plants Around Us",
-      "explanation": "Plants are living. Roots, stem, leaves, flowers and fruits have jobs. Plants need sunlight, air, water and soil.",
+      "explanation": "Plants are living things with parts that do special jobs. Roots take in water, the stem carries water and food, and leaves make food in sunlight. Flowers can lead to fruits and seeds. Trees are tall and woody; herbs are small and soft; climbers need support. Water your balcony plants and watch them grow after monsoon rains.",
       "points": [
-        "Roots take water",
-        "Stem carries food and water",
-        "Leaves make food in sunlight",
-        "Flowers lead to fruits and seeds",
-        "Trees are tall and woody; herbs are small; climbers need support"
+        "Roots take water from the soil",
+        "Stem carries water and food",
+        "Leaves make food using sunlight",
+        "Flowers can become fruits with seeds",
+        "Trees, herbs, shrubs and climbers are plant types"
       ],
       "examples": [
         {
-          "title": "Neem",
-          "problem": "A neem is a tree because it is tall and woody.",
+          "title": "Neem tree",
+          "problem": "Why do we call a neem a tree?",
           "steps": [
-            "Tall woody plant"
+            "It is tall",
+            "It has a hard woody stem"
           ],
-          "answer": "Tree"
+          "answer": "It is a tall woody plant (tree)"
         },
         {
-          "title": "Needs",
+          "title": "No water",
           "problem": "What happens if a plant gets no water?",
           "steps": [
-            "It wilts"
+            "Roots cannot take water",
+            "Leaves wilt and the plant may dry"
           ],
-          "answer": "It dries or wilts"
+          "answer": "It wilts or dries"
+        },
+        {
+          "title": "Money plant",
+          "problem": "A money plant needs a stick. What type is it?",
+          "steps": [
+            "It climbs upward",
+            "Climbers need support"
+          ],
+          "answer": "Climber"
         }
       ]
     },
@@ -65,29 +91,83 @@
       "id": "animals",
       "icon": "🐾",
       "title": "Animals and Their Food",
-      "explanation": "Animals move to find food. Herbivores eat plants, carnivores eat meat, omnivores eat both.",
+      "explanation": "Animals move to find food, water and shelter. Herbivores eat plants, carnivores eat meat, and omnivores eat both. Farm animals, pets and wild animals all have needs. Caring for a pet means giving food, water, love and a clean place — just like looking after friends.",
       "points": [
-        "Herbivore: cow, goat, rabbit, deer",
-        "Carnivore: lion, tiger, eagle",
-        "Omnivore: bear, crow, humans",
-        "Pets need food, water, love and a clean place"
+        "Herbivores eat plants: cow, goat, rabbit, deer",
+        "Carnivores eat meat: lion, tiger, eagle",
+        "Omnivores eat both: bear, crow, humans",
+        "Pets need food, water, care and cleanliness",
+        "Animals live on land, in water or both"
       ],
       "examples": [
         {
-          "title": "Zoo",
+          "title": "Zoo tiger",
           "problem": "A tiger eats meat. It is a…",
           "steps": [
-            "Meat eater"
+            "Meat eater",
+            "Called a carnivore"
           ],
           "answer": "Carnivore"
         },
         {
-          "title": "Farm",
+          "title": "Farm cow",
           "problem": "A cow eats grass. It is a…",
           "steps": [
-            "Plant eater"
+            "Plant eater",
+            "Called a herbivore"
           ],
           "answer": "Herbivore"
+        },
+        {
+          "title": "Park crow",
+          "problem": "A crow eats grains and bits of food. It is a…",
+          "steps": [
+            "Eats plant and animal food",
+            "Omnivore"
+          ],
+          "answer": "Omnivore"
+        }
+      ]
+    },
+    {
+      "id": "birds-insects",
+      "icon": "🐦",
+      "title": "Birds and Insects",
+      "explanation": "Birds have feathers, two wings and a beak. Many birds build nests and lay eggs. Insects are small animals that often have six legs; ants, butterflies and bees are insects. Bees help flowers, while some mosquitoes can spread sickness — so we use nets and keep water from collecting near home.",
+      "points": [
+        "Birds have feathers, wings and beaks",
+        "Most birds lay eggs and many build nests",
+        "Insects often have six legs",
+        "Butterflies, ants, bees and houseflies are insects",
+        "Some insects help us; some can harm us"
+      ],
+      "examples": [
+        {
+          "title": "Sparrow home",
+          "problem": "Where might a sparrow keep its eggs?",
+          "steps": [
+            "Birds often build nests",
+            "Eggs stay safe in the nest"
+          ],
+          "answer": "In a nest"
+        },
+        {
+          "title": "Count legs",
+          "problem": "An ant is an insect. About how many legs?",
+          "steps": [
+            "Insects typically have six legs",
+            "Ants are insects"
+          ],
+          "answer": "Six legs"
+        },
+        {
+          "title": "Bee helper",
+          "problem": "How do bees help plants?",
+          "steps": [
+            "They visit flowers",
+            "They help in pollination / making seeds and fruits"
+          ],
+          "answer": "They help pollinate flowers"
         }
       ]
     },
@@ -95,210 +175,419 @@
       "id": "body",
       "icon": "🧍",
       "title": "Our Body and Senses",
-      "explanation": "Our body helps us play and learn. Five senses tell us about the world. Bones support; muscles help us move.",
+      "explanation": "Our body helps us play, learn and stay safe. The five senses — sight, hearing, smell, taste and touch — tell us about the world. Bones support us and muscles help us move. Sense organs must be cared for: protect eyes from sharp dust and never put small objects in ears or nose.",
       "points": [
-        "Eyes see, ears hear, nose smells, tongue tastes, skin touches",
-        "Wash hands, brush teeth, bathe, sleep well",
-        "Exercise and play keep us strong"
+        "Eyes see; ears hear; nose smells; tongue tastes; skin touches",
+        "Bones give shape and support",
+        "Muscles help us move and play",
+        "Brain helps us think and remember",
+        "Keep sense organs clean and safe"
       ],
       "examples": [
         {
-          "title": "Kitchen",
-          "problem": "You smell biryani with which organ?",
+          "title": "Temple bell",
+          "problem": "Which sense organ hears the school bell?",
           "steps": [
-            "Smell"
+            "Sound is heard",
+            "Ears do hearing"
           ],
-          "answer": "Nose"
+          "answer": "Ears"
         },
         {
-          "title": "Safety",
-          "problem": "Should we put things in our ears?",
+          "title": "Mango taste",
+          "problem": "Which sense organ tastes aamras?",
           "steps": [
-            "Ears are delicate"
+            "Taste comes from the tongue",
+            "Tongue has taste buds"
           ],
-          "answer": "No"
+          "answer": "Tongue"
+        },
+        {
+          "title": "Cricket catch",
+          "problem": "Which parts help you run to catch a ball?",
+          "steps": [
+            "Legs move with muscles",
+            "Eyes help you see the ball"
+          ],
+          "answer": "Muscles (legs) and eyes"
         }
       ]
     },
     {
-      "id": "food",
-      "icon": "🍎",
-      "title": "Food We Eat",
-      "explanation": "Food gives energy to study and play. Eat energy foods, body-building foods and protective foods. Drink clean water.",
+      "id": "food-sources",
+      "icon": "🍲",
+      "title": "Food from Plants and Animals",
+      "explanation": "Food gives us energy to study and play. Some foods come from plants — grains, fruits, vegetables and dals. Some foods come from animals — milk, eggs, meat and honey. A balanced thali with different foods keeps us strong. Wash fruits from the market and drink clean water with meals.",
       "points": [
-        "Energy: rice, bread, potato",
-        "Body-building: milk, eggs, dal, meat",
-        "Protective: fruits and vegetables",
-        "Do not waste food; wash fruits before eating"
+        "Plant foods: rice, wheat, fruits, vegetables, pulses",
+        "Animal foods: milk, curd, eggs, meat, fish, honey",
+        "Eat different kinds of food for health",
+        "Drink clean water; wash hands before eating",
+        "Do not waste food from your tiffin"
       ],
       "examples": [
         {
-          "title": "Breakfast",
-          "problem": "Milk and eggs help build the body.",
+          "title": "Roti source",
+          "problem": "Roti is made from wheat. Plant or animal food?",
           "steps": [
-            "Body-building"
+            "Wheat is a plant",
+            "Roti comes from plants"
           ],
-          "answer": "Body-building food"
+          "answer": "Plant food"
         },
         {
-          "title": "Water",
-          "problem": "Why drink water on a hot day?",
+          "title": "Milk glass",
+          "problem": "Milk mainly comes from which animals?",
           "steps": [
-            "Replace sweat"
+            "Cows and buffaloes give milk",
+            "Animal source"
           ],
-          "answer": "To stay hydrated"
+          "answer": "Animal food (cow/buffalo milk)"
+        },
+        {
+          "title": "Honey",
+          "problem": "Honey is made by bees. Plant or animal product?",
+          "steps": [
+            "Bees are animals",
+            "Honey is an animal product"
+          ],
+          "answer": "Animal product"
         }
       ]
     },
     {
-      "id": "house",
+      "id": "houses",
       "icon": "🏠",
-      "title": "Houses and Clothes",
-      "explanation": "Houses keep us safe from heat, cold, rain and animals. Clothes protect us and match the weather.",
+      "title": "Types of Houses",
+      "explanation": "Houses shelter us from sun, rain and wind. A kutcha house is often made of mud, straw or bamboo and may need repairs after heavy monsoon rain. A pucca house is stronger, made of bricks, cement and concrete. Igloos, tents and houseboats are special homes in different places. A clean house keeps the family healthier.",
       "points": [
-        "Kutcha and pucca houses",
-        "Summer: cotton, light clothes",
-        "Winter: woollen, warm clothes",
-        "Rainy: raincoat, umbrella",
-        "School uniforms"
+        "Houses protect us from weather and danger",
+        "Kutcha houses: mud, straw, bamboo, thatch",
+        "Pucca houses: bricks, cement, steel, concrete",
+        "Different places need different house styles",
+        "Keep homes clean and ventilated"
       ],
       "examples": [
         {
-          "title": "Rain",
-          "problem": "What will Numair carry in rain?",
+          "title": "Brick home",
+          "problem": "A house of bricks and cement is usually…",
           "steps": [
-            "Keep dry"
+            "Strong lasting materials",
+            "Called a pucca house"
           ],
-          "answer": "Umbrella or raincoat"
+          "answer": "Pucca house"
         },
         {
-          "title": "Heat",
-          "problem": "People wear cotton in hot weather.",
+          "title": "Mud walls",
+          "problem": "A mud-and-straw house is usually…",
           "steps": [
-            "Cotton is cool"
+            "Natural soft materials",
+            "Called a kutcha house"
           ],
-          "answer": "Cotton clothes"
+          "answer": "Kutcha house"
+        },
+        {
+          "title": "Monsoon care",
+          "problem": "Why might a kutcha roof need fixing after heavy rain?",
+          "steps": [
+            "Mud and thatch can weaken",
+            "Rain can damage soft materials"
+          ],
+          "answer": "Soft materials can get damaged by rain"
         }
       ]
     },
     {
-      "id": "water-air",
+      "id": "water",
       "icon": "💧",
-      "title": "Water, Air and Weather",
-      "explanation": "Clean air and water keep us healthy. Weather can be sunny, rainy, windy or cloudy. Save water.",
+      "title": "Uses of Water",
+      "explanation": "Water is precious for drinking, cooking, bathing, cleaning and growing plants. Animals need water too. We get water from taps, wells, rivers and rain. In hot Indian summers and during festivals we must not waste water. Saving water means closing taps and using a bucket wisely when possible.",
       "points": [
-        "Uses of water: drink, cook, bathe, clean",
-        "Sources: rain, river, well, tap",
-        "Wind is moving air",
-        "Dark clouds often mean rain"
+        "We drink water to stay alive and healthy",
+        "Water is used for cooking, washing and cleaning",
+        "Farms and gardens need water for plants",
+        "Rain, rivers, wells and taps are water sources",
+        "Do not waste water; close taps tightly"
       ],
       "examples": [
         {
-          "title": "Tap",
-          "problem": "Close the tap after washing hands.",
+          "title": "Morning routine",
+          "problem": "Name two ways you use water before school.",
           "steps": [
-            "Save water"
+            "Think of brushing and bathing",
+            "Also drinking or washing face"
           ],
-          "answer": "Saving water"
+          "answer": "Brushing / bathing / drinking (any two)"
         },
         {
-          "title": "Kite",
-          "problem": "Best weather to fly a kite?",
+          "title": "Plant care",
+          "problem": "Why do balcony plants need water?",
           "steps": [
-            "Need wind"
+            "Plants are living",
+            "Roots take water for growth"
           ],
-          "answer": "Windy day"
+          "answer": "To grow and stay healthy"
+        },
+        {
+          "title": "Save water",
+          "problem": "What should you do if a tap drips?",
+          "steps": [
+            "Dripping wastes water",
+            "Tell an adult and close it firmly"
+          ],
+          "answer": "Close it / tell an adult to fix it"
         }
       ]
     },
     {
-      "id": "day-night",
-      "icon": "🌙",
-      "title": "Day, Night and Seasons",
-      "explanation": "The Sun gives light and heat by day. Night is dark. Seasons include summer, winter and rainy season.",
+      "id": "air",
+      "icon": "🌬️",
+      "title": "Air We Breathe",
+      "explanation": "Air is all around us even when we cannot see it. We feel air when the wind blows our school flag or dries clothes. Living things need clean air to breathe. Moving air is called wind. Smoke and dust can make air dirty, so open windows for fresh air and avoid burning plastic.",
       "points": [
-        "Day: Sun in the sky",
-        "Night: Moon and stars",
-        "Summer is hot; winter is cold; rainy season is wet"
+        "Air is invisible but we can feel it",
+        "We breathe air to live",
+        "Moving air is wind",
+        "Plants and animals also need air",
+        "Keep air clean; avoid smoke near children"
       ],
       "examples": [
         {
-          "title": "Sleep",
-          "problem": "We usually sleep at night.",
+          "title": "Flag test",
+          "problem": "How do you know air is moving on Republic Day?",
           "steps": [
-            "Night is dark"
+            "Watch the flag",
+            "If it flutters, wind (moving air) is present"
           ],
-          "answer": "Night"
+          "answer": "The flag flutters in the wind"
         },
         {
-          "title": "Mango",
-          "problem": "Mangoes are common in Indian summer.",
+          "title": "Deep breath",
+          "problem": "Why do we need clean air in the classroom?",
           "steps": [
-            "Summer fruit"
+            "We breathe all the time",
+            "Dirty air can make us unwell"
           ],
-          "answer": "Summer"
+          "answer": "To breathe healthily / stay well"
+        },
+        {
+          "title": "Balloon clue",
+          "problem": "What fills a blown balloon?",
+          "steps": [
+            "We blow from our lungs",
+            "Air fills the balloon"
+          ],
+          "answer": "Air"
+        }
+      ]
+    },
+    {
+      "id": "weather-seasons",
+      "icon": "🌦️",
+      "title": "Weather, Day, Night and Seasons",
+      "explanation": "Weather tells us if a day is sunny, cloudy, windy or rainy. Day comes with sunlight; night is darker when we sleep. India has seasons such as summer, monsoon (rainy season) and winter. Clothes and activities change with weather — umbrellas in the monsoon and light cotton in summer heat.",
+      "points": [
+        "Weather can be hot, cold, rainy or windy",
+        "Day is bright with the sun; night is darker",
+        "Monsoon brings much rain in many parts of India",
+        "Summer is hot; winter is cooler",
+        "Wear clothes that suit the weather"
+      ],
+      "examples": [
+        {
+          "title": "Monsoon morning",
+          "problem": "It is raining heavily. What might you carry to school?",
+          "steps": [
+            "Rain wets clothes and bags",
+            "Carry an umbrella or raincoat"
+          ],
+          "answer": "Umbrella / raincoat"
+        },
+        {
+          "title": "Day or night",
+          "problem": "We see the bright sun and go to school. Is it day or night?",
+          "steps": [
+            "Sunlight means daytime",
+            "School happens in the day"
+          ],
+          "answer": "Day"
+        },
+        {
+          "title": "Season clothes",
+          "problem": "In a cold winter morning, what kind of clothes help?",
+          "steps": [
+            "Body needs warmth",
+            "Wear woollen / warm clothes"
+          ],
+          "answer": "Warm / woollen clothes"
+        }
+      ]
+    },
+    {
+      "id": "soil-rocks",
+      "icon": "🪨",
+      "title": "Soil and Rocks",
+      "explanation": "Soil is the top layer of the ground where many plants grow. It holds roots and water. Rocks are hard pieces of the earth; small bits of rock mix into soil over a long time. Farmers need healthy soil for crops. We should not throw plastic into soil in parks or school gardens.",
+      "points": [
+        "Soil helps plants grow",
+        "Soil holds water and nutrients for roots",
+        "Rocks are hard natural materials",
+        "Sand, clay and garden soil feel different",
+        "Keep soil clean; do not litter"
+      ],
+      "examples": [
+        {
+          "title": "Potting a plant",
+          "problem": "Why do we put soil in a flower pot?",
+          "steps": [
+            "Roots need support",
+            "Soil gives water and food minerals"
+          ],
+          "answer": "So the plant can grow with root support and water"
+        },
+        {
+          "title": "Hard piece",
+          "problem": "A hard stone from the ground is a…",
+          "steps": [
+            "Natural hard material",
+            "It is a rock / stone"
+          ],
+          "answer": "Rock / stone"
+        },
+        {
+          "title": "Garden rule",
+          "problem": "Should we bury plastic wrappers in garden soil?",
+          "steps": [
+            "Plastic harms soil and animals",
+            "Put waste in a bin"
+          ],
+          "answer": "No — use a dustbin"
         }
       ]
     },
     {
       "id": "materials",
-      "icon": "🧱",
+      "icon": "🪵",
       "title": "Materials Around Us",
-      "explanation": "Things are made of wood, metal, plastic, glass, rubber or cloth. Choose the right material for the job.",
+      "explanation": "Objects are made of different materials such as wood, metal, plastic, glass, cloth and rubber. Some materials are hard, some soft, some bendy. A steel tiffin is strong; a glass window can break if hit. Choosing the right material makes tools safe and useful at home and school.",
       "points": [
-        "Wood: door, pencil",
-        "Metal: spoon, coin",
-        "Plastic: bottle, toy",
-        "Glass: window (be careful)",
-        "Rubber: eraser, tyre"
+        "Wood, metal, plastic, glass, cloth, rubber are common materials",
+        "Hard and soft materials feel different",
+        "Some materials are waterproof",
+        "Glass can break — handle carefully",
+        "Reuse and recycle when we can"
       ],
       "examples": [
         {
-          "title": "Window",
-          "problem": "Windows are often glass to let light in.",
+          "title": "Window pane",
+          "problem": "Classroom windows are often made of…",
           "steps": [
-            "See-through"
+            "We can see through them",
+            "Usually glass"
           ],
           "answer": "Glass"
         },
         {
-          "title": "Spoon",
-          "problem": "Cooking spoons may be metal.",
+          "title": "Cricket bat",
+          "problem": "A cricket bat is mainly made of…",
           "steps": [
-            "Strong material"
+            "It is strong and wooden",
+            "Material is wood"
           ],
-          "answer": "Metal"
+          "answer": "Wood"
+        },
+        {
+          "title": "Raincoat",
+          "problem": "Why is a raincoat useful in the monsoon?",
+          "steps": [
+            "It is made of waterproof material",
+            "It keeps clothes dry"
+          ],
+          "answer": "It does not let water through easily"
         }
       ]
     },
     {
-      "id": "hygiene",
-      "icon": "🧼",
-      "title": "Health, Hygiene and Safety",
-      "explanation": "Good habits keep germs away. Follow safety rules at home, on the road and at school.",
+      "id": "pollution-earth",
+      "icon": "🌍",
+      "title": "Pollution and Care for the Earth",
+      "explanation": "Pollution means making air, water or land dirty. Smoke, loud noise, plastic litter and dirty drains harm living things. Caring for the Earth means planting trees, saving water, using dustbins and saying no to wasting food and electricity. Even Grade 2 children can help by keeping the school ground clean after a fair.",
       "points": [
-        "Wash hands before eating",
-        "Brush teeth twice a day",
-        "Cross at zebra crossing with an adult",
-        "Do not play with fire, sharp things or medicines",
-        "Throw litter in the bin"
+        "Air, water and land can become polluted",
+        "Litter and plastic hurt animals and soil",
+        "Smoke makes air unclean",
+        "Plant trees and keep surroundings clean",
+        "Reduce, reuse, recycle as a family habit"
       ],
       "examples": [
         {
-          "title": "Road",
-          "problem": "Where should we cross the road?",
+          "title": "Picnic end",
+          "problem": "What should you do with wrappers after a park picnic?",
           "steps": [
-            "Use crossing"
+            "Do not leave them on grass",
+            "Put them in a dustbin"
           ],
-          "answer": "Zebra crossing with an adult"
+          "answer": "Put them in the dustbin"
         },
         {
-          "title": "Hands",
-          "problem": "Wash hands before lunch?",
+          "title": "Tree gift",
+          "problem": "How do trees help the Earth?",
           "steps": [
-            "Remove germs"
+            "Trees give oxygen and shade",
+            "They make surroundings greener"
           ],
-          "answer": "Yes, always"
+          "answer": "They give clean air / shade / greenery"
+        },
+        {
+          "title": "Loud speaker",
+          "problem": "Very loud noise near a hospital can be a kind of…",
+          "steps": [
+            "Noise that harms comfort and health",
+            "Noise pollution"
+          ],
+          "answer": "Noise pollution"
+        }
+      ]
+    },
+    {
+      "id": "safety-first-aid",
+      "icon": "🩹",
+      "title": "Safety, Hygiene and First Aid",
+      "explanation": "Safety rules protect us on roads, at home and in school. Cross roads with adults, stay away from fire and electricity, and never take medicines alone. Hygiene means washing hands, bathing and brushing teeth. First aid is simple help before a doctor comes — cleaning a small cut and telling a teacher right away.",
+      "points": [
+        "Wash hands before eating and after toilets",
+        "Brush teeth and bathe regularly",
+        "Follow road safety with elders",
+        "Stay away from fire, sockets and unknown packets",
+        "For cuts: clean gently, cover if needed, call an adult"
+      ],
+      "examples": [
+        {
+          "title": "Playground cut",
+          "problem": "Numair gets a small cut. What first step?",
+          "steps": [
+            "Do not hide it",
+            "Tell a teacher/adult and clean carefully"
+          ],
+          "answer": "Tell an adult and clean the cut"
+        },
+        {
+          "title": "Before tiffin",
+          "problem": "What should you do before eating tiffin?",
+          "steps": [
+            "Hands may have germs",
+            "Wash with soap and water"
+          ],
+          "answer": "Wash hands"
+        },
+        {
+          "title": "Road crossing",
+          "problem": "How should a Grade 2 child cross a busy road?",
+          "steps": [
+            "Traffic can be fast",
+            "Cross with an adult at a zebra crossing if possible"
+          ],
+          "answer": "With an adult / at a safe crossing"
         }
       ]
     }
@@ -307,226 +596,338 @@
     {
       "id": "sq1",
       "type": "mcq",
-      "prompt": "Which is living?",
+      "prompt": "Which is a living thing?",
       "choices": [
-        "Stone",
+        "Chair",
         "Butterfly",
-        "Cup",
-        "Ball"
+        "Stone",
+        "Pencil"
       ],
       "answer": 1
     },
     {
       "id": "sq2",
       "type": "mcq",
-      "prompt": "Plants make food mainly in",
+      "prompt": "Which plant part mostly makes food in sunlight?",
       "choices": [
         "Roots",
-        "Stem",
         "Leaves",
-        "Flower only"
+        "Flower pot",
+        "Bark only"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": "sq3",
       "type": "mcq",
-      "prompt": "A lion is a",
+      "prompt": "A tiger that eats meat is a",
       "choices": [
         "Herbivore",
         "Carnivore",
-        "Plant",
-        "Rock"
+        "Producer",
+        "Insect"
       ],
       "answer": 1
     },
     {
       "id": "sq4",
       "type": "mcq",
-      "prompt": "We smell with our",
+      "prompt": "Birds usually have",
       "choices": [
-        "Eyes",
-        "Ears",
-        "Nose",
-        "Skin"
-      ],
-      "answer": 2
-    },
-    {
-      "id": "sq5",
-      "type": "mcq",
-      "prompt": "Milk is mainly a",
-      "choices": [
-        "Energy food only",
-        "Body-building food",
-        "Toy",
-        "Metal"
+        "Scales only",
+        "Feathers",
+        "Six legs",
+        "No eggs ever"
       ],
       "answer": 1
     },
     {
+      "id": "sq5",
+      "type": "mcq",
+      "prompt": "Insects often have how many legs?",
+      "choices": [
+        "Two",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "answer": 2
+    },
+    {
       "id": "sq6",
       "type": "mcq",
-      "prompt": "In rain we use a",
+      "prompt": "We hear with our",
       "choices": [
-        "Woollen cap only",
-        "Umbrella",
-        "Heater",
-        "Sun hat only"
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
       ],
       "answer": 1
     },
     {
       "id": "sq7",
-      "type": "truefalse",
-      "prompt": "Air is not needed by living things.",
-      "answer": false
+      "type": "mcq",
+      "prompt": "Milk is mainly",
+      "choices": [
+        "Plant food",
+        "Animal food",
+        "A rock",
+        "Plastic"
+      ],
+      "answer": 1
     },
     {
       "id": "sq8",
-      "type": "truefalse",
-      "prompt": "We should wash hands before eating.",
-      "answer": true
+      "type": "mcq",
+      "prompt": "Roti made from wheat is",
+      "choices": [
+        "Animal food",
+        "Plant food",
+        "Metal",
+        "Air"
+      ],
+      "answer": 1
     },
     {
       "id": "sq9",
       "type": "mcq",
-      "prompt": "A tree is usually",
+      "prompt": "A brick-and-cement house is usually",
       "choices": [
-        "A tiny herb",
-        "A tall woody plant",
-        "A stone",
-        "Plastic"
+        "Kutcha",
+        "Pucca",
+        "A nest",
+        "A cocoon"
       ],
       "answer": 1
     },
     {
       "id": "sq10",
       "type": "mcq",
-      "prompt": "Protective foods are mostly",
+      "prompt": "A mud-and-straw house is usually",
       "choices": [
-        "TVs",
-        "Fruits and vegetables",
-        "Metals",
-        "Bottles"
+        "Pucca",
+        "Kutcha",
+        "Glass",
+        "Steel"
       ],
       "answer": 1
     },
     {
       "id": "sq11",
       "type": "mcq",
-      "prompt": "Bones help to",
+      "prompt": "Which is a use of water?",
       "choices": [
-        "Taste food",
-        "Support the body",
-        "Make rain",
-        "Smell"
+        "Making smoke",
+        "Drinking and cooking",
+        "Stopping air",
+        "Creating rocks instantly"
       ],
       "answer": 1
     },
     {
       "id": "sq12",
       "type": "mcq",
-      "prompt": "Crossing the road is safest at",
+      "prompt": "Moving air is called",
       "choices": [
-        "Anywhere",
-        "Zebra crossing with adult",
-        "Highway centre",
-        "Behind a bus"
+        "Soil",
+        "Wind",
+        "Rock",
+        "Honey"
       ],
       "answer": 1
     },
     {
       "id": "sq13",
       "type": "mcq",
-      "prompt": "Wind is",
+      "prompt": "In heavy rain you may need",
       "choices": [
-        "Still water",
-        "Moving air",
-        "Rock",
-        "Plastic"
+        "A woollen coat only",
+        "An umbrella",
+        "Sunglasses only",
+        "A kite only"
       ],
       "answer": 1
     },
     {
       "id": "sq14",
-      "type": "truefalse",
-      "prompt": "A chair is a living thing.",
-      "answer": false
+      "type": "mcq",
+      "prompt": "Plants grow well in",
+      "choices": [
+        "Only plastic",
+        "Soil",
+        "Only glass",
+        "Smoke"
+      ],
+      "answer": 1
     },
     {
       "id": "sq15",
       "type": "mcq",
-      "prompt": "Cotton clothes are good in",
+      "prompt": "A cricket bat is mainly made of",
       "choices": [
-        "Icy weather only",
-        "Hot summer",
-        "Outer space",
-        "Under water"
+        "Glass",
+        "Wood",
+        "Water",
+        "Air"
       ],
       "answer": 1
     },
     {
       "id": "sq16",
       "type": "mcq",
-      "prompt": "Which animal is a herbivore?",
+      "prompt": "Throwing plastic on the ground causes",
       "choices": [
-        "Tiger",
-        "Cow",
-        "Lion",
-        "Eagle"
+        "Cleaner parks",
+        "Pollution / harm",
+        "More fresh air",
+        "Stronger soil always"
       ],
       "answer": 1
     },
     {
       "id": "sq17",
       "type": "mcq",
-      "prompt": "We see with our",
+      "prompt": "Before eating tiffin you should",
       "choices": [
-        "Nose",
-        "Eyes",
-        "Tongue",
-        "Ears"
+        "Wash hands",
+        "Run on the road alone",
+        "Taste medicines",
+        "Touch sockets"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": "sq18",
       "type": "mcq",
-      "prompt": "Throw wrappers",
+      "prompt": "A cow that eats grass is a",
       "choices": [
-        "On road",
-        "In dustbin",
-        "In river",
-        "Under desk"
+        "Carnivore",
+        "Herbivore",
+        "Insect",
+        "Bird only"
       ],
       "answer": 1
     },
     {
       "id": "sq19",
       "type": "mcq",
-      "prompt": "The Sun gives us",
+      "prompt": "Which sense organ tastes food?",
       "choices": [
-        "Plastic",
-        "Light and heat",
-        "Rupees",
-        "Books"
+        "Ear",
+        "Tongue",
+        "Hair",
+        "Elbow"
       ],
       "answer": 1
     },
     {
       "id": "sq20",
       "type": "mcq",
-      "prompt": "Dark clouds often mean",
+      "prompt": "Bees help flowers mainly by",
       "choices": [
-        "Party",
-        "Rain may come",
-        "Snow always",
-        "Night only"
+        "Cutting roots",
+        "Pollination",
+        "Making smoke",
+        "Eating soil only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq21",
+      "type": "mcq",
+      "prompt": "Which keeps air cleaner?",
+      "choices": [
+        "Burning plastic",
+        "Planting trees",
+        "Littering",
+        "Wasting water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq22",
+      "type": "mcq",
+      "prompt": "First aid for a small cut starts with",
+      "choices": [
+        "Hiding it",
+        "Telling an adult and cleaning",
+        "Putting toys on it",
+        "Ignoring forever"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq23",
+      "type": "mcq",
+      "prompt": "Night is usually",
+      "choices": [
+        "Brighter than noon sun",
+        "Darker for sleeping time",
+        "When schools always start",
+        "When flags need no poles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq24",
+      "type": "mcq",
+      "prompt": "Honey is made by",
+      "choices": [
+        "Cows",
+        "Bees",
+        "Sparrows only",
+        "Frogs"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq25",
+      "type": "mcq",
+      "prompt": "Which is non-living?",
+      "choices": [
+        "Fish",
+        "Neem tree",
+        "Toy car",
+        "Crow"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "sq26",
+      "type": "mcq",
+      "prompt": "Closing a dripping tap helps",
+      "choices": [
+        "Waste water",
+        "Save water",
+        "Make rocks",
+        "Stop seasons"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq27",
+      "type": "mcq",
+      "prompt": "Bones help mainly to",
+      "choices": [
+        "Taste food",
+        "Support the body",
+        "Make rain",
+        "Pollute air"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "sq28",
+      "type": "mcq",
+      "prompt": "Cross a busy road",
+      "choices": [
+        "Alone while running",
+        "With an adult at a safe place",
+        "With eyes closed",
+        "Between fast cars for fun"
       ],
       "answer": 1
     }
-  ],
-  "grade": 2,
-  "depth": "deep"
+  ]
 }

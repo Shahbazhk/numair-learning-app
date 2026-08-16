@@ -1,63 +1,257 @@
 {
   "title": "English — CBSE Grade 2 Complete",
+  "grade": 2,
+  "depth": "deep",
   "sections": [
     {
-      "id": "alphabet",
+      "id": "alphabet-phonics",
       "icon": "🔤",
       "title": "Alphabet and Phonics",
-      "explanation": "English has 26 letters in capital and small forms. Phonics means letter sounds. Blend sounds to read words.",
+      "explanation": "English has 26 letters. Each letter has a capital and a small form. Phonics means learning the sounds letters make so you can blend them into words. Vowels are a, e, i, o, u; the other letters are consonants. Practise sounding out words on the school bus signboard and on tiffin labels.",
       "points": [
-        "A to Z capital and a to z small",
-        "Vowels: a e i o u",
+        "A–Z capitals and a–z small letters",
+        "Vowels: a, e, i, o, u",
         "Other letters are consonants",
-        "Blend: c-a-t becomes cat"
+        "Blend sounds: c-a-t → cat",
+        "Listen for beginning, middle and end sounds"
       ],
       "examples": [
         {
           "title": "Blend",
-          "problem": "s-u-n becomes?",
+          "problem": "s-u-n becomes which word?",
           "steps": [
-            "Say each sound, then together"
+            "Say each sound slowly",
+            "Push the sounds together"
           ],
           "answer": "sun"
         },
         {
-          "title": "Vowel",
+          "title": "Vowel check",
           "problem": "Is e a vowel?",
           "steps": [
-            "a e i o u"
+            "Remember a e i o u",
+            "e is in the vowel list"
           ],
           "answer": "Yes"
+        },
+        {
+          "title": "Beginning sound",
+          "problem": "Which letter begins mango?",
+          "steps": [
+            "Say mango aloud",
+            "First sound is /m/"
+          ],
+          "answer": "m"
         }
       ]
     },
     {
-      "id": "sight",
+      "id": "sight-words",
       "icon": "👀",
       "title": "Sight Words and Vocabulary",
-      "explanation": "Sight words appear often in books. Learn them quickly. Grow new words by reading every day.",
+      "explanation": "Sight words appear again and again in stories, so we learn to read them quickly without sounding out every letter. Words like the, said, come and friend help you read classroom charts and storybooks. Growing vocabulary means noticing new words at the market, in festivals and in school notices.",
       "points": [
-        "the, a, and, is, to, you, I, said",
-        "here, come, look, play, friend, school",
-        "Opposites: big/small, hot/cold, happy/sad",
-        "Rhyming: cat-hat, sun-fun"
+        "Common words: the, a, and, is, to, you, I, said",
+        "School words: here, come, look, play, friend, school",
+        "Read sight words in short sentences",
+        "Make a personal word wall at home",
+        "Use new words when you speak"
       ],
       "examples": [
         {
-          "title": "Sight",
+          "title": "Pick the sight word",
           "problem": "Which is a sight word: elephant, the, mountain?",
           "steps": [
-            "High frequency word"
+            "Sight words are short and common",
+            "the appears in almost every sentence"
           ],
           "answer": "the"
         },
         {
-          "title": "Opposite",
+          "title": "Sentence fill",
+          "problem": "Complete: ___ am happy. (I / It)",
+          "steps": [
+            "Talking about yourself",
+            "Use I"
+          ],
+          "answer": "I"
+        },
+        {
+          "title": "School notice",
+          "problem": "Find the sight word in: Come to school.",
+          "steps": [
+            "Look for high-frequency words",
+            "Come and to and school are useful; Come/to are classic sight words"
+          ],
+          "answer": "Come / to"
+        }
+      ]
+    },
+    {
+      "id": "singular-plural",
+      "icon": "👯",
+      "title": "Singular and Plural",
+      "explanation": "Singular means one. Plural means more than one. Many naming words add -s to become plural, like cat → cats. Some add -es after sounds like s, x, ch or sh, as in bus → buses. A few special words change in other ways, like child → children. Count the mangoes in a basket to practise!",
+      "points": [
+        "Singular = one; plural = more than one",
+        "Often add -s: book → books",
+        "Add -es after s, x, ch, sh: box → boxes",
+        "Some words change specially: child → children, foot → feet",
+        "Match verbs: one cat runs; two cats run"
+      ],
+      "examples": [
+        {
+          "title": "Market mangoes",
+          "problem": "One mango, many ___?",
+          "steps": [
+            "More than one mango",
+            "Add -s"
+          ],
+          "answer": "mangoes / mangos (mangoes)"
+        },
+        {
+          "title": "School buses",
+          "problem": "Make plural of bus.",
+          "steps": [
+            "bus ends with s",
+            "Add -es → buses"
+          ],
+          "answer": "buses"
+        },
+        {
+          "title": "Special plural",
+          "problem": "One child, many ___?",
+          "steps": [
+            "Special word",
+            "child → children"
+          ],
+          "answer": "children"
+        }
+      ]
+    },
+    {
+      "id": "opposites",
+      "icon": "↔️",
+      "title": "Opposites (Antonyms)",
+      "explanation": "Opposites are words with nearly opposite meanings, like hot and cold or big and small. Learning opposites helps you describe weather in the monsoon and feelings after a cricket match. When you know one word, its opposite gives you a second useful word for speaking and writing.",
+      "points": [
+        "big / small, tall / short, hot / cold",
+        "happy / sad, open / close, day / night",
+        "in / out, up / down, fast / slow",
+        "Opposites help describe clearly",
+        "Use opposites in short oral sentences"
+      ],
+      "examples": [
+        {
+          "title": "Summer drink",
           "problem": "Opposite of hot?",
           "steps": [
-            "Antonym"
+            "Think of cold water in summer",
+            "hot ↔ cold"
           ],
           "answer": "cold"
+        },
+        {
+          "title": "Classroom door",
+          "problem": "Opposite of open?",
+          "steps": [
+            "Door can open or close",
+            "open ↔ close / closed"
+          ],
+          "answer": "close / closed"
+        },
+        {
+          "title": "Cricket run",
+          "problem": "Opposite of slow?",
+          "steps": [
+            "Speed words",
+            "slow ↔ fast"
+          ],
+          "answer": "fast"
+        }
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "icon": "👉",
+      "title": "This, That, These, Those",
+      "explanation": "We use this and these for things near us. We use that and those for things farther away. This and that talk about one thing; these and those talk about more than one. Point to a nearby tiffin box and say this, then point to a far blackboard and say that.",
+      "points": [
+        "this = one thing near you",
+        "that = one thing far from you",
+        "these = many things near you",
+        "those = many things far from you",
+        "Point while you speak to make meaning clear"
+      ],
+      "examples": [
+        {
+          "title": "Near pencil",
+          "problem": "Pencil in your hand: ___ is my pencil. (this / that)",
+          "steps": [
+            "It is near you",
+            "One pencil → this"
+          ],
+          "answer": "This"
+        },
+        {
+          "title": "Far tree",
+          "problem": "Tree across the playground: ___ is a neem tree.",
+          "steps": [
+            "Far away and one tree",
+            "Use that"
+          ],
+          "answer": "That"
+        },
+        {
+          "title": "Near crayons",
+          "problem": "Many crayons on your desk: ___ are colourful.",
+          "steps": [
+            "Near and more than one",
+            "Use these"
+          ],
+          "answer": "These"
+        }
+      ]
+    },
+    {
+      "id": "rhyming",
+      "icon": "🎵",
+      "title": "Rhyming Words",
+      "explanation": "Rhyming words end with the same sound, like cat and hat or sun and fun. Rhymes make poems, songs and festival chants easy to remember. Clap the ending sound and listen carefully. You can invent funny rhymes about monsoon rain and school bags!",
+      "points": [
+        "Rhymes share the same ending sound",
+        "cat–hat–mat; sun–fun–run",
+        "ball–tall–call; day–play–say",
+        "Rhymes help reading and spelling",
+        "Not all similar spellings rhyme; listen to sound"
+      ],
+      "examples": [
+        {
+          "title": "Cat family",
+          "problem": "Which word rhymes with cat: dog, hat, pen?",
+          "steps": [
+            "Ending sound of cat is -at",
+            "hat also ends with -at"
+          ],
+          "answer": "hat"
+        },
+        {
+          "title": "Rain chant",
+          "problem": "Find a rhyme for rain: train, book, apple?",
+          "steps": [
+            "Listen for -ain",
+            "train rhymes with rain"
+          ],
+          "answer": "train"
+        },
+        {
+          "title": "Make a pair",
+          "problem": "Complete: hop, top, ___",
+          "steps": [
+            "Ending -op",
+            "Possible: mop / stop / pop"
+          ],
+          "answer": "mop / stop / pop (any -op rhyme)"
         }
       ]
     },
@@ -65,30 +259,42 @@
       "id": "nouns",
       "icon": "📦",
       "title": "Nouns (Naming Words)",
-      "explanation": "A noun names a person, place, animal or thing. Proper nouns begin with a capital letter.",
+      "explanation": "A noun names a person, place, animal or thing. Common nouns name ordinary things like school or ball. Proper nouns name special ones and begin with a capital letter, like India, Monday or Numair. Spot nouns on festival invitation cards and classroom name charts.",
       "points": [
-        "Person: Numair, teacher",
+        "Person: teacher, Numair",
         "Place: Delhi, school, park",
         "Animal: cat, parrot",
-        "Thing: ball, book",
-        "Proper noun: India, Monday, Numair"
+        "Thing: ball, book, tiffin",
+        "Proper nouns start with a capital letter"
       ],
       "examples": [
         {
-          "title": "Pick",
+          "title": "Pick the noun",
           "problem": "Which is a noun: run, school, happy?",
           "steps": [
-            "Names a place"
+            "run is an action",
+            "happy describes a feeling",
+            "school names a place"
           ],
           "answer": "school"
         },
         {
-          "title": "Proper",
+          "title": "Capital city",
           "problem": "Should delhi start with a capital?",
           "steps": [
-            "City name"
+            "It is a city name",
+            "Proper noun → Delhi"
           ],
           "answer": "Yes, Delhi"
+        },
+        {
+          "title": "Festival noun",
+          "problem": "In Diwali is bright, which word is a proper noun?",
+          "steps": [
+            "Diwali names a festival",
+            "It needs a capital"
+          ],
+          "answer": "Diwali"
         }
       ]
     },
@@ -96,188 +302,294 @@
       "id": "pronouns",
       "icon": "🔁",
       "title": "Pronouns",
-      "explanation": "Pronouns replace nouns so we do not repeat names: I, you, he, she, it, we, they.",
+      "explanation": "Pronouns stand in for naming words so we do not keep repeating names. I, you, he, she, it, we and they are common pronouns. If Numair has a bat, we can say He has a bat. Matching the pronoun to the person or thing keeps sentences smooth.",
       "points": [
-        "Numair becomes he",
-        "Maya becomes she",
-        "The cat becomes it",
-        "Numair and Ali become they"
+        "I, you, he, she, it, we, they",
+        "he for a boy; she for a girl; it for a thing/animal sometimes",
+        "we for a group that includes you",
+        "they for more than one person or thing",
+        "Pronouns avoid repeating the same noun"
       ],
       "examples": [
         {
-          "title": "Replace",
-          "problem": "Numair is kind. ___ helps others.",
+          "title": "Replace the name",
+          "problem": "Numair is kind. ___ helps friends. (He / She)",
           "steps": [
-            "Boy = he"
+            "Numair is a boy in our stories",
+            "Use He"
           ],
           "answer": "He"
+        },
+        {
+          "title": "Group word",
+          "problem": "My friends and I play. ___ play cricket. (We / He)",
+          "steps": [
+            "Includes speaker and others",
+            "Use We"
+          ],
+          "answer": "We"
+        },
+        {
+          "title": "Thing pronoun",
+          "problem": "The ball is red. ___ is round. (It / They)",
+          "steps": [
+            "One thing",
+            "Use It"
+          ],
+          "answer": "It"
         }
       ]
     },
     {
-      "id": "verbs",
+      "id": "verbs-tenses",
       "icon": "🏃",
-      "title": "Verbs (Action Words)",
-      "explanation": "Verbs show action or being: run, jump, eat, is, are, am.",
+      "title": "Verbs: Simple Present & Present Continuous",
+      "explanation": "Verbs are doing or being words. Simple present talks about habits: I go to school. Present continuous talks about actions happening now: I am going to school. Watch for -ing and helping words am, is, are. Describe what you do every morning and what you are doing right now in class.",
       "points": [
-        "Action: play, write, sing",
-        "Being: is, am, are",
-        "He runs / They run"
+        "Verbs show action or being: run, eat, is, are",
+        "Simple present: habits — She reads every day",
+        "Present continuous: now — She is reading",
+        "Use am / is / are with -ing forms",
+        "Match the verb to the subject"
       ],
       "examples": [
         {
-          "title": "Action",
-          "problem": "Which is a verb: blue, jump, soft?",
+          "title": "Habit",
+          "problem": "Every day Numair ___ milk. (drinks / is drinking)",
           "steps": [
-            "Action word"
+            "Every day shows a habit",
+            "Use simple present: drinks"
           ],
-          "answer": "jump"
+          "answer": "drinks"
         },
         {
-          "title": "Sentence",
-          "problem": "The birds ___ in the sky.",
+          "title": "Right now",
+          "problem": "Look! The children ___ in the rain. (play / are playing)",
           "steps": [
-            "They fly"
+            "Look! means happening now",
+            "Use are playing"
           ],
-          "answer": "fly"
+          "answer": "are playing"
+        },
+        {
+          "title": "Helping word",
+          "problem": "I ___ writing a letter. (am / is)",
+          "steps": [
+            "Subject is I",
+            "I takes am"
+          ],
+          "answer": "am"
         }
       ]
     },
     {
       "id": "adjectives",
-      "icon": "🌈",
+      "icon": "🎨",
       "title": "Adjectives (Describing Words)",
-      "explanation": "Adjectives describe nouns: size, colour, feeling or number.",
+      "explanation": "Adjectives describe nouns. They tell size, colour, shape, taste or feeling — a red apple, a tall tree, a happy child. Good adjectives make festival stories and picture talks more interesting. Try adding one describing word before school, monsoon or cricket.",
       "points": [
-        "big, small, red, soft, happy, kind, two",
-        "In soft pillow, soft describes pillow"
+        "Adjectives describe people, places and things",
+        "Colour: red, green, blue",
+        "Size: big, small, long, short",
+        "Feelings: happy, sad, brave",
+        "Place the adjective near the noun it describes"
       ],
       "examples": [
         {
-          "title": "Fill",
-          "problem": "The ___ mango is sweet (yellow).",
+          "title": "Fruit bowl",
+          "problem": "In a sweet mango, which word is the adjective?",
           "steps": [
-            "Colour word"
+            "mango is the noun",
+            "sweet describes taste"
           ],
-          "answer": "yellow"
+          "answer": "sweet"
         },
         {
-          "title": "Pick",
-          "problem": "Adjective in soft pillow?",
+          "title": "Add a word",
+          "problem": "Make better: The bus. → The ___ bus.",
           "steps": [
-            "Describes pillow"
+            "Choose a describing word",
+            "Examples: yellow / crowded / school"
           ],
-          "answer": "soft"
+          "answer": "yellow / school / big (any fitting adjective)"
+        },
+        {
+          "title": "Feeling word",
+          "problem": "After winning, Numair felt ___. (happy / desk)",
+          "steps": [
+            "desk is a thing",
+            "happy describes feeling"
+          ],
+          "answer": "happy"
         }
       ]
     },
     {
-      "id": "articles",
-      "icon": "📰",
-      "title": "Articles: a, an, the",
-      "explanation": "Use a or an for one thing. Use an before a vowel sound. Use the for a particular thing.",
+      "id": "articles-punctuation",
+      "icon": "✒️",
+      "title": "Articles & Punctuation",
+      "explanation": "A and an are small words before naming words. Use a before consonant sounds and an before vowel sounds: a bat, an apple. The points to a special one. Sentences start with a capital letter and often end with a full stop. Questions end with a question mark; excitement can use an exclamation mark.",
       "points": [
-        "a book, a pen",
-        "an apple, an egg, an umbrella",
-        "the Sun, the teacher"
+        "a before consonant sounds; an before vowel sounds",
+        "the for a particular person or thing",
+        "Start sentences with a capital letter",
+        "Full stop (.) ends most sentences",
+        "Question mark (?) for questions; (!) for strong feeling"
       ],
       "examples": [
         {
-          "title": "Choose",
-          "problem": "___ elephant (a or an)",
+          "title": "Choose article",
+          "problem": "___ umbrella (a / an)",
           "steps": [
-            "Vowel sound"
+            "umbrella begins with vowel sound /u/",
+            "Use an"
           ],
-          "answer": "an elephant"
+          "answer": "an umbrella"
         },
         {
-          "title": "The",
-          "problem": "We say the moon because we all know it.",
+          "title": "End mark",
+          "problem": "Where is my tiffin__",
           "steps": [
-            "Particular"
+            "It asks a question",
+            "Use ?"
           ],
-          "answer": "the moon"
+          "answer": "?"
+        },
+        {
+          "title": "Capital start",
+          "problem": "Fix: we love Holi.",
+          "steps": [
+            "First word needs capital",
+            "We love Holi."
+          ],
+          "answer": "We love Holi."
         }
       ]
     },
     {
       "id": "prepositions",
       "icon": "📍",
-      "title": "Prepositions (Position Words)",
-      "explanation": "Prepositions show place: in, on, under, over, behind, between, near.",
+      "title": "Prepositions (Place Words)",
+      "explanation": "Prepositions show place or position: in, on, under, behind, between, near. They tell where something is. The cat is under the table. The ball is in the basket. Use these words when you describe your classroom, the school bus or Rangoli on the floor.",
       "points": [
-        "The ball is under the table",
-        "The cat is on the mat",
-        "Numair stands between Ali and Omar"
+        "in, on, under, over",
+        "behind, in front of, between, near",
+        "Prepositions answer where?",
+        "Use real classroom objects to practise",
+        "One clear preposition is better than guessing"
       ],
       "examples": [
         {
-          "title": "Bag",
-          "problem": "Book is ___ the bag (inside).",
+          "title": "Book position",
+          "problem": "The book is ___ the bag. (in / under the sky)",
           "steps": [
-            "Inside"
+            "Books go inside bags",
+            "Use in"
           ],
           "answer": "in"
         },
         {
-          "title": "Tree",
-          "problem": "Bird is ___ the branch.",
+          "title": "Fan",
+          "problem": "The fan is ___ our heads. (under / over)",
           "steps": [
-            "On"
+            "Fans hang above",
+            "Use over"
           ],
-          "answer": "on"
-        }
-      ]
-    },
-    {
-      "id": "sentences",
-      "icon": "📝",
-      "title": "Sentences and Punctuation",
-      "explanation": "A sentence is a complete idea. Start with a capital letter. End with a full stop, question mark or exclamation mark.",
-      "points": [
-        "Statement ends with .",
-        "Question ends with ?",
-        "Exclamation ends with !",
-        "The word I is always capital"
-      ],
-      "examples": [
-        {
-          "title": "Fix",
-          "problem": "the boy is kind",
-          "steps": [
-            "Capital + full stop"
-          ],
-          "answer": "The boy is kind."
+          "answer": "over"
         },
         {
-          "title": "Ask",
-          "problem": "What is your name",
+          "title": "Friends line",
+          "problem": "Riya stands ___ Aman and Kabir.",
           "steps": [
-            "Question mark"
+            "She is in the middle",
+            "Use between"
           ],
-          "answer": "?"
+          "answer": "between"
         }
       ]
     },
     {
-      "id": "comprehension",
-      "icon": "📚",
-      "title": "Reading Comprehension",
-      "explanation": "Read a short passage carefully. Find who, what, where and why. Answer from the text.",
+      "id": "writing-myself",
+      "icon": "✍️",
+      "title": "Writing About Myself & School",
+      "explanation": "Writing a few clear sentences about yourself builds confidence. Start with your name, age and class. Add one line about your school, friends or favourite game like cricket. Use capitals, full stops and simple present tense. Keep ideas in order so a reader can follow easily.",
       "points": [
-        "Read twice",
-        "Find key words",
-        "Answer from the passage",
-        "Learn new words from the story"
+        "Say who you are in the first sentence",
+        "Add age, class and school name",
+        "Write one hobby or favourite subject",
+        "Use I with verbs like am, like, play, go",
+        "Check capitals and full stops"
       ],
       "examples": [
         {
-          "title": "Story tip",
-          "problem": "If the story says Numair plays in the park, where does he play?",
+          "title": "Starter lines",
+          "problem": "Finish: My name is ___. I study in Grade ___.",
           "steps": [
-            "From the text"
+            "Write your real name",
+            "Grade 2 for this level"
           ],
-          "answer": "In the park"
+          "answer": "My name is Numair. I study in Grade 2. (sample)"
+        },
+        {
+          "title": "School line",
+          "problem": "Add a school sentence after introducing yourself.",
+          "steps": [
+            "Name the school or say I go to school by bus",
+            "End with a full stop"
+          ],
+          "answer": "I go to ABC School by bus. (sample)"
+        },
+        {
+          "title": "Hobby line",
+          "problem": "Write one sentence about a hobby.",
+          "steps": [
+            "Choose play / read / draw",
+            "Use I like or I play"
+          ],
+          "answer": "I like playing cricket. (sample)"
+        }
+      ]
+    },
+    {
+      "id": "picture-composition",
+      "icon": "🖼️",
+      "title": "Picture Composition & Reading",
+      "explanation": "Picture composition means looking carefully at a picture and writing or saying sentences about it. Notice who is there, where they are and what they are doing. For reading, find the main idea and important details. Festival scenes, market stalls and monsoon parks make lively picture talks.",
+      "points": [
+        "Observe people, places and actions in the picture",
+        "Write 3–5 short sentences in order",
+        "Use naming words, doing words and describing words",
+        "In passages, find who / what / where",
+        "Answer in complete sentences when asked"
+      ],
+      "examples": [
+        {
+          "title": "Park picture",
+          "problem": "Picture shows children with a kite. Write one sentence.",
+          "steps": [
+            "Who? children",
+            "What? flying a kite",
+            "Join into a sentence"
+          ],
+          "answer": "The children are flying a kite in the park. (sample)"
+        },
+        {
+          "title": "Market scene",
+          "problem": "Picture shows a fruit seller. What detail can you add?",
+          "steps": [
+            "Look for fruits, basket, money",
+            "Describe with an adjective"
+          ],
+          "answer": "The seller has a basket of ripe mangoes. (sample)"
+        },
+        {
+          "title": "Reading detail",
+          "problem": "Story: Numair takes a red bus to school. What colour is the bus?",
+          "steps": [
+            "Find the describing word before bus",
+            "Colour is red"
+          ],
+          "answer": "red"
         }
       ]
     }
@@ -286,31 +598,103 @@
     {
       "id": "eq1",
       "type": "mcq",
-      "prompt": "How many letters in the English alphabet?",
+      "prompt": "How many letters are in the English alphabet?",
       "choices": [
         "24",
         "25",
         "26",
-        "30"
+        "28"
       ],
       "answer": 2
     },
     {
       "id": "eq2",
       "type": "mcq",
-      "prompt": "Blend: c-a-t",
+      "prompt": "Which is a vowel?",
       "choices": [
-        "cut",
-        "cot",
-        "cat",
-        "cart"
+        "b",
+        "c",
+        "e",
+        "d"
       ],
       "answer": 2
     },
     {
       "id": "eq3",
       "type": "mcq",
-      "prompt": "Which is a noun?",
+      "prompt": "s-u-n blends to",
+      "choices": [
+        "son",
+        "sun",
+        "sin",
+        "soon"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq4",
+      "type": "mcq",
+      "prompt": "Which is a sight word?",
+      "choices": [
+        "elephant",
+        "the",
+        "mountain",
+        "calculator"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq5",
+      "type": "mcq",
+      "prompt": "Plural of bus is",
+      "choices": [
+        "buss",
+        "buses",
+        "busies",
+        "bus"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq6",
+      "type": "mcq",
+      "prompt": "Opposite of hot is",
+      "choices": [
+        "warm",
+        "cold",
+        "coolish",
+        "fire"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq7",
+      "type": "mcq",
+      "prompt": "Pencil in your hand: ___ is my pencil.",
+      "choices": [
+        "That",
+        "Those",
+        "This",
+        "Them"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "eq8",
+      "type": "mcq",
+      "prompt": "Which rhymes with cat?",
+      "choices": [
+        "dog",
+        "hat",
+        "cup",
+        "pen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq9",
+      "type": "mcq",
+      "prompt": "Which word is a noun?",
       "choices": [
         "run",
         "happy",
@@ -320,198 +704,232 @@
       "answer": 2
     },
     {
-      "id": "eq4",
-      "type": "mcq",
-      "prompt": "Which is a verb?",
-      "choices": [
-        "blue",
-        "jump",
-        "soft",
-        "table"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "eq5",
-      "type": "mcq",
-      "prompt": "Choose the adjective: The ___ flower.",
-      "choices": [
-        "and",
-        "pretty",
-        "run",
-        "is"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "eq6",
-      "type": "mcq",
-      "prompt": "___ apple",
-      "choices": [
-        "a",
-        "an",
-        "two",
-        "many"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "eq7",
-      "type": "mcq",
-      "prompt": "Correct sentence:",
-      "choices": [
-        "the cat runs.",
-        "The cat runs.",
-        "the Cat Runs",
-        "THE cat runs?"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "eq8",
-      "type": "mcq",
-      "prompt": "Opposite of big:",
-      "choices": [
-        "tall",
-        "small",
-        "loud",
-        "fast"
-      ],
-      "answer": 1
-    },
-    {
-      "id": "eq9",
-      "type": "mcq",
-      "prompt": "Pronoun for Maya:",
-      "choices": [
-        "he",
-        "she",
-        "it",
-        "they"
-      ],
-      "answer": 1
-    },
-    {
       "id": "eq10",
       "type": "mcq",
-      "prompt": "The ball is ___ the box (inside).",
+      "prompt": "Numair is kind. ___ helps friends.",
       "choices": [
-        "on",
-        "in",
-        "over",
-        "between"
+        "She",
+        "He",
+        "It",
+        "They"
       ],
       "answer": 1
     },
     {
       "id": "eq11",
-      "type": "truefalse",
-      "prompt": "Sentences start with a capital letter.",
-      "answer": true
+      "type": "mcq",
+      "prompt": "Every day she ___ to school. (habit)",
+      "choices": [
+        "is going",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "answer": 1
     },
     {
       "id": "eq12",
-      "type": "truefalse",
-      "prompt": "Happy is a verb.",
-      "answer": false
+      "type": "mcq",
+      "prompt": "Look! They ___ now.",
+      "choices": [
+        "play",
+        "plays",
+        "are playing",
+        "played"
+      ],
+      "answer": 2
     },
     {
       "id": "eq13",
       "type": "mcq",
-      "prompt": "Sight word example:",
+      "prompt": "In sweet mango, the adjective is",
       "choices": [
-        "encyclopedia",
-        "the",
-        "hippopotamus",
-        "microphone"
+        "mango",
+        "sweet",
+        "in",
+        "the"
       ],
       "answer": 1
     },
     {
       "id": "eq14",
       "type": "mcq",
-      "prompt": "Rhymes with sun:",
+      "prompt": "___ apple (choose article)",
       "choices": [
-        "sat",
-        "fun",
-        "pen",
-        "dog"
+        "a",
+        "an",
+        "the the",
+        "no"
       ],
       "answer": 1
     },
     {
       "id": "eq15",
       "type": "mcq",
-      "prompt": "Vowels are:",
-      "choices": [
-        "a e i o u",
-        "b c d",
-        "x y only",
-        "numbers"
-      ],
-      "answer": 0
-    },
-    {
-      "id": "eq16",
-      "type": "mcq",
-      "prompt": "End a question with",
+      "prompt": "Where is my bag__",
       "choices": [
         ".",
-        "!",
+        ",",
         "?",
-        ","
+        "!"
       ],
       "answer": 2
     },
     {
+      "id": "eq16",
+      "type": "mcq",
+      "prompt": "The book is ___ the bag.",
+      "choices": [
+        "in",
+        "sky",
+        "run",
+        "happy"
+      ],
+      "answer": 0
+    },
+    {
       "id": "eq17",
       "type": "mcq",
-      "prompt": "Proper noun example:",
+      "prompt": "Proper noun for a city should begin with",
       "choices": [
-        "city",
-        "Delhi",
-        "boy",
-        "bag"
+        "a small letter",
+        "a capital letter",
+        "a number",
+        "a comma"
       ],
       "answer": 1
     },
     {
       "id": "eq18",
       "type": "mcq",
-      "prompt": "We ___ football.",
+      "prompt": "These is used for",
       "choices": [
-        "plays",
-        "play",
-        "playing",
-        "played"
+        "one far thing",
+        "many near things",
+        "one near thing",
+        "many far things"
       ],
       "answer": 1
     },
     {
       "id": "eq19",
       "type": "mcq",
-      "prompt": "Use an before a",
+      "prompt": "Those is used for",
       "choices": [
-        "vowel sound",
-        "number only",
-        "verb only",
-        "silence"
+        "many far things",
+        "one near thing",
+        "many near things",
+        "only animals"
       ],
       "answer": 0
     },
     {
       "id": "eq20",
       "type": "mcq",
-      "prompt": "A describing word is called an",
+      "prompt": "Plural of child is",
+      "choices": [
+        "childs",
+        "childes",
+        "children",
+        "childrens"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "eq21",
+      "type": "mcq",
+      "prompt": "Opposite of slow is",
+      "choices": [
+        "late",
+        "fast",
+        "soft",
+        "quiet"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq22",
+      "type": "mcq",
+      "prompt": "I ___ writing now.",
+      "choices": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq23",
+      "type": "mcq",
+      "prompt": "Which sentence starts correctly?",
+      "choices": [
+        "we play.",
+        "We play.",
+        "we Play.",
+        "WE play,"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq24",
+      "type": "mcq",
+      "prompt": "Which word rhymes with sun?",
+      "choices": [
+        "sand",
+        "fun",
+        "sit",
+        "soup"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "eq25",
+      "type": "mcq",
+      "prompt": "A naming word is also called a",
       "choices": [
         "verb",
         "noun",
         "adjective",
         "preposition"
       ],
+      "answer": 1
+    },
+    {
+      "id": "eq26",
+      "type": "mcq",
+      "prompt": "The ball is red. ___ is round.",
+      "choices": [
+        "He",
+        "She",
+        "It",
+        "We"
+      ],
       "answer": 2
+    },
+    {
+      "id": "eq27",
+      "type": "mcq",
+      "prompt": "Riya stands ___ Aman and Kabir.",
+      "choices": [
+        "between",
+        "under",
+        "over",
+        "into"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "eq28",
+      "type": "mcq",
+      "prompt": "Best first line about yourself?",
+      "choices": [
+        "Yesterday was.",
+        "My name is Anaya.",
+        "Because blue.",
+        "Running fast very."
+      ],
+      "answer": 1
     }
-  ],
-  "grade": 2,
-  "depth": "deep"
+  ]
 }

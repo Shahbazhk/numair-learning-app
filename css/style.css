@@ -468,9 +468,42 @@ img {
   padding-bottom: 1rem;
 }
 
-.games-page .section-title {
-  margin: 0;
-  font-size: clamp(1.35rem, 3vw, 1.75rem);
+.clock-practice {
+  max-width: 720px;
+}
+
+.clock-layout {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  align-items: start;
+}
+
+.clock-side {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.clock-check {
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+#clockCanvas {
+  display: block;
+  max-width: 100%;
+  border-radius: 50%;
+  box-shadow: var(--shadow);
+}
+
+@media (max-width: 700px) {
+  .clock-layout {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
 }
 
 .games-top {

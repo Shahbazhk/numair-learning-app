@@ -17,19 +17,46 @@
   </header>
   <main class="page tabbed" id="subjectRoot">
     <h1 class="section-title">Maths</h1>
-    <p class="section-sub" id="subjectSub">CBSE maths for your grade — topics, tables, and quizzes.</p>
+    <p class="section-sub" id="subjectSub">CBSE maths for your grade — topics, tables, clock practice, and quizzes.</p>
     <div class="tabs">
       <button type="button" class="tab-btn active" data-tab="topicsPanel">Topics</button>
       <button type="button" class="tab-btn" data-tab="tablesPanel" id="tablesTab">Tables</button>
+      <button type="button" class="tab-btn" data-tab="clockPanel" id="clockTab">Clock</button>
       <button type="button" class="tab-btn" data-tab="playPanel">Play</button>
     </div>
     <div id="topicsPanel" class="panel active"><div data-role="learn"></div></div>
     <div id="tablesPanel" class="panel"><div data-role="tables"></div></div>
+    <div id="clockPanel" class="panel">
+      <div class="clock-practice card">
+        <h3>Practice reading a clock</h3>
+        <p class="game-hint">Red short hand = <strong>hours</strong>. Blue long hand = <strong>minutes</strong>. Move the hands and read the time!</p>
+        <div class="clock-layout">
+          <canvas id="clockCanvas" width="260" height="260" aria-label="Practice analogue clock"></canvas>
+          <div class="clock-side">
+            <p class="game-score">Digital: <span id="clockDigital">03:00</span></p>
+            <p class="game-score" id="clockSpoken">3 o’clock</p>
+            <p class="game-score">24-hour style: <span id="clock24">03:00 (a.m.)</span></p>
+            <label class="clock-check"><input type="checkbox" id="clockPm" /> Afternoon / evening (p.m.)</label>
+            <div class="actions game-actions">
+              <button type="button" class="btn" id="clockHourMinus">Hour −</button>
+              <button type="button" class="btn" id="clockHourPlus">Hour +</button>
+            </div>
+            <div class="actions game-actions">
+              <button type="button" class="btn" id="clockMinMinus">Min −5</button>
+              <button type="button" class="btn" id="clockMinPlus">Min +5</button>
+            </div>
+            <button type="button" class="btn primary btn-block" id="clockQuiz">Surprise time!</button>
+            <p class="game-hint">Tip: long hand on 12 = o’clock · on 6 = half past · on 3 = quarter past · on 9 = quarter to</p>
+          </div>
+        </div>
+      </div>
+    </div>
     <div id="playPanel" class="panel"><div data-role="play"></div></div>
   </main>
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="../js/app.js"></script>
   <script src="../js/learn-play.js"></script>
+  <script src="../js/clock-practice.js"></script>
   <script>
     NumairApp.loadJSON(NumairApp.subjectHref("maths.json")).done(function (data) {
       var g = NumairApp.getGrade();
@@ -47,6 +74,7 @@
         activityId: NumairApp.gradeActivityId("maths-quiz"),
         lang: "en-US"
       });
+      ClockPractice.init();
     });
   </script>
 </body>
